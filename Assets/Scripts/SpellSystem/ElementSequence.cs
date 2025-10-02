@@ -4,19 +4,31 @@ using System.Linq;
 
 public class ElementSequence
 {
-    private List<(ElementType, int)> elementTuplesList = new();
+    public List<ElementTuple> elementTuplesList = new();
+
+    public ElementSequence(List<ElementTuple> tuplesList)
+    {
+        foreach (var item in tuplesList)
+        {
+            elementTuplesList.Add(item);
+        }
+    }
+
+    public ElementSequence() {}
 
     public ElementSequence AddElement(ElementType elementType, int count)
     {
-        elementTuplesList.Add((elementType, count));
+        elementTuplesList.Add(new ElementTuple(elementType, count));
         return this;
     }
 
     private Dictionary<ElementType, int> GetGroupedElements()
     {
         var grouped = new Dictionary<ElementType, int>();
-        foreach (var (type, count) in elementTuplesList)
+        foreach (var elementTuple in elementTuplesList)
         {
+            var type = elementTuple.elementType;
+            var count = elementTuple.count;
             if (grouped.ContainsKey(type))
                 grouped[type] += count;
             else

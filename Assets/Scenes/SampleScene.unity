@@ -750,6 +750,7 @@ GameObject:
   - component: {fileID: 1020623982}
   - component: {fileID: 1020623981}
   - component: {fileID: 1020623987}
+  - component: {fileID: 1020623988}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -936,6 +937,18 @@ MonoBehaviour:
   m_DefaultActionMap: Player
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 0}
+--- !u!114 &1020623988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1020623980}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0690bab1e02673c44bc84d09a375abd6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InputSequence
 --- !u!1 &1109205333
 GameObject:
   m_ObjectHideFlags: 0
@@ -5258,6 +5271,63 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1636741126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1636741128}
+  - component: {fileID: 1636741127}
+  - component: {fileID: 1636741129}
+  m_Layer: 0
+  m_Name: SpellDB
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1636741127
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636741126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8494d569f54d9c34a976161c9ba89574, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpellReceiptDataBase
+--- !u!4 &1636741128
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636741126}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.5, y: -0.5, z: 0.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1636741129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636741126}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8ea90a5ae1ddbf4a87c58175e0b4d64, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SpellIDDataBase
 --- !u!1 &2136276232
 GameObject:
   m_ObjectHideFlags: 0
@@ -5313,3 +5383,4 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 2136276234}
   - {fileID: 1020623986}
+  - {fileID: 1636741128}
