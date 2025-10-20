@@ -14,33 +14,61 @@ public class TileManager : MonoBehaviour
     [SerializeField]
     private TileBase decorationFloorTile2;
 
-    private List<MyTile> tiles;
+    [SerializeField]
+    private TileBase defaultBackgroundTile;
+    [SerializeField]
+    private TileBase decorationBackgroundTile1;
+    [SerializeField]
+    private TileBase decorationBackgroundTile2;
+    [SerializeField]
+    private TileBase decorationBackgroundTile3;
+
+    private List<MyTile> floorTiles;
+    private List<MyTile> backgroundTiles;
 
     private void InitializeTiles()
     {
-        tiles = new List<MyTile>
+        floorTiles = new List<MyTile>
         {
             new MyTile { Sprite = defaultFloorTile, Weight = 90f },
             new MyTile { Sprite = flowersFloorTile, Weight = 5f },
             new MyTile { Sprite = decorationFloorTile1, Weight = 2.5f },
             new MyTile { Sprite = decorationFloorTile2, Weight = 2.5f }
         };
+
+        backgroundTiles = new List<MyTile>
+        {
+            new MyTile { Sprite = defaultBackgroundTile, Weight = 97f },
+            new MyTile { Sprite = decorationBackgroundTile1, Weight = 1f },
+            new MyTile { Sprite = decorationBackgroundTile2, Weight = 1f },
+            new MyTile { Sprite = decorationBackgroundTile3, Weight = 1f }
+        };
     }
 
-    public TileBase GetRandomTile()
+    public TileBase GetRandomFloorTile()
     {
         InitializeTiles();
+        return GetRandomTile(floorTiles);
+    }
 
-        if (tiles == null || tiles.Count == 0)
+    public TileBase GetRandomBackgroundTile()
+    {
+        InitializeTiles();
+        return GetRandomTile(backgroundTiles);
+    }
+
+    public TileBase GetRandomTile(List<MyTile> spriteTiles)
+    {
+        if (spriteTiles == null || spriteTiles.Count == 0)
         {
             Debug.LogError("Weighted tiles list is not initialized or empty!");
             return null;
         }
 
-        float totalWeight = tiles.Sum(item => item.Weight);
+        float totalWeight = spriteTiles.Sum(item => item.Weight);
         float randomValue = Random.Range(0f, totalWeight);
 
-        foreach (var item in tiles)
+        foreach (var item in spriteTiles)
         {
             randomValue -= item.Weight;
 
@@ -50,6 +78,6 @@ public class TileManager : MonoBehaviour
             }
         }
 
-        return tiles.Last().Sprite;
+        return spriteTiles.Last().Sprite;
     }
 }
