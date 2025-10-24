@@ -6,7 +6,8 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveDirection;
     private Vector2 targetVelocity;
-    private Vector2 currentVelocity;
+
+    [SerializeField] private InputHandler playerInput;
 
     [Header("Movement Settings")]
     [SerializeField] private float moveSpeed = 5.0f;
@@ -41,9 +42,17 @@ public class Player : MonoBehaviour
         isoMatrix = Matrix4x4.Rotate(Quaternion.Euler(0, 0, -isoAngle));
     }
 
-    public void OnMove(InputValue value)
+    private Vector2 ConvertToIsometric(Vector2 input)
     {
-        Vector2 input = value.Get<Vector2>();
+        if (input.magnitude < 0.1f) return Vector2.zero;
+
+        Vector3 worldDir = isoMatrix.MultiplyPoint3x4(new Vector3(input.x, input.y, 0));
+        return new Vector2(worldDir.x, worldDir.y).normalized;
+    }
+
+    public void OnMove()
+    {
+        var input = InputHandler.Instance.Move.ReadValue<Vector2>();
 
         moveDirection = ConvertToIsometric(input);
 
@@ -55,14 +64,6 @@ public class Player : MonoBehaviour
         {
             targetVelocity = Vector2.zero;
         }
-    }
-
-    private Vector2 ConvertToIsometric(Vector2 input)
-    {
-        if (input.magnitude < 0.1f) return Vector2.zero;
-
-        Vector3 worldDir = isoMatrix.MultiplyPoint3x4(new Vector3(input.x, input.y, 0));
-        return new Vector2(worldDir.x, worldDir.y).normalized;
     }
 
     private void FixedUpdate()
@@ -108,6 +109,7 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
+        OnMove();
         UpdateRotation();
         UpdateVisualFeedback();
     }
@@ -117,7 +119,7 @@ public class Player : MonoBehaviour
         if (rb.linearVelocity.magnitude > 0.5f)
         {
             float targetAngle = Mathf.Atan2(rb.linearVelocity.y, rb.linearVelocity.x) * Mathf.Rad2Deg;
-            Quaternion targetRotation = Quaternion.Euler(0, 0, targetAngle - 90f); // Корректировка под спрайт
+            Quaternion targetRotation = Quaternion.Euler(0, 0, targetAngle - 90f);
             transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, 10f * Time.deltaTime);
         }
     }
