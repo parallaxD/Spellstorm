@@ -10,13 +10,15 @@ using UnityEngine;
         private void Awake()
         {
             var spellData = (SpellsDB) Resources.Load("SpellsDataBase/SpellsDataBaseSO");
+
             foreach (var item in spellData.spellsDB)
             {
                 SpellReceiptDB.Add(new ElementSequence(item.Receipt), item.ID);
-            foreach (var item1 in item.Receipt)
-            {
-                Debug.Log($"{item1.elementType} : {item1.count}");
-            }
+
+                foreach (var item1 in item.Receipt)
+                {
+                    Debug.Log($"{item1.elementType} : {item1.count}");
+                }
             }
         }
 
@@ -28,7 +30,7 @@ using UnityEngine;
             }
             else
             {
-                Debug.Log("Element does not exist");
+                Debug.Log("Spell does not exist");
                 return null;
             }
         }
