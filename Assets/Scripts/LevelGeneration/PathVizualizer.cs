@@ -45,19 +45,35 @@ public class PathVizualizer : MonoBehaviour
 
     private HashSet<Vector2> GetBackgroundPositions(HashSet<Vector2> floorPositions)
     {
-        var minX = floorPositions.Min(position => position.x);
-        var maxX = floorPositions.Max(position => position.x);
+        var xMinFloorPosition = floorPositions.Min(position => position.x);
+        var xMaxFloorPosition = floorPositions.Max(position => position.x);
+        var yMinFloorPosition = floorPositions.Min(position => position.y);
+        var yMaxFloorPosition = floorPositions.Max(position => position.y);
 
-        var minY = floorPositions.Min(position => position.y);
-        var maxY = floorPositions.Max(position => position.y);
+        var widthFloor = Math.Abs(xMaxFloorPosition - xMinFloorPosition);
+        var heightFloor = Math.Abs(yMaxFloorPosition - yMinFloorPosition);
+
+        var center = new Vector2(xMinFloorPosition + widthFloor / 2, yMinFloorPosition + heightFloor / 2);
+        var xMin = xMinFloorPosition - widthFloor;
+        var xMax = xMaxFloorPosition + widthFloor;
+        var yMin = yMinFloorPosition - heightFloor / 4;
+        var yMax = yMaxFloorPosition + heightFloor / 4;
+
+        var halfHorizontalDiagonal = (widthFloor * 3) / 2;
+        var halfVerticalDiagonal = (heightFloor + heightFloor / 2) / 2;
 
         var backgroundPositions = new HashSet<Vector2>();
 
-        for (var x = minX - 1; x < maxX + 2; x += 0.5f)
+        for (var x = xMin; x <= xMax; x += 0.5f)
         {
-            for (var y = minY - 1; y < maxY + 2; y += 0.5f)
+            for (var y = yMin; y <= yMax; y += 0.5f)
             {
-                backgroundPositions.Add(new Vector2(x, y));
+                var sumOfRatios = Math.Abs((x - center.x) / halfHorizontalDiagonal) + Math.Abs((y - center.y) / halfVerticalDiagonal);
+
+                if (sumOfRatios <= 1.0f)
+                {
+                    backgroundPositions.Add(new Vector2(x, y));
+                }
             }
         }
 
