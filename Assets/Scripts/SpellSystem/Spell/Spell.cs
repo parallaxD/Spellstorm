@@ -17,27 +17,9 @@ public abstract class Spell
 public class Fireball : Spell
 {
     public Fireball(SpellData data) : base(data) { }
-
     public override void Action()
     {
-        Vector3 mouseScreenPosition = Input.mousePosition;
-      
-        mouseScreenPosition.z = Mathf.Abs(Constants.MainCamera.transform.position.z);
-
-        Vector3 mouseWorldPosition = Constants.MainCamera.ScreenToWorldPoint(mouseScreenPosition);
-        mouseWorldPosition.z = 0;
-
-        Debug.Log($"Mouse world position: {mouseWorldPosition}");
-
-        Vector3 directionToShoot = (mouseWorldPosition - Constants.PlayerTransform.position).normalized;
-
-        var fireball = GameObject.Instantiate(
-            Constants.FireballPrefab,
-            Constants.PlayerTransform.position,
-            Quaternion.identity
-        );
-
-        fireball.GetComponent<Rigidbody2D>().AddForce(directionToShoot * 2, ForceMode2D.Impulse); 
+        Debug.Log("Fireball casted!");
     }
 }
 
