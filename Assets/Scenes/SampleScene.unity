@@ -803,7 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f534599049e130740963392f52831d36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
-  moveSpeed: 20
+  moveSpeed: 1
   maxSpeed: 1
   minSpeed: 0.1
   friction: 8
