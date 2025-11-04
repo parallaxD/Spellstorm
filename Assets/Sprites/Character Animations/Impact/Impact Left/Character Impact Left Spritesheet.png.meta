@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 232f294a209fc9f4babd91f92cf304e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4738306443894863829
+    second: Character Impact Left Spritesheet_0
+  - first:
+      213: -6981455691678336253
+    second: Character Impact Left Spritesheet_1
+  - first:
+      213: -7134858404463369898
+    second: Character Impact Left Spritesheet_2
+  - first:
+      213: 4926774526715196784
+    second: Character Impact Left Spritesheet_3
+  - first:
+      213: -4826973673597500727
+    second: Character Impact Left Spritesheet_4
+  - first:
+      213: -4985271474044798337
+    second: Character Impact Left Spritesheet_5
+  - first:
+      213: 457584267146267880
+    second: Character Impact Left Spritesheet_6
+  - first:
+      213: 7321912951061500303
+    second: Character Impact Left Spritesheet_7
+  - first:
+      213: -5454644082264309109
+    second: Character Impact Left Spritesheet_8
+  - first:
+      213: -2220128922299230652
+    second: Character Impact Left Spritesheet_9
+  - first:
+      213: 9099078467111354640
+    second: Character Impact Left Spritesheet_10
+  - first:
+      213: -1837253425923354972
+    second: Character Impact Left Spritesheet_11
+  - first:
+      213: -8981749437817900258
+    second: Character Impact Left Spritesheet_12
+  - first:
+      213: 1762493710127445940
+    second: Character Impact Left Spritesheet_13
+  - first:
+      213: 1030724091913380843
+    second: Character Impact Left Spritesheet_14
+  - first:
+      213: 3611239798994268806
+    second: Character Impact Left Spritesheet_15
+  - first:
+      213: 8988233175490168574
+    second: Character Impact Left Spritesheet_16
+  - first:
+      213: 6023924878902319855
+    second: Character Impact Left Spritesheet_17
+  - first:
+      213: 1715877823108544582
+    second: Character Impact Left Spritesheet_18
+  - first:
+      213: -7961751942075175079
+    second: Character Impact Left Spritesheet_19
+  - first:
+      213: -7758758190574717798
+    second: Character Impact Left Spritesheet_20
+  - first:
+      213: -2162684366679158360
+    second: Character Impact Left Spritesheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28c3b6d4672e3eb0800000000000000
+      internalID: -4738306443894863829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b326aa903ec1f90800000000000000
+      internalID: -6981455691678336253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651204f4514ebfc90800000000000000
+      internalID: -7134858404463369898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0757d41345b6f5440800000000000000
+      internalID: 4926774526715196784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c20f0da405230db0800000000000000
+      internalID: -4826973673597500727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7afba8e102c0dab0800000000000000
+      internalID: -4985271474044798337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec8f02777aa95600800000000000000
+      internalID: 457584267146267880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f815a5c2909ac9560800000000000000
+      internalID: 7321912951061500303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82037c6b163d44b0800000000000000
+      internalID: -5454644082264309109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44698c602848031e0800000000000000
+      internalID: -2220128922299230652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011049728ab664e70800000000000000
+      internalID: 9099078467111354640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae08794eb3c086e0800000000000000
+      internalID: -1837253425923354972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13bc41497a6a5380800000000000000
+      internalID: -8981749437817900258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7b107f0b2a57810800000000000000
+      internalID: 1762493710127445940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32fefb91edd4e00800000000000000
+      internalID: 1030724091913380843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6827ec9c673bd1230800000000000000
+      internalID: 3611239798994268806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6097f837e9cbc70800000000000000
+      internalID: 8988233175490168574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea5c90e2c7499350800000000000000
+      internalID: 6023924878902319855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648fa5cf9c500d710800000000000000
+      internalID: 1715877823108544582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 15
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f25d6bacc228190800000000000000
+      internalID: -7961751942075175079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 15
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9434a8888a535490800000000000000
+      internalID: -7758758190574717798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Left Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 15
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a15cc2e60a9cf1e0800000000000000
+      internalID: -2162684366679158360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Impact Left Spritesheet_0: -4738306443894863829
+      Character Impact Left Spritesheet_1: -6981455691678336253
+      Character Impact Left Spritesheet_10: 9099078467111354640
+      Character Impact Left Spritesheet_11: -1837253425923354972
+      Character Impact Left Spritesheet_12: -8981749437817900258
+      Character Impact Left Spritesheet_13: 1762493710127445940
+      Character Impact Left Spritesheet_14: 1030724091913380843
+      Character Impact Left Spritesheet_15: 3611239798994268806
+      Character Impact Left Spritesheet_16: 8988233175490168574
+      Character Impact Left Spritesheet_17: 6023924878902319855
+      Character Impact Left Spritesheet_18: 1715877823108544582
+      Character Impact Left Spritesheet_19: -7961751942075175079
+      Character Impact Left Spritesheet_2: -7134858404463369898
+      Character Impact Left Spritesheet_20: -7758758190574717798
+      Character Impact Left Spritesheet_21: -2162684366679158360
+      Character Impact Left Spritesheet_3: 4926774526715196784
+      Character Impact Left Spritesheet_4: -4826973673597500727
+      Character Impact Left Spritesheet_5: -4985271474044798337
+      Character Impact Left Spritesheet_6: 457584267146267880
+      Character Impact Left Spritesheet_7: 7321912951061500303
+      Character Impact Left Spritesheet_8: -5454644082264309109
+      Character Impact Left Spritesheet_9: -2220128922299230652
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 5fd3a9e949d60654fa8a1b55fa6b12ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7469342938874424759
+    second: Character Run Front Spritesheet_0
+  - first:
+      213: -2276018171252029813
+    second: Character Run Front Spritesheet_1
+  - first:
+      213: -6183231840472361674
+    second: Character Run Front Spritesheet_2
+  - first:
+      213: 3188605744043619883
+    second: Character Run Front Spritesheet_3
+  - first:
+      213: -6237343189305902340
+    second: Character Run Front Spritesheet_4
+  - first:
+      213: -7153667801281358132
+    second: Character Run Front Spritesheet_5
+  - first:
+      213: 8715972470161729406
+    second: Character Run Front Spritesheet_6
+  - first:
+      213: 8269535540830461847
+    second: Character Run Front Spritesheet_7
+  - first:
+      213: -7123560131645716236
+    second: Character Run Front Spritesheet_8
+  - first:
+      213: -1148319438994299145
+    second: Character Run Front Spritesheet_9
+  - first:
+      213: -340728001734689783
+    second: Character Run Front Spritesheet_10
+  - first:
+      213: -1982865300013338476
+    second: Character Run Front Spritesheet_11
+  - first:
+      213: -1783440660881041098
+    second: Character Run Front Spritesheet_12
+  - first:
+      213: 8049565399249040569
+    second: Character Run Front Spritesheet_13
+  - first:
+      213: 3859508753099074230
+    second: Character Run Front Spritesheet_14
+  - first:
+      213: -5601321954211592278
+    second: Character Run Front Spritesheet_15
+  - first:
+      213: -2345570608877255734
+    second: Character Run Front Spritesheet_16
+  - first:
+      213: 2098677698188853794
+    second: Character Run Front Spritesheet_17
+  - first:
+      213: -172338115296425163
+    second: Character Run Front Spritesheet_18
+  - first:
+      213: -1341386860064078622
+    second: Character Run Front Spritesheet_19
+  - first:
+      213: -1998126929889691404
+    second: Character Run Front Spritesheet_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 15
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdae2124df68a760800000000000000
+      internalID: 7469342938874424759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 15
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8640383885f960e0800000000000000
+      internalID: -2276018171252029813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63592c8b66fb03aa0800000000000000
+      internalID: -6183231840472361674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 15
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b267d7eb704304c20800000000000000
+      internalID: 3188605744043619883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 15
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa383b8a618079a0800000000000000
+      internalID: -6237343189305902340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 15
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc69977590119bc90800000000000000
+      internalID: -7153667801281358132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 15
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77e21c48ca55f870800000000000000
+      internalID: 8715972470161729406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 15
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fdaa0b2ca43c270800000000000000
+      internalID: 8269535540830461847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 15
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f84f117dc7042d90800000000000000
+      internalID: -7123560131645716236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 15
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6a116ed895010f0800000000000000
+      internalID: -1148319438994299145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 15
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c339b00bd754bf0800000000000000
+      internalID: -340728001734689783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 15
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490b14be3827b74e0800000000000000
+      internalID: -1982865300013338476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 15
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63992320b22ff37e0800000000000000
+      internalID: -1783440660881041098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 15
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4b38a051dc5bf60800000000000000
+      internalID: 8049565399249040569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 15
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba2bfb23cabf8530800000000000000
+      internalID: 3859508753099074230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 15
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa70f961c5b1442b0800000000000000
+      internalID: -5601321954211592278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 15
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3464665fbd27fd0800000000000000
+      internalID: -2345570608877255734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 15
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222c49a4f30002d10800000000000000
+      internalID: 2098677698188853794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 15
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b0f70b56bbb9df0800000000000000
+      internalID: -172338115296425163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 14
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4018bf1cf626de0800000000000000
+      internalID: -1341386860064078622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Run Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 14
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f878cfc42a3544e0800000000000000
+      internalID: -1998126929889691404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Run Front Spritesheet_0: 7469342938874424759
+      Character Run Front Spritesheet_1: -2276018171252029813
+      Character Run Front Spritesheet_10: -340728001734689783
+      Character Run Front Spritesheet_11: -1982865300013338476
+      Character Run Front Spritesheet_12: -1783440660881041098
+      Character Run Front Spritesheet_13: 8049565399249040569
+      Character Run Front Spritesheet_14: 3859508753099074230
+      Character Run Front Spritesheet_15: -5601321954211592278
+      Character Run Front Spritesheet_16: -2345570608877255734
+      Character Run Front Spritesheet_17: 2098677698188853794
+      Character Run Front Spritesheet_18: -172338115296425163
+      Character Run Front Spritesheet_19: -1341386860064078622
+      Character Run Front Spritesheet_2: -6183231840472361674
+      Character Run Front Spritesheet_20: -1998126929889691404
+      Character Run Front Spritesheet_3: 3188605744043619883
+      Character Run Front Spritesheet_4: -6237343189305902340
+      Character Run Front Spritesheet_5: -7153667801281358132
+      Character Run Front Spritesheet_6: 8715972470161729406
+      Character Run Front Spritesheet_7: 8269535540830461847
+      Character Run Front Spritesheet_8: -7123560131645716236
+      Character Run Front Spritesheet_9: -1148319438994299145
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
