@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
@@ -11,14 +10,26 @@ public class Player : MonoBehaviour
     [SerializeField] private float minSpeed = 0.1f;
     [SerializeField] private float friction = 8f;
 
+    private Animator animator;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
     }
 
     public void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
+
+        var x = moveInput.x;
+        var y = moveInput.y;
+
+        if (x != 0 || y != 0)
+        {
+            animator.SetFloat("LastMoveX", x);
+            animator.SetFloat("LastMoveY", y);
+        }
     }
 
     private void FixedUpdate()
@@ -35,5 +46,14 @@ public class Player : MonoBehaviour
         {
             rb.linearVelocity = rb.linearVelocity.normalized * maxSpeed;
         }
+
+        UpdateAnimation();
+    }
+
+    private void UpdateAnimation()
+    {
+        animator.SetFloat("MoveX", moveInput.x);
+        animator.SetFloat("MoveY", moveInput.y);
+        animator.SetBool("IsMoving", moveInput.magnitude > 0.01f);
     }
 }

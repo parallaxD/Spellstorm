@@ -1,0 +1,2353 @@
+fileFormatVersion: 2
+guid: 668919f2a8d277b4ea1c021752780c98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9190875238669285356
+    second: Character Blast Front Spritesheet_0
+  - first:
+      213: 1730260432919276194
+    second: Character Blast Front Spritesheet_1
+  - first:
+      213: -650684275298814917
+    second: Character Blast Front Spritesheet_2
+  - first:
+      213: 924581135807164452
+    second: Character Blast Front Spritesheet_3
+  - first:
+      213: -3326642960641563903
+    second: Character Blast Front Spritesheet_4
+  - first:
+      213: -7996631121825719478
+    second: Character Blast Front Spritesheet_5
+  - first:
+      213: 1040278215347645078
+    second: Character Blast Front Spritesheet_6
+  - first:
+      213: 1561165117269087390
+    second: Character Blast Front Spritesheet_7
+  - first:
+      213: -8169535785898694413
+    second: Character Blast Front Spritesheet_8
+  - first:
+      213: 7498960467886523944
+    second: Character Blast Front Spritesheet_9
+  - first:
+      213: -4147394492251910688
+    second: Character Blast Front Spritesheet_10
+  - first:
+      213: -6045078881197494427
+    second: Character Blast Front Spritesheet_11
+  - first:
+      213: -1624207707614905338
+    second: Character Blast Front Spritesheet_12
+  - first:
+      213: 2847095470272495391
+    second: Character Blast Front Spritesheet_13
+  - first:
+      213: -5553500578898845546
+    second: Character Blast Front Spritesheet_14
+  - first:
+      213: -4266815576430412575
+    second: Character Blast Front Spritesheet_15
+  - first:
+      213: 7364175267702951539
+    second: Character Blast Front Spritesheet_16
+  - first:
+      213: -8377732169917035838
+    second: Character Blast Front Spritesheet_17
+  - first:
+      213: -8499287819873292259
+    second: Character Blast Front Spritesheet_18
+  - first:
+      213: 7831449989787510997
+    second: Character Blast Front Spritesheet_19
+  - first:
+      213: 708754106969097625
+    second: Character Blast Front Spritesheet_20
+  - first:
+      213: 2340220745148040402
+    second: Character Blast Front Spritesheet_21
+  - first:
+      213: -8789069763035328803
+    second: Character Blast Front Spritesheet_22
+  - first:
+      213: 3048811001928667446
+    second: Character Blast Front Spritesheet_23
+  - first:
+      213: 9012159889873906682
+    second: Character Blast Front Spritesheet_24
+  - first:
+      213: -7107056068733938002
+    second: Character Blast Front Spritesheet_25
+  - first:
+      213: -5704732511512981931
+    second: Character Blast Front Spritesheet_26
+  - first:
+      213: 3072976881012013857
+    second: Character Blast Front Spritesheet_27
+  - first:
+      213: -3307682501711522873
+    second: Character Blast Front Spritesheet_28
+  - first:
+      213: 6255986941196068175
+    second: Character Blast Front Spritesheet_29
+  - first:
+      213: 3616624615317352281
+    second: Character Blast Front Spritesheet_30
+  - first:
+      213: 3542590693781018249
+    second: Character Blast Front Spritesheet_31
+  - first:
+      213: 9193347424796336861
+    second: Character Blast Front Spritesheet_32
+  - first:
+      213: -8606114497038575189
+    second: Character Blast Front Spritesheet_33
+  - first:
+      213: -1465218458024033058
+    second: Character Blast Front Spritesheet_34
+  - first:
+      213: 7211031336319941442
+    second: Character Blast Front Spritesheet_35
+  - first:
+      213: -8101804350379456025
+    second: Character Blast Front Spritesheet_36
+  - first:
+      213: 933764512992082459
+    second: Character Blast Front Spritesheet_37
+  - first:
+      213: -7518281526052282725
+    second: Character Blast Front Spritesheet_38
+  - first:
+      213: 3815051040464031271
+    second: Character Blast Front Spritesheet_39
+  - first:
+      213: -1057296987158985884
+    second: Character Blast Front Spritesheet_40
+  - first:
+      213: 3897468803946617911
+    second: Character Blast Front Spritesheet_41
+  - first:
+      213: 1068559946819867528
+    second: Character Blast Front Spritesheet_42
+  - first:
+      213: 2107963222064927993
+    second: Character Blast Front Spritesheet_43
+  - first:
+      213: 5625670720664534957
+    second: Character Blast Front Spritesheet_44
+  - first:
+      213: -8275579381934776353
+    second: Character Blast Front Spritesheet_45
+  - first:
+      213: -546156186011387227
+    second: Character Blast Front Spritesheet_46
+  - first:
+      213: 1308962986083414276
+    second: Character Blast Front Spritesheet_47
+  - first:
+      213: -4060034637572046756
+    second: Character Blast Front Spritesheet_48
+  - first:
+      213: 3880093504178662425
+    second: Character Blast Front Spritesheet_49
+  - first:
+      213: -6636760035538582183
+    second: Character Blast Front Spritesheet_50
+  - first:
+      213: -7396466543678720756
+    second: Character Blast Front Spritesheet_51
+  - first:
+      213: -2051117149689176238
+    second: Character Blast Front Spritesheet_52
+  - first:
+      213: -14977166066823973
+    second: Character Blast Front Spritesheet_53
+  - first:
+      213: -8009079900621592173
+    second: Character Blast Front Spritesheet_54
+  - first:
+      213: 8629725043462516670
+    second: Character Blast Front Spritesheet_55
+  - first:
+      213: 594690586561140983
+    second: Character Blast Front Spritesheet_56
+  - first:
+      213: -5543822557517833539
+    second: Character Blast Front Spritesheet_57
+  - first:
+      213: 8892398564629656735
+    second: Character Blast Front Spritesheet_58
+  - first:
+      213: -411258927049718573
+    second: Character Blast Front Spritesheet_59
+  - first:
+      213: 7994120524328573509
+    second: Character Blast Front Spritesheet_60
+  - first:
+      213: -7023146886187112301
+    second: Character Blast Front Spritesheet_61
+  - first:
+      213: 2089614828408020826
+    second: Character Blast Front Spritesheet_62
+  - first:
+      213: 3842804555409147684
+    second: Character Blast Front Spritesheet_63
+  - first:
+      213: 589120251894418222
+    second: Character Blast Front Spritesheet_64
+  - first:
+      213: -5107475906763955944
+    second: Character Blast Front Spritesheet_65
+  - first:
+      213: -4720655137607760840
+    second: Character Blast Front Spritesheet_66
+  - first:
+      213: -6651540827079178396
+    second: Character Blast Front Spritesheet_67
+  - first:
+      213: -9072261109094609471
+    second: Character Blast Front Spritesheet_68
+  - first:
+      213: 7140051839480968225
+    second: Character Blast Front Spritesheet_69
+  - first:
+      213: 6269117591431437687
+    second: Character Blast Front Spritesheet_70
+  - first:
+      213: -8376416535569298837
+    second: Character Blast Front Spritesheet_71
+  - first:
+      213: -1113561227928951028
+    second: Character Blast Front Spritesheet_72
+  - first:
+      213: 2129072942889687809
+    second: Character Blast Front Spritesheet_73
+  - first:
+      213: -2136218020651039924
+    second: Character Blast Front Spritesheet_74
+  - first:
+      213: 4914018406621062842
+    second: Character Blast Front Spritesheet_75
+  - first:
+      213: -4334606727263867703
+    second: Character Blast Front Spritesheet_76
+  - first:
+      213: 266372412925589435
+    second: Character Blast Front Spritesheet_77
+  - first:
+      213: -5792346376898413388
+    second: Character Blast Front Spritesheet_78
+  - first:
+      213: -7893153165891142932
+    second: Character Blast Front Spritesheet_79
+  - first:
+      213: -6600182435658176375
+    second: Character Blast Front Spritesheet_80
+  - first:
+      213: -3144559548969779707
+    second: Character Blast Front Spritesheet_81
+  - first:
+      213: -1694333230642963778
+    second: Character Blast Front Spritesheet_82
+  - first:
+      213: 2964016008790100328
+    second: Character Blast Front Spritesheet_83
+  - first:
+      213: 1209335753473068256
+    second: Character Blast Front Spritesheet_84
+  - first:
+      213: 7912760622763699276
+    second: Character Blast Front Spritesheet_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 15
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180f207aa3737080800000000000000
+      internalID: -9190875238669285356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa211942be130810800000000000000
+      internalID: 1730260432919276194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 15
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34b1ed591e48f6f0800000000000000
+      internalID: -650684275298814917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 15
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42030d5f4a5c4dc00800000000000000
+      internalID: 924581135807164452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 15
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103e7644ad365d1d0800000000000000
+      internalID: -3326642960641563903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 15
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b9eb7dc52460190800000000000000
+      internalID: -7996631121825719478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 15
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aaf55768fcf6e00800000000000000
+      internalID: 1040278215347645078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 15
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e941e8a176f5aa510800000000000000
+      internalID: 1561165117269087390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 15
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8aaad9c7aff9e80800000000000000
+      internalID: -8169535785898694413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 15
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c21970d8a11860800000000000000
+      internalID: 7498960467886523944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 15
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edc9e1eeae7176c0800000000000000
+      internalID: -4147394492251910688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 15
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe10729c09b1ca0800000000000000
+      internalID: -6045078881197494427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 15
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c792202b7a579e0800000000000000
+      internalID: -1624207707614905338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 15
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f3733ee3ae28720800000000000000
+      internalID: 2847095470272495391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 14
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690eecea5a00ee2b0800000000000000
+      internalID: -5553500578898845546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 14
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecf2ccf6d939c4c0800000000000000
+      internalID: -4266815576430412575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 14
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ec62f836ec23660800000000000000
+      internalID: 7364175267702951539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 14
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca8bb48af05cbb80800000000000000
+      internalID: -8377732169917035838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 14
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10f5ac42c67c0a80800000000000000
+      internalID: -8499287819873292259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 15
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8658dd546eeac60800000000000000
+      internalID: 7831449989787510997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 15
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9950efaea1006d900800000000000000
+      internalID: 708754106969097625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 15
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d48c826e522a7020800000000000000
+      internalID: 2340220745148040402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2850
+        y: 15
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde0724fd93f60680800000000000000
+      internalID: -8789069763035328803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 15
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631d245f37d8f4a20800000000000000
+      internalID: 3048811001928667446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 15
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb25fedbaf911d70800000000000000
+      internalID: 9012159889873906682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 15
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea65458092aae5d90800000000000000
+      internalID: -7107056068733938002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 15
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e85a87108b4d0b0800000000000000
+      internalID: -5704732511512981931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 15
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b75b3213865aa20800000000000000
+      internalID: 3072976881012013857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 15
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c395bf1a40c812d0800000000000000
+      internalID: -3307682501711522873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4569753afab1d650800000000000000
+      internalID: 6255986941196068175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3868
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95face90de4d03230800000000000000
+      internalID: 3616624615317352281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9861c6f677fc92130800000000000000
+      internalID: 3542590693781018249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4124
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ecbf36c4559f70800000000000000
+      internalID: 9193347424796336861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 15
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba91dab4670f09880800000000000000
+      internalID: -8606114497038575189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4c123539f7aabe0800000000000000
+      internalID: -1465218458024033058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4507
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7f817bcab21460800000000000000
+      internalID: 7211031336319941442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e90be75edb909f80800000000000000
+      internalID: -8101804350379456025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4763
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a32c490e565fc00800000000000000
+      internalID: 933764512992082459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4891
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e954e19c2b9a790800000000000000
+      internalID: -7518281526052282725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ec7d255b8c1f430800000000000000
+      internalID: 3815051040464031271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4634c42fdf9b351f0800000000000000
+      internalID: -1057296987158985884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c976e3a37961630800000000000000
+      internalID: 3897468803946617911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88398633c9944de00800000000000000
+      internalID: 1068559946819867528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 15
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f494cac16df04d10800000000000000
+      internalID: 2107963222064927993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5660
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf7680e6b5621e40800000000000000
+      internalID: 5625670720664534957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5788
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf1b35e56c372d80800000000000000
+      internalID: -8275579381934776353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5916
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aab8eca7d9ab68f0800000000000000
+      internalID: -546156186011387227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6044
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401f2a196ee5a2210800000000000000
+      internalID: 1308962986083414276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6172
+        y: 15
+        width: 61
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c508cb3120cd7a7c0800000000000000
+      internalID: -4060034637572046756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6299
+        y: 15
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91caed30c7cd8d530800000000000000
+      internalID: 3880093504178662425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6427
+        y: 15
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955c63629ed75e3a0800000000000000
+      internalID: -6636760035538582183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6555
+        y: 15
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f7feddd87a5990800000000000000
+      internalID: -7396466543678720756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6683
+        y: 15
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9014d1d7f883e0800000000000000
+      internalID: -2051117149689176238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6811
+        y: 15
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc48d8c85acacff0800000000000000
+      internalID: -14977166066823973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 15
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399aab9a3480ad090800000000000000
+      internalID: -8009079900621592173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7064
+        y: 15
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf20ec6431f2c770800000000000000
+      internalID: 8629725043462516670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7192
+        y: 15
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8de3b00f3c04800800000000000000
+      internalID: 594690586561140983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7320
+        y: 15
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba1a51a1c26013b0800000000000000
+      internalID: -5543822557517833539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7448
+        y: 15
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b1fd6165286b70800000000000000
+      internalID: 8892398564629656735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7577
+        y: 15
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d44e7e4f2aea4af0800000000000000
+      internalID: -411258927049718573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7705
+        y: 15
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a93402342d0fe60800000000000000
+      internalID: 7994120524328573509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7833
+        y: 15
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3982d630e15c88e90800000000000000
+      internalID: -7023146886187112301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7961
+        y: 15
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f16ac7d9dcffc10800000000000000
+      internalID: 2089614828408020826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8089
+        y: 15
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4274a621262645530800000000000000
+      internalID: 3842804555409147684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8219
+        y: 15
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bc7207fb9fc2800800000000000000
+      internalID: 589120251894418222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8347
+        y: 15
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e77e29b99e19b0800000000000000
+      internalID: -5107475906763955944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8475
+        y: 15
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83444c7d92ddc7eb0800000000000000
+      internalID: -4720655137607760840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8603
+        y: 15
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46700f0fbdaf0b3a0800000000000000
+      internalID: -6651540827079178396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8731
+        y: 15
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd03d2969ad81280800000000000000
+      internalID: -9072261109094609471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8862
+        y: 15
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1243322815f861360800000000000000
+      internalID: 7140051839480968225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8990
+        y: 15
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d5c64fb31600750800000000000000
+      internalID: 6269117591431437687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9118
+        y: 15
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a0fa28a8df0cb80800000000000000
+      internalID: -8376416535569298837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9246
+        y: 15
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07a5ad86f5db80f0800000000000000
+      internalID: -1113561227928951028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9374
+        y: 15
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bd5ddaf8cfb8d10800000000000000
+      internalID: 2129072942889687809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9503
+        y: 15
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c438e444701aa52e0800000000000000
+      internalID: -2136218020651039924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9631
+        y: 15
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6216a84b9123440800000000000000
+      internalID: 4914018406621062842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9759
+        y: 15
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2b64b52268d3c0800000000000000
+      internalID: -4334606727263867703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9887
+        y: 15
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b46a5c4852b300800000000000000
+      internalID: 266372412925589435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 10015
+        y: 15
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcf2fcc8a37d9fa0800000000000000
+      internalID: -5792346376898413388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10145
+        y: 15
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceafe4de303e57290800000000000000
+      internalID: -7893153165891142932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10273
+        y: 15
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98862d54b017764a0800000000000000
+      internalID: -6600182435658176375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10401
+        y: 15
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef79430c74c54d0800000000000000
+      internalID: -3144559548969779707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10529
+        y: 15
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebad26857e48c78e0800000000000000
+      internalID: -1694333230642963778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10657
+        y: 15
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86941802bdc422920800000000000000
+      internalID: 2964016008790100328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10785
+        y: 15
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec01ffd57c68c010800000000000000
+      internalID: 1209335753473068256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Blast Front Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10913
+        y: 15
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c6780ecd5cfcd60800000000000000
+      internalID: 7912760622763699276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Blast Front Spritesheet_0: -9190875238669285356
+      Character Blast Front Spritesheet_1: 1730260432919276194
+      Character Blast Front Spritesheet_10: -4147394492251910688
+      Character Blast Front Spritesheet_11: -6045078881197494427
+      Character Blast Front Spritesheet_12: -1624207707614905338
+      Character Blast Front Spritesheet_13: 2847095470272495391
+      Character Blast Front Spritesheet_14: -5553500578898845546
+      Character Blast Front Spritesheet_15: -4266815576430412575
+      Character Blast Front Spritesheet_16: 7364175267702951539
+      Character Blast Front Spritesheet_17: -8377732169917035838
+      Character Blast Front Spritesheet_18: -8499287819873292259
+      Character Blast Front Spritesheet_19: 7831449989787510997
+      Character Blast Front Spritesheet_2: -650684275298814917
+      Character Blast Front Spritesheet_20: 708754106969097625
+      Character Blast Front Spritesheet_21: 2340220745148040402
+      Character Blast Front Spritesheet_22: -8789069763035328803
+      Character Blast Front Spritesheet_23: 3048811001928667446
+      Character Blast Front Spritesheet_24: 9012159889873906682
+      Character Blast Front Spritesheet_25: -7107056068733938002
+      Character Blast Front Spritesheet_26: -5704732511512981931
+      Character Blast Front Spritesheet_27: 3072976881012013857
+      Character Blast Front Spritesheet_28: -3307682501711522873
+      Character Blast Front Spritesheet_29: 6255986941196068175
+      Character Blast Front Spritesheet_3: 924581135807164452
+      Character Blast Front Spritesheet_30: 3616624615317352281
+      Character Blast Front Spritesheet_31: 3542590693781018249
+      Character Blast Front Spritesheet_32: 9193347424796336861
+      Character Blast Front Spritesheet_33: -8606114497038575189
+      Character Blast Front Spritesheet_34: -1465218458024033058
+      Character Blast Front Spritesheet_35: 7211031336319941442
+      Character Blast Front Spritesheet_36: -8101804350379456025
+      Character Blast Front Spritesheet_37: 933764512992082459
+      Character Blast Front Spritesheet_38: -7518281526052282725
+      Character Blast Front Spritesheet_39: 3815051040464031271
+      Character Blast Front Spritesheet_4: -3326642960641563903
+      Character Blast Front Spritesheet_40: -1057296987158985884
+      Character Blast Front Spritesheet_41: 3897468803946617911
+      Character Blast Front Spritesheet_42: 1068559946819867528
+      Character Blast Front Spritesheet_43: 2107963222064927993
+      Character Blast Front Spritesheet_44: 5625670720664534957
+      Character Blast Front Spritesheet_45: -8275579381934776353
+      Character Blast Front Spritesheet_46: -546156186011387227
+      Character Blast Front Spritesheet_47: 1308962986083414276
+      Character Blast Front Spritesheet_48: -4060034637572046756
+      Character Blast Front Spritesheet_49: 3880093504178662425
+      Character Blast Front Spritesheet_5: -7996631121825719478
+      Character Blast Front Spritesheet_50: -6636760035538582183
+      Character Blast Front Spritesheet_51: -7396466543678720756
+      Character Blast Front Spritesheet_52: -2051117149689176238
+      Character Blast Front Spritesheet_53: -14977166066823973
+      Character Blast Front Spritesheet_54: -8009079900621592173
+      Character Blast Front Spritesheet_55: 8629725043462516670
+      Character Blast Front Spritesheet_56: 594690586561140983
+      Character Blast Front Spritesheet_57: -5543822557517833539
+      Character Blast Front Spritesheet_58: 8892398564629656735
+      Character Blast Front Spritesheet_59: -411258927049718573
+      Character Blast Front Spritesheet_6: 1040278215347645078
+      Character Blast Front Spritesheet_60: 7994120524328573509
+      Character Blast Front Spritesheet_61: -7023146886187112301
+      Character Blast Front Spritesheet_62: 2089614828408020826
+      Character Blast Front Spritesheet_63: 3842804555409147684
+      Character Blast Front Spritesheet_64: 589120251894418222
+      Character Blast Front Spritesheet_65: -5107475906763955944
+      Character Blast Front Spritesheet_66: -4720655137607760840
+      Character Blast Front Spritesheet_67: -6651540827079178396
+      Character Blast Front Spritesheet_68: -9072261109094609471
+      Character Blast Front Spritesheet_69: 7140051839480968225
+      Character Blast Front Spritesheet_7: 1561165117269087390
+      Character Blast Front Spritesheet_70: 6269117591431437687
+      Character Blast Front Spritesheet_71: -8376416535569298837
+      Character Blast Front Spritesheet_72: -1113561227928951028
+      Character Blast Front Spritesheet_73: 2129072942889687809
+      Character Blast Front Spritesheet_74: -2136218020651039924
+      Character Blast Front Spritesheet_75: 4914018406621062842
+      Character Blast Front Spritesheet_76: -4334606727263867703
+      Character Blast Front Spritesheet_77: 266372412925589435
+      Character Blast Front Spritesheet_78: -5792346376898413388
+      Character Blast Front Spritesheet_79: -7893153165891142932
+      Character Blast Front Spritesheet_8: -8169535785898694413
+      Character Blast Front Spritesheet_80: -6600182435658176375
+      Character Blast Front Spritesheet_81: -3144559548969779707
+      Character Blast Front Spritesheet_82: -1694333230642963778
+      Character Blast Front Spritesheet_83: 2964016008790100328
+      Character Blast Front Spritesheet_84: 1209335753473068256
+      Character Blast Front Spritesheet_85: 7912760622763699276
+      Character Blast Front Spritesheet_9: 7498960467886523944
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

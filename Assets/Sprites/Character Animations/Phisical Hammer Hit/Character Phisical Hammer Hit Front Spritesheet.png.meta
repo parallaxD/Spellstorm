@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 208ebd35d3ed27d4ca235c4d396e5860
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6936295177172601713
+    second: Character Phisical Hammer Hit Front Spritesheet_0
+  - first:
+      213: -7788835002602410182
+    second: Character Phisical Hammer Hit Front Spritesheet_1
+  - first:
+      213: -8262513426988120780
+    second: Character Phisical Hammer Hit Front Spritesheet_2
+  - first:
+      213: 6287290158375461522
+    second: Character Phisical Hammer Hit Front Spritesheet_3
+  - first:
+      213: -7292344202606551215
+    second: Character Phisical Hammer Hit Front Spritesheet_4
+  - first:
+      213: 5637989628130158316
+    second: Character Phisical Hammer Hit Front Spritesheet_5
+  - first:
+      213: 2237832462977789886
+    second: Character Phisical Hammer Hit Front Spritesheet_6
+  - first:
+      213: 4531198549597135652
+    second: Character Phisical Hammer Hit Front Spritesheet_7
+  - first:
+      213: 1633026281535129277
+    second: Character Phisical Hammer Hit Front Spritesheet_8
+  - first:
+      213: -2849153141131712537
+    second: Character Phisical Hammer Hit Front Spritesheet_9
+  - first:
+      213: 1494619242903902985
+    second: Character Phisical Hammer Hit Front Spritesheet_10
+  - first:
+      213: -3639756777793414886
+    second: Character Phisical Hammer Hit Front Spritesheet_11
+  - first:
+      213: 5753007228377046603
+    second: Character Phisical Hammer Hit Front Spritesheet_12
+  - first:
+      213: -1730795340682173589
+    second: Character Phisical Hammer Hit Front Spritesheet_13
+  - first:
+      213: 6746952442883737682
+    second: Character Phisical Hammer Hit Front Spritesheet_14
+  - first:
+      213: 3775796598945846043
+    second: Character Phisical Hammer Hit Front Spritesheet_15
+  - first:
+      213: 201812174479553397
+    second: Character Phisical Hammer Hit Front Spritesheet_16
+  - first:
+      213: -828863518859946570
+    second: Character Phisical Hammer Hit Front Spritesheet_17
+  - first:
+      213: 4290540502377423177
+    second: Character Phisical Hammer Hit Front Spritesheet_18
+  - first:
+      213: 7013756032531065680
+    second: Character Phisical Hammer Hit Front Spritesheet_19
+  - first:
+      213: 3846295136534835468
+    second: Character Phisical Hammer Hit Front Spritesheet_20
+  - first:
+      213: -3137082216337004332
+    second: Character Phisical Hammer Hit Front Spritesheet_21
+  - first:
+      213: -1452352213128301971
+    second: Character Phisical Hammer Hit Front Spritesheet_22
+  - first:
+      213: 7628756204574846243
+    second: Character Phisical Hammer Hit Front Spritesheet_23
+  - first:
+      213: -6490228388919142040
+    second: Character Phisical Hammer Hit Front Spritesheet_24
+  - first:
+      213: 3335388690738036140
+    second: Character Phisical Hammer Hit Front Spritesheet_25
+  - first:
+      213: -3545288407604981326
+    second: Character Phisical Hammer Hit Front Spritesheet_26
+  - first:
+      213: -6721354576498840969
+    second: Character Phisical Hammer Hit Front Spritesheet_27
+  - first:
+      213: 9099742527798238236
+    second: Character Phisical Hammer Hit Front Spritesheet_28
+  - first:
+      213: -2645023771301129638
+    second: Character Phisical Hammer Hit Front Spritesheet_29
+  - first:
+      213: 4464847808354599628
+    second: Character Phisical Hammer Hit Front Spritesheet_30
+  - first:
+      213: -8283969802293022008
+    second: Character Phisical Hammer Hit Front Spritesheet_31
+  - first:
+      213: 8590079756332591899
+    second: Character Phisical Hammer Hit Front Spritesheet_32
+  - first:
+      213: -7835011080108606389
+    second: Character Phisical Hammer Hit Front Spritesheet_33
+  - first:
+      213: -1518524325371349540
+    second: Character Phisical Hammer Hit Front Spritesheet_34
+  - first:
+      213: -8127631216167994543
+    second: Character Phisical Hammer Hit Front Spritesheet_35
+  - first:
+      213: -6627446833709722126
+    second: Character Phisical Hammer Hit Front Spritesheet_36
+  - first:
+      213: 5057476274893510820
+    second: Character Phisical Hammer Hit Front Spritesheet_37
+  - first:
+      213: 2843797593313384147
+    second: Character Phisical Hammer Hit Front Spritesheet_38
+  - first:
+      213: 5368562701961003234
+    second: Character Phisical Hammer Hit Front Spritesheet_39
+  - first:
+      213: 927941177704457795
+    second: Character Phisical Hammer Hit Front Spritesheet_40
+  - first:
+      213: 7243446390912649643
+    second: Character Phisical Hammer Hit Front Spritesheet_41
+  - first:
+      213: -7979781532325738938
+    second: Character Phisical Hammer Hit Front Spritesheet_42
+  - first:
+      213: 7490377752543729141
+    second: Character Phisical Hammer Hit Front Spritesheet_43
+  - first:
+      213: 8196013133445874826
+    second: Character Phisical Hammer Hit Front Spritesheet_44
+  - first:
+      213: 3631053019265713748
+    second: Character Phisical Hammer Hit Front Spritesheet_45
+  - first:
+      213: -8391701037459683023
+    second: Character Phisical Hammer Hit Front Spritesheet_46
+  - first:
+      213: 5167101101980943009
+    second: Character Phisical Hammer Hit Front Spritesheet_47
+  - first:
+      213: -8747502430535482851
+    second: Character Phisical Hammer Hit Front Spritesheet_48
+  - first:
+      213: -2154232451333158183
+    second: Character Phisical Hammer Hit Front Spritesheet_49
+  - first:
+      213: -7199310420094053586
+    second: Character Phisical Hammer Hit Front Spritesheet_50
+  - first:
+      213: -6802562872084297655
+    second: Character Phisical Hammer Hit Front Spritesheet_51
+  - first:
+      213: -6254283209717574490
+    second: Character Phisical Hammer Hit Front Spritesheet_52
+  - first:
+      213: -531625140235211919
+    second: Character Phisical Hammer Hit Front Spritesheet_53
+  - first:
+      213: 3546078041950226539
+    second: Character Phisical Hammer Hit Front Spritesheet_54
+  - first:
+      213: 5193314493689677987
+    second: Character Phisical Hammer Hit Front Spritesheet_55
+  - first:
+      213: 6273214526596338230
+    second: Character Phisical Hammer Hit Front Spritesheet_56
+  - first:
+      213: 8294699271401405660
+    second: Character Phisical Hammer Hit Front Spritesheet_57
+  - first:
+      213: 8395607404977916329
+    second: Character Phisical Hammer Hit Front Spritesheet_58
+  - first:
+      213: 8995743162975194976
+    second: Character Phisical Hammer Hit Front Spritesheet_59
+  - first:
+      213: -2967959548572486779
+    second: Character Phisical Hammer Hit Front Spritesheet_60
+  - first:
+      213: -901684989540028263
+    second: Character Phisical Hammer Hit Front Spritesheet_61
+  - first:
+      213: 8259598217142740914
+    second: Character Phisical Hammer Hit Front Spritesheet_62
+  - first:
+      213: 8687010490039748548
+    second: Character Phisical Hammer Hit Front Spritesheet_63
+  - first:
+      213: 8823192101777080062
+    second: Character Phisical Hammer Hit Front Spritesheet_64
+  - first:
+      213: -3514863132925692922
+    second: Character Phisical Hammer Hit Front Spritesheet_65
+  - first:
+      213: -4807898041542974417
+    second: Character Phisical Hammer Hit Front Spritesheet_66
+  - first:
+      213: 3632997021207683214
+    second: Character Phisical Hammer Hit Front Spritesheet_67
+  - first:
+      213: 4429568541589418626
+    second: Character Phisical Hammer Hit Front Spritesheet_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 15
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc0aca6bba24060800000000000000
+      internalID: 6936295177172601713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f21c705df78e390800000000000000
+      internalID: -7788835002602410182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 15
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4354a7890d7a55d80800000000000000
+      internalID: -8262513426988120780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 15
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29267c96611f04750800000000000000
+      internalID: 6287290158375461522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 15
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd1cf85936cca90800000000000000
+      internalID: -7292344202606551215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 15
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6e80802b92e3e40800000000000000
+      internalID: 5637989628130158316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 15
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfe0aeb4c06e0f10800000000000000
+      internalID: 2237832462977789886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 15
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423a083d21d02ee30800000000000000
+      internalID: 4531198549597135652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 15
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db647cb30cca9a610800000000000000
+      internalID: 1633026281535129277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 15
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7e7284056c578d0800000000000000
+      internalID: -2849153141131712537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 15
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b10c75844fdb410800000000000000
+      internalID: 1494619242903902985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 15
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a199dceae7cfc7dc0800000000000000
+      internalID: -3639756777793414886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 15
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1bade799c6df40800000000000000
+      internalID: 5753007228377046603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 15
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63ecbbcecafaf7e0800000000000000
+      internalID: -1730795340682173589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 15
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2580a8aff7df1ad50800000000000000
+      internalID: 6746952442883737682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 15
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b139b407003566430800000000000000
+      internalID: 3775796598945846043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 15
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573f33b7a1bfcc200800000000000000
+      internalID: 201812174479553397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 15
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5921765094f74f0800000000000000
+      internalID: -828863518859946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 15
+        width: 33
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941e1aacadf0b8b30800000000000000
+      internalID: 4290540502377423177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 15
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b644c73fdd55160800000000000000
+      internalID: 7013756032531065680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 15
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01b8725c09c06530800000000000000
+      internalID: 3846295136534835468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 15
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8a9006858d674d0800000000000000
+      internalID: -3137082216337004332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 15
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d623cb76b5538dbe0800000000000000
+      internalID: -1452352213128301971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 15
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dadb36959ced960800000000000000
+      internalID: 7628756204574846243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 15
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869915fbaa31ee5a0800000000000000
+      internalID: -6490228388919142040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 15
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadbb43b75ea94e20800000000000000
+      internalID: 3335388690738036140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 15
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1156e1afa9ccec0800000000000000
+      internalID: -3545288407604981326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 15
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a275abf93f8b2a0800000000000000
+      internalID: -6721354576498840969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 15
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1cdde4dd97c84e70800000000000000
+      internalID: 9099742527798238236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 7
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52d129d4ecfa4bd0800000000000000
+      internalID: -2645023771301129638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 7
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc248290d6356fd30800000000000000
+      internalID: 4464847808354599628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 7
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2f24cea5d690d80800000000000000
+      internalID: -8283969802293022008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 7
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b6a74b608163770800000000000000
+      internalID: 8590079756332591899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 7
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c70ee2fe2744390800000000000000
+      internalID: -7835011080108606389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5737beb2e1deae0800000000000000
+      internalID: -1518524325371349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b3eee887ad43f80800000000000000
+      internalID: -8127631216167994543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5d1fce7349604a0800000000000000
+      internalID: -6627446833709722126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a85ef850e3cf2640800000000000000
+      internalID: 5057476274893510820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 15
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61e8218d2377720800000000000000
+      internalID: 2843797593313384147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 15
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e00cc46557f08a40800000000000000
+      internalID: 5368562701961003234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 15
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346288da595b0ec00800000000000000
+      internalID: 927941177704457795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 15
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba90fe77d14e58460800000000000000
+      internalID: 7243446390912649643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 15
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646808c99fe124190800000000000000
+      internalID: -7979781532325738938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 15
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f59bd551ea23f760800000000000000
+      internalID: 7490377752543729141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 15
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a844a7145861eb170800000000000000
+      internalID: 8196013133445874826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5808
+        y: 15
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45641fd9b77146230800000000000000
+      internalID: 3631053019265713748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5936
+        y: 15
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13940f81e50ba8b80800000000000000
+      internalID: -8391701037459683023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6064
+        y: 15
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a28a16631b35b740800000000000000
+      internalID: 5167101101980943009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 15
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12011cb2e0aa9680800000000000000
+      internalID: -8747502430535482851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0ba6cff0aa12e0800000000000000
+      internalID: -2154232451333158183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2396860159e61c90800000000000000
+      internalID: -7199310420094053586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6574
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948872ffb117891a0800000000000000
+      internalID: -6802562872084297655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6702
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a41810be825439a0800000000000000
+      internalID: -6254283209717574490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6830
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bec9a60c94f98f0800000000000000
+      internalID: -531625140235211919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6955
+        y: 15
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b688144f033363130800000000000000
+      internalID: 3546078041950226539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7083
+        y: 15
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8c243440c521840800000000000000
+      internalID: 5193314493689677987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7211
+        y: 15
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6325891006fee0750800000000000000
+      internalID: 6273214526596338230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7339
+        y: 15
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc72964a01bc1370800000000000000
+      internalID: 8294699271401405660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7467
+        y: 15
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90957f370338470800000000000000
+      internalID: 8395607404977916329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7595
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f09c7cebc47dc70800000000000000
+      internalID: 8995743162975194976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7723
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bb97f380bfc6d0800000000000000
+      internalID: -2967959548572486779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7851
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9903a2387429c73f0800000000000000
+      internalID: -901684989540028263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7979
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b72e3831dcff9270800000000000000
+      internalID: 8259598217142740914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8107
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c749e2d3067e8870800000000000000
+      internalID: 8687010490039748548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8228
+        y: 15
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe74732876427a70800000000000000
+      internalID: 8823192101777080062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8356
+        y: 15
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604f8d76a92b83fc0800000000000000
+      internalID: -3514863132925692922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8484
+        y: 15
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24e88d543ae64db0800000000000000
+      internalID: -4807898041542974417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8612
+        y: 15
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e227da8ffa6230800000000000000
+      internalID: 3632997021207683214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Phisical Hammer Hit Front Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8740
+        y: 15
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282bea5ae1df87d30800000000000000
+      internalID: 4429568541589418626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Phisical Hammer Hit Front Spritesheet_0: 6936295177172601713
+      Character Phisical Hammer Hit Front Spritesheet_1: -7788835002602410182
+      Character Phisical Hammer Hit Front Spritesheet_10: 1494619242903902985
+      Character Phisical Hammer Hit Front Spritesheet_11: -3639756777793414886
+      Character Phisical Hammer Hit Front Spritesheet_12: 5753007228377046603
+      Character Phisical Hammer Hit Front Spritesheet_13: -1730795340682173589
+      Character Phisical Hammer Hit Front Spritesheet_14: 6746952442883737682
+      Character Phisical Hammer Hit Front Spritesheet_15: 3775796598945846043
+      Character Phisical Hammer Hit Front Spritesheet_16: 201812174479553397
+      Character Phisical Hammer Hit Front Spritesheet_17: -828863518859946570
+      Character Phisical Hammer Hit Front Spritesheet_18: 4290540502377423177
+      Character Phisical Hammer Hit Front Spritesheet_19: 7013756032531065680
+      Character Phisical Hammer Hit Front Spritesheet_2: -8262513426988120780
+      Character Phisical Hammer Hit Front Spritesheet_20: 3846295136534835468
+      Character Phisical Hammer Hit Front Spritesheet_21: -3137082216337004332
+      Character Phisical Hammer Hit Front Spritesheet_22: -1452352213128301971
+      Character Phisical Hammer Hit Front Spritesheet_23: 7628756204574846243
+      Character Phisical Hammer Hit Front Spritesheet_24: -6490228388919142040
+      Character Phisical Hammer Hit Front Spritesheet_25: 3335388690738036140
+      Character Phisical Hammer Hit Front Spritesheet_26: -3545288407604981326
+      Character Phisical Hammer Hit Front Spritesheet_27: -6721354576498840969
+      Character Phisical Hammer Hit Front Spritesheet_28: 9099742527798238236
+      Character Phisical Hammer Hit Front Spritesheet_29: -2645023771301129638
+      Character Phisical Hammer Hit Front Spritesheet_3: 6287290158375461522
+      Character Phisical Hammer Hit Front Spritesheet_30: 4464847808354599628
+      Character Phisical Hammer Hit Front Spritesheet_31: -8283969802293022008
+      Character Phisical Hammer Hit Front Spritesheet_32: 8590079756332591899
+      Character Phisical Hammer Hit Front Spritesheet_33: -7835011080108606389
+      Character Phisical Hammer Hit Front Spritesheet_34: -1518524325371349540
+      Character Phisical Hammer Hit Front Spritesheet_35: -8127631216167994543
+      Character Phisical Hammer Hit Front Spritesheet_36: -6627446833709722126
+      Character Phisical Hammer Hit Front Spritesheet_37: 5057476274893510820
+      Character Phisical Hammer Hit Front Spritesheet_38: 2843797593313384147
+      Character Phisical Hammer Hit Front Spritesheet_39: 5368562701961003234
+      Character Phisical Hammer Hit Front Spritesheet_4: -7292344202606551215
+      Character Phisical Hammer Hit Front Spritesheet_40: 927941177704457795
+      Character Phisical Hammer Hit Front Spritesheet_41: 7243446390912649643
+      Character Phisical Hammer Hit Front Spritesheet_42: -7979781532325738938
+      Character Phisical Hammer Hit Front Spritesheet_43: 7490377752543729141
+      Character Phisical Hammer Hit Front Spritesheet_44: 8196013133445874826
+      Character Phisical Hammer Hit Front Spritesheet_45: 3631053019265713748
+      Character Phisical Hammer Hit Front Spritesheet_46: -8391701037459683023
+      Character Phisical Hammer Hit Front Spritesheet_47: 5167101101980943009
+      Character Phisical Hammer Hit Front Spritesheet_48: -8747502430535482851
+      Character Phisical Hammer Hit Front Spritesheet_49: -2154232451333158183
+      Character Phisical Hammer Hit Front Spritesheet_5: 5637989628130158316
+      Character Phisical Hammer Hit Front Spritesheet_50: -7199310420094053586
+      Character Phisical Hammer Hit Front Spritesheet_51: -6802562872084297655
+      Character Phisical Hammer Hit Front Spritesheet_52: -6254283209717574490
+      Character Phisical Hammer Hit Front Spritesheet_53: -531625140235211919
+      Character Phisical Hammer Hit Front Spritesheet_54: 3546078041950226539
+      Character Phisical Hammer Hit Front Spritesheet_55: 5193314493689677987
+      Character Phisical Hammer Hit Front Spritesheet_56: 6273214526596338230
+      Character Phisical Hammer Hit Front Spritesheet_57: 8294699271401405660
+      Character Phisical Hammer Hit Front Spritesheet_58: 8395607404977916329
+      Character Phisical Hammer Hit Front Spritesheet_59: 8995743162975194976
+      Character Phisical Hammer Hit Front Spritesheet_6: 2237832462977789886
+      Character Phisical Hammer Hit Front Spritesheet_60: -2967959548572486779
+      Character Phisical Hammer Hit Front Spritesheet_61: -901684989540028263
+      Character Phisical Hammer Hit Front Spritesheet_62: 8259598217142740914
+      Character Phisical Hammer Hit Front Spritesheet_63: 8687010490039748548
+      Character Phisical Hammer Hit Front Spritesheet_64: 8823192101777080062
+      Character Phisical Hammer Hit Front Spritesheet_65: -3514863132925692922
+      Character Phisical Hammer Hit Front Spritesheet_66: -4807898041542974417
+      Character Phisical Hammer Hit Front Spritesheet_67: 3632997021207683214
+      Character Phisical Hammer Hit Front Spritesheet_68: 4429568541589418626
+      Character Phisical Hammer Hit Front Spritesheet_7: 4531198549597135652
+      Character Phisical Hammer Hit Front Spritesheet_8: 1633026281535129277
+      Character Phisical Hammer Hit Front Spritesheet_9: -2849153141131712537
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 74bb47f7718188c49a3672fb0df08f45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2341159382500904418
+    second: Character Block Front Spritesheet_0
+  - first:
+      213: 8417370092113161189
+    second: Character Block Front Spritesheet_1
+  - first:
+      213: -287379982680831186
+    second: Character Block Front Spritesheet_2
+  - first:
+      213: 6444862273619733745
+    second: Character Block Front Spritesheet_3
+  - first:
+      213: 5010916123295426350
+    second: Character Block Front Spritesheet_4
+  - first:
+      213: -7255517276776828450
+    second: Character Block Front Spritesheet_5
+  - first:
+      213: 1879590155714578877
+    second: Character Block Front Spritesheet_6
+  - first:
+      213: -2336891491975952598
+    second: Character Block Front Spritesheet_7
+  - first:
+      213: 8979170241696364227
+    second: Character Block Front Spritesheet_8
+  - first:
+      213: 2601991868213379461
+    second: Character Block Front Spritesheet_9
+  - first:
+      213: -1082992298685614618
+    second: Character Block Front Spritesheet_10
+  - first:
+      213: -8870335816150670886
+    second: Character Block Front Spritesheet_11
+  - first:
+      213: -445902981711197080
+    second: Character Block Front Spritesheet_12
+  - first:
+      213: 7129478996083891510
+    second: Character Block Front Spritesheet_13
+  - first:
+      213: -7273679421400206417
+    second: Character Block Front Spritesheet_14
+  - first:
+      213: 7349154561656924847
+    second: Character Block Front Spritesheet_15
+  - first:
+      213: 3665665177414605449
+    second: Character Block Front Spritesheet_16
+  - first:
+      213: -7396118964731385312
+    second: Character Block Front Spritesheet_17
+  - first:
+      213: -631781720792481413
+    second: Character Block Front Spritesheet_18
+  - first:
+      213: -6208603690221355533
+    second: Character Block Front Spritesheet_19
+  - first:
+      213: -3900580984329814509
+    second: Character Block Front Spritesheet_20
+  - first:
+      213: -5817952630301438690
+    second: Character Block Front Spritesheet_21
+  - first:
+      213: 7827362654505779884
+    second: Character Block Front Spritesheet_22
+  - first:
+      213: 4108733005675282826
+    second: Character Block Front Spritesheet_23
+  - first:
+      213: 8739048382997347469
+    second: Character Block Front Spritesheet_24
+  - first:
+      213: -1974331663898185254
+    second: Character Block Front Spritesheet_25
+  - first:
+      213: 333878608822462660
+    second: Character Block Front Spritesheet_26
+  - first:
+      213: -8058471626080964087
+    second: Character Block Front Spritesheet_27
+  - first:
+      213: 8996816371916691512
+    second: Character Block Front Spritesheet_28
+  - first:
+      213: -5212429922055211048
+    second: Character Block Front Spritesheet_29
+  - first:
+      213: -8375172909618973099
+    second: Character Block Front Spritesheet_30
+  - first:
+      213: 3573722186010119867
+    second: Character Block Front Spritesheet_31
+  - first:
+      213: -2447614844665339703
+    second: Character Block Front Spritesheet_32
+  - first:
+      213: 5060571712456447950
+    second: Character Block Front Spritesheet_33
+  - first:
+      213: -5279719306325677434
+    second: Character Block Front Spritesheet_34
+  - first:
+      213: -2054469936425582229
+    second: Character Block Front Spritesheet_35
+  - first:
+      213: -545623566045522260
+    second: Character Block Front Spritesheet_36
+  - first:
+      213: 2767608212615798753
+    second: Character Block Front Spritesheet_37
+  - first:
+      213: 1039862435145330392
+    second: Character Block Front Spritesheet_38
+  - first:
+      213: -6449010343357634278
+    second: Character Block Front Spritesheet_39
+  - first:
+      213: 1456330065402535499
+    second: Character Block Front Spritesheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12f57312f7828fd0800000000000000
+      internalID: -2341159382500904418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebe66b608180d470800000000000000
+      internalID: 8417370092113161189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b40c8ad65030cf0800000000000000
+      internalID: -287379982680831186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 15
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcab6d6710c07950800000000000000
+      internalID: 6444862273619733745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 15
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272d484aa95a8540800000000000000
+      internalID: 5010916123295426350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 15
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1f1086a793f4b90800000000000000
+      internalID: -7255517276776828450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 15
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db940b2c945a51a10800000000000000
+      internalID: 1879590155714578877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 15
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a270426c191b19fd0800000000000000
+      internalID: -2336891491975952598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 15
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f11ad2cb6c9c70800000000000000
+      internalID: 8979170241696364227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581405571d12c1420800000000000000
+      internalID: 2601991868213379461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e53c560e3078f0f0800000000000000
+      internalID: -1082992298685614618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad12aef729c36e480800000000000000
+      internalID: -8870335816150670886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c01d2c995dfc9f0800000000000000
+      internalID: -445902981711197080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 15
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d50339f5ff0f260800000000000000
+      internalID: 7129478996083891510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 15
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa33f559a13be0b90800000000000000
+      internalID: -7273679421400206417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 15
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaa007e2217df560800000000000000
+      internalID: 7349154561656924847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 15
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a115dae0f0fd230800000000000000
+      internalID: 3665665177414605449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 15
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae7a6ecf4bb5990800000000000000
+      internalID: -7396118964731385312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 15
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71449c4fd57b37f0800000000000000
+      internalID: -631781720792481413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 15
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3d2d96db96d9a0800000000000000
+      internalID: -6208603690221355533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 15
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb06bc24a5ed9c0800000000000000
+      internalID: -3900580984329814509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 15
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d45d658ea724fa0800000000000000
+      internalID: -5817952630301438690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 15
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2c9f5fcd060ac60800000000000000
+      internalID: 7827362654505779884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 15
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81c23056e6250930800000000000000
+      internalID: 4108733005675282826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 15
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c328fe336574970800000000000000
+      internalID: 8739048382997347469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 15
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1fa88efc3c994e0800000000000000
+      internalID: -1974331663898185254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 15
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8e6f463dc22a400800000000000000
+      internalID: 333878608822462660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 15
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90231ee60ce8a2090800000000000000
+      internalID: -8058471626080964087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 15
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8385385b2dc1bdc70800000000000000
+      internalID: 8996816371916691512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3758
+        y: 15
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7384f3a9ab9a7b0800000000000000
+      internalID: -5212429922055211048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 15
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556bfadbc9865cb80800000000000000
+      internalID: -8375172909618973099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 15
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbec01fc469689130800000000000000
+      internalID: 3573722186010119867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 15
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0efbc4443580ed0800000000000000
+      internalID: -2447614844665339703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4270
+        y: 15
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75b511923ca3640800000000000000
+      internalID: 5060571712456447950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aafa8934baab6b0800000000000000
+      internalID: -5279719306325677434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6142a55a7e0d73e0800000000000000
+      internalID: -2054469936425582229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca656cce14e8d68f0800000000000000
+      internalID: -545623566045522260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4784
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1b668105886620800000000000000
+      internalID: 2767608212615798753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4912
+        y: 15
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de2c1610655e6e00800000000000000
+      internalID: 1039862435145330392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5040
+        y: 15
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a192953d2438086a0800000000000000
+      internalID: -6449010343357634278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Block Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5168
+        y: 15
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e1a008a7ce53410800000000000000
+      internalID: 1456330065402535499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Block Front Spritesheet_0: -2341159382500904418
+      Character Block Front Spritesheet_1: 8417370092113161189
+      Character Block Front Spritesheet_10: -1082992298685614618
+      Character Block Front Spritesheet_11: -8870335816150670886
+      Character Block Front Spritesheet_12: -445902981711197080
+      Character Block Front Spritesheet_13: 7129478996083891510
+      Character Block Front Spritesheet_14: -7273679421400206417
+      Character Block Front Spritesheet_15: 7349154561656924847
+      Character Block Front Spritesheet_16: 3665665177414605449
+      Character Block Front Spritesheet_17: -7396118964731385312
+      Character Block Front Spritesheet_18: -631781720792481413
+      Character Block Front Spritesheet_19: -6208603690221355533
+      Character Block Front Spritesheet_2: -287379982680831186
+      Character Block Front Spritesheet_20: -3900580984329814509
+      Character Block Front Spritesheet_21: -5817952630301438690
+      Character Block Front Spritesheet_22: 7827362654505779884
+      Character Block Front Spritesheet_23: 4108733005675282826
+      Character Block Front Spritesheet_24: 8739048382997347469
+      Character Block Front Spritesheet_25: -1974331663898185254
+      Character Block Front Spritesheet_26: 333878608822462660
+      Character Block Front Spritesheet_27: -8058471626080964087
+      Character Block Front Spritesheet_28: 8996816371916691512
+      Character Block Front Spritesheet_29: -5212429922055211048
+      Character Block Front Spritesheet_3: 6444862273619733745
+      Character Block Front Spritesheet_30: -8375172909618973099
+      Character Block Front Spritesheet_31: 3573722186010119867
+      Character Block Front Spritesheet_32: -2447614844665339703
+      Character Block Front Spritesheet_33: 5060571712456447950
+      Character Block Front Spritesheet_34: -5279719306325677434
+      Character Block Front Spritesheet_35: -2054469936425582229
+      Character Block Front Spritesheet_36: -545623566045522260
+      Character Block Front Spritesheet_37: 2767608212615798753
+      Character Block Front Spritesheet_38: 1039862435145330392
+      Character Block Front Spritesheet_39: -6449010343357634278
+      Character Block Front Spritesheet_4: 5010916123295426350
+      Character Block Front Spritesheet_40: 1456330065402535499
+      Character Block Front Spritesheet_5: -7255517276776828450
+      Character Block Front Spritesheet_6: 1879590155714578877
+      Character Block Front Spritesheet_7: -2336891491975952598
+      Character Block Front Spritesheet_8: 8979170241696364227
+      Character Block Front Spritesheet_9: 2601991868213379461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
