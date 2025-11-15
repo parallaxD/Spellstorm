@@ -11,7 +11,3 @@ public class SpellData : ScriptableObject
     public List<ElementTuple> Receipt;
 }
 
-public static class SpellDataManager <T>
-{
-    
-}

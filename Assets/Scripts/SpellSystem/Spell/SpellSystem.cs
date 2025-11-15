@@ -5,8 +5,8 @@ using UnityEngine;
 
 public class SpellSystem : MonoBehaviour
 {
-
-    public List<ElementType> Elements = new();
+    public List<ElementType> Elements = new ();
+    private SpellStash _spellStash = new ();
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Q))
@@ -32,12 +32,18 @@ public class SpellSystem : MonoBehaviour
             if (id != null)
             {
                 var spell = CreateSpell(id);
-                spell.Action();
+                _spellStash.ChangeCurrentSpell(spell);
             }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Z))
+        {
+            _spellStash.CastSpell();
+            _spellStash.ClearStash();
         }
     }
 
-    public ElementSequence CreateSequence()
+    private ElementSequence CreateSequence()
     {
         ElementSequence sequence = new ElementSequence();
   
