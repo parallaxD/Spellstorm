@@ -14,18 +14,20 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
-                },
-                {
-                    "name": "MovementAbility",
-                    "type": "Button",
-                    "id": "3e134bb9-0470-4a8a-b674-75e3882b7fb0",
-                    "expectedControlType": "",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
                 }
             ],
             "bindings": [
+                {
+                    "name": "",
+                    "id": "7f94a18e-a55d-4906-9488-f2dc53467974",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
                 {
                     "name": "2D Vector",
                     "id": "b1f284f1-11b9-4a7e-b0c2-9792e00a72cd",
@@ -80,17 +82,6 @@
                     "action": "Move",
                     "isComposite": false,
                     "isPartOfComposite": true
-                },
-                {
-                    "name": "",
-                    "id": "4aca74ea-387a-4ae6-82fd-00560806a47f",
-                    "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "MovementAbility",
-                    "isComposite": false,
-                    "isPartOfComposite": false
                 }
             ]
         }

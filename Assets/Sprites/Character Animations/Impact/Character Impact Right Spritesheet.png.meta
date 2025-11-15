@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ecd9ed81ab1c07045ae7196900f77bc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 155566166745327580
+    second: Character Impact Right Spritesheet_0
+  - first:
+      213: 7716496164864360624
+    second: Character Impact Right Spritesheet_1
+  - first:
+      213: -2942487074805718980
+    second: Character Impact Right Spritesheet_2
+  - first:
+      213: -5337817387772458512
+    second: Character Impact Right Spritesheet_3
+  - first:
+      213: 7578022760011789957
+    second: Character Impact Right Spritesheet_4
+  - first:
+      213: 6095632731957301576
+    second: Character Impact Right Spritesheet_5
+  - first:
+      213: 6751352914342020434
+    second: Character Impact Right Spritesheet_6
+  - first:
+      213: 21671583436484183
+    second: Character Impact Right Spritesheet_7
+  - first:
+      213: -1958934103594448449
+    second: Character Impact Right Spritesheet_8
+  - first:
+      213: 2274025150029031931
+    second: Character Impact Right Spritesheet_9
+  - first:
+      213: -877586529804496544
+    second: Character Impact Right Spritesheet_10
+  - first:
+      213: 8258163915631023549
+    second: Character Impact Right Spritesheet_11
+  - first:
+      213: -4041105364505419783
+    second: Character Impact Right Spritesheet_12
+  - first:
+      213: -7708585969962276714
+    second: Character Impact Right Spritesheet_13
+  - first:
+      213: -6732228400106923439
+    second: Character Impact Right Spritesheet_14
+  - first:
+      213: 1907378832488948175
+    second: Character Impact Right Spritesheet_15
+  - first:
+      213: -5743118405331670088
+    second: Character Impact Right Spritesheet_16
+  - first:
+      213: 287254146617579393
+    second: Character Impact Right Spritesheet_17
+  - first:
+      213: 8796421023320140138
+    second: Character Impact Right Spritesheet_18
+  - first:
+      213: 5008752833918497462
+    second: Character Impact Right Spritesheet_19
+  - first:
+      213: -6516610103193978282
+    second: Character Impact Right Spritesheet_20
+  - first:
+      213: -7066661263583058007
+    second: Character Impact Right Spritesheet_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7acebba9ea82200800000000000000
+      internalID: 155566166745327580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b08761d060861b60800000000000000
+      internalID: 7716496164864360624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e60e689f2a27d0800000000000000
+      internalID: -2942487074805718980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 15
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f94be5ed534ce5b0800000000000000
+      internalID: -5337817387772458512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586f356dc8b8a2960800000000000000
+      internalID: 7578022760011789957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411f857ca9089450800000000000000
+      internalID: 6095632731957301576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25587a494bf91bd50800000000000000
+      internalID: 6751352914342020434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ea378b03efc4000800000000000000
+      internalID: 21671583436484183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 15
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9cad8cfc770d4e0800000000000000
+      internalID: -1958934103594448449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9e8cd53d5fe8f10800000000000000
+      internalID: 2274025150029031931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d55763bf22d3f0800000000000000
+      internalID: -877586529804496544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5d220e354ea9270800000000000000
+      internalID: 8258163915631023549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff9ab8e41c1be7c0800000000000000
+      internalID: -4041105364505419783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 15
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698a6d3f6e9950590800000000000000
+      internalID: -7708585969962276714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a94d060f15292a0800000000000000
+      internalID: -6732228400106923439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16a9241fe587a10800000000000000
+      internalID: 1907378832488948175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bba23b1d385c40b0800000000000000
+      internalID: -5743118405331670088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1871669df188cf300800000000000000
+      internalID: 287254146617579393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 15
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6966c5b05a231a70800000000000000
+      internalID: 8796421023320140138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 15
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b271793a2aa28540800000000000000
+      internalID: 5008752833918497462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 15
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab66b33a95095a0800000000000000
+      internalID: -6516610103193978282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Impact Right Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 15
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a76e14850d2eed90800000000000000
+      internalID: -7066661263583058007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Impact Right Spritesheet_0: 155566166745327580
+      Character Impact Right Spritesheet_1: 7716496164864360624
+      Character Impact Right Spritesheet_10: -877586529804496544
+      Character Impact Right Spritesheet_11: 8258163915631023549
+      Character Impact Right Spritesheet_12: -4041105364505419783
+      Character Impact Right Spritesheet_13: -7708585969962276714
+      Character Impact Right Spritesheet_14: -6732228400106923439
+      Character Impact Right Spritesheet_15: 1907378832488948175
+      Character Impact Right Spritesheet_16: -5743118405331670088
+      Character Impact Right Spritesheet_17: 287254146617579393
+      Character Impact Right Spritesheet_18: 8796421023320140138
+      Character Impact Right Spritesheet_19: 5008752833918497462
+      Character Impact Right Spritesheet_2: -2942487074805718980
+      Character Impact Right Spritesheet_20: -6516610103193978282
+      Character Impact Right Spritesheet_21: -7066661263583058007
+      Character Impact Right Spritesheet_3: -5337817387772458512
+      Character Impact Right Spritesheet_4: 7578022760011789957
+      Character Impact Right Spritesheet_5: 6095632731957301576
+      Character Impact Right Spritesheet_6: 6751352914342020434
+      Character Impact Right Spritesheet_7: 21671583436484183
+      Character Impact Right Spritesheet_8: -1958934103594448449
+      Character Impact Right Spritesheet_9: 2274025150029031931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2015 @@
+fileFormatVersion: 2
+guid: 9d41a4e925f6af54988b692e5a79e192
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3935587071369779269
+    second: Character Magic Hammer Hit Right Spritesheet_0
+  - first:
+      213: 4303502487596303272
+    second: Character Magic Hammer Hit Right Spritesheet_1
+  - first:
+      213: 3005028384269255620
+    second: Character Magic Hammer Hit Right Spritesheet_2
+  - first:
+      213: -9215038866634921871
+    second: Character Magic Hammer Hit Right Spritesheet_3
+  - first:
+      213: -6905114022936316658
+    second: Character Magic Hammer Hit Right Spritesheet_4
+  - first:
+      213: 735028100840207628
+    second: Character Magic Hammer Hit Right Spritesheet_5
+  - first:
+      213: -7967818791825886726
+    second: Character Magic Hammer Hit Right Spritesheet_6
+  - first:
+      213: 2476535335471265624
+    second: Character Magic Hammer Hit Right Spritesheet_7
+  - first:
+      213: -2192225552077462505
+    second: Character Magic Hammer Hit Right Spritesheet_8
+  - first:
+      213: 2063872087203415389
+    second: Character Magic Hammer Hit Right Spritesheet_9
+  - first:
+      213: 1082769491736776141
+    second: Character Magic Hammer Hit Right Spritesheet_10
+  - first:
+      213: -1283992230359353707
+    second: Character Magic Hammer Hit Right Spritesheet_11
+  - first:
+      213: 8060916157001829988
+    second: Character Magic Hammer Hit Right Spritesheet_12
+  - first:
+      213: 3320093060529614114
+    second: Character Magic Hammer Hit Right Spritesheet_13
+  - first:
+      213: -1609434791988590375
+    second: Character Magic Hammer Hit Right Spritesheet_14
+  - first:
+      213: 7743976525057021508
+    second: Character Magic Hammer Hit Right Spritesheet_15
+  - first:
+      213: 2210608540892846390
+    second: Character Magic Hammer Hit Right Spritesheet_16
+  - first:
+      213: 299934259370588882
+    second: Character Magic Hammer Hit Right Spritesheet_17
+  - first:
+      213: 1663696253452612007
+    second: Character Magic Hammer Hit Right Spritesheet_18
+  - first:
+      213: -9068357909089389465
+    second: Character Magic Hammer Hit Right Spritesheet_19
+  - first:
+      213: 6516832645054043335
+    second: Character Magic Hammer Hit Right Spritesheet_20
+  - first:
+      213: -7669548284796580583
+    second: Character Magic Hammer Hit Right Spritesheet_21
+  - first:
+      213: -4665199501424001413
+    second: Character Magic Hammer Hit Right Spritesheet_22
+  - first:
+      213: 3688803606113229082
+    second: Character Magic Hammer Hit Right Spritesheet_23
+  - first:
+      213: 2779448544580941868
+    second: Character Magic Hammer Hit Right Spritesheet_24
+  - first:
+      213: 2604843992238913935
+    second: Character Magic Hammer Hit Right Spritesheet_25
+  - first:
+      213: 7080399500106919654
+    second: Character Magic Hammer Hit Right Spritesheet_26
+  - first:
+      213: 9046559460123659409
+    second: Character Magic Hammer Hit Right Spritesheet_27
+  - first:
+      213: -6151029198313027294
+    second: Character Magic Hammer Hit Right Spritesheet_28
+  - first:
+      213: 4248383362540684366
+    second: Character Magic Hammer Hit Right Spritesheet_29
+  - first:
+      213: -2033945389992994161
+    second: Character Magic Hammer Hit Right Spritesheet_30
+  - first:
+      213: -642680067984676906
+    second: Character Magic Hammer Hit Right Spritesheet_31
+  - first:
+      213: -6431812163197763485
+    second: Character Magic Hammer Hit Right Spritesheet_32
+  - first:
+      213: -3161231502006255789
+    second: Character Magic Hammer Hit Right Spritesheet_33
+  - first:
+      213: -6545882316142763023
+    second: Character Magic Hammer Hit Right Spritesheet_34
+  - first:
+      213: 4380415423587922500
+    second: Character Magic Hammer Hit Right Spritesheet_35
+  - first:
+      213: 3953116904389216089
+    second: Character Magic Hammer Hit Right Spritesheet_36
+  - first:
+      213: -4052772931756092616
+    second: Character Magic Hammer Hit Right Spritesheet_37
+  - first:
+      213: 18688468344323393
+    second: Character Magic Hammer Hit Right Spritesheet_38
+  - first:
+      213: 3328429032252894310
+    second: Character Magic Hammer Hit Right Spritesheet_39
+  - first:
+      213: -2208955760873097238
+    second: Character Magic Hammer Hit Right Spritesheet_40
+  - first:
+      213: 3830292775918402756
+    second: Character Magic Hammer Hit Right Spritesheet_41
+  - first:
+      213: 2107676369596115575
+    second: Character Magic Hammer Hit Right Spritesheet_42
+  - first:
+      213: -8569383484000821971
+    second: Character Magic Hammer Hit Right Spritesheet_43
+  - first:
+      213: -8115989419825848107
+    second: Character Magic Hammer Hit Right Spritesheet_44
+  - first:
+      213: 3089856941957676047
+    second: Character Magic Hammer Hit Right Spritesheet_45
+  - first:
+      213: -560516272808805527
+    second: Character Magic Hammer Hit Right Spritesheet_46
+  - first:
+      213: -1991876784961044795
+    second: Character Magic Hammer Hit Right Spritesheet_47
+  - first:
+      213: 6229339790266663328
+    second: Character Magic Hammer Hit Right Spritesheet_48
+  - first:
+      213: -5382958115927810718
+    second: Character Magic Hammer Hit Right Spritesheet_49
+  - first:
+      213: 2633375694156574783
+    second: Character Magic Hammer Hit Right Spritesheet_50
+  - first:
+      213: -1400699180063230483
+    second: Character Magic Hammer Hit Right Spritesheet_51
+  - first:
+      213: 5337304714286899559
+    second: Character Magic Hammer Hit Right Spritesheet_52
+  - first:
+      213: 7452849545674803767
+    second: Character Magic Hammer Hit Right Spritesheet_53
+  - first:
+      213: -7503925948383082736
+    second: Character Magic Hammer Hit Right Spritesheet_54
+  - first:
+      213: -3069812147182020539
+    second: Character Magic Hammer Hit Right Spritesheet_55
+  - first:
+      213: 1067533007102627848
+    second: Character Magic Hammer Hit Right Spritesheet_56
+  - first:
+      213: 4651572145962484029
+    second: Character Magic Hammer Hit Right Spritesheet_57
+  - first:
+      213: 4290349349531029777
+    second: Character Magic Hammer Hit Right Spritesheet_58
+  - first:
+      213: 1049277030371077820
+    second: Character Magic Hammer Hit Right Spritesheet_59
+  - first:
+      213: -6957225102256686200
+    second: Character Magic Hammer Hit Right Spritesheet_60
+  - first:
+      213: 4279424041767506841
+    second: Character Magic Hammer Hit Right Spritesheet_61
+  - first:
+      213: -7699810218585085206
+    second: Character Magic Hammer Hit Right Spritesheet_62
+  - first:
+      213: -260935466294617924
+    second: Character Magic Hammer Hit Right Spritesheet_63
+  - first:
+      213: 2065511932598702173
+    second: Character Magic Hammer Hit Right Spritesheet_64
+  - first:
+      213: -7290972133707705230
+    second: Character Magic Hammer Hit Right Spritesheet_65
+  - first:
+      213: 1634559442589117858
+    second: Character Magic Hammer Hit Right Spritesheet_66
+  - first:
+      213: -7233589420807211396
+    second: Character Magic Hammer Hit Right Spritesheet_67
+  - first:
+      213: 6667916711749696092
+    second: Character Magic Hammer Hit Right Spritesheet_68
+  - first:
+      213: -2828745026881360529
+    second: Character Magic Hammer Hit Right Spritesheet_69
+  - first:
+      213: -2207781798773129339
+    second: Character Magic Hammer Hit Right Spritesheet_70
+  - first:
+      213: -4182957811341830813
+    second: Character Magic Hammer Hit Right Spritesheet_71
+  - first:
+      213: -3985381056055508352
+    second: Character Magic Hammer Hit Right Spritesheet_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5489d9bf6930e9630800000000000000
+      internalID: 3935587071369779269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 15
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3003726bc19bb30800000000000000
+      internalID: 4303502487596303272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 15
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3c558e46104b920800000000000000
+      internalID: 3005028384269255620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 15
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178aec269fa9d1080800000000000000
+      internalID: -9215038866634921871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 15
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05ff49816b1c20a0800000000000000
+      internalID: -6905114022936316658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 15
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b282d928533a00800000000000000
+      internalID: 735028100840207628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 15
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1398e260f9c6190800000000000000
+      internalID: -7967818791825886726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 15
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857b77034cb6e5220800000000000000
+      internalID: 2476535335471265624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 15
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71463eca976a391e0800000000000000
+      internalID: -2192225552077462505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 15
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d558a9b7ab854ac10800000000000000
+      internalID: 2063872087203415389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 15
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc990bd15c60f00800000000000000
+      internalID: 1082769491736776141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 15
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b11f8ed75e2ee0800000000000000
+      internalID: -1283992230359353707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 15
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e0d4649802edf60800000000000000
+      internalID: 8060916157001829988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 15
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d6b164c07531e20800000000000000
+      internalID: 3320093060529614114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 15
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d88d5675932aa9e0800000000000000
+      internalID: -1609434791988590375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 15
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446dcf4ce91287b60800000000000000
+      internalID: 7743976525057021508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 15
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639dc5171c8adae10800000000000000
+      internalID: 2210608540892846390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 15
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daf0c9ae94992400800000000000000
+      internalID: 299934259370588882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 15
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f0398de2a61710800000000000000
+      internalID: 1663696253452612007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 15
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7647f942788b62280800000000000000
+      internalID: -9068357909089389465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 15
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c49d1553c0707a50800000000000000
+      internalID: 6516832645054043335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 15
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d4ef0587a409590800000000000000
+      internalID: -7669548284796580583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 15
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7efa4f45c1e14fb0800000000000000
+      internalID: -4665199501424001413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 15
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a191f8ce553413330800000000000000
+      internalID: 3688803606113229082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 15
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283933a9b5929620800000000000000
+      internalID: 2779448544580941868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 15
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89f5b45fc3462420800000000000000
+      internalID: 2604843992238913935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3356
+        y: 15
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eee9bfe4d1a24260800000000000000
+      internalID: 7080399500106919654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3484
+        y: 15
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cce14f5e5db8d70800000000000000
+      internalID: 9046559460123659409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 15
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2290f7f988723aaa0800000000000000
+      internalID: -6151029198313027294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 15
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44cae9c82a45fa30800000000000000
+      internalID: 4248383362540684366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3875
+        y: 15
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a9ce0b179f5c3e0800000000000000
+      internalID: -2033945389992994161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 15
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ac8b12edb417f0800000000000000
+      internalID: -642680067984676906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 15
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3608f8e2aec9db6a0800000000000000
+      internalID: -6431812163197763485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 15
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f7426a2bc0124d0800000000000000
+      internalID: -3161231502006255789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4406
+        y: 15
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3accc07ba5825a0800000000000000
+      internalID: -6545882316142763023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 15
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442b99b8e9c5acc30800000000000000
+      internalID: 4380415423587922500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 15
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95706b941ea4cd630800000000000000
+      internalID: 3953116904389216089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 15
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8331c57bd78a1c7c0800000000000000
+      internalID: -4052772931756092616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4918
+        y: 15
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3f0d1015624000800000000000000
+      internalID: 18688468344323393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 4
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ce78fe194f03e20800000000000000
+      internalID: 3328429032252894310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 4
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae73b9460763851e0800000000000000
+      internalID: -2208955760873097238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 4
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc7c566cfee72530800000000000000
+      internalID: 3830292775918402756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5437
+        y: 4
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae24fbd78ff3d10800000000000000
+      internalID: 2107676369596115575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5565
+        y: 4
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d1804bf1f631980800000000000000
+      internalID: -8569383484000821971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 4
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0a37e7f963e5f80800000000000000
+      internalID: -8115989419825848107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5821
+        y: 4
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c7928948061ea20800000000000000
+      internalID: 3089856941957676047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 4
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bb76c6b65a838f0800000000000000
+      internalID: -560516272808805527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6077
+        y: 4
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cebc041e9e6b54e0800000000000000
+      internalID: -1991876784961044795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 4
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a10d08e88f037650800000000000000
+      internalID: 6229339790266663328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6333
+        y: 4
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d115b1d14eb45b0800000000000000
+      internalID: -5382958115927810718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6461
+        y: 4
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30b95add31ab8420800000000000000
+      internalID: 2633375694156574783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6589
+        y: 4
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de576275487bf8ce0800000000000000
+      internalID: -1400699180063230483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6717
+        y: 4
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761a6110c5ae11a40800000000000000
+      internalID: 5337304714286899559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6845
+        y: 4
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ac066cc27dd6760800000000000000
+      internalID: 7452849545674803767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6973
+        y: 4
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0174ac18b13bcd790800000000000000
+      internalID: -7503925948383082736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7101
+        y: 4
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5485900ed16d565d0800000000000000
+      internalID: -3069812147182020539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7229
+        y: 4
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8005b5a2d93a0de00800000000000000
+      internalID: 1067533007102627848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7357
+        y: 4
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31023fb834bd8040800000000000000
+      internalID: 4651572145962484029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7485
+        y: 4
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111102d80026a8b30800000000000000
+      internalID: 4290349349531029777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7608
+        y: 15
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeae3a56e7cf8e00800000000000000
+      internalID: 1049277030371077820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7736
+        y: 15
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3f8561a8f27f90800000000000000
+      internalID: -6957225102256686200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7864
+        y: 15
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99391dc1e71936b30800000000000000
+      internalID: 4279424041767506841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7992
+        y: 15
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea205bc667c42590800000000000000
+      internalID: -7699810218585085206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8120
+        y: 15
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8553e6398f06cf0800000000000000
+      internalID: -260935466294617924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8246
+        y: 15
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5050edb82c2aac10800000000000000
+      internalID: 2065511932598702173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8374
+        y: 15
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274941f397341da90800000000000000
+      internalID: -7290972133707705230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8502
+        y: 15
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ade8cb172f1fa610800000000000000
+      internalID: 1634559442589117858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8630
+        y: 15
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7633c93fb02d9b90800000000000000
+      internalID: -7233589420807211396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8758
+        y: 15
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a3bb3dbe2398c50800000000000000
+      internalID: 6667916711749696092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8887
+        y: 15
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d6598a2674eb8d0800000000000000
+      internalID: -2828745026881360529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 9015
+        y: 15
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ffd8eb6226c51e0800000000000000
+      internalID: -2207781798773129339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9143
+        y: 15
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3655688680623f5c0800000000000000
+      internalID: -4182957811341830813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Magic Hammer Hit Right Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9271
+        y: 15
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0828d338b0511b8c0800000000000000
+      internalID: -3985381056055508352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Magic Hammer Hit Right Spritesheet_0: 3935587071369779269
+      Character Magic Hammer Hit Right Spritesheet_1: 4303502487596303272
+      Character Magic Hammer Hit Right Spritesheet_10: 1082769491736776141
+      Character Magic Hammer Hit Right Spritesheet_11: -1283992230359353707
+      Character Magic Hammer Hit Right Spritesheet_12: 8060916157001829988
+      Character Magic Hammer Hit Right Spritesheet_13: 3320093060529614114
+      Character Magic Hammer Hit Right Spritesheet_14: -1609434791988590375
+      Character Magic Hammer Hit Right Spritesheet_15: 7743976525057021508
+      Character Magic Hammer Hit Right Spritesheet_16: 2210608540892846390
+      Character Magic Hammer Hit Right Spritesheet_17: 299934259370588882
+      Character Magic Hammer Hit Right Spritesheet_18: 1663696253452612007
+      Character Magic Hammer Hit Right Spritesheet_19: -9068357909089389465
+      Character Magic Hammer Hit Right Spritesheet_2: 3005028384269255620
+      Character Magic Hammer Hit Right Spritesheet_20: 6516832645054043335
+      Character Magic Hammer Hit Right Spritesheet_21: -7669548284796580583
+      Character Magic Hammer Hit Right Spritesheet_22: -4665199501424001413
+      Character Magic Hammer Hit Right Spritesheet_23: 3688803606113229082
+      Character Magic Hammer Hit Right Spritesheet_24: 2779448544580941868
+      Character Magic Hammer Hit Right Spritesheet_25: 2604843992238913935
+      Character Magic Hammer Hit Right Spritesheet_26: 7080399500106919654
+      Character Magic Hammer Hit Right Spritesheet_27: 9046559460123659409
+      Character Magic Hammer Hit Right Spritesheet_28: -6151029198313027294
+      Character Magic Hammer Hit Right Spritesheet_29: 4248383362540684366
+      Character Magic Hammer Hit Right Spritesheet_3: -9215038866634921871
+      Character Magic Hammer Hit Right Spritesheet_30: -2033945389992994161
+      Character Magic Hammer Hit Right Spritesheet_31: -642680067984676906
+      Character Magic Hammer Hit Right Spritesheet_32: -6431812163197763485
+      Character Magic Hammer Hit Right Spritesheet_33: -3161231502006255789
+      Character Magic Hammer Hit Right Spritesheet_34: -6545882316142763023
+      Character Magic Hammer Hit Right Spritesheet_35: 4380415423587922500
+      Character Magic Hammer Hit Right Spritesheet_36: 3953116904389216089
+      Character Magic Hammer Hit Right Spritesheet_37: -4052772931756092616
+      Character Magic Hammer Hit Right Spritesheet_38: 18688468344323393
+      Character Magic Hammer Hit Right Spritesheet_39: 3328429032252894310
+      Character Magic Hammer Hit Right Spritesheet_4: -6905114022936316658
+      Character Magic Hammer Hit Right Spritesheet_40: -2208955760873097238
+      Character Magic Hammer Hit Right Spritesheet_41: 3830292775918402756
+      Character Magic Hammer Hit Right Spritesheet_42: 2107676369596115575
+      Character Magic Hammer Hit Right Spritesheet_43: -8569383484000821971
+      Character Magic Hammer Hit Right Spritesheet_44: -8115989419825848107
+      Character Magic Hammer Hit Right Spritesheet_45: 3089856941957676047
+      Character Magic Hammer Hit Right Spritesheet_46: -560516272808805527
+      Character Magic Hammer Hit Right Spritesheet_47: -1991876784961044795
+      Character Magic Hammer Hit Right Spritesheet_48: 6229339790266663328
+      Character Magic Hammer Hit Right Spritesheet_49: -5382958115927810718
+      Character Magic Hammer Hit Right Spritesheet_5: 735028100840207628
+      Character Magic Hammer Hit Right Spritesheet_50: 2633375694156574783
+      Character Magic Hammer Hit Right Spritesheet_51: -1400699180063230483
+      Character Magic Hammer Hit Right Spritesheet_52: 5337304714286899559
+      Character Magic Hammer Hit Right Spritesheet_53: 7452849545674803767
+      Character Magic Hammer Hit Right Spritesheet_54: -7503925948383082736
+      Character Magic Hammer Hit Right Spritesheet_55: -3069812147182020539
+      Character Magic Hammer Hit Right Spritesheet_56: 1067533007102627848
+      Character Magic Hammer Hit Right Spritesheet_57: 4651572145962484029
+      Character Magic Hammer Hit Right Spritesheet_58: 4290349349531029777
+      Character Magic Hammer Hit Right Spritesheet_59: 1049277030371077820
+      Character Magic Hammer Hit Right Spritesheet_6: -7967818791825886726
+      Character Magic Hammer Hit Right Spritesheet_60: -6957225102256686200
+      Character Magic Hammer Hit Right Spritesheet_61: 4279424041767506841
+      Character Magic Hammer Hit Right Spritesheet_62: -7699810218585085206
+      Character Magic Hammer Hit Right Spritesheet_63: -260935466294617924
+      Character Magic Hammer Hit Right Spritesheet_64: 2065511932598702173
+      Character Magic Hammer Hit Right Spritesheet_65: -7290972133707705230
+      Character Magic Hammer Hit Right Spritesheet_66: 1634559442589117858
+      Character Magic Hammer Hit Right Spritesheet_67: -7233589420807211396
+      Character Magic Hammer Hit Right Spritesheet_68: 6667916711749696092
+      Character Magic Hammer Hit Right Spritesheet_69: -2828745026881360529
+      Character Magic Hammer Hit Right Spritesheet_7: 2476535335471265624
+      Character Magic Hammer Hit Right Spritesheet_70: -2207781798773129339
+      Character Magic Hammer Hit Right Spritesheet_71: -4182957811341830813
+      Character Magic Hammer Hit Right Spritesheet_72: -3985381056055508352
+      Character Magic Hammer Hit Right Spritesheet_8: -2192225552077462505
+      Character Magic Hammer Hit Right Spritesheet_9: 2063872087203415389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
