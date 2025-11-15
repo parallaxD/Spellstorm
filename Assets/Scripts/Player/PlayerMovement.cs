@@ -132,6 +132,11 @@ public class Player : MonoBehaviour
         transform.localScale = Vector3.one * scaleMultiplier;
     }
 
+    public Vector2 GetMoveDir()
+    {
+        return moveDirection;
+    }
+
     //private void OnDrawGizmos()
     //{
     //    if (Application.isPlaying)

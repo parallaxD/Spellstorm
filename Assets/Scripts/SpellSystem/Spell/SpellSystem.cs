@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class SpellSystem : MonoBehaviour
 {
-
     public List<ElementType> Elements = new ();
     private SpellStash _spellStash = new ();
     private void Update()
@@ -44,7 +43,7 @@ public class SpellSystem : MonoBehaviour
         }
     }
 
-    public ElementSequence CreateSequence()
+    private ElementSequence CreateSequence()
     {
         ElementSequence sequence = new ElementSequence();
   

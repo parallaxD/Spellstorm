@@ -7,7 +7,7 @@ public class MovementAbilityHandler : MonoBehaviour
 
     private void Start()
     {
-        _currentAbility = new Rolling();
+        _currentAbility = new Teleport();
 
         InputHandler.Instance.MovementAbility.performed += OnActionPerformed;
     }
@@ -19,7 +19,7 @@ public class MovementAbilityHandler : MonoBehaviour
 
     private void OnActionPerformed(InputAction.CallbackContext context)
     {
-        _currentAbility?.Action();
+        _currentAbility?.Action(Constants.PlayerTransform);
     }
 
     private void OnDestroy()
