@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: 497a3a10fe3e844418d2c4e4a531bc70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2276429551245909981
+    second: FANATIC_01 Walk Right Spritesheet_0
+  - first:
+      213: -969751318181736928
+    second: FANATIC_01 Walk Right Spritesheet_1
+  - first:
+      213: -6627892919540124729
+    second: FANATIC_01 Walk Right Spritesheet_2
+  - first:
+      213: -1027347861219504276
+    second: FANATIC_01 Walk Right Spritesheet_3
+  - first:
+      213: 4399620430795466207
+    second: FANATIC_01 Walk Right Spritesheet_4
+  - first:
+      213: 8473161481345245310
+    second: FANATIC_01 Walk Right Spritesheet_5
+  - first:
+      213: -7057499970798229325
+    second: FANATIC_01 Walk Right Spritesheet_6
+  - first:
+      213: 145588466260371200
+    second: FANATIC_01 Walk Right Spritesheet_7
+  - first:
+      213: 4961812497704033081
+    second: FANATIC_01 Walk Right Spritesheet_8
+  - first:
+      213: 3738798161238465846
+    second: FANATIC_01 Walk Right Spritesheet_9
+  - first:
+      213: -8068798558426260984
+    second: FANATIC_01 Walk Right Spritesheet_10
+  - first:
+      213: -3079411174247856928
+    second: FANATIC_01 Walk Right Spritesheet_11
+  - first:
+      213: 1614064353617959132
+    second: FANATIC_01 Walk Right Spritesheet_12
+  - first:
+      213: -2357375331669663431
+    second: FANATIC_01 Walk Right Spritesheet_13
+  - first:
+      213: -2676019569270299635
+    second: FANATIC_01 Walk Right Spritesheet_14
+  - first:
+      213: -1837346732455060140
+    second: FANATIC_01 Walk Right Spritesheet_15
+  - first:
+      213: 743656218448588847
+    second: FANATIC_01 Walk Right Spritesheet_16
+  - first:
+      213: 5370463452113166776
+    second: FANATIC_01 Walk Right Spritesheet_17
+  - first:
+      213: 4370442915518327400
+    second: FANATIC_01 Walk Right Spritesheet_18
+  - first:
+      213: 1077968956806070630
+    second: FANATIC_01 Walk Right Spritesheet_19
+  - first:
+      213: -1207773980635262471
+    second: FANATIC_01 Walk Right Spritesheet_20
+  - first:
+      213: -9016498249134554073
+    second: FANATIC_01 Walk Right Spritesheet_21
+  - first:
+      213: 4231700307215509215
+    second: FANATIC_01 Walk Right Spritesheet_22
+  - first:
+      213: 8166241462097081398
+    second: FANATIC_01 Walk Right Spritesheet_23
+  - first:
+      213: -2503094389670293274
+    second: FANATIC_01 Walk Right Spritesheet_24
+  - first:
+      213: 1867416703746526760
+    second: FANATIC_01 Walk Right Spritesheet_25
+  - first:
+      213: 5886614477984585312
+    second: FANATIC_01 Walk Right Spritesheet_26
+  - first:
+      213: 2486506008269151823
+    second: FANATIC_01 Walk Right Spritesheet_27
+  - first:
+      213: 7754841212545814901
+    second: FANATIC_01 Walk Right Spritesheet_28
+  - first:
+      213: 941163167011125390
+    second: FANATIC_01 Walk Right Spritesheet_29
+  - first:
+      213: 7799480337760523621
+    second: FANATIC_01 Walk Right Spritesheet_30
+  - first:
+      213: 8168073352601958456
+    second: FANATIC_01 Walk Right Spritesheet_31
+  - first:
+      213: 8206177225381819515
+    second: FANATIC_01 Walk Right Spritesheet_32
+  - first:
+      213: 9057681654591263930
+    second: FANATIC_01 Walk Right Spritesheet_33
+  - first:
+      213: 1931969322237753712
+    second: FANATIC_01 Walk Right Spritesheet_34
+  - first:
+      213: 1138183006075421203
+    second: FANATIC_01 Walk Right Spritesheet_35
+  - first:
+      213: 3557716778290653304
+    second: FANATIC_01 Walk Right Spritesheet_36
+  - first:
+      213: 5233190979939807753
+    second: FANATIC_01 Walk Right Spritesheet_37
+  - first:
+      213: 7681614094351773673
+    second: FANATIC_01 Walk Right Spritesheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd636ad90879f10800000000000000
+      internalID: 2276429551245909981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e8f476050ca82f0800000000000000
+      internalID: -969751318181736928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3fb79718ef404a0800000000000000
+      internalID: -6627892919540124729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f014730902eb1f0800000000000000
+      internalID: -1027347861219504276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 30
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56d1cb8779e0d30800000000000000
+      internalID: 4399620430795466207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702b1c7977b69570800000000000000
+      internalID: 8473161481345245310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 30
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8ed363b29be0e90800000000000000
+      internalID: -7057499970798229325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007e7de40fb350200800000000000000
+      internalID: 145588466260371200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b1eb78d26ebd440800000000000000
+      internalID: 4961812497704033081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d908f5e11e2e330800000000000000
+      internalID: 3738798161238465846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a91d0267ed50090800000000000000
+      internalID: -8068798558426260984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e486993adbb345d0800000000000000
+      internalID: -3079411174247856928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8d40a5afe466610800000000000000
+      internalID: 1614064353617959132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931af8130abe84fd0800000000000000
+      internalID: -2357375331669663431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 30
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0466a1416edcdad0800000000000000
+      internalID: -2676019569270299635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 30
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d9acaa1ee6086e0800000000000000
+      internalID: -1837346732455060140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 30
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2073aff36ff15a00800000000000000
+      internalID: 743656218448588847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 30
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16c664e08b78a40800000000000000
+      internalID: 5370463452113166776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 30
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aa7921daee6ac30800000000000000
+      internalID: 4370442915518327400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 30
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661035d0e07b5fe00800000000000000
+      internalID: 1077968956806070630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 30
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f19643b6ff1d3fe0800000000000000
+      internalID: -1207773980635262471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 30
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72447662d96fed280800000000000000
+      internalID: -9016498249134554073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 30
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6ed7742050aba30800000000000000
+      internalID: 4231700307215509215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 30
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634fc5ad751545170800000000000000
+      internalID: 8166241462097081398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0dd602ae8334dd0800000000000000
+      internalID: -2503094389670293274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e417a19956ae910800000000000000
+      internalID: 1867416703746526760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06651f9dda471b150800000000000000
+      internalID: 5886614477984585312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed1ca5a08d18220800000000000000
+      internalID: 2486506008269151823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 30
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5715a53fefabe9b60800000000000000
+      internalID: 7754841212545814901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 30
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e883165f9eeaf0d00800000000000000
+      internalID: 941163167011125390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 30
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5651cd43b025d3c60800000000000000
+      internalID: 7799480337760523621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 30
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8387c291073da5170800000000000000
+      internalID: 8168073352601958456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4148
+        y: 30
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74b8c255b232e170800000000000000
+      internalID: 8206177225381819515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 30
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab41c76a97953bd70800000000000000
+      internalID: 9057681654591263930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4401
+        y: 30
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079fee0dcdbbfca10800000000000000
+      internalID: 1931969322237753712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4530
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3120386e963abcf00800000000000000
+      internalID: 1138183006075421203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 30
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878267d6f8c8f5130800000000000000
+      internalID: 3557716778290653304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4786
+        y: 30
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9023719387700a840800000000000000
+      internalID: 5233190979939807753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Right Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 30
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efa873e1539a9a60800000000000000
+      internalID: 7681614094351773673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bac973abd11584c45a97cd43bea3cf74
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FANATIC_01 Walk Right Spritesheet_0: 2276429551245909981
+      FANATIC_01 Walk Right Spritesheet_1: -969751318181736928
+      FANATIC_01 Walk Right Spritesheet_10: -8068798558426260984
+      FANATIC_01 Walk Right Spritesheet_11: -3079411174247856928
+      FANATIC_01 Walk Right Spritesheet_12: 1614064353617959132
+      FANATIC_01 Walk Right Spritesheet_13: -2357375331669663431
+      FANATIC_01 Walk Right Spritesheet_14: -2676019569270299635
+      FANATIC_01 Walk Right Spritesheet_15: -1837346732455060140
+      FANATIC_01 Walk Right Spritesheet_16: 743656218448588847
+      FANATIC_01 Walk Right Spritesheet_17: 5370463452113166776
+      FANATIC_01 Walk Right Spritesheet_18: 4370442915518327400
+      FANATIC_01 Walk Right Spritesheet_19: 1077968956806070630
+      FANATIC_01 Walk Right Spritesheet_2: -6627892919540124729
+      FANATIC_01 Walk Right Spritesheet_20: -1207773980635262471
+      FANATIC_01 Walk Right Spritesheet_21: -9016498249134554073
+      FANATIC_01 Walk Right Spritesheet_22: 4231700307215509215
+      FANATIC_01 Walk Right Spritesheet_23: 8166241462097081398
+      FANATIC_01 Walk Right Spritesheet_24: -2503094389670293274
+      FANATIC_01 Walk Right Spritesheet_25: 1867416703746526760
+      FANATIC_01 Walk Right Spritesheet_26: 5886614477984585312
+      FANATIC_01 Walk Right Spritesheet_27: 2486506008269151823
+      FANATIC_01 Walk Right Spritesheet_28: 7754841212545814901
+      FANATIC_01 Walk Right Spritesheet_29: 941163167011125390
+      FANATIC_01 Walk Right Spritesheet_3: -1027347861219504276
+      FANATIC_01 Walk Right Spritesheet_30: 7799480337760523621
+      FANATIC_01 Walk Right Spritesheet_31: 8168073352601958456
+      FANATIC_01 Walk Right Spritesheet_32: 8206177225381819515
+      FANATIC_01 Walk Right Spritesheet_33: 9057681654591263930
+      FANATIC_01 Walk Right Spritesheet_34: 1931969322237753712
+      FANATIC_01 Walk Right Spritesheet_35: 1138183006075421203
+      FANATIC_01 Walk Right Spritesheet_36: 3557716778290653304
+      FANATIC_01 Walk Right Spritesheet_37: 5233190979939807753
+      FANATIC_01 Walk Right Spritesheet_38: 7681614094351773673
+      FANATIC_01 Walk Right Spritesheet_4: 4399620430795466207
+      FANATIC_01 Walk Right Spritesheet_5: 8473161481345245310
+      FANATIC_01 Walk Right Spritesheet_6: -7057499970798229325
+      FANATIC_01 Walk Right Spritesheet_7: 145588466260371200
+      FANATIC_01 Walk Right Spritesheet_8: 4961812497704033081
+      FANATIC_01 Walk Right Spritesheet_9: 3738798161238465846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

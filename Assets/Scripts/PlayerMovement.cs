@@ -20,6 +20,7 @@ public class Player : MonoBehaviour
 
     public void OnMove(InputValue value)
     {
+        Debug.Log('b');
         moveInput = value.Get<Vector2>();
 
         var x = moveInput.x;
