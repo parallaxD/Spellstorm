@@ -752,6 +752,7 @@ GameObject:
   - component: {fileID: 1020623987}
   - component: {fileID: 1020623988}
   - component: {fileID: 1020623989}
+  - component: {fileID: 1020623990}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -771,14 +772,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f534599049e130740963392f52831d36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
-  playerInput: {fileID: 0}
   moveSpeed: 2
-  acceleration: 15
-  deceleration: 20
-  velocityPower: 0.9
-  friction: 8
   maxSpeed: 7
-  preserveMomentum: 1
+  minSpeed: 0.1
+  friction: 8
 --- !u!58 &1020623982
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -889,15 +886,15 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: -8954672858196175425, guid: 6c042268ce6aab14597efcdb6f875004, type: 3}
+  m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.2}
+  m_Size: {x: 1, y: 0.828125}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1020623986
@@ -966,7 +963,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0690bab1e02673c44bc84d09a375abd6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InputSequence
-  Elements: 
 --- !u!114 &1020623989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -979,6 +975,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01d2dc29b2d9ee84fb3f87eb6589d737, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MovementAbility
+--- !u!95 &1020623990
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1020623980}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e4d614c8a33ebe6408c388c7c3f63942, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1109205333
 GameObject:
   m_ObjectHideFlags: 0
@@ -2204,7 +2222,8 @@ GameObject:
   - component: {fileID: 1131524745}
   - component: {fileID: 1131524744}
   - component: {fileID: 1131524743}
-  - component: {fileID: 1131524742}
+  - component: {fileID: 1131524746}
+  - component: {fileID: 1131524747}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Untagged
@@ -2212,36 +2231,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1131524742
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1131524741}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bb61120b21ecd96468beaa96fcc05651, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Enemy
-  currentState: 0
-  patrolSpeed: 2
-  chaseSpeed: 5
-  attackRange: 1.5
-  attackCooldown: 1
-  sightRange: 20
-  evadeRange: 5
-  aggroRange: 15
-  health: 100
-  canEvade: 1
-  canAttack: 1
-  canChase: 1
-  retreatHealthThreshold: 0.3
-  patrolPoints:
-  - {fileID: 1239023268}
-  - {fileID: 1231271014}
-  - {fileID: 2023602658}
-  footstepSound: {fileID: 0}
 --- !u!61 &1131524743
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2361,6 +2350,46 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1131524746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1131524741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd4df54488e6ff43a24b1a6d352c4a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Enemy
+  moveSpeed: 3
+  stoppingDistance: 1
+  smoothTime: 0.3
+  detectionRange: 0.0001
+  health: 100
+  _animator: {fileID: 0}
+--- !u!95 &1131524747
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1131524741}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c06853870f7e74145afffd08b16195a6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &1156586529
 GameObject:
   m_ObjectHideFlags: 0
@@ -2402,7 +2431,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1156586529}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b7740348679622640be85d79cc3d48a2, type: 3}
+  m_Script: {fileID: 11500000, guid: 230495d9736d2d4429d77ef713a5a25e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bootstrap
 --- !u!1 &1231271013

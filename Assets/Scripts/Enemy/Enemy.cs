@@ -11,19 +11,28 @@ public class Enemy : MonoBehaviour, IDamagable
     private Rigidbody2D rb;
 
     [SerializeField] private int health = 100;
+    [SerializeField] private Animator _animator;
+
+    private Vector2 moveDirection;
 
     public bool IsAlive => health > 0;
 
     private void Start()
     {
+        _animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
     }
 
     private void FixedUpdate()
     {
+        _animator.SetBool("isMoving", true);
         if (IsPlayerInRange())
         {
             ChasePlayer();
+        }
+        else
+        {
+            _animator.SetBool("isMoving", false);
         }
     }
 
@@ -47,6 +56,14 @@ public class Enemy : MonoBehaviour, IDamagable
         if (distance > stoppingDistance)
         {
             Vector2 newPosition = Vector2.SmoothDamp(rb.position, targetPosition, ref currentVelocity, smoothTime, moveSpeed);
+            moveDirection = (newPosition - rb.position).normalized;
+            _animator.SetFloat("moveX", moveDirection.x);
+            _animator.SetFloat("moveY", moveDirection.y);
+            if (moveDirection.x != 0 || moveDirection.y != 0)
+            {
+                _animator.SetFloat("lastMoveX", moveDirection.x);
+                _animator.SetFloat("lastMoveY", moveDirection.y);
+            }
             rb.MovePosition(newPosition);
         }
     }
