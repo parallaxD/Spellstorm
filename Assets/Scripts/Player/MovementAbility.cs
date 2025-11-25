@@ -8,7 +8,7 @@ public abstract class MovementAbility : ScriptableObject
 [CreateAssetMenu(fileName = "TeleportAbility", menuName = "Abilities/Teleport")]
 public class Teleport : MovementAbility
 {
-    [SerializeField] private float teleportDistance = 1f;
+    //[SerializeField] private float teleportDistance = 1f;
 
     public override void Action(Transform playerTransform)
     {
