@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4d6be477034f6c4e8e00b4844e42961, type: 3}
+  m_Name: BurningWastelandsBackgroundTileSet
+  m_EditorClassIdentifier: Assembly-CSharp::TileSet
+  tiles:
+  - Sprite: {fileID: 11400000, guid: 0348a8e1043dd304a9a7daa42d6f6923, type: 2}
+    Weight: 70
+  - Sprite: {fileID: 11400000, guid: ddbd5026602d59c41873272b783bfdcf, type: 2}
+    Weight: 30
