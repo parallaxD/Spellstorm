@@ -5,10 +5,10 @@ public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Vector2 moveInput;
-    [SerializeField] private float moveSpeed = 20f;
-    [SerializeField] private float maxSpeed = 1f;
-    [SerializeField] private float minSpeed = 0.1f;
-    [SerializeField] private float friction = 8f;
+
+    [SerializeField] private float maxSpeed = 5f;
+    [SerializeField] private float acceleration = 10f;  // ускорение
+    [SerializeField] private float deceleration = 12f;  // замедление
 
     private Animator animator;
 
@@ -20,32 +20,34 @@ public class Player : MonoBehaviour
 
     public void OnMove(InputValue value)
     {
-        Debug.Log('b');
         moveInput = value.Get<Vector2>();
 
-        var x = moveInput.x;
-        var y = moveInput.y;
-
-        if (x != 0 || y != 0)
+        if (moveInput != Vector2.zero)
         {
-            animator.SetFloat("LastMoveX", x);
-            animator.SetFloat("LastMoveY", y);
+            animator.SetFloat("LastMoveX", moveInput.x);
+            animator.SetFloat("LastMoveY", moveInput.y);
         }
     }
 
     private void FixedUpdate()
     {
-        rb.AddForce(moveInput * moveSpeed);
+        var targetVelocity = moveInput * maxSpeed;
 
-        if (moveInput.magnitude < minSpeed)
+        if (moveInput.sqrMagnitude > 0.01f)
         {
-            rb.linearVelocity = Vector2.Lerp(rb.linearVelocity, Vector2.zero, friction * Time.fixedDeltaTime);
+            rb.linearVelocity = Vector2.Lerp(
+                rb.linearVelocity,
+                targetVelocity,
+                acceleration * Time.fixedDeltaTime
+            );
         }
-
-
-        if (rb.linearVelocity.magnitude > maxSpeed)
+        else
         {
-            rb.linearVelocity = rb.linearVelocity.normalized * maxSpeed;
+            rb.linearVelocity = Vector2.Lerp(
+                rb.linearVelocity,
+                Vector2.zero,
+                deceleration * Time.fixedDeltaTime
+            );
         }
 
         UpdateAnimation();
