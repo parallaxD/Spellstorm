@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -23,9 +24,9 @@ public static class ProceduralGenerationAlgorithms
         return path;
     }
 
-    public static List<Vector2> RandomWalkCorridor(Vector2 startPosition, int corridorLength)
+    public static List<Vector2> RandomWalkCorridor(Vector2 startPosition, int corridorLength, int corridorWidth)
     {
-        var corridor = new List<Vector2>();
+        var corridor = new HashSet<Vector2>();
         var randomDirection = Direction2D.GetRandomCorridorDirection();
         var currentPosition = startPosition;
 
@@ -34,12 +35,12 @@ public static class ProceduralGenerationAlgorithms
         for (int i = 0; i < corridorLength; i++)
         {
             currentPosition += randomDirection;
-            corridor.Add(currentPosition);
-
-            IncreaseCorridorSizeByOne(corridor, currentPosition);
+            var d = SimpleRandomWalk(currentPosition, corridorWidth);
+            corridor.UnionWith(d);
+            //IncreaseCorridorSizeByOne(corridor, currentPosition);
         }
 
-        return corridor;
+        return corridor.ToList();
     }
 
     private static void IncreaseCorridorSizeByOne(List<Vector2> corridor, Vector2 position)

@@ -6,9 +6,6 @@ using Random = UnityEngine.Random;
 
 public class SimpleRandomWalkDungeonGenerator : AbstractDungeonGenerator
 {
-    [SerializeField]
-    protected SimpleRandomWalkData randomWalkParameters;
-
     protected override void RunProceduralGeneration()
     {
         var floorPositions = RunRandomWalk(randomWalkParameters, startPosition);
