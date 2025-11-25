@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 518c3d8536a8b84469fa45c036406905
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8882283007646388984
+    second: FANATIC_01 Idle Left Spritesheet_0
+  - first:
+      213: 8312425049511888893
+    second: FANATIC_01 Idle Left Spritesheet_1
+  - first:
+      213: 8815711642940101311
+    second: FANATIC_01 Idle Left Spritesheet_2
+  - first:
+      213: -4244870240951341817
+    second: FANATIC_01 Idle Left Spritesheet_3
+  - first:
+      213: -1669715440430678868
+    second: FANATIC_01 Idle Left Spritesheet_4
+  - first:
+      213: -286902349669589080
+    second: FANATIC_01 Idle Left Spritesheet_5
+  - first:
+      213: 4436150606002022422
+    second: FANATIC_01 Idle Left Spritesheet_6
+  - first:
+      213: -2554995986443901266
+    second: FANATIC_01 Idle Left Spritesheet_7
+  - first:
+      213: -727949073169554127
+    second: FANATIC_01 Idle Left Spritesheet_8
+  - first:
+      213: -6893891337756337538
+    second: FANATIC_01 Idle Left Spritesheet_9
+  - first:
+      213: 2431211000046221279
+    second: FANATIC_01 Idle Left Spritesheet_10
+  - first:
+      213: 7252250149053922861
+    second: FANATIC_01 Idle Left Spritesheet_11
+  - first:
+      213: -3223959200592487422
+    second: FANATIC_01 Idle Left Spritesheet_12
+  - first:
+      213: 2828667461329990019
+    second: FANATIC_01 Idle Left Spritesheet_13
+  - first:
+      213: -1452315766672920176
+    second: FANATIC_01 Idle Left Spritesheet_14
+  - first:
+      213: 3662546850726033736
+    second: FANATIC_01 Idle Left Spritesheet_15
+  - first:
+      213: 7015393231186826683
+    second: FANATIC_01 Idle Left Spritesheet_16
+  - first:
+      213: -6228027045565111625
+    second: FANATIC_01 Idle Left Spritesheet_17
+  - first:
+      213: -2925028428650779747
+    second: FANATIC_01 Idle Left Spritesheet_18
+  - first:
+      213: -7636073623147801386
+    second: FANATIC_01 Idle Left Spritesheet_19
+  - first:
+      213: -373577451711121768
+    second: FANATIC_01 Idle Left Spritesheet_20
+  - first:
+      213: 1450702190839785143
+    second: FANATIC_01 Idle Left Spritesheet_21
+  - first:
+      213: 2469053395086266378
+    second: FANATIC_01 Idle Left Spritesheet_22
+  - first:
+      213: 1141360066190374180
+    second: FANATIC_01 Idle Left Spritesheet_23
+  - first:
+      213: 1934865286530092275
+    second: FANATIC_01 Idle Left Spritesheet_24
+  - first:
+      213: -6560810098981000785
+    second: FANATIC_01 Idle Left Spritesheet_25
+  - first:
+      213: -3719984035364953041
+    second: FANATIC_01 Idle Left Spritesheet_26
+  - first:
+      213: 2285834423184857998
+    second: FANATIC_01 Idle Left Spritesheet_27
+  - first:
+      213: -1992757550424611644
+    second: FANATIC_01 Idle Left Spritesheet_28
+  - first:
+      213: 8932933944821005980
+    second: FANATIC_01 Idle Left Spritesheet_29
+  - first:
+      213: 2130504393066062547
+    second: FANATIC_01 Idle Left Spritesheet_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25049c555344b70800000000000000
+      internalID: 8882283007646388984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7073a9a8aab5370800000000000000
+      internalID: 8312425049511888893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb258b71803b75a70800000000000000
+      internalID: 8815711642940101311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70de77291013715c0800000000000000
+      internalID: -4244870240951341817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacf42947aaf3d8e0800000000000000
+      internalID: -1669715440430678868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af18b245d7b40cf0800000000000000
+      internalID: -286902349669589080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61862e0f87f509d30800000000000000
+      internalID: 4436150606002022422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea66671ffa4da8cd0800000000000000
+      internalID: -2554995986443901266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135672fbc2ec5e5f0800000000000000
+      internalID: -727949073169554127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 33
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a14ec8a5af350a0800000000000000
+      internalID: -6893891337756337538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 33
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7f6cff5856db120800000000000000
+      internalID: 2431211000046221279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 33
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef1a4261b25a460800000000000000
+      internalID: 7252250149053922861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 33
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c155630323243d0800000000000000
+      internalID: -3223959200592487422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 33
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b744b112714720800000000000000
+      internalID: 2828667461329990019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f2c1418658dbe0800000000000000
+      internalID: -1452315766672920176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84930caa4faf3d230800000000000000
+      internalID: 3662546850726033736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5129089feab5160800000000000000
+      internalID: 7015393231186826683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e099466a9199a0800000000000000
+      internalID: -6228027045565111625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9be95044263867d0800000000000000
+      internalID: -2925028428650779747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d49b855f77370690800000000000000
+      internalID: -7636073623147801386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896b9a67949c0daf0800000000000000
+      internalID: -373577451711121768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e2e7d4fde12410800000000000000
+      internalID: 1450702190839785143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d6913bf6d34220800000000000000
+      internalID: 2469053395086266378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425f71adeece6df00800000000000000
+      internalID: 1141360066190374180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc4cdb0ab50ada10800000000000000
+      internalID: 1934865286530092275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa92173c9f153f4a0800000000000000
+      internalID: -6560810098981000785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3350
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a2f9aa36ff5cc0800000000000000
+      internalID: -3719984035364953041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b1b490c4ae8bf10800000000000000
+      internalID: 2285834423184857998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 33
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a673e09d4854e0800000000000000
+      internalID: -1992757550424611644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3733
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9eb517181828fb70800000000000000
+      internalID: 8932933944821005980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Left Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2ac152572119d10800000000000000
+      internalID: 2130504393066062547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FANATIC_01 Idle Left Spritesheet_0: 8882283007646388984
+      FANATIC_01 Idle Left Spritesheet_1: 8312425049511888893
+      FANATIC_01 Idle Left Spritesheet_10: 2431211000046221279
+      FANATIC_01 Idle Left Spritesheet_11: 7252250149053922861
+      FANATIC_01 Idle Left Spritesheet_12: -3223959200592487422
+      FANATIC_01 Idle Left Spritesheet_13: 2828667461329990019
+      FANATIC_01 Idle Left Spritesheet_14: -1452315766672920176
+      FANATIC_01 Idle Left Spritesheet_15: 3662546850726033736
+      FANATIC_01 Idle Left Spritesheet_16: 7015393231186826683
+      FANATIC_01 Idle Left Spritesheet_17: -6228027045565111625
+      FANATIC_01 Idle Left Spritesheet_18: -2925028428650779747
+      FANATIC_01 Idle Left Spritesheet_19: -7636073623147801386
+      FANATIC_01 Idle Left Spritesheet_2: 8815711642940101311
+      FANATIC_01 Idle Left Spritesheet_20: -373577451711121768
+      FANATIC_01 Idle Left Spritesheet_21: 1450702190839785143
+      FANATIC_01 Idle Left Spritesheet_22: 2469053395086266378
+      FANATIC_01 Idle Left Spritesheet_23: 1141360066190374180
+      FANATIC_01 Idle Left Spritesheet_24: 1934865286530092275
+      FANATIC_01 Idle Left Spritesheet_25: -6560810098981000785
+      FANATIC_01 Idle Left Spritesheet_26: -3719984035364953041
+      FANATIC_01 Idle Left Spritesheet_27: 2285834423184857998
+      FANATIC_01 Idle Left Spritesheet_28: -1992757550424611644
+      FANATIC_01 Idle Left Spritesheet_29: 8932933944821005980
+      FANATIC_01 Idle Left Spritesheet_3: -4244870240951341817
+      FANATIC_01 Idle Left Spritesheet_30: 2130504393066062547
+      FANATIC_01 Idle Left Spritesheet_4: -1669715440430678868
+      FANATIC_01 Idle Left Spritesheet_5: -286902349669589080
+      FANATIC_01 Idle Left Spritesheet_6: 4436150606002022422
+      FANATIC_01 Idle Left Spritesheet_7: -2554995986443901266
+      FANATIC_01 Idle Left Spritesheet_8: -727949073169554127
+      FANATIC_01 Idle Left Spritesheet_9: -6893891337756337538
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
