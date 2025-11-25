@@ -50,37 +50,15 @@ public class PathVizualizer : MonoBehaviour
         var yMin = floorPositions.Min(p => p.y);
         var yMax = floorPositions.Max(p => p.y);
 
-        var cx = (xMin + xMax) / 2f;
-        var cy = (yMin + yMax) / 2f;
-
-        Vector2[] corners =
-        {
-            new Vector2(xMin, yMin),
-            new Vector2(xMin, yMax),
-            new Vector2(xMax, yMin),
-            new Vector2(xMax, yMax)
-        };
-
-        var V = 0f;
-        foreach (var c in corners)
-        {
-            float val = Mathf.Abs(c.x - cx) / 2f + Mathf.Abs(c.y - cy);
-            if (val > V) V = val;
-        }
-
-        var H = 2f * V;
         var backgroundPositions = new HashSet<Vector2>();
 
-        for (float x = cx - H; x <= cx + H; x += 0.5f)
-        {
-            for (float y = cy - V; y <= cy + V; y += 0.5f)
-            {
-                float sumOfRatios =
-                    Mathf.Abs((x - cx) / H) +
-                    Mathf.Abs((y - cy) / V);
+        var sizeOffset = 3f;
 
-                if (sumOfRatios <= 1f)
-                    backgroundPositions.Add(new Vector2(x, y));
+        for (float x = xMin - sizeOffset; x < xMax + sizeOffset; x += 0.5f)
+        {
+            for (float y = yMin - sizeOffset; y < yMax + sizeOffset; y += 0.5f)
+            {
+                backgroundPositions.Add(new Vector2(x, y));
             }
         }
 

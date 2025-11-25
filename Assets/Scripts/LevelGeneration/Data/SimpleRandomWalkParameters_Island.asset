@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4d5fda114e9d2fa41a86cf562dc92580, type: 3}
   m_Name: SimpleRandomWalkParameters_Island
   m_EditorClassIdentifier: Assembly-CSharp::SimpleRandomWalkData
-  iterations: 50
-  walkLength: 20
-  startRandomlyEachIteration: 0
+  iterations: 80
+  walkLength: 30
+  roomCount: 4
+  startRandomlyEachIteration: 1
+  corridorLength: 50
+  corridorWidth: 5
+  corridorCount: 3
