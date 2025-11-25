@@ -13,4 +13,9 @@ public class HoverEffect : MonoBehaviour, IPointerEnterHandler, IPointerExitHand
     public void OnPointerEnter(PointerEventData eventData) => highlightImage.SetActive(true);
 
     public void OnPointerExit(PointerEventData eventData) => highlightImage.SetActive(false);
+
+    void OnDisable()
+    {
+        if (highlightImage != null) highlightImage.SetActive(false);
+    }
 }

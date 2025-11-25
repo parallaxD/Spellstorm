@@ -45,35 +45,42 @@ public class PathVizualizer : MonoBehaviour
 
     private HashSet<Vector2> GetBackgroundPositions(HashSet<Vector2> floorPositions)
     {
-        var xMinFloorPosition = floorPositions.Min(position => position.x);
-        var xMaxFloorPosition = floorPositions.Max(position => position.x);
-        var yMinFloorPosition = floorPositions.Min(position => position.y);
-        var yMaxFloorPosition = floorPositions.Max(position => position.y);
+        var xMin = floorPositions.Min(p => p.x);
+        var xMax = floorPositions.Max(p => p.x);
+        var yMin = floorPositions.Min(p => p.y);
+        var yMax = floorPositions.Max(p => p.y);
 
-        var widthFloor = Math.Abs(xMaxFloorPosition - xMinFloorPosition);
-        var heightFloor = Math.Abs(yMaxFloorPosition - yMinFloorPosition);
+        var cx = (xMin + xMax) / 2f;
+        var cy = (yMin + yMax) / 2f;
 
-        var center = new Vector2(xMinFloorPosition + widthFloor / 2, yMinFloorPosition + heightFloor / 2);
-        var xMin = xMinFloorPosition - widthFloor;
-        var xMax = xMaxFloorPosition + widthFloor;
-        var yMin = yMinFloorPosition - heightFloor / 4;
-        var yMax = yMaxFloorPosition + heightFloor / 4;
+        Vector2[] corners =
+        {
+            new Vector2(xMin, yMin),
+            new Vector2(xMin, yMax),
+            new Vector2(xMax, yMin),
+            new Vector2(xMax, yMax)
+        };
 
-        var halfHorizontalDiagonal = (widthFloor * 3) / 2;
-        var halfVerticalDiagonal = (heightFloor + heightFloor / 2) / 2;
+        var V = 0f;
+        foreach (var c in corners)
+        {
+            float val = Mathf.Abs(c.x - cx) / 2f + Mathf.Abs(c.y - cy);
+            if (val > V) V = val;
+        }
 
+        var H = 2f * V;
         var backgroundPositions = new HashSet<Vector2>();
 
-        for (var x = xMin; x <= xMax; x += 0.5f)
+        for (float x = cx - H; x <= cx + H; x += 0.5f)
         {
-            for (var y = yMin; y <= yMax; y += 0.5f)
+            for (float y = cy - V; y <= cy + V; y += 0.5f)
             {
-                var sumOfRatios = Math.Abs((x - center.x) / halfHorizontalDiagonal) + Math.Abs((y - center.y) / halfVerticalDiagonal);
+                float sumOfRatios =
+                    Mathf.Abs((x - cx) / H) +
+                    Mathf.Abs((y - cy) / V);
 
-                if (sumOfRatios <= 1.0f)
-                {
+                if (sumOfRatios <= 1f)
                     backgroundPositions.Add(new Vector2(x, y));
-                }
             }
         }
 
