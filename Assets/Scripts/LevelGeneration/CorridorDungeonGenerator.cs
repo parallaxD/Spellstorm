@@ -5,13 +5,6 @@ using UnityEngine;
 
 public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 {
-    [SerializeField]
-    private int corridorLength = 14;
-    [SerializeField]
-    private int corridorCount = 5;
-    [SerializeField]
-    private int roomCount = 4;
-
     protected override void RunProceduralGeneration()
     {
         CorridorDungeonGeneration();
@@ -37,7 +30,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 
         var roomToCreate = potentialRoomPositions
             .OrderBy(x => Guid.NewGuid())
-            .Take(roomCount)
+            .Take(randomWalkParameters.roomCount)
             .ToList();
 
         foreach (var roomPosition in roomToCreate)
@@ -54,9 +47,13 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
         var currentPosition = startPosition;
         potentialRoomPositions.Add(currentPosition);
 
-        for (int i = 0; i < corridorCount; i++)
+        for (int i = 0; i < randomWalkParameters.corridorCount; i++)
         {
-            var corridor = ProceduralGenerationAlgorithms.RandomWalkCorridor(currentPosition, corridorLength);
+            var corridor = ProceduralGenerationAlgorithms.RandomWalkCorridor(
+                currentPosition,
+                randomWalkParameters.corridorLength,
+                randomWalkParameters.corridorWidth
+            );
             currentPosition = corridor[corridor.Count - 1];
             potentialRoomPositions.Add(currentPosition);
             floorPositions.UnionWith(corridor);

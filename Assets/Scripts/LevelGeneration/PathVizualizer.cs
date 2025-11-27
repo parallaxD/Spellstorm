@@ -45,35 +45,20 @@ public class PathVizualizer : MonoBehaviour
 
     private HashSet<Vector2> GetBackgroundPositions(HashSet<Vector2> floorPositions)
     {
-        var xMinFloorPosition = floorPositions.Min(position => position.x);
-        var xMaxFloorPosition = floorPositions.Max(position => position.x);
-        var yMinFloorPosition = floorPositions.Min(position => position.y);
-        var yMaxFloorPosition = floorPositions.Max(position => position.y);
-
-        var widthFloor = Math.Abs(xMaxFloorPosition - xMinFloorPosition);
-        var heightFloor = Math.Abs(yMaxFloorPosition - yMinFloorPosition);
-
-        var center = new Vector2(xMinFloorPosition + widthFloor / 2, yMinFloorPosition + heightFloor / 2);
-        var xMin = xMinFloorPosition - widthFloor;
-        var xMax = xMaxFloorPosition + widthFloor;
-        var yMin = yMinFloorPosition - heightFloor / 4;
-        var yMax = yMaxFloorPosition + heightFloor / 4;
-
-        var halfHorizontalDiagonal = (widthFloor * 3) / 2;
-        var halfVerticalDiagonal = (heightFloor + heightFloor / 2) / 2;
+        var xMin = floorPositions.Min(p => p.x);
+        var xMax = floorPositions.Max(p => p.x);
+        var yMin = floorPositions.Min(p => p.y);
+        var yMax = floorPositions.Max(p => p.y);
 
         var backgroundPositions = new HashSet<Vector2>();
 
-        for (var x = xMin; x <= xMax; x += 0.5f)
-        {
-            for (var y = yMin; y <= yMax; y += 0.5f)
-            {
-                var sumOfRatios = Math.Abs((x - center.x) / halfHorizontalDiagonal) + Math.Abs((y - center.y) / halfVerticalDiagonal);
+        var sizeOffset = 3f;
 
-                if (sumOfRatios <= 1.0f)
-                {
-                    backgroundPositions.Add(new Vector2(x, y));
-                }
+        for (float x = xMin - sizeOffset; x < xMax + sizeOffset; x += 0.5f)
+        {
+            for (float y = yMin - sizeOffset; y < yMax + sizeOffset; y += 0.5f)
+            {
+                backgroundPositions.Add(new Vector2(x, y));
             }
         }
 

@@ -1,0 +1,3601 @@
+fileFormatVersion: 2
+guid: 8c502a4bfcf0d8041954e8fa5aa83945
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4220449104758083162
+    second: FANATIC_01 Death Right Spritesheet_0
+  - first:
+      213: -6308576667342126605
+    second: FANATIC_01 Death Right Spritesheet_1
+  - first:
+      213: -3497327729316426054
+    second: FANATIC_01 Death Right Spritesheet_2
+  - first:
+      213: 1626920592230543216
+    second: FANATIC_01 Death Right Spritesheet_3
+  - first:
+      213: -1096995752866698036
+    second: FANATIC_01 Death Right Spritesheet_4
+  - first:
+      213: 2361251152104905841
+    second: FANATIC_01 Death Right Spritesheet_5
+  - first:
+      213: -7706099759601584835
+    second: FANATIC_01 Death Right Spritesheet_6
+  - first:
+      213: 3522878082047671115
+    second: FANATIC_01 Death Right Spritesheet_7
+  - first:
+      213: -2786149355732727651
+    second: FANATIC_01 Death Right Spritesheet_8
+  - first:
+      213: 7365506557582458623
+    second: FANATIC_01 Death Right Spritesheet_9
+  - first:
+      213: -3388467618855093923
+    second: FANATIC_01 Death Right Spritesheet_10
+  - first:
+      213: 2310018434642544440
+    second: FANATIC_01 Death Right Spritesheet_11
+  - first:
+      213: -1127676638008483602
+    second: FANATIC_01 Death Right Spritesheet_12
+  - first:
+      213: -968407081732828135
+    second: FANATIC_01 Death Right Spritesheet_13
+  - first:
+      213: -5757809274608263949
+    second: FANATIC_01 Death Right Spritesheet_14
+  - first:
+      213: -385455877741634704
+    second: FANATIC_01 Death Right Spritesheet_15
+  - first:
+      213: -804728659349424909
+    second: FANATIC_01 Death Right Spritesheet_16
+  - first:
+      213: 736514092638317821
+    second: FANATIC_01 Death Right Spritesheet_17
+  - first:
+      213: -7235924254271071201
+    second: FANATIC_01 Death Right Spritesheet_18
+  - first:
+      213: -4025014842796022610
+    second: FANATIC_01 Death Right Spritesheet_19
+  - first:
+      213: 3537536555060919283
+    second: FANATIC_01 Death Right Spritesheet_20
+  - first:
+      213: 6367432544721596203
+    second: FANATIC_01 Death Right Spritesheet_21
+  - first:
+      213: -5617320342701564992
+    second: FANATIC_01 Death Right Spritesheet_22
+  - first:
+      213: 5851949916387016742
+    second: FANATIC_01 Death Right Spritesheet_23
+  - first:
+      213: 3615347586275686015
+    second: FANATIC_01 Death Right Spritesheet_24
+  - first:
+      213: 6068229393670650426
+    second: FANATIC_01 Death Right Spritesheet_25
+  - first:
+      213: 2084678404945058823
+    second: FANATIC_01 Death Right Spritesheet_26
+  - first:
+      213: 2348309800117096486
+    second: FANATIC_01 Death Right Spritesheet_27
+  - first:
+      213: -5097008365346033399
+    second: FANATIC_01 Death Right Spritesheet_28
+  - first:
+      213: 8900346706040767589
+    second: FANATIC_01 Death Right Spritesheet_29
+  - first:
+      213: -3470187115352571192
+    second: FANATIC_01 Death Right Spritesheet_30
+  - first:
+      213: -717610272746002274
+    second: FANATIC_01 Death Right Spritesheet_31
+  - first:
+      213: 5921521208202258853
+    second: FANATIC_01 Death Right Spritesheet_32
+  - first:
+      213: 1037710775625196820
+    second: FANATIC_01 Death Right Spritesheet_33
+  - first:
+      213: -6542344566429417423
+    second: FANATIC_01 Death Right Spritesheet_34
+  - first:
+      213: -5582066201104905241
+    second: FANATIC_01 Death Right Spritesheet_35
+  - first:
+      213: -6941431584843763529
+    second: FANATIC_01 Death Right Spritesheet_36
+  - first:
+      213: 8926715578609907069
+    second: FANATIC_01 Death Right Spritesheet_37
+  - first:
+      213: 8880498120456846532
+    second: FANATIC_01 Death Right Spritesheet_38
+  - first:
+      213: 7264805006110354952
+    second: FANATIC_01 Death Right Spritesheet_39
+  - first:
+      213: -3852703998381228599
+    second: FANATIC_01 Death Right Spritesheet_40
+  - first:
+      213: -4654796240638872901
+    second: FANATIC_01 Death Right Spritesheet_41
+  - first:
+      213: 1891090113083190299
+    second: FANATIC_01 Death Right Spritesheet_42
+  - first:
+      213: -7081260646931288318
+    second: FANATIC_01 Death Right Spritesheet_43
+  - first:
+      213: 4177197739835100697
+    second: FANATIC_01 Death Right Spritesheet_44
+  - first:
+      213: 7033569924673556286
+    second: FANATIC_01 Death Right Spritesheet_45
+  - first:
+      213: 547510965873200122
+    second: FANATIC_01 Death Right Spritesheet_46
+  - first:
+      213: -2310170305549904198
+    second: FANATIC_01 Death Right Spritesheet_47
+  - first:
+      213: -5609173402646032410
+    second: FANATIC_01 Death Right Spritesheet_48
+  - first:
+      213: 6046964889520557082
+    second: FANATIC_01 Death Right Spritesheet_49
+  - first:
+      213: 1085057047725150266
+    second: FANATIC_01 Death Right Spritesheet_50
+  - first:
+      213: -9099898177074644644
+    second: FANATIC_01 Death Right Spritesheet_51
+  - first:
+      213: -3540289815088342349
+    second: FANATIC_01 Death Right Spritesheet_52
+  - first:
+      213: 6310246117624062634
+    second: FANATIC_01 Death Right Spritesheet_53
+  - first:
+      213: 1898838724753180715
+    second: FANATIC_01 Death Right Spritesheet_54
+  - first:
+      213: -4505345127886016542
+    second: FANATIC_01 Death Right Spritesheet_55
+  - first:
+      213: 6680962839390493645
+    second: FANATIC_01 Death Right Spritesheet_56
+  - first:
+      213: 1623133919784157984
+    second: FANATIC_01 Death Right Spritesheet_57
+  - first:
+      213: -2814605282718304324
+    second: FANATIC_01 Death Right Spritesheet_58
+  - first:
+      213: 3104160675866096531
+    second: FANATIC_01 Death Right Spritesheet_59
+  - first:
+      213: -5461302921719394774
+    second: FANATIC_01 Death Right Spritesheet_60
+  - first:
+      213: -2894946885057695492
+    second: FANATIC_01 Death Right Spritesheet_61
+  - first:
+      213: -2153336917874663039
+    second: FANATIC_01 Death Right Spritesheet_62
+  - first:
+      213: -5363615694660417077
+    second: FANATIC_01 Death Right Spritesheet_63
+  - first:
+      213: 4361210503279468023
+    second: FANATIC_01 Death Right Spritesheet_64
+  - first:
+      213: 8392927378506948376
+    second: FANATIC_01 Death Right Spritesheet_65
+  - first:
+      213: 8662143389155674613
+    second: FANATIC_01 Death Right Spritesheet_66
+  - first:
+      213: -6291126320074497456
+    second: FANATIC_01 Death Right Spritesheet_67
+  - first:
+      213: 365220580417414799
+    second: FANATIC_01 Death Right Spritesheet_68
+  - first:
+      213: 2502023990787594726
+    second: FANATIC_01 Death Right Spritesheet_69
+  - first:
+      213: 7832020253267320052
+    second: FANATIC_01 Death Right Spritesheet_70
+  - first:
+      213: -3693288138862001965
+    second: FANATIC_01 Death Right Spritesheet_71
+  - first:
+      213: -4337099770160541369
+    second: FANATIC_01 Death Right Spritesheet_72
+  - first:
+      213: -1601196747110076847
+    second: FANATIC_01 Death Right Spritesheet_73
+  - first:
+      213: -6375775995066011415
+    second: FANATIC_01 Death Right Spritesheet_74
+  - first:
+      213: 2175181785786501439
+    second: FANATIC_01 Death Right Spritesheet_75
+  - first:
+      213: -2497256435123909236
+    second: FANATIC_01 Death Right Spritesheet_76
+  - first:
+      213: -2523850605976554367
+    second: FANATIC_01 Death Right Spritesheet_77
+  - first:
+      213: -8802513423471606988
+    second: FANATIC_01 Death Right Spritesheet_78
+  - first:
+      213: -834020760329178424
+    second: FANATIC_01 Death Right Spritesheet_79
+  - first:
+      213: -2126367351062245046
+    second: FANATIC_01 Death Right Spritesheet_80
+  - first:
+      213: 8976996935858589933
+    second: FANATIC_01 Death Right Spritesheet_81
+  - first:
+      213: 1256016868980775707
+    second: FANATIC_01 Death Right Spritesheet_82
+  - first:
+      213: 8964312354992821974
+    second: FANATIC_01 Death Right Spritesheet_83
+  - first:
+      213: -3267821848225001446
+    second: FANATIC_01 Death Right Spritesheet_84
+  - first:
+      213: 226565576287404779
+    second: FANATIC_01 Death Right Spritesheet_85
+  - first:
+      213: 6864768313028704193
+    second: FANATIC_01 Death Right Spritesheet_86
+  - first:
+      213: -6377922550469063055
+    second: FANATIC_01 Death Right Spritesheet_87
+  - first:
+      213: 6308823419412565762
+    second: FANATIC_01 Death Right Spritesheet_88
+  - first:
+      213: -3935648073661045011
+    second: FANATIC_01 Death Right Spritesheet_89
+  - first:
+      213: 5258323745295288462
+    second: FANATIC_01 Death Right Spritesheet_90
+  - first:
+      213: 563573047126198354
+    second: FANATIC_01 Death Right Spritesheet_91
+  - first:
+      213: 432903046600804016
+    second: FANATIC_01 Death Right Spritesheet_92
+  - first:
+      213: 7843002324825923818
+    second: FANATIC_01 Death Right Spritesheet_93
+  - first:
+      213: 2884848387629413061
+    second: FANATIC_01 Death Right Spritesheet_94
+  - first:
+      213: -1457241910351303963
+    second: FANATIC_01 Death Right Spritesheet_95
+  - first:
+      213: -7214007489232727702
+    second: FANATIC_01 Death Right Spritesheet_96
+  - first:
+      213: 5874593213783031525
+    second: FANATIC_01 Death Right Spritesheet_97
+  - first:
+      213: 5990815982309191851
+    second: FANATIC_01 Death Right Spritesheet_98
+  - first:
+      213: -7866632409078966298
+    second: FANATIC_01 Death Right Spritesheet_99
+  - first:
+      213: -5559282279064670820
+    second: FANATIC_01 Death Right Spritesheet_100
+  - first:
+      213: 2121034102886307490
+    second: FANATIC_01 Death Right Spritesheet_101
+  - first:
+      213: 5010311090897442135
+    second: FANATIC_01 Death Right Spritesheet_102
+  - first:
+      213: -5442095196251781495
+    second: FANATIC_01 Death Right Spritesheet_103
+  - first:
+      213: 3118541097761777137
+    second: FANATIC_01 Death Right Spritesheet_104
+  - first:
+      213: 4987011178231029083
+    second: FANATIC_01 Death Right Spritesheet_105
+  - first:
+      213: -3633941741955474565
+    second: FANATIC_01 Death Right Spritesheet_106
+  - first:
+      213: 1712933842941239951
+    second: FANATIC_01 Death Right Spritesheet_107
+  - first:
+      213: -1989888092925817001
+    second: FANATIC_01 Death Right Spritesheet_108
+  - first:
+      213: 1350881095377869174
+    second: FANATIC_01 Death Right Spritesheet_109
+  - first:
+      213: 4515844864036169434
+    second: FANATIC_01 Death Right Spritesheet_110
+  - first:
+      213: 7448650621033610980
+    second: FANATIC_01 Death Right Spritesheet_111
+  - first:
+      213: 3153552980522415195
+    second: FANATIC_01 Death Right Spritesheet_112
+  - first:
+      213: -8274413307324875638
+    second: FANATIC_01 Death Right Spritesheet_113
+  - first:
+      213: 8573630245096501721
+    second: FANATIC_01 Death Right Spritesheet_114
+  - first:
+      213: 6870787939514809035
+    second: FANATIC_01 Death Right Spritesheet_115
+  - first:
+      213: -2684195724146924798
+    second: FANATIC_01 Death Right Spritesheet_116
+  - first:
+      213: 7832619165193182819
+    second: FANATIC_01 Death Right Spritesheet_117
+  - first:
+      213: -4512519962781971248
+    second: FANATIC_01 Death Right Spritesheet_118
+  - first:
+      213: 1997335018336385019
+    second: FANATIC_01 Death Right Spritesheet_119
+  - first:
+      213: -4644752477659052334
+    second: FANATIC_01 Death Right Spritesheet_120
+  - first:
+      213: -7705564632577240027
+    second: FANATIC_01 Death Right Spritesheet_121
+  - first:
+      213: 3977244583610923134
+    second: FANATIC_01 Death Right Spritesheet_122
+  - first:
+      213: 5878179652436161976
+    second: FANATIC_01 Death Right Spritesheet_123
+  - first:
+      213: 757589923192410967
+    second: FANATIC_01 Death Right Spritesheet_124
+  - first:
+      213: 6443913049774942109
+    second: FANATIC_01 Death Right Spritesheet_125
+  - first:
+      213: 5990813145354699405
+    second: FANATIC_01 Death Right Spritesheet_126
+  - first:
+      213: -8418885009068519399
+    second: FANATIC_01 Death Right Spritesheet_127
+  - first:
+      213: 6913575337978198649
+    second: FANATIC_01 Death Right Spritesheet_128
+  - first:
+      213: 3266450145876347458
+    second: FANATIC_01 Death Right Spritesheet_129
+  - first:
+      213: 7958907458825580796
+    second: FANATIC_01 Death Right Spritesheet_130
+  - first:
+      213: 2273475733644134474
+    second: FANATIC_01 Death Right Spritesheet_131
+  - first:
+      213: -1556786087703638659
+    second: FANATIC_01 Death Right Spritesheet_132
+  - first:
+      213: 1824729212600056310
+    second: FANATIC_01 Death Right Spritesheet_133
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e88b1991c029a30800000000000000
+      internalID: 4220449104758083162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f141c002fe6378a0800000000000000
+      internalID: -6308576667342126605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe88f6b5fef67fc0800000000000000
+      internalID: -3497327729316426054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 33
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f6ba9a8abf39610800000000000000
+      internalID: 1626920592230543216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 33
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccca446cc20b6c0f0800000000000000
+      internalID: -1096995752866698036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 33
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cd1b29969d4c020800000000000000
+      internalID: 2361251152104905841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 33
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d357939e81f6e0590800000000000000
+      internalID: -7706099759601584835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 33
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf57b53f6c3e030800000000000000
+      internalID: 3522878082047671115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 33
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980e503ceb9559d0800000000000000
+      internalID: -2786149355732727651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 33
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe3383a039873660800000000000000
+      internalID: 7365506557582458623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 33
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d597a3d47aeb9f0d0800000000000000
+      internalID: -3388467618855093923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 33
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837097df685de0020800000000000000
+      internalID: 2310018434642544440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 33
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee06ff98210b950f0800000000000000
+      internalID: -1127676638008483602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 33
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9149757d3e68f82f0800000000000000
+      internalID: -968407081732828135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 33
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc568e88f62810b0800000000000000
+      internalID: -5757809274608263949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 33
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b9f92ebe596aaf0800000000000000
+      internalID: -385455877741634704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 33
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4b6e64c8705d4f0800000000000000
+      internalID: -804728659349424909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 33
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfca6cf3aaf983a00800000000000000
+      internalID: 736514092638317821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 33
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c1a827a35d49b90800000000000000
+      internalID: -7235924254271071201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4e77f63564428c0800000000000000
+      internalID: -4025014842796022610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb7d5011cad71130800000000000000
+      internalID: 3537536555060919283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f646fc92aad5850800000000000000
+      internalID: 6367432544721596203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb92bff8e44b02b0800000000000000
+      internalID: -5617320342701564992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62000a9a17d463150800000000000000
+      internalID: 5851949916387016742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 33
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76378b897b4c2230800000000000000
+      internalID: 3615347586275686015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 33
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ab2519b7ea63450800000000000000
+      internalID: 6068229393670650426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 33
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c9da5d6f34eec10800000000000000
+      internalID: 2084678404945058823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 33
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6205c82425fd69020800000000000000
+      internalID: 2348309800117096486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 33
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901fa5695e9c349b0800000000000000
+      internalID: -5097008365346033399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3774
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564c06f4c22648b70800000000000000
+      internalID: 8900346706040767589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2c545543b67dfc0800000000000000
+      internalID: -3470187115352571192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98adcd42498a06f0800000000000000
+      internalID: -717610272746002274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a966d05a287d2250800000000000000
+      internalID: 5921521208202258853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4152cb0d370b66e00800000000000000
+      internalID: 1037710775625196820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 30
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13084c7974ce435a0800000000000000
+      internalID: -6542344566429417423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4542
+        y: 30
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb8d6a7d548882b0800000000000000
+      internalID: -5582066201104905241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4670
+        y: 30
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0f5b830c41baf90800000000000000
+      internalID: -6941431584843763529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 30
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753df1e58012eb70800000000000000
+      internalID: 8926715578609907069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 30
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccba5a5dfddd3b70800000000000000
+      internalID: 8880498120456846532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5053
+        y: 30
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eefa799a5c1d460800000000000000
+      internalID: 7264805006110354952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 30
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd72cf3022788ac0800000000000000
+      internalID: -3852703998381228599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5309
+        y: 30
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb275e63b77d66fb0800000000000000
+      internalID: -4654796240638872901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5437
+        y: 30
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ca39c30708e3a10800000000000000
+      internalID: 1891090113083190299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5565
+        y: 30
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f25b1b5fe4abd90800000000000000
+      internalID: -7081260646931288318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5694
+        y: 30
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8f6f663368f930800000000000000
+      internalID: 4177197739835100697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5822
+        y: 30
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fc90fb4924c9160800000000000000
+      internalID: 7033569924673556286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5950
+        y: 30
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbc0879256299700800000000000000
+      internalID: 547510965873200122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 30
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6da0fc850a0ffd0800000000000000
+      internalID: -2310170305549904198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6206
+        y: 30
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efc6bb42863822b0800000000000000
+      internalID: -5609173402646032410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6338
+        y: 29
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc12167822be350800000000000000
+      internalID: 6046964889520557082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6466
+        y: 29
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3011b2d2a5ee0f00800000000000000
+      internalID: 1085057047725150266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6594
+        y: 29
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59bd3f32daa6b180800000000000000
+      internalID: -9099898177074644644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6722
+        y: 29
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad9b1ab2d5edec0800000000000000
+      internalID: -3540289815088342349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 29
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2254e296f729750800000000000000
+      internalID: 6310246117624062634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6986
+        y: 29
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b284baa72c70a5a10800000000000000
+      internalID: 1898838724753180715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7114
+        y: 29
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef21ddf97cc971c0800000000000000
+      internalID: -4505345127886016542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7242
+        y: 29
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb947f1e4c87bc50800000000000000
+      internalID: 6680962839390493645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7370
+        y: 29
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0234f9743b7868610800000000000000
+      internalID: 1623133919784157984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7498
+        y: 29
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb733a4686380f8d0800000000000000
+      internalID: -2814605282718304324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7628
+        y: 26
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3933cba20b1341b20800000000000000
+      internalID: 3104160675866096531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7756
+        y: 26
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ecc1c8ded8534b0800000000000000
+      internalID: -5461302921719394774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 26
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf03388652513d7d0800000000000000
+      internalID: -2894946885057695492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 8012
+        y: 26
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181a8586b7fcd12e0800000000000000
+      internalID: -2153336917874663039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8140
+        y: 26
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc94e0081fb9095b0800000000000000
+      internalID: -5363615694660417077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8266
+        y: 26
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fddca698d1268c30800000000000000
+      internalID: 4361210503279468023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8394
+        y: 26
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9e8dabfaa97470800000000000000
+      internalID: 8392927378506948376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8522
+        y: 26
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94f18b48d163870800000000000000
+      internalID: 8662143389155674613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8650
+        y: 26
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05269d691fd61b8a0800000000000000
+      internalID: -6291126320074497456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8778
+        y: 26
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f862170de26811500800000000000000
+      internalID: 365220580417414799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8906
+        y: 25
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e956663099f8b220800000000000000
+      internalID: 2502023990787594726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 9034
+        y: 25
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd9adacece0bc60800000000000000
+      internalID: 7832020253267320052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9162
+        y: 25
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d087fd610ecebcc0800000000000000
+      internalID: -3693288138862001965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9290
+        y: 25
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741172cecb68fc3c0800000000000000
+      internalID: -4337099770160541369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9418
+        y: 25
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e2ef0ca0867c9e0800000000000000
+      internalID: -1601196747110076847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9546
+        y: 24
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0b0a64381b487a0800000000000000
+      internalID: -6375775995066011415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9674
+        y: 24
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3944bf3f4ccf2e10800000000000000
+      internalID: 2175181785786501439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9802
+        y: 24
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d8167d086f75dd0800000000000000
+      internalID: -2497256435123909236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9930
+        y: 24
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184fc9cee3b79fcd0800000000000000
+      internalID: -2523850605976554367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 10058
+        y: 24
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4330e57dda037d580800000000000000
+      internalID: -8802513423471606988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10186
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2374d8986fc64f0800000000000000
+      internalID: -834020760329178424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10314
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4152f10920ad72e0800000000000000
+      internalID: -2126367351062245046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10442
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de01f97a623b49c70800000000000000
+      internalID: 8976996935858589933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10570
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b5f7b00b44e6110800000000000000
+      internalID: 1256016868980775707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10698
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61ef68792a76c70800000000000000
+      internalID: 8964312354992821974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10826
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d94bb75d56a2d0800000000000000
+      internalID: -3267821848225001446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10954
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be241f4f03ce42300800000000000000
+      internalID: 226565576287404779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11082
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7fe6bd86e844f50800000000000000
+      internalID: 6864768313028704193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 11210
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e86566b311d77a0800000000000000
+      internalID: -6377922550469063055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 11338
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f40c079717d8750800000000000000
+      internalID: 6308823419412565762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11466
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6ab70dde4c169c0800000000000000
+      internalID: -3935648073661045011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11594
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88c358269159f840800000000000000
+      internalID: 5258323745295288462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11722
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25801fe43b632d700800000000000000
+      internalID: 563573047126198354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11850
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b643daf60bf10600800000000000000
+      internalID: 432903046600804016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11978
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0efc77f01f7dc60800000000000000
+      internalID: 7843002324825923818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 12106
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2728fe25a090820800000000000000
+      internalID: 2884848387629413061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 12234
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eae2bd0436d6cbe0800000000000000
+      internalID: -1457241910351303963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 12362
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a619645f862b2eb90800000000000000
+      internalID: -7214007489232727702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 12490
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee357b276fb68150800000000000000
+      internalID: 5874593213783031525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0b54c2567a32350800000000000000
+      internalID: 5990815982309191851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 12746
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7d54ec08b14d290800000000000000
+      internalID: -7866632409078966298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 12874
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9de936b83679d2b0800000000000000
+      internalID: -5559282279064670820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 13002
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a61703674d6f6d10800000000000000
+      internalID: 2121034102886307490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 13130
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75554233463388540800000000000000
+      internalID: 5010311090897442135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 13258
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868d81a04bc974b0800000000000000
+      internalID: -5442095196251781495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 13386
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f52c8d0b98474b20800000000000000
+      internalID: 3118541097761777137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 13514
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ddc598e3c653540800000000000000
+      internalID: 4987011178231029083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 13642
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b97483d35a19dc0800000000000000
+      internalID: -3633941741955474565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 13770
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82e140314095c710800000000000000
+      internalID: 1712933842941239951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 13898
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f8066825f7264e0800000000000000
+      internalID: -1989888092925817001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 14026
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679d9cfe23b4fb210800000000000000
+      internalID: 1350881095377869174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 14154
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e5a55af08bae30800000000000000
+      internalID: 4515844864036169434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 14282
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee73b2764cee5760800000000000000
+      internalID: 7448650621033610980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 14410
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54b9604abba3cb20800000000000000
+      internalID: 3153552980522415195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 14538
+        y: 23
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cb22ccfe06b2d80800000000000000
+      internalID: -8274413307324875638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 14666
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1b58a6847abf670800000000000000
+      internalID: 8573630245096501721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 14794
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca71dd5a31f95f50800000000000000
+      internalID: 6870787939514809035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 14922
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a99ad532dfbad0800000000000000
+      internalID: -2684195724146924798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 15050
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e914ab1ad03bc60800000000000000
+      internalID: 7832619165193182819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 15178
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8580900f4061c0800000000000000
+      internalID: -4512519962781971248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 15306
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77369ed95f7bb10800000000000000
+      internalID: 1997335018336385019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 15434
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d644830b368a8fb0800000000000000
+      internalID: -4644752477659052334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 15562
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5249b61eac5501590800000000000000
+      internalID: -7705564632577240027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 15690
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78b9fe50e2023730800000000000000
+      internalID: 3977244583610923134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 15818
+        y: 24
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5f26dff3d739150800000000000000
+      internalID: 5878179652436161976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 15954
+        y: 24
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539c417500838a00800000000000000
+      internalID: 757589923192410967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 16082
+        y: 24
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97e65707c06d6950800000000000000
+      internalID: 6443913049774942109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 16210
+        y: 24
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828b94a0d4a32350800000000000000
+      internalID: 5990813145354699405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 16338
+        y: 24
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9101c9d70bc1a2b80800000000000000
+      internalID: -8418885009068519399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 16466
+        y: 24
+        width: 38
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a7714e324f1ff50800000000000000
+      internalID: 6913575337978198649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 16597
+        y: 26
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a8b7de913c45d20800000000000000
+      internalID: 3266450145876347458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 16725
+        y: 26
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0718b6a28b37e60800000000000000
+      internalID: 7958907458825580796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 16853
+        y: 26
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48445562220d8f10800000000000000
+      internalID: 2273475733644134474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 16981
+        y: 26
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d872b2d4f256ae0800000000000000
+      internalID: -1556786087703638659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Right Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 17109
+        y: 26
+        width: 3363
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9fd401d8db25910800000000000000
+      internalID: 1824729212600056310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FANATIC_01 Death Right Spritesheet_0: 4220449104758083162
+      FANATIC_01 Death Right Spritesheet_1: -6308576667342126605
+      FANATIC_01 Death Right Spritesheet_10: -3388467618855093923
+      FANATIC_01 Death Right Spritesheet_100: -5559282279064670820
+      FANATIC_01 Death Right Spritesheet_101: 2121034102886307490
+      FANATIC_01 Death Right Spritesheet_102: 5010311090897442135
+      FANATIC_01 Death Right Spritesheet_103: -5442095196251781495
+      FANATIC_01 Death Right Spritesheet_104: 3118541097761777137
+      FANATIC_01 Death Right Spritesheet_105: 4987011178231029083
+      FANATIC_01 Death Right Spritesheet_106: -3633941741955474565
+      FANATIC_01 Death Right Spritesheet_107: 1712933842941239951
+      FANATIC_01 Death Right Spritesheet_108: -1989888092925817001
+      FANATIC_01 Death Right Spritesheet_109: 1350881095377869174
+      FANATIC_01 Death Right Spritesheet_11: 2310018434642544440
+      FANATIC_01 Death Right Spritesheet_110: 4515844864036169434
+      FANATIC_01 Death Right Spritesheet_111: 7448650621033610980
+      FANATIC_01 Death Right Spritesheet_112: 3153552980522415195
+      FANATIC_01 Death Right Spritesheet_113: -8274413307324875638
+      FANATIC_01 Death Right Spritesheet_114: 8573630245096501721
+      FANATIC_01 Death Right Spritesheet_115: 6870787939514809035
+      FANATIC_01 Death Right Spritesheet_116: -2684195724146924798
+      FANATIC_01 Death Right Spritesheet_117: 7832619165193182819
+      FANATIC_01 Death Right Spritesheet_118: -4512519962781971248
+      FANATIC_01 Death Right Spritesheet_119: 1997335018336385019
+      FANATIC_01 Death Right Spritesheet_12: -1127676638008483602
+      FANATIC_01 Death Right Spritesheet_120: -4644752477659052334
+      FANATIC_01 Death Right Spritesheet_121: -7705564632577240027
+      FANATIC_01 Death Right Spritesheet_122: 3977244583610923134
+      FANATIC_01 Death Right Spritesheet_123: 5878179652436161976
+      FANATIC_01 Death Right Spritesheet_124: 757589923192410967
+      FANATIC_01 Death Right Spritesheet_125: 6443913049774942109
+      FANATIC_01 Death Right Spritesheet_126: 5990813145354699405
+      FANATIC_01 Death Right Spritesheet_127: -8418885009068519399
+      FANATIC_01 Death Right Spritesheet_128: 6913575337978198649
+      FANATIC_01 Death Right Spritesheet_129: 3266450145876347458
+      FANATIC_01 Death Right Spritesheet_13: -968407081732828135
+      FANATIC_01 Death Right Spritesheet_130: 7958907458825580796
+      FANATIC_01 Death Right Spritesheet_131: 2273475733644134474
+      FANATIC_01 Death Right Spritesheet_132: -1556786087703638659
+      FANATIC_01 Death Right Spritesheet_133: 1824729212600056310
+      FANATIC_01 Death Right Spritesheet_14: -5757809274608263949
+      FANATIC_01 Death Right Spritesheet_15: -385455877741634704
+      FANATIC_01 Death Right Spritesheet_16: -804728659349424909
+      FANATIC_01 Death Right Spritesheet_17: 736514092638317821
+      FANATIC_01 Death Right Spritesheet_18: -7235924254271071201
+      FANATIC_01 Death Right Spritesheet_19: -4025014842796022610
+      FANATIC_01 Death Right Spritesheet_2: -3497327729316426054
+      FANATIC_01 Death Right Spritesheet_20: 3537536555060919283
+      FANATIC_01 Death Right Spritesheet_21: 6367432544721596203
+      FANATIC_01 Death Right Spritesheet_22: -5617320342701564992
+      FANATIC_01 Death Right Spritesheet_23: 5851949916387016742
+      FANATIC_01 Death Right Spritesheet_24: 3615347586275686015
+      FANATIC_01 Death Right Spritesheet_25: 6068229393670650426
+      FANATIC_01 Death Right Spritesheet_26: 2084678404945058823
+      FANATIC_01 Death Right Spritesheet_27: 2348309800117096486
+      FANATIC_01 Death Right Spritesheet_28: -5097008365346033399
+      FANATIC_01 Death Right Spritesheet_29: 8900346706040767589
+      FANATIC_01 Death Right Spritesheet_3: 1626920592230543216
+      FANATIC_01 Death Right Spritesheet_30: -3470187115352571192
+      FANATIC_01 Death Right Spritesheet_31: -717610272746002274
+      FANATIC_01 Death Right Spritesheet_32: 5921521208202258853
+      FANATIC_01 Death Right Spritesheet_33: 1037710775625196820
+      FANATIC_01 Death Right Spritesheet_34: -6542344566429417423
+      FANATIC_01 Death Right Spritesheet_35: -5582066201104905241
+      FANATIC_01 Death Right Spritesheet_36: -6941431584843763529
+      FANATIC_01 Death Right Spritesheet_37: 8926715578609907069
+      FANATIC_01 Death Right Spritesheet_38: 8880498120456846532
+      FANATIC_01 Death Right Spritesheet_39: 7264805006110354952
+      FANATIC_01 Death Right Spritesheet_4: -1096995752866698036
+      FANATIC_01 Death Right Spritesheet_40: -3852703998381228599
+      FANATIC_01 Death Right Spritesheet_41: -4654796240638872901
+      FANATIC_01 Death Right Spritesheet_42: 1891090113083190299
+      FANATIC_01 Death Right Spritesheet_43: -7081260646931288318
+      FANATIC_01 Death Right Spritesheet_44: 4177197739835100697
+      FANATIC_01 Death Right Spritesheet_45: 7033569924673556286
+      FANATIC_01 Death Right Spritesheet_46: 547510965873200122
+      FANATIC_01 Death Right Spritesheet_47: -2310170305549904198
+      FANATIC_01 Death Right Spritesheet_48: -5609173402646032410
+      FANATIC_01 Death Right Spritesheet_49: 6046964889520557082
+      FANATIC_01 Death Right Spritesheet_5: 2361251152104905841
+      FANATIC_01 Death Right Spritesheet_50: 1085057047725150266
+      FANATIC_01 Death Right Spritesheet_51: -9099898177074644644
+      FANATIC_01 Death Right Spritesheet_52: -3540289815088342349
+      FANATIC_01 Death Right Spritesheet_53: 6310246117624062634
+      FANATIC_01 Death Right Spritesheet_54: 1898838724753180715
+      FANATIC_01 Death Right Spritesheet_55: -4505345127886016542
+      FANATIC_01 Death Right Spritesheet_56: 6680962839390493645
+      FANATIC_01 Death Right Spritesheet_57: 1623133919784157984
+      FANATIC_01 Death Right Spritesheet_58: -2814605282718304324
+      FANATIC_01 Death Right Spritesheet_59: 3104160675866096531
+      FANATIC_01 Death Right Spritesheet_6: -7706099759601584835
+      FANATIC_01 Death Right Spritesheet_60: -5461302921719394774
+      FANATIC_01 Death Right Spritesheet_61: -2894946885057695492
+      FANATIC_01 Death Right Spritesheet_62: -2153336917874663039
+      FANATIC_01 Death Right Spritesheet_63: -5363615694660417077
+      FANATIC_01 Death Right Spritesheet_64: 4361210503279468023
+      FANATIC_01 Death Right Spritesheet_65: 8392927378506948376
+      FANATIC_01 Death Right Spritesheet_66: 8662143389155674613
+      FANATIC_01 Death Right Spritesheet_67: -6291126320074497456
+      FANATIC_01 Death Right Spritesheet_68: 365220580417414799
+      FANATIC_01 Death Right Spritesheet_69: 2502023990787594726
+      FANATIC_01 Death Right Spritesheet_7: 3522878082047671115
+      FANATIC_01 Death Right Spritesheet_70: 7832020253267320052
+      FANATIC_01 Death Right Spritesheet_71: -3693288138862001965
+      FANATIC_01 Death Right Spritesheet_72: -4337099770160541369
+      FANATIC_01 Death Right Spritesheet_73: -1601196747110076847
+      FANATIC_01 Death Right Spritesheet_74: -6375775995066011415
+      FANATIC_01 Death Right Spritesheet_75: 2175181785786501439
+      FANATIC_01 Death Right Spritesheet_76: -2497256435123909236
+      FANATIC_01 Death Right Spritesheet_77: -2523850605976554367
+      FANATIC_01 Death Right Spritesheet_78: -8802513423471606988
+      FANATIC_01 Death Right Spritesheet_79: -834020760329178424
+      FANATIC_01 Death Right Spritesheet_8: -2786149355732727651
+      FANATIC_01 Death Right Spritesheet_80: -2126367351062245046
+      FANATIC_01 Death Right Spritesheet_81: 8976996935858589933
+      FANATIC_01 Death Right Spritesheet_82: 1256016868980775707
+      FANATIC_01 Death Right Spritesheet_83: 8964312354992821974
+      FANATIC_01 Death Right Spritesheet_84: -3267821848225001446
+      FANATIC_01 Death Right Spritesheet_85: 226565576287404779
+      FANATIC_01 Death Right Spritesheet_86: 6864768313028704193
+      FANATIC_01 Death Right Spritesheet_87: -6377922550469063055
+      FANATIC_01 Death Right Spritesheet_88: 6308823419412565762
+      FANATIC_01 Death Right Spritesheet_89: -3935648073661045011
+      FANATIC_01 Death Right Spritesheet_9: 7365506557582458623
+      FANATIC_01 Death Right Spritesheet_90: 5258323745295288462
+      FANATIC_01 Death Right Spritesheet_91: 563573047126198354
+      FANATIC_01 Death Right Spritesheet_92: 432903046600804016
+      FANATIC_01 Death Right Spritesheet_93: 7843002324825923818
+      FANATIC_01 Death Right Spritesheet_94: 2884848387629413061
+      FANATIC_01 Death Right Spritesheet_95: -1457241910351303963
+      FANATIC_01 Death Right Spritesheet_96: -7214007489232727702
+      FANATIC_01 Death Right Spritesheet_97: 5874593213783031525
+      FANATIC_01 Death Right Spritesheet_98: 5990815982309191851
+      FANATIC_01 Death Right Spritesheet_99: -7866632409078966298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

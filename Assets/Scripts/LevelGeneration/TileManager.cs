@@ -6,54 +6,28 @@ using UnityEngine.Tilemaps;
 public class TileManager : MonoBehaviour
 {
     [SerializeField]
-    private TileBase defaultFloorTile;
+    private TileSet floorTileSet;
     [SerializeField]
-    private TileBase flowersFloorTile;
-    [SerializeField]
-    private TileBase decorationFloorTile1;
-    [SerializeField]
-    private TileBase decorationFloorTile2;
-
-    [SerializeField]
-    private TileBase defaultBackgroundTile;
-    [SerializeField]
-    private TileBase decorationBackgroundTile1;
-    [SerializeField]
-    private TileBase decorationBackgroundTile2;
-    [SerializeField]
-    private TileBase decorationBackgroundTile3;
+    private TileSet backgroundTileSet;
 
     private List<MyTile> floorTiles;
     private List<MyTile> backgroundTiles;
 
-    private void InitializeTiles()
+    private void Init()
     {
-        floorTiles = new List<MyTile>
-        {
-            new MyTile { Sprite = defaultFloorTile, Weight = 90f },
-            new MyTile { Sprite = flowersFloorTile, Weight = 5f },
-            new MyTile { Sprite = decorationFloorTile1, Weight = 2.5f },
-            new MyTile { Sprite = decorationFloorTile2, Weight = 2.5f }
-        };
-
-        backgroundTiles = new List<MyTile>
-        {
-            new MyTile { Sprite = defaultBackgroundTile, Weight = 97f },
-            new MyTile { Sprite = decorationBackgroundTile1, Weight = 1f },
-            new MyTile { Sprite = decorationBackgroundTile2, Weight = 1f },
-            new MyTile { Sprite = decorationBackgroundTile3, Weight = 1f }
-        };
+        floorTiles = floorTileSet.tiles;
+        backgroundTiles = backgroundTileSet.tiles;
     }
 
     public TileBase GetRandomFloorTile()
     {
-        InitializeTiles();
+        Init();
         return GetRandomTile(floorTiles);
     }
 
     public TileBase GetRandomBackgroundTile()
     {
-        InitializeTiles();
+        Init();
         return GetRandomTile(backgroundTiles);
     }
 
