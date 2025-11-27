@@ -8,9 +8,6 @@ public class SimpleRandomWalkDungeonGenerator : AbstractDungeonGenerator
 {
     protected override void RunProceduralGeneration()
     {
-        var floorPositions = RunRandomWalk(randomWalkParameters, startPosition);
-        pathVizualizer.Clear();
-        pathVizualizer.PaintFloorTiles(floorPositions);
     }
 
     protected HashSet<Vector2> RunRandomWalk(SimpleRandomWalkData parameters, Vector2 position)

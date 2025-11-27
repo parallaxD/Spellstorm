@@ -35,21 +35,11 @@ public static class ProceduralGenerationAlgorithms
         for (int i = 0; i < corridorLength; i++)
         {
             currentPosition += randomDirection;
-            var d = SimpleRandomWalk(currentPosition, corridorWidth);
-            corridor.UnionWith(d);
-            //IncreaseCorridorSizeByOne(corridor, currentPosition);
+            var corridorRandomWalk = SimpleRandomWalk(currentPosition, corridorWidth);
+            corridor.UnionWith(corridorRandomWalk);
         }
 
         return corridor.ToList();
-    }
-
-    private static void IncreaseCorridorSizeByOne(List<Vector2> corridor, Vector2 position)
-    {
-        foreach (var direction in Direction2D.cardinalDirectionList)
-        {
-            position += direction;
-            corridor.Add(position);
-        }
     }
 }
 

@@ -27,6 +27,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
     private HashSet<Vector2> CreateRooms(HashSet<Vector2> potentialRoomPositions)
     {
         var roomPositions = new HashSet<Vector2>();
+        var roomPositionsSet = new List<HashSet<Vector2>>();
 
         var roomToCreate = potentialRoomPositions
             .OrderBy(x => Guid.NewGuid())
@@ -35,9 +36,12 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 
         foreach (var roomPosition in roomToCreate)
         {
-            var roomFloor = RunRandomWalk(randomWalkParameters, roomPosition);
-            roomPositions.UnionWith(roomFloor);
+            var roomRandomWalkPosition = RunRandomWalk(randomWalkParameters, roomPosition);
+            roomPositions.UnionWith(roomRandomWalkPosition);
+            roomPositionsSet.Add(roomRandomWalkPosition);
         }
+
+        // Отправить roomPositionsSet в генерацию декора
 
         return roomPositions;
     }
