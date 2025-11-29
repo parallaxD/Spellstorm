@@ -9,6 +9,7 @@ public class RandomDungeonGeneratorEditor : Editor
     private void Awake()
     {
         generator = (AbstractDungeonGenerator)target;
+        InitializeTileManager();
     }
 
     public override void OnInspectorGUI()
@@ -18,6 +19,20 @@ public class RandomDungeonGeneratorEditor : Editor
         if (GUILayout.Button("Create Dungeon"))
         {
             generator.GenerateDungeon();
+        }
+    }
+
+    private void InitializeTileManager()
+    {
+        var tileManager = FindFirstObjectByType<TileManager>();
+
+        if (tileManager != null)
+        {
+            tileManager.Initialize();
+        }
+        else
+        {
+            Debug.LogError("TileManager not found in the scene! (editor)");
         }
     }
 }

@@ -5,33 +5,23 @@ using UnityEngine.Tilemaps;
 
 public class TileManager : MonoBehaviour
 {
-    [SerializeField]
-    private TileSet floorTileSet;
-    [SerializeField]
-    private TileSet backgroundTileSet;
+    [SerializeField] private TileSet floorTileSet;
+    [SerializeField] private TileSet backgroundTileSet;
 
     private List<MyTile> floorTiles;
     private List<MyTile> backgroundTiles;
 
-    private void Init()
+    public void Initialize()
     {
         floorTiles = floorTileSet.tiles;
         backgroundTiles = backgroundTileSet.tiles;
     }
 
-    public TileBase GetRandomFloorTile()
-    {
-        Init();
-        return GetRandomTile(floorTiles);
-    }
+    public TileBase GetRandomFloorTile() => GetRandomTile(floorTiles);
 
-    public TileBase GetRandomBackgroundTile()
-    {
-        Init();
-        return GetRandomTile(backgroundTiles);
-    }
+    public TileBase GetRandomBackgroundTile() => GetRandomTile(backgroundTiles);
 
-    public TileBase GetRandomTile(List<MyTile> spriteTiles)
+    private TileBase GetRandomTile(List<MyTile> spriteTiles)
     {
         if (spriteTiles == null || spriteTiles.Count == 0)
         {
@@ -39,8 +29,8 @@ public class TileManager : MonoBehaviour
             return null;
         }
 
-        float totalWeight = spriteTiles.Sum(item => item.Weight);
-        float randomValue = Random.Range(0f, totalWeight);
+        var totalWeight = spriteTiles.Sum(item => item.Weight);
+        var randomValue = Random.Range(0f, totalWeight);
 
         foreach (var item in spriteTiles)
         {

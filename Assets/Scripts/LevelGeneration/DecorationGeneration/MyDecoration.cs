@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 [System.Serializable]
-public class Decoration
+public class MyDecoration
 {
     public Sprite Sprite;
 
