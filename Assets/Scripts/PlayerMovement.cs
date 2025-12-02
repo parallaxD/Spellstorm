@@ -57,4 +57,9 @@ public class Player : MonoBehaviour
         animator.SetFloat("MoveY", moveInput.y);
         animator.SetBool("IsMoving", moveInput.magnitude > 0.01f);
     }
+
+    public Vector2 GetMoveDir()
+    {
+        return moveInput;
+    }
 }

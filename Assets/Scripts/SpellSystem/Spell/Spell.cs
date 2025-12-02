@@ -1,11 +1,12 @@
 using System.Collections;
-using UnityEngine; 
+using UnityEngine;
+
 public abstract class Spell
 {
-    public SpellData Data { get; private set; } = new SpellData();  
-    public abstract void Action();
+    public SpellData Data { get; private set; } = new SpellData();
+
     public Spell(SpellData data)
-    {   
+    {
         Data.Name = data.name;
         Data.ID = data.ID;
         Data.Cooldown = data.Cooldown;
@@ -13,36 +14,64 @@ public abstract class Spell
         Data.Receipt = data.Receipt;
     }
 
+    public virtual void Action()
+    {
+        Vector3 direction = GetShootDirection();
+        LaunchProjectile(direction);
+    }
+
+    protected virtual Vector3 GetShootDirection()
+    {
+        Vector3 mouseScreenPosition = Input.mousePosition;
+        mouseScreenPosition.z = Mathf.Abs(Constants.MainCamera.transform.position.z);
+        Vector3 mouseWorldPosition = Constants.MainCamera.ScreenToWorldPoint(mouseScreenPosition);
+        mouseWorldPosition.z = 0;
+        return (mouseWorldPosition - Constants.PlayerTransform.position).normalized;
+    }
+
+    protected abstract void LaunchProjectile(Vector3 direction);
 }
 
 public class Fireball : Spell
 {
     public Fireball(SpellData data) : base(data) { }
 
-    [SerializeField] private float _floatTime;
-
-    public override void Action()
+    protected override void LaunchProjectile(Vector3 direction)
     {
-        Vector3 mouseScreenPosition = Input.mousePosition;
-      
-        mouseScreenPosition.z = Mathf.Abs(Constants.MainCamera.transform.position.z);
-
-        Vector3 mouseWorldPosition = Constants.MainCamera.ScreenToWorldPoint(mouseScreenPosition);
-        mouseWorldPosition.z = 0;
-
-        Vector3 directionToShoot = (mouseWorldPosition - Constants.PlayerTransform.position).normalized;
-
         var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(directionToShoot);
+        fireballProjectile.Launch(direction);
     }
-
 }
 
 public class Waterball : Spell
 {
     public Waterball(SpellData data) : base(data) { }
-    public override void Action()
+
+    protected override void LaunchProjectile(Vector3 direction)
     {
-        Debug.Log("Waterball casted!");
+        var waterballProjectile = WaterballProjectile.Create();
+        waterballProjectile.Launch(direction);
+    }
+}
+
+public class Fire : Spell
+{
+    public Fire(SpellData data) : base(data) { }
+
+    protected override void LaunchProjectile(Vector3 direction)
+    {
+        var fireballProjectile = FireballProjectile.Create();
+        fireballProjectile.Launch(direction);
+    }
+}
+
+public class FireEarth : Spell
+{
+    public FireEarth(SpellData data) : base(data) { }
+
+    protected override void LaunchProjectile(Vector3 direction)
+    {
+        var fireEarth = FireEarthProjectile.Create();
+        fireEarth.Launch(direction);
     }
 }

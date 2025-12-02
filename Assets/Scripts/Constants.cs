@@ -36,8 +36,30 @@ public static class Constants
         get
         {
             if (_fireballPrefab == null)
-                _fireballPrefab = (GameObject)Resources.Load("Prefabs/Fireball");
+                _fireballPrefab = (GameObject)Resources.Load("Prefabs/SpellSystem/Spells/Fireball");
             return _fireballPrefab;
+        }
+    }
+
+    private static GameObject _waterballPrefab;
+    public static GameObject WaterballPrefab
+    {
+        get
+        {
+            if (_waterballPrefab == null)
+                _waterballPrefab = (GameObject)Resources.Load("Prefabs/SpellSystem/Spells/Waterball");
+            return _waterballPrefab;
+        }
+    }
+
+    private static GameObject _fireEarthProjectile;
+    public static GameObject FireEarthProjectile
+    {
+        get
+        {
+            if (_fireEarthProjectile == null)
+                _fireEarthProjectile = (GameObject)Resources.Load("Prefabs/SpellSystem/Spells/FireEarth");
+            return _fireEarthProjectile;
         }
     }
 }

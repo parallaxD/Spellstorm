@@ -15,10 +15,10 @@ public class Teleport : MovementAbility
         Player player = playerTransform.GetComponent<Player>();
         if (player != null)
         {
-            //Vector2 moveDirection = player.GetMoveDir();
+            Vector2 moveDirection = player.GetMoveDir();
 
-            //Vector2 newPosition = (Vector2)playerTransform.position + moveDirection * teleportDistance;
-            //playerTransform.position = newPosition;
+            Vector2 newPosition = (Vector2)playerTransform.position + moveDirection * teleportDistance;
+            playerTransform.position = newPosition;
 
         }
     }
