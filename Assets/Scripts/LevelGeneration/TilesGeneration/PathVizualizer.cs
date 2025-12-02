@@ -6,10 +6,8 @@ using UnityEngine.Tilemaps;
 
 public class PathVizualizer : MonoBehaviour
 {
-    [SerializeField]
-    private Tilemap floorTilemap;
-    [SerializeField]
-    private TileManager tileManager;
+    [SerializeField] private Tilemap floorTilemap;
+    [SerializeField] private TileManager tileManager;
 
     public void PaintFloorTiles(HashSet<Vector2> floorPositions)
     {

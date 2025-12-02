@@ -41,7 +41,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
             roomPositionsSet.Add(roomRandomWalkPosition);
         }
 
-        // Отправить roomPositionsSet в генерацию декора
+        DecorationGenerator.roomPositionsList = roomPositionsSet;
 
         return roomPositions;
     }

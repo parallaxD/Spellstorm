@@ -9,11 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4d6be477034f6c4e8e00b4844e42961, type: 3}
+  m_Script: {fileID: 11500000, guid: 59df71b97bae41046aac48325a6dcc46, type: 3}
   m_Name: FloorTileSet
   m_EditorClassIdentifier: Assembly-CSharp::TileSet
   tiles:
   - Sprite: {fileID: 11400000, guid: a65a593ea1ea84449968da1a99cf9486, type: 2}
-    Weight: 80
+    Weight: 70
   - Sprite: {fileID: 11400000, guid: 9dbd269fd9b9799429dbc660f2b936d9, type: 2}
-    Weight: 20
+    Weight: 31
