@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 4501002721005316996}
   - component: {fileID: 1578342531409441026}
   - component: {fileID: 2628991133719644729}
-  - component: {fileID: 3415900038715258433}
+  - component: {fileID: -6830912148924363315}
   m_Layer: 0
-  m_Name: FireEarth
+  m_Name: WindBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 0.49056602, g: 0.19956546, b: 0.025453899, a: 1}
+  m_Color: {r: 0, g: 0.66164064, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -137,7 +137,7 @@ MonoBehaviour:
   m_LightType: 3
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.5
-  m_Color: {r: 1, g: 0.91637224, b: 0.8820755, a: 1}
+  m_Color: {r: 0.126157, g: 0.77197254, b: 0.990566, a: 1}
   m_Intensity: 4.31
   m_LightVolumeIntensity: 1
   m_LightVolumeEnabled: 0
@@ -209,7 +209,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
---- !u!114 &3415900038715258433
+--- !u!114 &-6830912148924363315
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -218,9 +218,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 5906944589546422025}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2ddd93dea9091c54b880be2945c5aac8, type: 3}
+  m_Script: {fileID: 11500000, guid: 392e02b49ad3d8741a8a6be3fd68a696, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FireEarthProjectile
+  m_EditorClassIdentifier: Assembly-CSharp::WindProjectile
   damage: 30
   force: 2
   lifetime: 5

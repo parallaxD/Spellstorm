@@ -38,7 +38,8 @@ public abstract class Projectile : MonoBehaviour
         {
             "FireballProjectile" => Constants.FireballPrefab,
             "WaterballProjectile" => Constants.WaterballPrefab,
-            "FireEarthProjectile" => Constants.FireEarthProjectile,
+            "EarthProjectile" => Constants.EarthProjectile,
+            "WindProjectile" => Constants.WindProjectile,
             _ => null
         };
     }

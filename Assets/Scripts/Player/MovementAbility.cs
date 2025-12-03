@@ -12,7 +12,7 @@ public class Teleport : MovementAbility
 
     public override void Action(Transform playerTransform)
     {
-        Player player = playerTransform.GetComponent<Player>();
+        PlayerMovement player = playerTransform.GetComponent<PlayerMovement>();
         if (player != null)
         {
             Vector2 moveDirection = player.GetMoveDir();

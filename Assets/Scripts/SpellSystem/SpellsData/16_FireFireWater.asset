@@ -10,18 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96937407bf0a5524aa48a506c00a827f, type: 3}
-  m_Name: 2_Waterball
+  m_Name: 16_FireFireWater
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
-  ID: 2
-  Name: Waterball
-  Cooldown: 3
+  ID: 
+  Name: 
+  Cooldown: 
   Sprite: {fileID: 0}
-  Receipt:
-  - elementType: 1
-    count: 1
-  - elementType: 0
-    count: 0
-  - elementType: 2
-    count: 0
-  - elementType: 3
-    count: 0
+  Receipt: []

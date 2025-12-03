@@ -1,99 +1,119 @@
 using System.Collections;
 using UnityEngine;
 
-public class Enemy : MonoBehaviour, IDamagable, IEffectable
+public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
 {
-    [SerializeField] private float moveSpeed = 3f;
-    [SerializeField] private float stoppingDistance = 1f;
-    [SerializeField] private float smoothTime = 0.3f;
-    [SerializeField] private float detectionRange = 5f;
-    [SerializeField] private float attackRange = 1.5f;
-    [SerializeField] private int attackDamage = 10;
-    [SerializeField] private float attackCooldown = 2f;
-    [SerializeField] private float attackDelay = 0.3f;
-    [SerializeField] private int health = 100;
-    [SerializeField] private Animator animator;
+    [Header("Movement Settings")]
+    [SerializeField] protected float moveSpeed = 3f;
+    [SerializeField] protected float smoothTime = 0.3f;
+    [SerializeField] protected float detectionRange = 5f;
 
-    private Vector2 currentVelocity;
-    private Rigidbody2D rb;
-    private Vector2 moveDirection;
-    private bool canAttack = true;
-    private bool isAttacking = false;
-    private Coroutine attackCoroutine;
+    [Header("Combat Settings")]
+    [SerializeField] protected float attackRange = 1.5f;
+    [SerializeField] protected int attackDamage = 10;
+    [SerializeField] protected float attackCooldown = 2f;
+    [SerializeField] protected float attackDelay = 0.3f;
+    [SerializeField] protected int health = 100;
+
+    [Header("Components")]
+    [SerializeField] protected Animator animator;
+    [SerializeField] protected Rigidbody2D rb;
+
+    public float PreferredStoppingDistance => attackRange * 0.9f; 
+
+    protected Vector2 currentVelocity;
+
+    protected bool canAttack = true;
+    protected bool isAttacking = false;
+    protected Coroutine attackCoroutine;
 
     public bool IsAlive => health > 0;
+    protected Transform Player => Constants.PlayerTransform;
+    protected bool IsPlayerInDetectionRange => Player != null && Vector2.Distance(transform.position, Player.position) <= detectionRange;
 
-    private void Start()
+    protected abstract void UpdateAnimatorParameters(Vector2 moveDirection);
+    protected abstract void UpdateAttackAnimation(Vector2 attackDirection);
+    protected abstract string GetAttackAnimationName(Vector2 direction);
+
+    protected virtual void Start()
     {
-        animator = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
+        if (animator == null) animator = GetComponent<Animator>();
+        if (rb == null) rb = GetComponent<Rigidbody2D>();
     }
 
-    private void FixedUpdate()
+    protected virtual void FixedUpdate()
     {
         if (!IsAlive || isAttacking) return;
 
-        if (IsPlayerInRange())
+        if (IsPlayerInDetectionRange && Player != null)
         {
-            var player = Constants.PlayerTransform;
-            if (player != null)
-            {
-                float distanceToPlayer = Vector2.Distance(transform.position, player.position);
-
-                if (distanceToPlayer <= attackRange && canAttack)
-                {
-                    AttackPlayer();
-                }
-                else if (distanceToPlayer > stoppingDistance)
-                {
-                    ChasePlayer();
-                    animator.SetBool("isMoving", true);
-                }
-                else
-                {
-                    animator.SetBool("isMoving", false);
-                }
-            }
+            HandleCombatBehavior();
         }
         else
         {
-            animator.SetBool("isMoving", false);
+            HandleIdleBehavior();
         }
     }
 
-    private bool IsPlayerInRange()
+    protected virtual void HandleCombatBehavior()
     {
-        var player = Constants.PlayerTransform;
-        if (player == null) return false;
+        float distanceToPlayer = Vector2.Distance(transform.position, Player.position);
 
-        float distance = Vector2.Distance(transform.position, player.position);
-        return distance <= detectionRange;
+        if (distanceToPlayer <= attackRange && canAttack)
+        {
+            StartAttack();
+        }
+        else if (distanceToPlayer > PreferredStoppingDistance)
+        {
+            MoveTowardsPlayer();
+        }
+        else
+        {
+            HandleStationaryPosition();
+        }
     }
 
-    private void ChasePlayer()
+    protected virtual void HandleIdleBehavior()
     {
-        var player = Constants.PlayerTransform;
-        if (player == null) return;
+        animator.SetBool("isMoving", false);
+    }
 
-        Vector2 targetPosition = player.position;
-        float distance = Vector2.Distance(rb.position, targetPosition);
+    protected virtual void MoveTowardsPlayer()
+    {
+        Vector2 targetPosition = Player.position;
+        Vector2 newPosition = Vector2.SmoothDamp(
+            rb.position,
+            targetPosition,
+            ref currentVelocity,
+            smoothTime,
+            moveSpeed
+        );
 
-        if (distance > stoppingDistance)
+        Vector2 moveDirection = (newPosition - rb.position).normalized;
+        UpdateAnimatorParameters(moveDirection);
+
+        animator.SetBool("isMoving", true);
+        rb.MovePosition(newPosition);
+    }
+
+    protected virtual void HandleStationaryPosition()
+    {
+        if (currentVelocity.magnitude > 0.1f)
         {
-            Vector2 newPosition = Vector2.SmoothDamp(rb.position, targetPosition, ref currentVelocity, smoothTime, moveSpeed);
-            moveDirection = (newPosition - rb.position).normalized;
-            animator.SetFloat("moveX", moveDirection.x);
-            animator.SetFloat("moveY", moveDirection.y);
-            if (moveDirection.x != 0 || moveDirection.y != 0)
-            {
-                animator.SetFloat("lastMoveX", moveDirection.x);
-                animator.SetFloat("lastMoveY", moveDirection.y);
-            }
+            Vector2 newPosition = Vector2.SmoothDamp(
+                rb.position,
+                rb.position,
+                ref currentVelocity,
+                smoothTime * 0.5f,
+                moveSpeed
+            );
             rb.MovePosition(newPosition);
         }
+
+        animator.SetBool("isMoving", false);
     }
 
-    private void AttackPlayer()
+    protected virtual void StartAttack()
     {
         if (!canAttack || isAttacking) return;
 
@@ -101,67 +121,46 @@ public class Enemy : MonoBehaviour, IDamagable, IEffectable
         isAttacking = true;
         animator.SetBool("isMoving", false);
 
-        var player = Constants.PlayerTransform;
-        if (player != null)
-        {
-            Vector2 directionToPlayer = (player.position - transform.position).normalized;
+        Vector2 directionToPlayer = (Player.position - transform.position).normalized;
+        UpdateAttackAnimation(directionToPlayer);
 
-            // Устанавливаем lastMove параметры для анимации
-            animator.SetFloat("lastMoveX", directionToPlayer.x);
-            animator.SetFloat("lastMoveY", directionToPlayer.y);
-
-            // Запускаем атаку (аниматор сам выберет правильную анимацию на основе lastMove)
-            animator.SetTrigger("Attack");
-        }
-
-        StartCoroutine(AttackSequence());
+        if (attackCoroutine != null) StopCoroutine(attackCoroutine);
+        attackCoroutine = StartCoroutine(AttackSequence());
     }
 
-    private string GetAttackDirection(Vector2 direction)
-    {
-        if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
-        {
-            return direction.x > 0 ? "Right" : "Left";
-        }
-        else
-        {
-            return direction.y > 0 ? "Up" : "Down";
-        }
-    }
-
-    private IEnumerator AttackSequence()
+    protected virtual IEnumerator AttackSequence()
     {
         yield return new WaitForSeconds(attackDelay);
 
-        var player = Constants.PlayerTransform;
-        if (player != null && IsPlayerInAttackRange())
-        {
-            var playerDamagable = player.GetComponent<IDamagable>();
-            if (playerDamagable != null)
-            {
-                Vector2 attackDirection = (player.position - transform.position).normalized;
-                playerDamagable.TakeDamage(attackDamage, attackDirection);
-            }
-        }
-
+        PerformAttack();
         yield return new WaitForSeconds(0.1f);
-
         isAttacking = false;
 
         yield return new WaitForSeconds(attackCooldown - attackDelay - 0.1f);
         canAttack = true;
     }
 
-    private bool IsPlayerInAttackRange()
+    protected virtual void PerformAttack()
     {
-        var player = Constants.PlayerTransform;
-        if (player == null) return false;
+        if (Player != null && IsPlayerInAttackRange())
+        {
+            var playerDamagable = Player.GetComponent<IDamagable>();
+            if (playerDamagable != null)
+            {
+                playerDamagable.TakeDamage(attackDamage);
 
-        float distance = Vector2.Distance(transform.position, player.position);
-        return distance <= attackRange;
+
+                Debug.Log($"{gameObject.name} наносит {attackDamage} урона игроку. Оставшееся HP: {((MonoBehaviour)playerDamagable).GetComponent<PlayerHealth>()?.GetCurrentHealth() ?? 0}");
+            }
+        }
     }
 
-    public void TakeDamage(int damage)
+    protected virtual bool IsPlayerInAttackRange()
+    {
+        return Player != null && Vector2.Distance(transform.position, Player.position) <= attackRange;
+    }
+
+    public virtual void TakeDamage(int damage)
     {
         if (!IsAlive) return;
 
@@ -173,7 +172,7 @@ public class Enemy : MonoBehaviour, IDamagable, IEffectable
         }
     }
 
-    public void TakeDamage(int damage, Vector2 damageDirection)
+    public virtual void TakeDamage(int damage, Vector2 damageDirection)
     {
         TakeDamage(damage);
 
@@ -183,7 +182,7 @@ public class Enemy : MonoBehaviour, IDamagable, IEffectable
         }
     }
 
-    public void ApplySlow(float slowFactor, float duration)
+    public virtual void ApplySlow(float slowFactor, float duration)
     {
         StartCoroutine(ReduceMovementSpeed(slowFactor, duration));
     }
@@ -196,20 +195,20 @@ public class Enemy : MonoBehaviour, IDamagable, IEffectable
         moveSpeed = originalSpeed;
     }
 
-    private void Die()
+    protected virtual void Die()
     {
         if (attackCoroutine != null)
             StopCoroutine(attackCoroutine);
         Destroy(gameObject);
     }
 
-    private void OnDrawGizmosSelected()
+    protected virtual void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, detectionRange);
 
         Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(transform.position, stoppingDistance);
+        Gizmos.DrawWireSphere(transform.position, PreferredStoppingDistance);
 
         Gizmos.color = Color.magenta;
         Gizmos.DrawWireSphere(transform.position, attackRange);

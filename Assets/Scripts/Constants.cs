@@ -52,14 +52,25 @@ public static class Constants
         }
     }
 
-    private static GameObject _fireEarthProjectile;
-    public static GameObject FireEarthProjectile
+    private static GameObject _earthProjectile;
+    public static GameObject EarthProjectile
     {
         get
         {
-            if (_fireEarthProjectile == null)
-                _fireEarthProjectile = (GameObject)Resources.Load("Prefabs/SpellSystem/Spells/FireEarth");
-            return _fireEarthProjectile;
+            if (_earthProjectile == null)
+                _earthProjectile = (GameObject)Resources.Load("Prefabs/SpellSystem/Spells/EarthBall");
+            return _earthProjectile;
+        }
+    }
+
+    private static GameObject _windProjectile;
+    public static GameObject WindProjectile
+    {
+        get
+        {
+            if (_windProjectile == null)
+                _windProjectile = (GameObject)Resources.Load("Prefabs/SpellSystem/Spells/WindBall");
+            return _windProjectile;
         }
     }
 }
