@@ -11,8 +11,7 @@ public class MyDecoration
 
     public int GetSizeInTiles()
     {
-        if (!Sprite)
-            return 1;
+        if (!Sprite) return 1;
 
         var maxSide = Mathf.Max(Sprite.rect.width, Sprite.rect.height);
         var closest = FindClosestStandardSize(maxSide);

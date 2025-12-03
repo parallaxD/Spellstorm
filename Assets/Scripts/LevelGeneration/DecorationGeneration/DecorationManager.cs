@@ -6,25 +6,23 @@ public class DecorationManager : MonoBehaviour
 {
     [SerializeField] private DecorationSet decorationSet;
 
-    private List<MyDecoration> decorations;
+    public List<MyDecoration> decorations;
 
     public void Initialize()
     {
-        decorations = decorationSet.decorations;
+        InitializeDecorationList();
     }
 
-    public List<MyDecoration> GetDecorations()
+    public void InitializeDecorationList()
     {
-        var result = new List<MyDecoration>();
+        decorations.Clear();
 
-        foreach (var decor in decorations)
+        foreach (var decor in decorationSet.decorations)
         {
             for (int i = 0; i < decor.Count; i++)
             {
-                result.Add(decor);
+                decorations.Add(decor);
             }
         }
-
-        return result;
     }
 }

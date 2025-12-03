@@ -1,4 +1,3 @@
-using Newtonsoft.Json.Bson;
 using UnityEngine;
 
 public abstract class AbstractDungeonGenerator : MonoBehaviour
@@ -26,10 +25,10 @@ public abstract class AbstractDungeonGenerator : MonoBehaviour
         RunProceduralGeneration();
     }
 
-    private void GenerateDecoration()
+    public void GenerateDecoration()
     {
         decorationVizualizer.Clear();
-        decorationGenerator.GenerateDecoration();
+        decorationGenerator.GenerateDecorations();
     }
 
     protected abstract void RunProceduralGeneration();

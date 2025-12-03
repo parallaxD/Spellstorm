@@ -10,32 +10,36 @@ public class DecorationGenerator : MonoBehaviour
 
     public static List<HashSet<Vector2>> roomPositionsList;
 
-    public void GenerateDecoration()
+    public void GenerateDecorations()
     {
-        decorationVizualizer.Clear();
+        var decorationPositions = GetDecorationPositions();
+        decorationVizualizer.PaintDecorations(decorationPositions);
+    }
 
+    private List<HashSet<Vector2>> GetDecorationPositions()
+    {
         if (roomPositionsList == null || roomPositionsList.Count == 0)
         {
             Debug.LogError("roomPositionsList not found!");
-            return;
+            return new List<HashSet<Vector2>>();
         }
 
-        var decorationPositions = new List<HashSet<Vector2>>();
+        var result = new List<HashSet<Vector2>>();
 
         foreach (var room in roomPositionsList)
         {
-            var potentialDecorationPosition = GetPotentialDecorationPositionInRoom(room);
-            var decorationPositionInRoom = GetDecorationPositionInRoom(potentialDecorationPosition);
-            decorationPositions.Add(decorationPositionInRoom);
+            var potentialPosition = GetPotentialDecorationPositionInRoom(room);
+            var positionInRoom = GetDecorationPositionInRoom(potentialPosition);
+            result.Add(positionInRoom);
         }
 
-        decorationVizualizer.Vizualize(decorationPositions);
+        return result;
     }
 
     private HashSet<Vector2> GetDecorationPositionInRoom(HashSet<Vector2> potentialPosition)
     {
         var result = new HashSet<Vector2>();
-        var decorations = decorationManager.GetDecorations();
+        var decorations = decorationManager.decorations;
 
         if (potentialPosition.Count < decorations.Count)
         {

@@ -2,7 +2,6 @@
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using UnityEngine.UIElements;
 
 public class DecorationVizualizer : MonoBehaviour
 {
@@ -10,51 +9,68 @@ public class DecorationVizualizer : MonoBehaviour
     [SerializeField] private TileBase tile;
     [SerializeField] private DecorationManager decorationManager;
 
+    private List<MyDecoration> decorations = new List<MyDecoration>();
     private readonly List<GameObject> spawnedDecorations = new List<GameObject>();
 
-    public void Vizualize(List<HashSet<Vector2>> emptyPositionsRooms)
+    public void PaintDecorations(List<HashSet<Vector2>> emptyPositionsRooms)
     {
-        Clear();
-        var decorations = decorationManager.GetDecorations();
+        InitializeDecorationsList();
+        CreateDecorationsInTilemap(emptyPositionsRooms);
+    }
 
-        if (decorations == null || decorations.Count == 0)
+    private void CreateDecorationsInTilemap(List<HashSet<Vector2>> positionsRooms)
+    {
+        foreach (var positionsRoom in positionsRooms)
         {
-            Debug.LogError("Decorations not found!");
-            return;
-        }
-
-        foreach (var emptyPositionsRoom in emptyPositionsRooms)
-        {
-            var positions = emptyPositionsRoom.ToList();
-            var minCount = Mathf.Min(decorations.Count, emptyPositionsRoom.Count);
+            var positions = positionsRoom.ToList();
+            var minCount = Mathf.Min(decorations.Count, positionsRoom.Count);
 
             for (var i = 0; i < minCount; i++)
             {
                 var cell = tilemap.WorldToCell((Vector3)positions[i]);
                 var world = tilemap.GetCellCenterWorld(cell);
 
-                var go = new GameObject($"Decoration{i}");
-                var sr = go.AddComponent<SpriteRenderer>();
-
-                sr.sprite = decorations[i].Sprite;
-                sr.sortingLayerName = "Decorations";
-                sr.sortingOrder = 100;
-                go.transform.SetParent(tilemap.transform, worldPositionStays: false);
-                go.transform.position = world;
-
+                var go = GetDecorationGameObject($"Decoration{i}", decorations[i].Sprite, world);
                 spawnedDecorations.Add(go);
-
-                tilemap.SetTile(cell, tile);
             }
+        }
+    }
+
+    private GameObject GetDecorationGameObject(string name, Sprite sprite, Vector3 position)
+    {
+        var go = new GameObject(name);
+        var sr = go.AddComponent<SpriteRenderer>();
+
+        sr.sprite = sprite;
+        sr.sortingLayerName = "Decorations";
+        sr.sortingOrder = 100;
+        go.transform.SetParent(tilemap.transform, worldPositionStays: false);
+        go.transform.position = position;
+
+        return go;
+    }
+
+    private void InitializeDecorationsList()
+    {
+        decorations = decorationManager.decorations;
+
+        if (decorations == null || decorations.Count == 0)
+        {
+            Debug.LogError("Decorations not found!");
+            return;
         }
     }
 
     public void Clear()
     {
-        foreach (var deco in spawnedDecorations)
+        for (int i = tilemap.transform.childCount - 1; i >= 0; i--)
         {
-            if (deco != null) DestroyImmediate(deco);
-                //Destroy(deco);
+            var child = tilemap.transform.GetChild(i);
+
+            if (Application.isPlaying)
+                Destroy(child.gameObject);
+            else
+                DestroyImmediate(child.gameObject);
         }
 
         spawnedDecorations.Clear();
