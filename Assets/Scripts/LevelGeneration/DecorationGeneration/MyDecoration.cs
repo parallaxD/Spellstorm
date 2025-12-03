@@ -19,8 +19,8 @@ public class MyDecoration
         return closest switch
         {
             <= 32f => 1,
-            <= 64f => 2,
-            _ => 4
+            <= 64f => 9,
+            _ => 81
         };
     }
 

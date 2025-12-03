@@ -7,19 +7,24 @@ public class TileManager : MonoBehaviour
 {
     [SerializeField] private TileSet floorTileSet;
     [SerializeField] private TileSet backgroundTileSet;
+    [SerializeField] private TileSet decorationsTileSet;
 
     private List<MyTile> floorTiles;
     private List<MyTile> backgroundTiles;
+    private List<MyTile> decorationsTiles;
 
     public void Initialize()
     {
         floorTiles = floorTileSet.tiles;
         backgroundTiles = backgroundTileSet.tiles;
+        decorationsTiles = decorationsTileSet.tiles;
     }
 
     public TileBase GetRandomFloorTile() => GetRandomTile(floorTiles);
 
     public TileBase GetRandomBackgroundTile() => GetRandomTile(backgroundTiles);
+
+    public TileBase GetRandomDecorationTile() => GetRandomTile(decorationsTiles);
 
     private TileBase GetRandomTile(List<MyTile> spriteTiles)
     {

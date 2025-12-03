@@ -5,7 +5,7 @@ public abstract class AbstractDungeonGenerator : MonoBehaviour
     [SerializeField]
     protected SimpleRandomWalkData randomWalkParameters;
     [SerializeField]
-    protected PathVizualizer pathVizualizer = null;
+    protected TileVizualizer pathVizualizer = null;
     [SerializeField]
     protected Vector2 startPosition = Vector2.zero;
     [SerializeField]

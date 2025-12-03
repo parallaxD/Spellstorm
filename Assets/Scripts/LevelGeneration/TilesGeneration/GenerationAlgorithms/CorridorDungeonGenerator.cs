@@ -21,7 +21,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 
         floorPositions.UnionWith(roomPositions);
 
-        pathVizualizer.PaintFloorTiles(floorPositions);
+        pathVizualizer.PaintFloor(floorPositions);
     }
 
     private HashSet<Vector2> CreateRooms(HashSet<Vector2> potentialRoomPositions)
