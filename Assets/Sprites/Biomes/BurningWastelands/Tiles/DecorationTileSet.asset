@@ -13,5 +13,19 @@ MonoBehaviour:
   m_Name: DecorationTileSet
   m_EditorClassIdentifier: Assembly-CSharp::TileSet
   tiles:
-  - Sprite: {fileID: 11400000, guid: b46f31439163cf641a42750c70c7089f, type: 2}
-    Weight: 100
+  - Sprite: {fileID: 11400000, guid: a0b245c17b5b8ec498836d383699e3da, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: 127a6f6786439f946850d002af6d12e0, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: d4910f32b72da2346ac9005b33d3168c, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: 037f447cfc6fb06428616e5e5425804e, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: a4649d74a03dbd8449d1fb50c2d79b74, type: 2}
+    Weight: 5
+  - Sprite: {fileID: 11400000, guid: 641638f9a0434884e8d9b510822900d3, type: 2}
+    Weight: 5
+  - Sprite: {fileID: 11400000, guid: f4bdbd418cf662141bb5db2cde9d7165, type: 2}
+    Weight: 5
+  - Sprite: {fileID: 11400000, guid: c0815fab747116e488172d84a717ccb1, type: 2}
+    Weight: 5

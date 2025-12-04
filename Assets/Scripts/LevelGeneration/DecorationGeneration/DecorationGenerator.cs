@@ -12,8 +12,9 @@ public class DecorationGenerator : MonoBehaviour
     public static List<HashSet<Vector2>> roomPositionsList;
     private List<DecorationObject> decorationsObjects = new List<DecorationObject>();
 
-    public void GenerateDecorations()
+    public void GenerateDecoration()
     {
+        decorationVizualizer.Clear();
         GenerateDecorationObjectsInRooms();
         decorationVizualizer.PaintDecorations(decorationsObjects);
     }

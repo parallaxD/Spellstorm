@@ -109,12 +109,12 @@ TextureImporter:
       name: lava-anvil-decor_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 27
-        width: 10
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6
+        y: 14
+        width: 51
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5049722, y: 0.55234104}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -136,7 +136,7 @@ TextureImporter:
         width: 9
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -158,7 +158,7 @@ TextureImporter:
         width: 43
         height: 36
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d5b190fdf72e511429230cf7b98953a8
     internalID: 0
     vertices: []
     indices: 

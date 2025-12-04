@@ -5,9 +5,15 @@ using UnityEngine;
 
 public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 {
+    [SerializeField]
+    protected DecorationGenerator decorationGenerator;
+    [SerializeField]
+    protected DecorationVizualizer decorationVizualizer;
+
     protected override void RunProceduralGeneration()
     {
         CorridorDungeonGeneration();
+        decorationGenerator.GenerateDecoration();
     }
 
     private void CorridorDungeonGeneration()

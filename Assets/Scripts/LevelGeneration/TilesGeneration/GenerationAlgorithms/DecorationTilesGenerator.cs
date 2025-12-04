@@ -1,14 +1,12 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-public class DecorationTilesGenerator : MonoBehaviour
+public class DecorationTilesGenerator : SimpleRandomWalkDungeonGenerator
 {
-    [SerializeField] TileVizualizer tileVizualizer;
-
     public void GenerateDecorationTiles(HashSet<Vector2> decorationPositions)
     {
         var tilesPositions = GetDecorationTilesPositions(decorationPositions);
-        tileVizualizer.PaintDecorationTiles(tilesPositions);
+        pathVizualizer.PaintDecorationTiles(tilesPositions);
     }
 
     private HashSet<Vector2> GetDecorationTilesPositions(HashSet<Vector2> positions)
@@ -17,10 +15,10 @@ public class DecorationTilesGenerator : MonoBehaviour
 
         foreach (var position in positions)
         {
-            var path = ProceduralGenerationAlgorithms.SimpleRandomWalk(position, 10); // ИЗМЕНИТЬ
+            var path = RunRandomWalk(randomWalkParameters, position);
             result.UnionWith(path);
         }
-
+        
         return result;
     }
 }
