@@ -9,6 +9,8 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
     protected DecorationGenerator decorationGenerator;
     [SerializeField]
     protected DecorationVizualizer decorationVizualizer;
+    [SerializeField]
+    protected ColliderTilesGenerator colliderTilesGenerator;
 
     protected override void RunProceduralGeneration()
     {
@@ -47,7 +49,9 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
             roomPositionsSet.Add(roomRandomWalkPosition);
         }
 
+        // Передача в декорации и коллайдеры
         DecorationGenerator.roomPositionsList = roomPositionsSet;
+        colliderTilesGenerator.GenerateColliderTiles(roomPositionsSet);
 
         return roomPositions;
     }

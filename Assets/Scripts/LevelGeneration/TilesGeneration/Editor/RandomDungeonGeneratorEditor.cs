@@ -9,7 +9,7 @@ public class RandomDungeonGeneratorEditor : Editor
     TileManager tileManager;
     DecorationManager decorationManager;
 
-    private void Awake()
+    private void OnEnable()
     {
         tileGenerator = (AbstractDungeonGenerator)target;
         decorationGenerator = FindFirstObjectByType<DecorationGenerator>();

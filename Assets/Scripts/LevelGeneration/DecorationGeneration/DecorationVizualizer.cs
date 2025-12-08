@@ -34,6 +34,7 @@ public class DecorationVizualizer : MonoBehaviour
             positions.Add(position);
         }
 
+        // Генерация тайлов
         decorationTilesGenerator.GenerateDecorationTiles(positions);
     }
 

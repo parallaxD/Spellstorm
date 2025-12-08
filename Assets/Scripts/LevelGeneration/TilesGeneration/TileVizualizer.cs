@@ -6,7 +6,8 @@ using UnityEngine.Tilemaps;
 
 public class TileVizualizer : MonoBehaviour
 {
-    [SerializeField] private Tilemap tilemap;
+    [SerializeField] private Tilemap baseTilemap;
+    [SerializeField] private Tilemap collidersTilemap;
     [SerializeField] private TileManager tileManager;
 
     public void PaintFloor(HashSet<Vector2> positions)
@@ -22,7 +23,7 @@ public class TileVizualizer : MonoBehaviour
         foreach (var position in backgroundPositions)
         {
             var tile = tileManager.GetRandomBackgroundTile();
-            PaintSingleTile(tile, position);
+            PaintSingleTile(tile, position, baseTilemap);
         }
     }
 
@@ -31,7 +32,7 @@ public class TileVizualizer : MonoBehaviour
         foreach (var position in positions)
         {
             var tile = tileManager.GetRandomFloorTile();
-            PaintSingleTile(tile, position);
+            PaintSingleTile(tile, position, baseTilemap);
         }
     }
 
@@ -40,13 +41,22 @@ public class TileVizualizer : MonoBehaviour
         foreach (var position in positions)
         {
             var tile = tileManager.GetRandomDecorationTile();
-            PaintSingleTile(tile, position);
+            PaintSingleTile(tile, position, baseTilemap);
         }
     }
 
-    private void PaintSingleTile(TileBase tile, Vector2 position)
+    public void PaintColliderTiles(HashSet<Vector2> positions)
     {
-        var tilePosition = tilemap.WorldToCell((Vector3)position);
+        foreach (var position in positions)
+        {
+            var tile = tileManager.GetRandomColliderTile();
+            PaintSingleTile(tile, position, collidersTilemap);
+        }
+    }
+
+    private void PaintSingleTile(TileBase tile, Vector2 position, Tilemap tilemap)
+    {
+        var tilePosition = baseTilemap.WorldToCell((Vector3)position);
         tilemap.SetTile(tilePosition, tile);
     }
 
@@ -74,6 +84,7 @@ public class TileVizualizer : MonoBehaviour
 
     public void Clear()
     {
-        tilemap.ClearAllTiles();
+        baseTilemap.ClearAllTiles();
+        collidersTilemap.ClearAllTiles();
     }
 }

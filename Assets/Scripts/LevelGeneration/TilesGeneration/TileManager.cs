@@ -8,16 +8,19 @@ public class TileManager : MonoBehaviour
     [SerializeField] private TileSet floorTileSet;
     [SerializeField] private TileSet backgroundTileSet;
     [SerializeField] private TileSet decorationsTileSet;
+    [SerializeField] private TileSet collidersTileSet;
 
     private List<MyTile> floorTiles;
     private List<MyTile> backgroundTiles;
     private List<MyTile> decorationsTiles;
+    private List<MyTile> collidersTiles;
 
     public void Initialize()
     {
         floorTiles = floorTileSet.tiles;
         backgroundTiles = backgroundTileSet.tiles;
         decorationsTiles = decorationsTileSet.tiles;
+        collidersTiles = collidersTileSet.tiles;
     }
 
     public TileBase GetRandomFloorTile() => GetRandomTile(floorTiles);
@@ -25,6 +28,8 @@ public class TileManager : MonoBehaviour
     public TileBase GetRandomBackgroundTile() => GetRandomTile(backgroundTiles);
 
     public TileBase GetRandomDecorationTile() => GetRandomTile(decorationsTiles);
+
+    public TileBase GetRandomColliderTile() => GetRandomTile(collidersTiles);
 
     private TileBase GetRandomTile(List<MyTile> spriteTiles)
     {
