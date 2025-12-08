@@ -89687,6 +89687,7 @@ GameObject:
   - component: {fileID: 2050710999}
   - component: {fileID: 2050710998}
   - component: {fileID: 2050710997}
+  - component: {fileID: 2050711000}
   m_Layer: 0
   m_Name: Colliders
   m_TagString: Untagged
@@ -95256,6 +95257,18 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
+--- !u!114 &2050711000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050710993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d49da63369b89842bdcdae490c74491, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HideColliderTilemap
 --- !u!224 &2053123003 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6752917424005407580, guid: 012e44afc57183d4ba02a8ba5dc1096d, type: 3}
