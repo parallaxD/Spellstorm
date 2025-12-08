@@ -4,40 +4,59 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
-public class PathVizualizer : MonoBehaviour
+public class TileVizualizer : MonoBehaviour
 {
-    [SerializeField] private Tilemap floorTilemap;
+    [SerializeField] private Tilemap baseTilemap;
+    [SerializeField] private Tilemap collidersTilemap;
     [SerializeField] private TileManager tileManager;
 
-    public void PaintFloorTiles(HashSet<Vector2> floorPositions)
+    public void PaintFloor(HashSet<Vector2> positions)
     {
-        PaintBackgroundTiles(floorPositions, floorTilemap);
-        PaintTiles(floorPositions, floorTilemap);
+        PaintBackgroundTiles(positions);
+        PaintFloorTiles(positions);
     }
 
-    public void PaintBackgroundTiles(HashSet<Vector2> floorPositions, Tilemap tilemap)
+    private void PaintBackgroundTiles(HashSet<Vector2> floorPositions)
     {
         var backgroundPositions = GetBackgroundPositions(floorPositions);
 
         foreach (var position in backgroundPositions)
         {
             var tile = tileManager.GetRandomBackgroundTile();
-            PaintSingleTile(tilemap, tile, position);
+            PaintSingleTile(tile, position, baseTilemap);
         }
     }
 
-    private void PaintTiles(HashSet<Vector2> positions, Tilemap tilemap)
+    private void PaintFloorTiles(HashSet<Vector2> positions)
     {
         foreach (var position in positions)
         {
             var tile = tileManager.GetRandomFloorTile();
-            PaintSingleTile(tilemap, tile, position);
+            PaintSingleTile(tile, position, baseTilemap);
         }
     }
 
-    private void PaintSingleTile(Tilemap tilemap, TileBase tile, Vector2 position)
+    public void PaintDecorationTiles(HashSet<Vector2> positions)
     {
-        var tilePosition = tilemap.WorldToCell((Vector3)position);
+        foreach (var position in positions)
+        {
+            var tile = tileManager.GetRandomDecorationTile();
+            PaintSingleTile(tile, position, baseTilemap);
+        }
+    }
+
+    public void PaintColliderTiles(HashSet<Vector2> positions)
+    {
+        foreach (var position in positions)
+        {
+            var tile = tileManager.GetRandomColliderTile();
+            PaintSingleTile(tile, position, collidersTilemap);
+        }
+    }
+
+    private void PaintSingleTile(TileBase tile, Vector2 position, Tilemap tilemap)
+    {
+        var tilePosition = baseTilemap.WorldToCell((Vector3)position);
         tilemap.SetTile(tilePosition, tile);
     }
 
@@ -65,6 +84,7 @@ public class PathVizualizer : MonoBehaviour
 
     public void Clear()
     {
-        floorTilemap.ClearAllTiles();
+        baseTilemap.ClearAllTiles();
+        collidersTilemap.ClearAllTiles();
     }
 }

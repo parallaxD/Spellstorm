@@ -5,9 +5,17 @@ using UnityEngine;
 
 public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 {
+    [SerializeField]
+    protected DecorationGenerator decorationGenerator;
+    [SerializeField]
+    protected DecorationVizualizer decorationVizualizer;
+    [SerializeField]
+    protected ColliderTilesGenerator colliderTilesGenerator;
+
     protected override void RunProceduralGeneration()
     {
         CorridorDungeonGeneration();
+        decorationGenerator.GenerateDecoration();
     }
 
     private void CorridorDungeonGeneration()
@@ -21,7 +29,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 
         floorPositions.UnionWith(roomPositions);
 
-        pathVizualizer.PaintFloorTiles(floorPositions);
+        pathVizualizer.PaintFloor(floorPositions);
     }
 
     private HashSet<Vector2> CreateRooms(HashSet<Vector2> potentialRoomPositions)
@@ -41,7 +49,9 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
             roomPositionsSet.Add(roomRandomWalkPosition);
         }
 
+        // Передача в декорации и коллайдеры
         DecorationGenerator.roomPositionsList = roomPositionsSet;
+        colliderTilesGenerator.GenerateColliderTiles(roomPositionsSet);
 
         return roomPositions;
     }

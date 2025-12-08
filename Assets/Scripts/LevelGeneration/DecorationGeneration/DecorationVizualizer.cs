@@ -6,34 +6,36 @@ using UnityEngine.Tilemaps;
 public class DecorationVizualizer : MonoBehaviour
 {
     [SerializeField] private Tilemap tilemap;
-    [SerializeField] private TileBase tile;
     [SerializeField] private DecorationManager decorationManager;
+    [SerializeField] private DecorationTilesGenerator decorationTilesGenerator;
 
-    private List<MyDecoration> decorations = new List<MyDecoration>();
     private readonly List<GameObject> spawnedDecorations = new List<GameObject>();
 
-    public void PaintDecorations(List<HashSet<Vector2>> emptyPositionsRooms)
+    public void PaintDecorations(List<DecorationObject> decorationObjects)
     {
-        InitializeDecorationsList();
-        CreateDecorationsInTilemap(emptyPositionsRooms);
+        CreateDecorationsInTilemap(decorationObjects);
     }
 
-    private void CreateDecorationsInTilemap(List<HashSet<Vector2>> positionsRooms)
+    private void CreateDecorationsInTilemap(List<DecorationObject> decorations)
     {
-        foreach (var positionsRoom in positionsRooms)
+        var positions = new HashSet<Vector2>();
+
+        for (var i = 0; i < decorations.Count; i++)
         {
-            var positions = positionsRoom.ToList();
-            var minCount = Mathf.Min(decorations.Count, positionsRoom.Count);
+            var position = decorations[i].Center;
+            var sprite = decorations[i].Sprite;
 
-            for (var i = 0; i < minCount; i++)
-            {
-                var cell = tilemap.WorldToCell((Vector3)positions[i]);
-                var world = tilemap.GetCellCenterWorld(cell);
+            var cell = tilemap.WorldToCell((Vector3)position);
+            var world = tilemap.GetCellCenterWorld(cell);
 
-                var go = GetDecorationGameObject($"Decoration{i}", decorations[i].Sprite, world);
-                spawnedDecorations.Add(go);
-            }
+            var go = GetDecorationGameObject($"Decoration{i}", sprite, world);
+            spawnedDecorations.Add(go);
+
+            positions.Add(position);
         }
+
+        // Генерация тайлов
+        decorationTilesGenerator.GenerateDecorationTiles(positions);
     }
 
     private GameObject GetDecorationGameObject(string name, Sprite sprite, Vector3 position)
@@ -48,17 +50,6 @@ public class DecorationVizualizer : MonoBehaviour
         go.transform.position = position;
 
         return go;
-    }
-
-    private void InitializeDecorationsList()
-    {
-        decorations = decorationManager.decorations;
-
-        if (decorations == null || decorations.Count == 0)
-        {
-            Debug.LogError("Decorations not found!");
-            return;
-        }
     }
 
     public void Clear()

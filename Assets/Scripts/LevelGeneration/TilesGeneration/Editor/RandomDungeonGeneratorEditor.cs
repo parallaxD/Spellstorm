@@ -5,12 +5,14 @@ using UnityEditor;
 public class RandomDungeonGeneratorEditor : Editor
 {
     AbstractDungeonGenerator tileGenerator;
+    DecorationGenerator decorationGenerator;
     TileManager tileManager;
     DecorationManager decorationManager;
 
-    private void Awake()
+    private void OnEnable()
     {
         tileGenerator = (AbstractDungeonGenerator)target;
+        decorationGenerator = FindFirstObjectByType<DecorationGenerator>();
         tileManager = FindFirstObjectByType<TileManager>();
         decorationManager = FindFirstObjectByType<DecorationManager>();
 
@@ -25,7 +27,7 @@ public class RandomDungeonGeneratorEditor : Editor
         if (GUILayout.Button("Create Dungeon"))
         {
             tileGenerator.GenerateDungeon();
-            tileGenerator.GenerateDecoration();
+            decorationGenerator.GenerateDecoration();
         }
     }
 
