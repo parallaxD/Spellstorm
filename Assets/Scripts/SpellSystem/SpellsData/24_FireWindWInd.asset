@@ -12,8 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96937407bf0a5524aa48a506c00a827f, type: 3}
   m_Name: 24_FireWindWInd
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
-  ID: 
-  Name: 
-  Cooldown: 
+  ID: 24
+  Name: FireWindWind
+  Cooldown: 3
   Sprite: {fileID: 0}
-  Receipt: []
+  Receipt:
+  - elementType: 0
+    count: 1
+  - elementType: 1
+    count: 0
+  - elementType: 2
+    count: 0
+  - elementType: 3
+    count: 2

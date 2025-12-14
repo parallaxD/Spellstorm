@@ -5,25 +5,29 @@ using UnityEngine;
 
 public class SpellSystem : MonoBehaviour
 {
-    private List<ElementType> Elements = new ();
-    private SpellStash _spellStash = new ();
+    private List<ElementType> Elements = new();
+    private SpellStash _spellStash = new();
+
+    private const int MAX_ELEMENTS = 4;
+
     private void Update()
     {
+        // Добавляем элементы только если еще не достигнут лимит
         if (Input.GetKeyDown(KeyCode.Q))
         {
-            Elements.Add(ElementType.Fire);
+            AddElement(ElementType.Fire);
         }
         if (Input.GetKeyDown(KeyCode.E))
         {
-            Elements.Add(ElementType.Water);
+            AddElement(ElementType.Water);
         }
         if (Input.GetKeyDown(KeyCode.R))
         {
-            Elements.Add(ElementType.Earth);
+            AddElement(ElementType.Earth);
         }
         if (Input.GetKeyDown(KeyCode.T))
         {
-            Elements.Add(ElementType.Wind);
+            AddElement(ElementType.Wind);
         }
 
         if (Input.GetKeyDown(KeyCode.G))
@@ -36,20 +40,44 @@ public class SpellSystem : MonoBehaviour
             }
         }
 
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            _spellStash.ClearStash();
+            Elements.Clear();
+        }
+
         if (Input.GetKeyDown(KeyCode.Z))
         {
             _spellStash.CastSpell();
             _spellStash.ClearStash();
+        }
+
+        // Отладочная информация о текущем количестве элементов
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            Debug.Log($"Текущее количество элементов: {Elements.Count}/{MAX_ELEMENTS}");
+        }
+    }
+
+    private void AddElement(ElementType element)
+    {
+        if (Elements.Count < MAX_ELEMENTS)
+        {
+            Elements.Add(element);
+            Debug.Log($"Добавлен элемент: {element}. Всего: {Elements.Count}/{MAX_ELEMENTS}");
+        }
+        else
+        {
+            Debug.LogWarning($"Достигнут лимит элементов ({MAX_ELEMENTS})! Элемент {element} не добавлен.");
         }
     }
 
     private ElementSequence CreateSequence()
     {
         ElementSequence sequence = new ElementSequence();
-  
+
         foreach (ElementType elementType in Enum.GetValues(typeof(ElementType)))
         {
-            
             int count = Elements.Count(e => e == elementType);
             sequence.AddElement(elementType, count);
         }

@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: d63b724464be4194aa6575bc4f5f2618
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3868932238855458765
+    second: wind-magic-part-spritesheet_0
+  - first:
+      213: 160023546481388929
+    second: wind-magic-part-spritesheet_1
+  - first:
+      213: 5264669428021046331
+    second: wind-magic-part-spritesheet_2
+  - first:
+      213: 4517703817674099299
+    second: wind-magic-part-spritesheet_3
+  - first:
+      213: -899208431901680978
+    second: wind-magic-part-spritesheet_4
+  - first:
+      213: 9147812980292601732
+    second: wind-magic-part-spritesheet_5
+  - first:
+      213: -6500696088282160201
+    second: wind-magic-part-spritesheet_6
+  - first:
+      213: 8088117559127356370
+    second: wind-magic-part-spritesheet_7
+  - first:
+      213: 6655878026272905586
+    second: wind-magic-part-spritesheet_8
+  - first:
+      213: -6555941538289040750
+    second: wind-magic-part-spritesheet_9
+  - first:
+      213: 2737489395108320246
+    second: wind-magic-part-spritesheet_10
+  - first:
+      213: -1845246147103124984
+    second: wind-magic-part-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf490d6f5531b530800000000000000
+      internalID: 3868932238855458765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 10
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18da8b35194883200800000000000000
+      internalID: 160023546481388929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cad0d83fcdf0940800000000000000
+      internalID: 5264669428021046331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 11
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a04e4bfab12be30800000000000000
+      internalID: 4517703817674099299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaad67502be5583f0800000000000000
+      internalID: -899208431901680978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 7
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4874c0a307f83fe70800000000000000
+      internalID: 9147812980292601732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 7
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3ab219953e8c5a0800000000000000
+      internalID: -6500696088282160201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 8
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3b26d3114ce3070800000000000000
+      internalID: 8088117559127356370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 15
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2791350fccd6e5c50800000000000000
+      internalID: 6655878026272905586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 24
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292cd02e7ed9405a0800000000000000
+      internalID: -6555941538289040750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 22
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f394dbd9148df520800000000000000
+      internalID: 2737489395108320246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wind-magic-part-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 15
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80292ced76e5466e0800000000000000
+      internalID: -1845246147103124984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 4f8ad0a848849094db1948eaae2ac8d0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      wind-magic-part-spritesheet_0: 3868932238855458765
+      wind-magic-part-spritesheet_1: 160023546481388929
+      wind-magic-part-spritesheet_10: 2737489395108320246
+      wind-magic-part-spritesheet_11: -1845246147103124984
+      wind-magic-part-spritesheet_2: 5264669428021046331
+      wind-magic-part-spritesheet_3: 4517703817674099299
+      wind-magic-part-spritesheet_4: -899208431901680978
+      wind-magic-part-spritesheet_5: 9147812980292601732
+      wind-magic-part-spritesheet_6: -6500696088282160201
+      wind-magic-part-spritesheet_7: 8088117559127356370
+      wind-magic-part-spritesheet_8: 6655878026272905586
+      wind-magic-part-spritesheet_9: -6555941538289040750
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

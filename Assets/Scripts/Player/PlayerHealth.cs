@@ -6,14 +6,14 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private int _maxHealth = 100;
     private int _currentHealth;
 
-    // События
-    public event Action<int> OnHealthChanged;       
+    
+    public static event Action<int> OnHealthChanged;       
     public event Action<int> OnHealthReduced;        
     public event Action<int> OnHealthRestored;       
     public event Action OnDeath;                    
     public event Action<int, int> OnHealthChangedWithMax; 
 
-    // Свойства
+    
     public int CurrentHealth => _currentHealth;
     public int MaxHealth => _maxHealth;
     public float HealthPercentage => (float)_currentHealth / _maxHealth;

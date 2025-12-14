@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 12c2ba59a8b12d2418b0e7a3218741c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 740262940064428533
+    second: water-magic-part-spritesheet_0
+  - first:
+      213: -5130101772090219914
+    second: water-magic-part-spritesheet_1
+  - first:
+      213: 1228766379384469717
+    second: water-magic-part-spritesheet_2
+  - first:
+      213: -6425920441707702371
+    second: water-magic-part-spritesheet_3
+  - first:
+      213: -4681741013089596757
+    second: water-magic-part-spritesheet_4
+  - first:
+      213: -6572114566669609617
+    second: water-magic-part-spritesheet_5
+  - first:
+      213: 6982176983971080870
+    second: water-magic-part-spritesheet_6
+  - first:
+      213: -1650917448044396010
+    second: water-magic-part-spritesheet_7
+  - first:
+      213: 3155144774630657913
+    second: water-magic-part-spritesheet_8
+  - first:
+      213: 1821566605313764057
+    second: water-magic-part-spritesheet_9
+  - first:
+      213: -7700160788592256382
+    second: water-magic-part-spritesheet_10
+  - first:
+      213: -8795408313379290742
+    second: water-magic-part-spritesheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f13deec831f54a00800000000000000
+      internalID: 740262940064428533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 20
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672e5f46e973ec8b0800000000000000
+      internalID: -5130101772090219914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 15
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8772303847d0110800000000000000
+      internalID: 1228766379384469717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 10
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97571d776b82d6a0800000000000000
+      internalID: -6425920441707702371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baaca608a5d170fb0800000000000000
+      internalID: -4681741013089596757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65dc764f982bc4a0800000000000000
+      internalID: -6572114566669609617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 6
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa218849fca5e060800000000000000
+      internalID: 6982176983971080870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c1d3f353c619e0800000000000000
+      internalID: -1650917448044396010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 13
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f4ac2b47359cb20800000000000000
+      internalID: 3155144774630657913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 23
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae07c2d21874910800000000000000
+      internalID: 1821566605313764057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 32
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a119a5f88832590800000000000000
+      internalID: -7700160788592256382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-magic-part-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 31
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8182823dbe60f580800000000000000
+      internalID: -8795408313379290742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 999c3268430fcdb4bb83495d2d53640f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      water-magic-part-spritesheet_0: 740262940064428533
+      water-magic-part-spritesheet_1: -5130101772090219914
+      water-magic-part-spritesheet_10: -7700160788592256382
+      water-magic-part-spritesheet_11: -8795408313379290742
+      water-magic-part-spritesheet_2: 1228766379384469717
+      water-magic-part-spritesheet_3: -6425920441707702371
+      water-magic-part-spritesheet_4: -4681741013089596757
+      water-magic-part-spritesheet_5: -6572114566669609617
+      water-magic-part-spritesheet_6: 6982176983971080870
+      water-magic-part-spritesheet_7: -1650917448044396010
+      water-magic-part-spritesheet_8: 3155144774630657913
+      water-magic-part-spritesheet_9: 1821566605313764057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

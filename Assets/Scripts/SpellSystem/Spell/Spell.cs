@@ -16,6 +16,8 @@ public abstract class Spell
 
     public virtual void Action()
     {
+        var spellComposer = new SpellComposer();
+        spellComposer.ComposeSpell(Data.Receipt);
         Vector3 direction = GetShootDirection();
         LaunchProjectile(direction);
     }
