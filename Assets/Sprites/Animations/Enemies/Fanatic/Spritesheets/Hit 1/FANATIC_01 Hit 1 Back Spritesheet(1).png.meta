@@ -1,0 +1,5439 @@
+fileFormatVersion: 2
+guid: 04f6be2e69b54ae44997896005741879
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2731470512308577508
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_0
+  - first:
+      213: 270509679307151734
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_1
+  - first:
+      213: -4216543706656355268
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_2
+  - first:
+      213: 3927553694918632665
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_3
+  - first:
+      213: 491999219289318970
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_4
+  - first:
+      213: -2013761286339723771
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_5
+  - first:
+      213: -6696260161716767316
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_6
+  - first:
+      213: 4966344384676826955
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_7
+  - first:
+      213: -1150582600194627348
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_8
+  - first:
+      213: -7914490725749290000
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_9
+  - first:
+      213: -4550086126191598325
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_10
+  - first:
+      213: -4674791236423554813
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_11
+  - first:
+      213: 234601695548556434
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_12
+  - first:
+      213: 7920095568789811697
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_13
+  - first:
+      213: -84019523363706476
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_14
+  - first:
+      213: -1694398132127321854
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_15
+  - first:
+      213: 5754925649185078335
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_16
+  - first:
+      213: -8623215873823186805
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_17
+  - first:
+      213: 7700152550002114806
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_18
+  - first:
+      213: 8141763256374286606
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_19
+  - first:
+      213: -4134417204452504677
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_20
+  - first:
+      213: -2137552546250565743
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_21
+  - first:
+      213: 3752897925829780588
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_22
+  - first:
+      213: 5576414873568381464
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_23
+  - first:
+      213: 3487523913571014161
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_24
+  - first:
+      213: -7239912835880113398
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_25
+  - first:
+      213: -2333525104881446934
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_26
+  - first:
+      213: 6602628611247040285
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_27
+  - first:
+      213: -3267489398638564241
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_28
+  - first:
+      213: -7418949893508889454
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_29
+  - first:
+      213: 7259453799742160334
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_30
+  - first:
+      213: 1282192810774404987
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_31
+  - first:
+      213: -6820790579380880443
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_32
+  - first:
+      213: 7193046566979885002
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_33
+  - first:
+      213: 2735332282471218433
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_34
+  - first:
+      213: -3565261438872251863
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_35
+  - first:
+      213: -2688590019876556790
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_36
+  - first:
+      213: -5499040918818674785
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_37
+  - first:
+      213: 73624775588941140
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_38
+  - first:
+      213: 3212302950682113031
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_39
+  - first:
+      213: -7774394178116110873
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_40
+  - first:
+      213: -5645066869888886723
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_41
+  - first:
+      213: -2890895727017818716
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_42
+  - first:
+      213: -4138685779384679751
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_43
+  - first:
+      213: -8352746940961607645
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_44
+  - first:
+      213: -3747161648906705188
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_45
+  - first:
+      213: -9135891187646813395
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_46
+  - first:
+      213: 9138131927570532453
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_47
+  - first:
+      213: 1676008419246976243
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_48
+  - first:
+      213: -7314261657792303352
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_49
+  - first:
+      213: 2059213236880646136
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_50
+  - first:
+      213: 3941326543656642382
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_51
+  - first:
+      213: -3591631912640439588
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_52
+  - first:
+      213: -8610276412816734569
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_53
+  - first:
+      213: -8788949613304329383
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_54
+  - first:
+      213: -3686653313877582568
+    second: FANATIC_01 Hit 1 Back Spritesheet(1)_55
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e46b9085f128e520800000000000000
+      internalID: 2731470512308577508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679586fbe1b01c300800000000000000
+      internalID: 270509679307151734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc6d8c6d3db75c0800000000000000
+      internalID: -4216543706656355268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e5e5c649718630800000000000000
+      internalID: 3927553694918632665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a366287eeaee3d600800000000000000
+      internalID: 491999219289318970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e794987cead04e0800000000000000
+      internalID: -2013761286339723771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5b5497cda1213a0800000000000000
+      internalID: -6696260161716767316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f0be0b7effbe440800000000000000
+      internalID: 4966344384676826955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce867ae983f4800f0800000000000000
+      internalID: -1150582600194627348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb07912e941a2290800000000000000
+      internalID: -7914490725749290000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05aaee86c8dad0c0800000000000000
+      internalID: -4550086126191598325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3096dd9732ecf1fb0800000000000000
+      internalID: -4674791236423554813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29440e6cff8714300800000000000000
+      internalID: 234601695548556434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1bcd415f4d9ed60800000000000000
+      internalID: 7920095568789811697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49965bb40b085def0800000000000000
+      internalID: -84019523363706476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201377a40e94c78e0800000000000000
+      internalID: -1694398132127321854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cf574136a9ddf40800000000000000
+      internalID: 5754925649185078335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80624bb9de245880800000000000000
+      internalID: -8623215873823186805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0c13372ff6cda60800000000000000
+      internalID: 7700152550002114806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_19
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0954857b8a5df070800000000000000
+      internalID: 8141763256374286606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b485725799f96c0800000000000000
+      internalID: -4134417204452504677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_21
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197d000d843e552e0800000000000000
+      internalID: -2137552546250565743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c646263a7c8f41430800000000000000
+      internalID: 3752897925829780588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a8f3b48c7636d40800000000000000
+      internalID: 5576414873568381464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116941e858c266030800000000000000
+      internalID: 3487523913571014161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_25
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b239c62a9a68b90800000000000000
+      internalID: -7239912835880113398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_26
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefc519d747ad9fd0800000000000000
+      internalID: -2333525104881446934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17e53d5dbf31ab50800000000000000
+      internalID: 6602628611247040285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_28
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2bce24bb87a2d0800000000000000
+      internalID: -3267489398638564241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_29
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940bfe01689a0990800000000000000
+      internalID: -7418949893508889454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_30
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdbdf4c4c2ceb460800000000000000
+      internalID: 7259453799742160334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f94cb61934bc110800000000000000
+      internalID: 1282192810774404987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfbac2b1fa751a0800000000000000
+      internalID: -6820790579380880443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_33
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7dda50eb5d2d360800000000000000
+      internalID: 7193046566979885002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_34
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dfa5fe73ad5f520800000000000000
+      internalID: 2735332282471218433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_35
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9221f946c95a58ec0800000000000000
+      internalID: -3565261438872251863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_36
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00f8962f9530bad0800000000000000
+      internalID: -2688590019876556790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_37
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97a9746b6b7fa3b0800000000000000
+      internalID: -5499040918818674785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_38
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d85a3e751950100800000000000000
+      internalID: 73624775588941140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_39
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704b85e9384649c20800000000000000
+      internalID: 3212302950682113031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5368d7fadcb1490800000000000000
+      internalID: -7774394178116110873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_41
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3852f63791b8a1b0800000000000000
+      internalID: -5645066869888886723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5886427a971e7d0800000000000000
+      internalID: -2890895727017818716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_43
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2c0da163f6096c0800000000000000
+      internalID: -4138685779384679751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_44
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b04579e4151c80800000000000000
+      internalID: -8352746940961607645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_45
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6e2f865586ffbc0800000000000000
+      internalID: -3747161648906705188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_46
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ba0bd6e5bc63180800000000000000
+      internalID: -9135891187646813395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_47
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5684f7d729a21de70800000000000000
+      internalID: 9138131927570532453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fca7c507c0624710800000000000000
+      internalID: 1676008419246976243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_49
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fa70d56c58e7a90800000000000000
+      internalID: -7314261657792303352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_50
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff9d0d578bc39c10800000000000000
+      internalID: 2059213236880646136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_51
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47e8720c9762b630800000000000000
+      internalID: 3941326543656642382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_52
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda1c130ec5f72ec0800000000000000
+      internalID: -3591631912640439588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_53
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7964224c837228880800000000000000
+      internalID: -8610276412816734569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_54
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b403e74e0670680800000000000000
+      internalID: -8788949613304329383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_55
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d5f40085066dcc0800000000000000
+      internalID: -3686653313877582568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_56
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a42d464e7326fb4896fdf666c8d286b
+      internalID: -1707509303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_57
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54535de0d31b26146a2108e1b2f184ef
+      internalID: 897627273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_58
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5278f933acdf9478e508d76611eb9e
+      internalID: -1330092356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_59
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e14ec192dbd1846836f20ebc2be407
+      internalID: -2033986706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_60
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9524aaa513f95d546ae7fdc937715bf3
+      internalID: 2115983209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_61
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c8c3b45b049f47ac179d514982bf7
+      internalID: 60065867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_62
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958d5521ea55aea4199cb0f2bb57d46e
+      internalID: -204977635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_63
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df19f24526905274fa422f1ad835f9cd
+      internalID: -319534563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_64
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd875cd48ee352344b5f389a035bcba9
+      internalID: -182292624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_65
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d36cb92631dc14a9937a59d2e1a300
+      internalID: -564536722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_66
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09ce1ff07d6dd144ba1e359c3284eb1
+      internalID: 1569433050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_67
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0465134f2bdc0634dba322563b954c8c
+      internalID: -767996488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_68
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd3299905f864f43b4f9b134597a2a0
+      internalID: -1180379193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_69
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d687c8d106c1194b99bdf0f1b6ef2e1
+      internalID: -828556358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_70
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf909d0a7c02ed4c9f18ed6e96da818
+      internalID: 1220705698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_71
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b3a329ed7b9354d854774a427b2aa5
+      internalID: 1205117764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_72
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb52d2f959b6c2a468921599dc065cfe
+      internalID: -906391207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_73
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340e2774b4152e469413eb6c09fd24d
+      internalID: -853580157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_74
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cad64a0d1a27c499f5cb0c7bbbe722
+      internalID: 119961874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_75
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56149d5c9d3ec0b42ba03bb41a91b8aa
+      internalID: 149773315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_76
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff64a97f64a51f4cacfd57b8a57be17
+      internalID: -1546057662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_77
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e12717c684e034f836d9da43c59940
+      internalID: 1786204677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_78
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d27bd1cae687f4ebb76db365c4bb8c
+      internalID: 1010220655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_79
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b52136a8d8d8e439b7e02463d5f37b
+      internalID: 496167552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_80
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eaad36dbcef3a43935296466bf9449
+      internalID: -187398249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_81
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e268deffd868df4d8b50aacf6a4d0cb
+      internalID: -1469523840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_82
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f7a943cd16ae84fab0aef23a1cfb27
+      internalID: -256825248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_83
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fc9f71633215b4d909c7ad601396dd
+      internalID: -513689355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_84
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a063a10eb61f6545bad38898e14c241
+      internalID: -87939703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_85
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c2bb41506f38148866c987b91e74f5
+      internalID: -2107894689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_86
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c138d01c3b46ff4b85826396996e4c9
+      internalID: -1446278831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_87
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e04ac1d5fe704dac0fef311ec79e3
+      internalID: 1266377242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_88
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2791a6bcc3d0e3f478be9162ff828fff
+      internalID: 1387249882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_89
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4df5e9ea35eec144acf4a1df26525be
+      internalID: -1254927646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_90
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41280d78e02048b4eb5aa48960cf3248
+      internalID: -708481014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_91
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e277012f7ace488e6e48d80c977d3
+      internalID: -611114289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_92
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e223649dfc964a8262cf527944621
+      internalID: -1371641220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_93
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189dd551c476f3044bd7e4da65187347
+      internalID: 740719603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_94
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1065e6a55736f43bd06d48eb05f4ed
+      internalID: -449480830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_95
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e650511c317b1424cb800eec35cffe5a
+      internalID: -1020383734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_96
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6707ac751304cf441a6ae2c5519095c3
+      internalID: 1745516847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_97
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633ddfc0f93360d4a8d6c0446510f0ea
+      internalID: -791907667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_98
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ee42b78bbbfd34f82ad64569cffebc
+      internalID: -19561344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_99
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ebe18b07c1905459178a92103730fd
+      internalID: 1564626661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_100
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aaa66e04751584586d669d8cb1a0cc
+      internalID: 709228204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_101
+      rect:
+        serializedVersion: 2
+        x: 6464
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f7dd86737bd341928c84f1e3c139c
+      internalID: -2019125100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_102
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc255bcacff2c4492a53b9750a2c16
+      internalID: -1413364506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_103
+      rect:
+        serializedVersion: 2
+        x: 6592
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04daeb0aeb2ab41a7d3f8ff06ef095
+      internalID: 1507873211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_104
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3268206bdf0d0794b845122912c96659
+      internalID: 140701188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_105
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d218cffbc9bc054bac64c1e42806b1d
+      internalID: -1526293592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_106
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49193a7d9de07b449797337dea1cce3
+      internalID: -81796526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_107
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607b5c6dd99b804c9e72e1b589416ce
+      internalID: 1100671159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_108
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948375304b498f4991baadda3d66bfd
+      internalID: -678921381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_109
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931c0e70d67a054da85927b50cedc2a
+      internalID: -373370019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_110
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd0a185d1f25234889549c5c1155799
+      internalID: -451973895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_111
+      rect:
+        serializedVersion: 2
+        x: 7104
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97a96783c9f35a43992ce44a05802a9
+      internalID: 1994993965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9526a2283a0894fb2eb6768fe97ca5
+      internalID: 1781669038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_113
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3344fc9ffc0c341bce502b07600780
+      internalID: 793282393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a3ce69955aa548a9c38d425cec33f
+      internalID: 72595693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_115
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b5cce58f63963488cce65082d75002
+      internalID: -918866258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0d77fe881f374bb5675a0f247898a
+      internalID: 2007286029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_117
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13a789c58903134181f1b4efe876464
+      internalID: -1572398074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_118
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc30138009e864e8e02cd99cc4a8ed
+      internalID: -51834633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbbf0b94a8e52949a8fc18f08804a2a
+      internalID: -1618008794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_120
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9662cb4782419145ae61dd2da807431
+      internalID: 1133167946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_121
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd21fd1e4628694ca6c1c71597788f1
+      internalID: -1395354771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_122
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565eba44dee5e141a9690859c0242f8
+      internalID: -385106390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_123
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ec8955a7edb04facc5830185bb1e8
+      internalID: -954305240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_124
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e88dc644ba1714d9ae05214e42fdd8
+      internalID: -1065668551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_125
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e16268f1461da4ea0f64e85e0cb92c
+      internalID: -1903215813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_126
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb7754d128e6147ac4d8f7c38998b4
+      internalID: 1419041789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_127
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1beb1cbea7fc548a7a32fdf270456c
+      internalID: -591644605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80335e767c03e5943a924f704de5ce17
+      internalID: -1988308460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_129
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dd6fe80cb5b864890a6af78fff75e5
+      internalID: 2039111921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_130
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a785cbfa516ea24188538d3f93ef0bb
+      internalID: -922039544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_131
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d0f6d92289f7b40b0c6411b3e4258e
+      internalID: -780984897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_132
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d5c8c9438aff74095b859b02f05c52
+      internalID: -482195391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_133
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eb520002d8866438cf344d104e3a7d
+      internalID: 807414073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_134
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebee4b2c75c571849a087f9201cc6a46
+      internalID: -1641497580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_135
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de301164443f4b458108eff47ed93d6
+      internalID: 2040350298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_136
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020531875a5736448dbb86ca34a1e83
+      internalID: 935044765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_137
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703f2d929247c534c8cf055cc7578f61
+      internalID: -1883020686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_138
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038d62889da82314197ff2494253fdfe
+      internalID: -1577229168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_139
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd24f95c9fdec2e42a3368a0e4dff6fa
+      internalID: -927515596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_140
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca1e7f0bb34d5469cf8252288b7a50
+      internalID: 1082868312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_141
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a1d32da64cee41882fbdaef9156ef
+      internalID: -441054495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_142
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eef5d3677c8a274eb589dfd9aa61d51
+      internalID: -1567387434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_143
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004808ded440bdf4a96dba5e09f21dde
+      internalID: 670030407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_144
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ccfebcc2cea940a03acb10796936f
+      internalID: 1105631644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_145
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c73cb02f46751349a4193ec2dd46857
+      internalID: -113537992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_146
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4f8b2d556be9b4e8152806a8bbbb8d
+      internalID: 738806581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_147
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c974c80eba0f8b346ad1c8095109871b
+      internalID: -1218498548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_148
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be40751e706459e4f8b624826a6022cb
+      internalID: 1041305149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_149
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0ccecbe4d7b7643a361e7ee03cdd0f
+      internalID: 1101983121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_150
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5746dd7c9fb7e45b7df1fa78ad671b
+      internalID: 706281269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_151
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf851e8e0038db42a17e4e6b0a3066d
+      internalID: 1220321479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_152
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb8d0e4acb02f84aab7660746a0a25e
+      internalID: 506348142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_153
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9286fb7cd684d84a97b6e8aec839c87
+      internalID: 1276536364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_154
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b87550667cf194899815ced11fc5c7
+      internalID: -1263689618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_155
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5084f9a093eb47b4f85e0b0c58266dac
+      internalID: -641885906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_156
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350bdc2829f69442ac2a711079885a6
+      internalID: 660807548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_157
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba9d5c1f3264bb49be2f498b9f11a86
+      internalID: -993891148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_158
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ece9af887309e4e9f7c1188ffb834f
+      internalID: -1672866369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_159
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a34759a646d5914d858939c9593d004
+      internalID: -1120054302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_160
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4d417c66c308e468e4044bf89b8904
+      internalID: -1887456585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_161
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb782a1790c2342bc65594a1405b61
+      internalID: 867093964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_162
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a32b176771a6428512f4462a6a51e
+      internalID: -2001473240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_163
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbaf3bffc76b444c825d4ba082f8273
+      internalID: 1812831573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_164
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0749aa8ccfca47a66a7f9e4651803
+      internalID: 1565132270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_165
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc415e22c48d4347b6c48dc14cb496c
+      internalID: -811656139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_166
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ae20fe83444540a7135c8609c4958
+      internalID: 1827653376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_167
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc570198617faf42bf97bf59829b932
+      internalID: 701812651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_168
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69039ff67f00f824294652a30f061d5e
+      internalID: -124144405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_169
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3459a05ca9dc4496d99866ac3e30b
+      internalID: -1085173617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_170
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fbdf2c08b0f9a4f881114e65bb84c0
+      internalID: -1357572756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_171
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe25e7c558f900040a4ff09d00efda16
+      internalID: 1251473398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_172
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702106ea5900d664293990bbaf845270
+      internalID: -1795336466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_173
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004d4c511740a0049986024d7afe93b6
+      internalID: 1124742899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_174
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8816bafa53bb04697879e2cabb524c
+      internalID: 1743448756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_175
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569ffcd0bc7447142a6edbc7d885a7c6
+      internalID: -1288899251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_176
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b3d37f91f734d43b7706aef87e24c8
+      internalID: -1044092528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_177
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3790a9c94bd0f43aa0223a7d975f2a
+      internalID: 154756100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_178
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a4b30a6fd1224e87c3595aa6254e6
+      internalID: 72520809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_179
+      rect:
+        serializedVersion: 2
+        x: 4288
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cd45f5c941aa4ebce0c1e0670c204
+      internalID: 615199145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_180
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2351a4c52125f4ea2464e95a5b5f83
+      internalID: -1095144778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_181
+      rect:
+        serializedVersion: 2
+        x: 4416
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb97d5b9f666f0848bac606a5521e0f6
+      internalID: -975194031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_182
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0f081529bfb04883f78eb1929e0a3
+      internalID: 1886452654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_183
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5460a3619e5654ea068f4f758c5a4e
+      internalID: -1734847328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_184
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e50de4502ce034ebb5eea58a7e2eb3
+      internalID: 1723510036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_185
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13674f09ce8b5434196fc105cf1f9c58
+      internalID: 1852217504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_186
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547334113a0b6c6479d72daed8b1eff2
+      internalID: -988173372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_187
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b993051e1ba3ae43a98c0ba36fd594e
+      internalID: 1573591081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_188
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746f18626b4bed34793eca13a8fa547e
+      internalID: -448021300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_189
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5dc146e834f674fba89c90e7033b2f
+      internalID: 824466286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_190
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb82ce9ad1c84b48820bcfb5eac7fad
+      internalID: -234741716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_191
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e596999dd976e4b92c065d9386ff07
+      internalID: 1975303837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_192
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52d482fef03f9b49a2ae56aaa8913ba
+      internalID: 771805847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_193
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8765152d9fc3e394682cdbde8ae74ce7
+      internalID: 352227655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_194
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ee3cf45af359b459da73e06eaac2f0
+      internalID: 1650946591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_195
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d5b68fce955c448a451e1f0c565e55
+      internalID: -402334232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_196
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ddb562313691b4ea6e889e4f9a93a7
+      internalID: -1392657769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_197
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5345c207937b9348b2d9668f0956a95
+      internalID: 1476464810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_198
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c35fc8a9b878e4589ce28d39dfc4f3
+      internalID: 1133575032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_199
+      rect:
+        serializedVersion: 2
+        x: 5568
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510283411feb63441b2852f8599b1429
+      internalID: -1590678520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_200
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaec564f25fc4194496224aac6ea8077
+      internalID: 120965580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_201
+      rect:
+        serializedVersion: 2
+        x: 5696
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e40d190740f9c348827f45a16dc7543
+      internalID: 343725870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_202
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d695f33d1b5a3e843a5ef2f188071c18
+      internalID: -1710929225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_203
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbc1e7c7b713114180c49246249e5fd
+      internalID: 560158415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_204
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c1ec67295f6e5458c57ee1b0ca3ded
+      internalID: -456998772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_205
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa5c4b7b2be9f4d86f1cd6d410bc0f
+      internalID: 1699831855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_206
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43576eed393633f4bb85e409e52b8fb4
+      internalID: 850881902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_207
+      rect:
+        serializedVersion: 2
+        x: 6080
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c537a917e58e89489efebbef8b650a0
+      internalID: 975220326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_208
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eba83e2b0737f94f9d2d15057bb24ad
+      internalID: -599284526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_209
+      rect:
+        serializedVersion: 2
+        x: 6208
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d41e71c2c049a4fad66bf52aa66832
+      internalID: -442270602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_210
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3041de77bbe94cbdba1a35f453c79
+      internalID: 925782963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_211
+      rect:
+        serializedVersion: 2
+        x: 6336
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfede3b129e21468126877f00124a1
+      internalID: -1494155800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_212
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947bcc5c956665a4ba73c9daf6ae8c25
+      internalID: 1135995140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_213
+      rect:
+        serializedVersion: 2
+        x: 6464
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644b8342aba79e40862d04f81751ad1
+      internalID: -1009261108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_214
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a8db1853fd18443a1293c4efa4e1a3
+      internalID: 165292182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_215
+      rect:
+        serializedVersion: 2
+        x: 6592
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fa8c294300442439b83e48cf0f0af5
+      internalID: -1147726831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_216
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e789121d02594fa509299347eb9bf
+      internalID: 724309694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_217
+      rect:
+        serializedVersion: 2
+        x: 6720
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2441c0d6328702f488bdc4eba3b8ab45
+      internalID: 213131507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_218
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be4eb4c1f30eed4b87ff22335096b3b
+      internalID: 981880822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_219
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9beac5221533e444a716681b4732b41
+      internalID: -1323239420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_220
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3f5fa16f416744c9d787557c0c1735
+      internalID: 711612384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_221
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2b66c5b7ccc424ba1a61ad25cb91ea
+      internalID: 1433849997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_222
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698bf384a4a2e8947afa448d0348fb3f
+      internalID: -1372856649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Hit 1 Back Spritesheet(1)_223
+      rect:
+        serializedVersion: 2
+        x: 7104
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149f6836e3105b4a9b3d2799d225f67
+      internalID: -1427780117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df74126d560917948818b0b9b9667332
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FANATIC_01 Hit 1 Back Spritesheet(1)_0: 2731470512308577508
+      FANATIC_01 Hit 1 Back Spritesheet(1)_1: 270509679307151734
+      FANATIC_01 Hit 1 Back Spritesheet(1)_10: -4550086126191598325
+      FANATIC_01 Hit 1 Back Spritesheet(1)_100: 709228204
+      FANATIC_01 Hit 1 Back Spritesheet(1)_101: -2019125100
+      FANATIC_01 Hit 1 Back Spritesheet(1)_102: -1413364506
+      FANATIC_01 Hit 1 Back Spritesheet(1)_103: 1507873211
+      FANATIC_01 Hit 1 Back Spritesheet(1)_104: 140701188
+      FANATIC_01 Hit 1 Back Spritesheet(1)_105: -1526293592
+      FANATIC_01 Hit 1 Back Spritesheet(1)_106: -81796526
+      FANATIC_01 Hit 1 Back Spritesheet(1)_107: 1100671159
+      FANATIC_01 Hit 1 Back Spritesheet(1)_108: -678921381
+      FANATIC_01 Hit 1 Back Spritesheet(1)_109: -373370019
+      FANATIC_01 Hit 1 Back Spritesheet(1)_11: -4674791236423554813
+      FANATIC_01 Hit 1 Back Spritesheet(1)_110: -451973895
+      FANATIC_01 Hit 1 Back Spritesheet(1)_111: 1994993965
+      FANATIC_01 Hit 1 Back Spritesheet(1)_112: 1781669038
+      FANATIC_01 Hit 1 Back Spritesheet(1)_113: 793282393
+      FANATIC_01 Hit 1 Back Spritesheet(1)_114: 72595693
+      FANATIC_01 Hit 1 Back Spritesheet(1)_115: -918866258
+      FANATIC_01 Hit 1 Back Spritesheet(1)_116: 2007286029
+      FANATIC_01 Hit 1 Back Spritesheet(1)_117: -1572398074
+      FANATIC_01 Hit 1 Back Spritesheet(1)_118: -51834633
+      FANATIC_01 Hit 1 Back Spritesheet(1)_119: -1618008794
+      FANATIC_01 Hit 1 Back Spritesheet(1)_12: 234601695548556434
+      FANATIC_01 Hit 1 Back Spritesheet(1)_120: 1133167946
+      FANATIC_01 Hit 1 Back Spritesheet(1)_121: -1395354771
+      FANATIC_01 Hit 1 Back Spritesheet(1)_122: -385106390
+      FANATIC_01 Hit 1 Back Spritesheet(1)_123: -954305240
+      FANATIC_01 Hit 1 Back Spritesheet(1)_124: -1065668551
+      FANATIC_01 Hit 1 Back Spritesheet(1)_125: -1903215813
+      FANATIC_01 Hit 1 Back Spritesheet(1)_126: 1419041789
+      FANATIC_01 Hit 1 Back Spritesheet(1)_127: -591644605
+      FANATIC_01 Hit 1 Back Spritesheet(1)_128: -1988308460
+      FANATIC_01 Hit 1 Back Spritesheet(1)_129: 2039111921
+      FANATIC_01 Hit 1 Back Spritesheet(1)_13: 7920095568789811697
+      FANATIC_01 Hit 1 Back Spritesheet(1)_130: -922039544
+      FANATIC_01 Hit 1 Back Spritesheet(1)_131: -780984897
+      FANATIC_01 Hit 1 Back Spritesheet(1)_132: -482195391
+      FANATIC_01 Hit 1 Back Spritesheet(1)_133: 807414073
+      FANATIC_01 Hit 1 Back Spritesheet(1)_134: -1641497580
+      FANATIC_01 Hit 1 Back Spritesheet(1)_135: 2040350298
+      FANATIC_01 Hit 1 Back Spritesheet(1)_136: 935044765
+      FANATIC_01 Hit 1 Back Spritesheet(1)_137: -1883020686
+      FANATIC_01 Hit 1 Back Spritesheet(1)_138: -1577229168
+      FANATIC_01 Hit 1 Back Spritesheet(1)_139: -927515596
+      FANATIC_01 Hit 1 Back Spritesheet(1)_14: -84019523363706476
+      FANATIC_01 Hit 1 Back Spritesheet(1)_140: 1082868312
+      FANATIC_01 Hit 1 Back Spritesheet(1)_141: -441054495
+      FANATIC_01 Hit 1 Back Spritesheet(1)_142: -1567387434
+      FANATIC_01 Hit 1 Back Spritesheet(1)_143: 670030407
+      FANATIC_01 Hit 1 Back Spritesheet(1)_144: 1105631644
+      FANATIC_01 Hit 1 Back Spritesheet(1)_145: -113537992
+      FANATIC_01 Hit 1 Back Spritesheet(1)_146: 738806581
+      FANATIC_01 Hit 1 Back Spritesheet(1)_147: -1218498548
+      FANATIC_01 Hit 1 Back Spritesheet(1)_148: 1041305149
+      FANATIC_01 Hit 1 Back Spritesheet(1)_149: 1101983121
+      FANATIC_01 Hit 1 Back Spritesheet(1)_15: -1694398132127321854
+      FANATIC_01 Hit 1 Back Spritesheet(1)_150: 706281269
+      FANATIC_01 Hit 1 Back Spritesheet(1)_151: 1220321479
+      FANATIC_01 Hit 1 Back Spritesheet(1)_152: 506348142
+      FANATIC_01 Hit 1 Back Spritesheet(1)_153: 1276536364
+      FANATIC_01 Hit 1 Back Spritesheet(1)_154: -1263689618
+      FANATIC_01 Hit 1 Back Spritesheet(1)_155: -641885906
+      FANATIC_01 Hit 1 Back Spritesheet(1)_156: 660807548
+      FANATIC_01 Hit 1 Back Spritesheet(1)_157: -993891148
+      FANATIC_01 Hit 1 Back Spritesheet(1)_158: -1672866369
+      FANATIC_01 Hit 1 Back Spritesheet(1)_159: -1120054302
+      FANATIC_01 Hit 1 Back Spritesheet(1)_16: 5754925649185078335
+      FANATIC_01 Hit 1 Back Spritesheet(1)_160: -1887456585
+      FANATIC_01 Hit 1 Back Spritesheet(1)_161: 867093964
+      FANATIC_01 Hit 1 Back Spritesheet(1)_162: -2001473240
+      FANATIC_01 Hit 1 Back Spritesheet(1)_163: 1812831573
+      FANATIC_01 Hit 1 Back Spritesheet(1)_164: 1565132270
+      FANATIC_01 Hit 1 Back Spritesheet(1)_165: -811656139
+      FANATIC_01 Hit 1 Back Spritesheet(1)_166: 1827653376
+      FANATIC_01 Hit 1 Back Spritesheet(1)_167: 701812651
+      FANATIC_01 Hit 1 Back Spritesheet(1)_168: -124144405
+      FANATIC_01 Hit 1 Back Spritesheet(1)_169: -1085173617
+      FANATIC_01 Hit 1 Back Spritesheet(1)_17: -8623215873823186805
+      FANATIC_01 Hit 1 Back Spritesheet(1)_170: -1357572756
+      FANATIC_01 Hit 1 Back Spritesheet(1)_171: 1251473398
+      FANATIC_01 Hit 1 Back Spritesheet(1)_172: -1795336466
+      FANATIC_01 Hit 1 Back Spritesheet(1)_173: 1124742899
+      FANATIC_01 Hit 1 Back Spritesheet(1)_174: 1743448756
+      FANATIC_01 Hit 1 Back Spritesheet(1)_175: -1288899251
+      FANATIC_01 Hit 1 Back Spritesheet(1)_176: -1044092528
+      FANATIC_01 Hit 1 Back Spritesheet(1)_177: 154756100
+      FANATIC_01 Hit 1 Back Spritesheet(1)_178: 72520809
+      FANATIC_01 Hit 1 Back Spritesheet(1)_179: 615199145
+      FANATIC_01 Hit 1 Back Spritesheet(1)_18: 7700152550002114806
+      FANATIC_01 Hit 1 Back Spritesheet(1)_180: -1095144778
+      FANATIC_01 Hit 1 Back Spritesheet(1)_181: -975194031
+      FANATIC_01 Hit 1 Back Spritesheet(1)_182: 1886452654
+      FANATIC_01 Hit 1 Back Spritesheet(1)_183: -1734847328
+      FANATIC_01 Hit 1 Back Spritesheet(1)_184: 1723510036
+      FANATIC_01 Hit 1 Back Spritesheet(1)_185: 1852217504
+      FANATIC_01 Hit 1 Back Spritesheet(1)_186: -988173372
+      FANATIC_01 Hit 1 Back Spritesheet(1)_187: 1573591081
+      FANATIC_01 Hit 1 Back Spritesheet(1)_188: -448021300
+      FANATIC_01 Hit 1 Back Spritesheet(1)_189: 824466286
+      FANATIC_01 Hit 1 Back Spritesheet(1)_19: 8141763256374286606
+      FANATIC_01 Hit 1 Back Spritesheet(1)_190: -234741716
+      FANATIC_01 Hit 1 Back Spritesheet(1)_191: 1975303837
+      FANATIC_01 Hit 1 Back Spritesheet(1)_192: 771805847
+      FANATIC_01 Hit 1 Back Spritesheet(1)_193: 352227655
+      FANATIC_01 Hit 1 Back Spritesheet(1)_194: 1650946591
+      FANATIC_01 Hit 1 Back Spritesheet(1)_195: -402334232
+      FANATIC_01 Hit 1 Back Spritesheet(1)_196: -1392657769
+      FANATIC_01 Hit 1 Back Spritesheet(1)_197: 1476464810
+      FANATIC_01 Hit 1 Back Spritesheet(1)_198: 1133575032
+      FANATIC_01 Hit 1 Back Spritesheet(1)_199: -1590678520
+      FANATIC_01 Hit 1 Back Spritesheet(1)_2: -4216543706656355268
+      FANATIC_01 Hit 1 Back Spritesheet(1)_20: -4134417204452504677
+      FANATIC_01 Hit 1 Back Spritesheet(1)_200: 120965580
+      FANATIC_01 Hit 1 Back Spritesheet(1)_201: 343725870
+      FANATIC_01 Hit 1 Back Spritesheet(1)_202: -1710929225
+      FANATIC_01 Hit 1 Back Spritesheet(1)_203: 560158415
+      FANATIC_01 Hit 1 Back Spritesheet(1)_204: -456998772
+      FANATIC_01 Hit 1 Back Spritesheet(1)_205: 1699831855
+      FANATIC_01 Hit 1 Back Spritesheet(1)_206: 850881902
+      FANATIC_01 Hit 1 Back Spritesheet(1)_207: 975220326
+      FANATIC_01 Hit 1 Back Spritesheet(1)_208: -599284526
+      FANATIC_01 Hit 1 Back Spritesheet(1)_209: -442270602
+      FANATIC_01 Hit 1 Back Spritesheet(1)_21: -2137552546250565743
+      FANATIC_01 Hit 1 Back Spritesheet(1)_210: 925782963
+      FANATIC_01 Hit 1 Back Spritesheet(1)_211: -1494155800
+      FANATIC_01 Hit 1 Back Spritesheet(1)_212: 1135995140
+      FANATIC_01 Hit 1 Back Spritesheet(1)_213: -1009261108
+      FANATIC_01 Hit 1 Back Spritesheet(1)_214: 165292182
+      FANATIC_01 Hit 1 Back Spritesheet(1)_215: -1147726831
+      FANATIC_01 Hit 1 Back Spritesheet(1)_216: 724309694
+      FANATIC_01 Hit 1 Back Spritesheet(1)_217: 213131507
+      FANATIC_01 Hit 1 Back Spritesheet(1)_218: 981880822
+      FANATIC_01 Hit 1 Back Spritesheet(1)_219: -1323239420
+      FANATIC_01 Hit 1 Back Spritesheet(1)_22: 3752897925829780588
+      FANATIC_01 Hit 1 Back Spritesheet(1)_220: 711612384
+      FANATIC_01 Hit 1 Back Spritesheet(1)_221: 1433849997
+      FANATIC_01 Hit 1 Back Spritesheet(1)_222: -1372856649
+      FANATIC_01 Hit 1 Back Spritesheet(1)_223: -1427780117
+      FANATIC_01 Hit 1 Back Spritesheet(1)_23: 5576414873568381464
+      FANATIC_01 Hit 1 Back Spritesheet(1)_24: 3487523913571014161
+      FANATIC_01 Hit 1 Back Spritesheet(1)_25: -7239912835880113398
+      FANATIC_01 Hit 1 Back Spritesheet(1)_26: -2333525104881446934
+      FANATIC_01 Hit 1 Back Spritesheet(1)_27: 6602628611247040285
+      FANATIC_01 Hit 1 Back Spritesheet(1)_28: -3267489398638564241
+      FANATIC_01 Hit 1 Back Spritesheet(1)_29: -7418949893508889454
+      FANATIC_01 Hit 1 Back Spritesheet(1)_3: 3927553694918632665
+      FANATIC_01 Hit 1 Back Spritesheet(1)_30: 7259453799742160334
+      FANATIC_01 Hit 1 Back Spritesheet(1)_31: 1282192810774404987
+      FANATIC_01 Hit 1 Back Spritesheet(1)_32: -6820790579380880443
+      FANATIC_01 Hit 1 Back Spritesheet(1)_33: 7193046566979885002
+      FANATIC_01 Hit 1 Back Spritesheet(1)_34: 2735332282471218433
+      FANATIC_01 Hit 1 Back Spritesheet(1)_35: -3565261438872251863
+      FANATIC_01 Hit 1 Back Spritesheet(1)_36: -2688590019876556790
+      FANATIC_01 Hit 1 Back Spritesheet(1)_37: -5499040918818674785
+      FANATIC_01 Hit 1 Back Spritesheet(1)_38: 73624775588941140
+      FANATIC_01 Hit 1 Back Spritesheet(1)_39: 3212302950682113031
+      FANATIC_01 Hit 1 Back Spritesheet(1)_4: 491999219289318970
+      FANATIC_01 Hit 1 Back Spritesheet(1)_40: -7774394178116110873
+      FANATIC_01 Hit 1 Back Spritesheet(1)_41: -5645066869888886723
+      FANATIC_01 Hit 1 Back Spritesheet(1)_42: -2890895727017818716
+      FANATIC_01 Hit 1 Back Spritesheet(1)_43: -4138685779384679751
+      FANATIC_01 Hit 1 Back Spritesheet(1)_44: -8352746940961607645
+      FANATIC_01 Hit 1 Back Spritesheet(1)_45: -3747161648906705188
+      FANATIC_01 Hit 1 Back Spritesheet(1)_46: -9135891187646813395
+      FANATIC_01 Hit 1 Back Spritesheet(1)_47: 9138131927570532453
+      FANATIC_01 Hit 1 Back Spritesheet(1)_48: 1676008419246976243
+      FANATIC_01 Hit 1 Back Spritesheet(1)_49: -7314261657792303352
+      FANATIC_01 Hit 1 Back Spritesheet(1)_5: -2013761286339723771
+      FANATIC_01 Hit 1 Back Spritesheet(1)_50: 2059213236880646136
+      FANATIC_01 Hit 1 Back Spritesheet(1)_51: 3941326543656642382
+      FANATIC_01 Hit 1 Back Spritesheet(1)_52: -3591631912640439588
+      FANATIC_01 Hit 1 Back Spritesheet(1)_53: -8610276412816734569
+      FANATIC_01 Hit 1 Back Spritesheet(1)_54: -8788949613304329383
+      FANATIC_01 Hit 1 Back Spritesheet(1)_55: -3686653313877582568
+      FANATIC_01 Hit 1 Back Spritesheet(1)_56: -1707509303
+      FANATIC_01 Hit 1 Back Spritesheet(1)_57: 897627273
+      FANATIC_01 Hit 1 Back Spritesheet(1)_58: -1330092356
+      FANATIC_01 Hit 1 Back Spritesheet(1)_59: -2033986706
+      FANATIC_01 Hit 1 Back Spritesheet(1)_6: -6696260161716767316
+      FANATIC_01 Hit 1 Back Spritesheet(1)_60: 2115983209
+      FANATIC_01 Hit 1 Back Spritesheet(1)_61: 60065867
+      FANATIC_01 Hit 1 Back Spritesheet(1)_62: -204977635
+      FANATIC_01 Hit 1 Back Spritesheet(1)_63: -319534563
+      FANATIC_01 Hit 1 Back Spritesheet(1)_64: -182292624
+      FANATIC_01 Hit 1 Back Spritesheet(1)_65: -564536722
+      FANATIC_01 Hit 1 Back Spritesheet(1)_66: 1569433050
+      FANATIC_01 Hit 1 Back Spritesheet(1)_67: -767996488
+      FANATIC_01 Hit 1 Back Spritesheet(1)_68: -1180379193
+      FANATIC_01 Hit 1 Back Spritesheet(1)_69: -828556358
+      FANATIC_01 Hit 1 Back Spritesheet(1)_7: 4966344384676826955
+      FANATIC_01 Hit 1 Back Spritesheet(1)_70: 1220705698
+      FANATIC_01 Hit 1 Back Spritesheet(1)_71: 1205117764
+      FANATIC_01 Hit 1 Back Spritesheet(1)_72: -906391207
+      FANATIC_01 Hit 1 Back Spritesheet(1)_73: -853580157
+      FANATIC_01 Hit 1 Back Spritesheet(1)_74: 119961874
+      FANATIC_01 Hit 1 Back Spritesheet(1)_75: 149773315
+      FANATIC_01 Hit 1 Back Spritesheet(1)_76: -1546057662
+      FANATIC_01 Hit 1 Back Spritesheet(1)_77: 1786204677
+      FANATIC_01 Hit 1 Back Spritesheet(1)_78: 1010220655
+      FANATIC_01 Hit 1 Back Spritesheet(1)_79: 496167552
+      FANATIC_01 Hit 1 Back Spritesheet(1)_8: -1150582600194627348
+      FANATIC_01 Hit 1 Back Spritesheet(1)_80: -187398249
+      FANATIC_01 Hit 1 Back Spritesheet(1)_81: -1469523840
+      FANATIC_01 Hit 1 Back Spritesheet(1)_82: -256825248
+      FANATIC_01 Hit 1 Back Spritesheet(1)_83: -513689355
+      FANATIC_01 Hit 1 Back Spritesheet(1)_84: -87939703
+      FANATIC_01 Hit 1 Back Spritesheet(1)_85: -2107894689
+      FANATIC_01 Hit 1 Back Spritesheet(1)_86: -1446278831
+      FANATIC_01 Hit 1 Back Spritesheet(1)_87: 1266377242
+      FANATIC_01 Hit 1 Back Spritesheet(1)_88: 1387249882
+      FANATIC_01 Hit 1 Back Spritesheet(1)_89: -1254927646
+      FANATIC_01 Hit 1 Back Spritesheet(1)_9: -7914490725749290000
+      FANATIC_01 Hit 1 Back Spritesheet(1)_90: -708481014
+      FANATIC_01 Hit 1 Back Spritesheet(1)_91: -611114289
+      FANATIC_01 Hit 1 Back Spritesheet(1)_92: -1371641220
+      FANATIC_01 Hit 1 Back Spritesheet(1)_93: 740719603
+      FANATIC_01 Hit 1 Back Spritesheet(1)_94: -449480830
+      FANATIC_01 Hit 1 Back Spritesheet(1)_95: -1020383734
+      FANATIC_01 Hit 1 Back Spritesheet(1)_96: 1745516847
+      FANATIC_01 Hit 1 Back Spritesheet(1)_97: -791907667
+      FANATIC_01 Hit 1 Back Spritesheet(1)_98: -19561344
+      FANATIC_01 Hit 1 Back Spritesheet(1)_99: 1564626661
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
