@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DecorationSet
   decorations:
   - Sprite: {fileID: -3615947333783364004, guid: e1ffa9ed0fc24d2419ecfd6871308576, type: 3}
-    Count: 10
+    Count: 5
     isDecorNearPaths: 1
   - Sprite: {fileID: 3593516537867856284, guid: fc9ddfea435ebda4db9cf04952b982ef, type: 3}
     Count: 2
