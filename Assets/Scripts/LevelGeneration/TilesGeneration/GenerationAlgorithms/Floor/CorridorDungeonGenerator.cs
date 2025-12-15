@@ -8,6 +8,8 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
     [SerializeField]
     protected DecorationGenerator decorationGenerator;
     [SerializeField]
+    protected ColliderTilesGenerator colliderGenerator;
+    [SerializeField]
     protected DecorationVizualizer decorationVizualizer;
     [SerializeField]
     protected ColliderTilesGenerator colliderTilesGenerator;
@@ -16,6 +18,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
     {
         CorridorDungeonGeneration();
         decorationGenerator.GenerateDecoration();
+        colliderGenerator.GenerateColliderTiles();
     }
 
     private void CorridorDungeonGeneration()
@@ -51,7 +54,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
 
         // Передача в декорации и коллайдеры
         DecorationGenerator.roomPositionsList = roomPositionsSet;
-        colliderTilesGenerator.GenerateColliderTiles(roomPositionsSet);
+        ColliderTilesGenerator.roomPositionsList = roomPositionsSet;
 
         return roomPositions;
     }
@@ -59,6 +62,7 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
     private void CreateCorridors(HashSet<Vector2> floorPositions, HashSet<Vector2> potentialRoomPositions)
     {
         var currentPosition = startPosition;
+        var corridors = new List<HashSet<Vector2>>();
         potentialRoomPositions.Add(currentPosition);
 
         for (int i = 0; i < randomWalkParameters.corridorCount; i++)
@@ -71,6 +75,11 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
             currentPosition = corridor[corridor.Count - 1];
             potentialRoomPositions.Add(currentPosition);
             floorPositions.UnionWith(corridor);
+
+            corridors.Add(new HashSet<Vector2>(corridor));
         }
+
+        // Передача в коллайдеры
+        ColliderTilesGenerator.corridorPositionsList = corridors;
     }
 }
