@@ -1,6 +1,4 @@
-using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
 
 public class EnemyMovement : MonoBehaviour
 {
@@ -10,10 +8,10 @@ public class EnemyMovement : MonoBehaviour
     [SerializeField] private Animator animator;
 
     [SerializeField] private float detectionDistance = 10f;
-    [SerializeField] private float stopDistance = 2f;
-    [SerializeField] private float acceleration = 10f;
-    [SerializeField] private float deceleration = 12f;
-    [SerializeField] private float maxSpeed = 4f;
+    [SerializeField] private float stopDistance = 1f;
+    [SerializeField] private float acceleration = 5f;
+    [SerializeField] private float deceleration = 5f;
+    [SerializeField] private float maxSpeed = 0.8f;
 
     private Vector2 moveDirection;
     private float distance;

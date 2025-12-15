@@ -45,9 +45,13 @@ public class DecorationVizualizer : MonoBehaviour
 
         sr.sprite = sprite;
         sr.sortingLayerName = "Decorations";
-        sr.sortingOrder = 100;
+        sr.sortingOrder = 2;
         go.transform.SetParent(tilemap.transform, worldPositionStays: false);
         go.transform.position = position;
+
+        //go.AddComponent<BoxCollider2D>();
+        //go.transform.SetParent(tilemap.transform, worldPositionStays: false);
+        //go.transform.position = position;
 
         return go;
     }
