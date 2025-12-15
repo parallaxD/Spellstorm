@@ -6,18 +6,21 @@ using Random = UnityEngine.Random;
 
 public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
 {
-    public void GenerateColliderTiles(List<HashSet<Vector2>> roomsPositionsList)
+    [SerializeField] private float sizeOffset = 3f;
+    public static List<HashSet<Vector2>> roomPositionsList;
+    public static List<HashSet<Vector2>> corridorPositionsList;
+
+    public void GenerateColliderTiles()
     {
-        var positions = GetColliderTilesPositions(roomsPositionsList);
+        var positions = GetColliderTilesPositions();
         pathVizualizer.PaintColliderTiles(positions);
     }
 
-    private HashSet<Vector2> GetColliderTilesPositions(List<HashSet<Vector2>> roomsPositionsList)
+    private HashSet<Vector2> GetColliderTilesPositions()
     {
         var result = new HashSet<Vector2>();
-        var sizeOffset = 3f;
 
-        foreach (var room in roomsPositionsList)
+        foreach (var room in roomPositionsList)
         {
             var xStart = room.Min(p => p.x) - sizeOffset;
             var xEnd = room.Max(p => p.x) + sizeOffset;
@@ -28,14 +31,28 @@ public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
             {
                 for (float y = yStart; y < yEnd; y += 0.5f)
                 {
-                    if (x == xStart || x == xEnd - 1 ||  y == yStart || y == yEnd - 1)
+                    var position = new Vector2(x, y);
+
+                    if ((x == xStart || x == xEnd - 1 ||  y == yStart || y == yEnd - 1) && F(position))
                     {
-                        result.Add(new Vector2(x, y));
+                        result.Add(position);
                     }
                 }
             }
         }
 
         return result;
+    }
+
+    private bool F(Vector2 p)
+    {
+        return corridorPositionsList.All(
+            x =>
+            !x.Contains(p) && 
+            !x.Contains(p + Direction2D.Up) &&
+            !x.Contains(p + Direction2D.Left) &&
+            !x.Contains(p + Direction2D.Right) &&
+            !x.Contains(p + Direction2D.Down)
+        );
     }
 }
