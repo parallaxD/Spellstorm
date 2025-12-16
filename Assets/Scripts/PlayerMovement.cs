@@ -10,7 +10,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float acceleration = 10f; 
     [SerializeField] private float deceleration = 12f;  
 
-    private Animator animator;
+    public Animator animator;
 
     private void Awake()
     {

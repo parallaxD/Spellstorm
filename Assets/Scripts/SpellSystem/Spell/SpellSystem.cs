@@ -12,7 +12,6 @@ public class SpellSystem : MonoBehaviour
 
     private void Update()
     {
-        // Добавляем элементы только если еще не достигнут лимит
         if (Input.GetKeyDown(KeyCode.Q))
         {
             AddElement(ElementType.Fire);
@@ -52,7 +51,6 @@ public class SpellSystem : MonoBehaviour
             _spellStash.ClearStash();
         }
 
-        // Отладочная информация о текущем количестве элементов
         if (Input.GetKeyDown(KeyCode.I))
         {
             Debug.Log($"Текущее количество элементов: {Elements.Count}/{MAX_ELEMENTS}");

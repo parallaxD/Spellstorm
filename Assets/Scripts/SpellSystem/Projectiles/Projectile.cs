@@ -124,8 +124,7 @@ public abstract class Projectile : MonoBehaviour
         explosion.transform.position = transform.position;
 
         var spriteRenderer = explosion.AddComponent<SpriteRenderer>();
-        spriteRenderer.color = GetExplosionColor();
-        spriteRenderer.sprite = GetComponent<SpriteRenderer>()?.sprite;
+        spriteRenderer.color = GetExplosionColor(); 
 
         Destroy(explosion, 1f);
     }

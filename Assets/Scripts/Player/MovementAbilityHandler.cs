@@ -7,7 +7,7 @@ public class MovementAbilityHandler : MonoBehaviour
 
     private void Start()
     {
-        _currentAbility = new Teleport();
+        _currentAbility = new Flip();
 
         InputHandler.Instance.MovementAbility.performed += OnActionPerformed;
     }

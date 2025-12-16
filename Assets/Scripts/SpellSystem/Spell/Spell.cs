@@ -16,8 +16,6 @@ public abstract class Spell
 
     public virtual void Action()
     {
-        var spellComposer = new SpellComposer();
-        spellComposer.ComposeSpell(Data.Receipt);
         Vector3 direction = GetShootDirection();
         LaunchProjectile(direction);
     }
@@ -34,25 +32,14 @@ public abstract class Spell
     protected abstract void LaunchProjectile(Vector3 direction);
 }
 
-//public class Fireball : Spell
-//{
-//    public Fireball(SpellData data) : base(data) { }
-
-//    protected override void LaunchProjectile(Vector3 direction)
-//    {
-//        var fireballProjectile = FireballProjectile.Create();
-//        fireballProjectile.Launch(direction);
-//    }
-//}
-
 public class Water : Spell
 {
     public Water(SpellData data) : base(data) { }
 
-    protected override void LaunchProjectile(Vector3 direction)
-    {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+    protected override void LaunchProjectile(Vector3 direction) 
+    {      
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction); 
     }
 }
 
@@ -62,8 +49,8 @@ public class Fire : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt, fireDOTDamage: 10, fireDOTTicks: 3, fireDOTInterval: 1);
+        Projectile.Launch(direction);
     }
 }
 
@@ -73,8 +60,8 @@ public class Earth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireEarth = EarthProjectile.Create();
-        fireEarth.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -84,8 +71,8 @@ public class Wind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var windProjectile = WindProjectile.Create();
-        windProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -95,8 +82,8 @@ public class FireFire : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -106,8 +93,8 @@ public class FireWater : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -117,8 +104,8 @@ public class FireEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -128,8 +115,8 @@ public class FireWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -139,8 +126,8 @@ public class WaterWater : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -150,8 +137,8 @@ public class WaterEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -161,8 +148,8 @@ public class WaterWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -172,8 +159,8 @@ public class EarthEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var earthProjectile = EarthProjectile.Create();
-        earthProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -183,8 +170,8 @@ public class EarthWind: Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var earthProjectile = EarthProjectile.Create();
-        earthProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -194,8 +181,8 @@ public class WindWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var windProjectile = WindProjectile.Create();
-        windProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -205,8 +192,8 @@ public class FireFireFire : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -216,8 +203,8 @@ public class FireFireWater : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -227,8 +214,8 @@ public class FireFireEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -238,8 +225,8 @@ public class FireFireWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -249,8 +236,8 @@ public class FireWaterWater : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -260,8 +247,8 @@ public class FireWaterEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -271,8 +258,8 @@ public class FireWaterWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -282,8 +269,8 @@ public class FireEarthEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -293,8 +280,8 @@ public class FireEarthWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -304,8 +291,8 @@ public class FireWindWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var fireballProjectile = FireballProjectile.Create();
-        fireballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -315,8 +302,8 @@ public class WaterWaterWater : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -326,8 +313,8 @@ public class WaterWaterEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -337,8 +324,8 @@ public class WaterWaterWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -348,8 +335,8 @@ public class WaterEarthEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -359,8 +346,8 @@ public class WaterEarthWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -370,8 +357,8 @@ public class WaterWindWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var waterballProjectile = WaterballProjectile.Create();
-        waterballProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -382,8 +369,8 @@ public class EarthEarthEarth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var earthProjectile = EarthProjectile.Create();
-        earthProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -393,8 +380,8 @@ public class EarthEarthWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var earthProjectile = EarthProjectile.Create();
-        earthProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -404,8 +391,8 @@ public class EarthWindWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var earthProjectile = EarthProjectile.Create();
-        earthProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }
 
@@ -415,7 +402,7 @@ public class WindWindWind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var windProjectile = WindProjectile.Create();
-        windProjectile.Launch(direction);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        Projectile.Launch(direction);
     }
 }

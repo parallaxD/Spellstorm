@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 68d1300d830242449a2682bf7c7e6680
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5808335174479935850
+    second: Character Flip Back Spritesheet_0
+  - first:
+      213: 9137921252557605392
+    second: Character Flip Back Spritesheet_1
+  - first:
+      213: 6010058943989524121
+    second: Character Flip Back Spritesheet_2
+  - first:
+      213: 222350254094624833
+    second: Character Flip Back Spritesheet_3
+  - first:
+      213: 6020938313832044604
+    second: Character Flip Back Spritesheet_4
+  - first:
+      213: 6364973636987299695
+    second: Character Flip Back Spritesheet_5
+  - first:
+      213: 7143003135698067214
+    second: Character Flip Back Spritesheet_6
+  - first:
+      213: 4100394510420033080
+    second: Character Flip Back Spritesheet_7
+  - first:
+      213: -3788850855148868635
+    second: Character Flip Back Spritesheet_8
+  - first:
+      213: 8215041053383680598
+    second: Character Flip Back Spritesheet_9
+  - first:
+      213: -7520395375974320103
+    second: Character Flip Back Spritesheet_10
+  - first:
+      213: -3041448976193493012
+    second: Character Flip Back Spritesheet_11
+  - first:
+      213: 5319665519598628813
+    second: Character Flip Back Spritesheet_12
+  - first:
+      213: 5831000434221821811
+    second: Character Flip Back Spritesheet_13
+  - first:
+      213: -6919201512726578228
+    second: Character Flip Back Spritesheet_14
+  - first:
+      213: -8565584193957041613
+    second: Character Flip Back Spritesheet_15
+  - first:
+      213: 4190278740766908274
+    second: Character Flip Back Spritesheet_16
+  - first:
+      213: 3945860810826591591
+    second: Character Flip Back Spritesheet_17
+  - first:
+      213: -2245879925211664895
+    second: Character Flip Back Spritesheet_18
+  - first:
+      213: -9084577020253260062
+    second: Character Flip Back Spritesheet_19
+  - first:
+      213: 5465265978027384820
+    second: Character Flip Back Spritesheet_20
+  - first:
+      213: -1843930973421703414
+    second: Character Flip Back Spritesheet_21
+  - first:
+      213: 4730911600331853823
+    second: Character Flip Back Spritesheet_22
+  - first:
+      213: 6156730105445712948
+    second: Character Flip Back Spritesheet_23
+  - first:
+      213: -4153174875472202991
+    second: Character Flip Back Spritesheet_24
+  - first:
+      213: -6946733760977567443
+    second: Character Flip Back Spritesheet_25
+  - first:
+      213: -5470605075227189106
+    second: Character Flip Back Spritesheet_26
+  - first:
+      213: -5115205564275120734
+    second: Character Flip Back Spritesheet_27
+  - first:
+      213: -1866373930715151278
+    second: Character Flip Back Spritesheet_28
+  - first:
+      213: 3212569580778960354
+    second: Character Flip Back Spritesheet_29
+  - first:
+      213: -8878133997645897763
+    second: Character Flip Back Spritesheet_30
+  - first:
+      213: -2025931453463072443
+    second: Character Flip Back Spritesheet_31
+  - first:
+      213: 2799146431348080157
+    second: Character Flip Back Spritesheet_32
+  - first:
+      213: -3696675824214702597
+    second: Character Flip Back Spritesheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69687b4cee5a46fa0800000000000000
+      internalID: -5808335174479935850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 15
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a4034e6fa60de70800000000000000
+      internalID: 9137921252557605392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 15
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996a7a354c4086350800000000000000
+      internalID: 6010058943989524121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 15
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482707c062f51300800000000000000
+      internalID: 222350254094624833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 15
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c389f720f7bae8350800000000000000
+      internalID: 6020938313832044604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 15
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67aa5dbccde45850800000000000000
+      internalID: 6364973636987299695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 15
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fd8c4b18b012360800000000000000
+      internalID: 7143003135698067214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 15
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e3c88151787e830800000000000000
+      internalID: 4100394510420033080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 15
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebaaefa83c4b6bc0800000000000000
+      internalID: -3788850855148868635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 15
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6526f2a1050b10270800000000000000
+      internalID: 8215041053383680598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 15
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9187f84104032a790800000000000000
+      internalID: -7520395375974320103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 15
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7e28b354a9ac5d0800000000000000
+      internalID: -3041448976193493012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 15
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfe193fa9f33d940800000000000000
+      internalID: 5319665519598628813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 15
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fa0fe3000ebe050800000000000000
+      internalID: 5831000434221821811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 29
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb369832ee0aff90800000000000000
+      internalID: -6919201512726578228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 29
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a6d79de8ee02980800000000000000
+      internalID: -8565584193957041613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 29
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f584d405cd62a30800000000000000
+      internalID: 4190278740766908274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 29
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d247a508382c630800000000000000
+      internalID: 3945860810826591591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 29
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ee3917b1805d0e0800000000000000
+      internalID: -2245879925211664895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 42
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b02d05591de180800000000000000
+      internalID: -9084577020253260062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 42
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff9957637688db40800000000000000
+      internalID: 5465265978027384820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 42
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0febda9c8a0966e0800000000000000
+      internalID: -1843930973421703414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 42
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff0e89f80397a140800000000000000
+      internalID: 4730911600331853823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 42
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348b014969117550800000000000000
+      internalID: 6156730105445712948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 41
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f6698475fc56c0800000000000000
+      internalID: -4153174875472202991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 41
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2108b3237e389f90800000000000000
+      internalID: -6946733760977567443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 41
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8062a82ba18414b0800000000000000
+      internalID: -5470605075227189106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 41
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5a74c04a32309b0800000000000000
+      internalID: -5115205564275120734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 41
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2548ca96cce4916e0800000000000000
+      internalID: -1866373930715151278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 13
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e53e864307559c20800000000000000
+      internalID: 3212569580778960354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 13
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf5ff1ea288ac480800000000000000
+      internalID: -8878133997645897763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 13
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541fa01b31272e3e0800000000000000
+      internalID: -2025931453463072443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 13
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1efdca49d098d620800000000000000
+      internalID: 2799146431348080157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Character Flip Back Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 13
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf588e77ce4c2bcc0800000000000000
+      internalID: -3696675824214702597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Character Flip Back Spritesheet_0: -5808335174479935850
+      Character Flip Back Spritesheet_1: 9137921252557605392
+      Character Flip Back Spritesheet_10: -7520395375974320103
+      Character Flip Back Spritesheet_11: -3041448976193493012
+      Character Flip Back Spritesheet_12: 5319665519598628813
+      Character Flip Back Spritesheet_13: 5831000434221821811
+      Character Flip Back Spritesheet_14: -6919201512726578228
+      Character Flip Back Spritesheet_15: -8565584193957041613
+      Character Flip Back Spritesheet_16: 4190278740766908274
+      Character Flip Back Spritesheet_17: 3945860810826591591
+      Character Flip Back Spritesheet_18: -2245879925211664895
+      Character Flip Back Spritesheet_19: -9084577020253260062
+      Character Flip Back Spritesheet_2: 6010058943989524121
+      Character Flip Back Spritesheet_20: 5465265978027384820
+      Character Flip Back Spritesheet_21: -1843930973421703414
+      Character Flip Back Spritesheet_22: 4730911600331853823
+      Character Flip Back Spritesheet_23: 6156730105445712948
+      Character Flip Back Spritesheet_24: -4153174875472202991
+      Character Flip Back Spritesheet_25: -6946733760977567443
+      Character Flip Back Spritesheet_26: -5470605075227189106
+      Character Flip Back Spritesheet_27: -5115205564275120734
+      Character Flip Back Spritesheet_28: -1866373930715151278
+      Character Flip Back Spritesheet_29: 3212569580778960354
+      Character Flip Back Spritesheet_3: 222350254094624833
+      Character Flip Back Spritesheet_30: -8878133997645897763
+      Character Flip Back Spritesheet_31: -2025931453463072443
+      Character Flip Back Spritesheet_32: 2799146431348080157
+      Character Flip Back Spritesheet_33: -3696675824214702597
+      Character Flip Back Spritesheet_4: 6020938313832044604
+      Character Flip Back Spritesheet_5: 6364973636987299695
+      Character Flip Back Spritesheet_6: 7143003135698067214
+      Character Flip Back Spritesheet_7: 4100394510420033080
+      Character Flip Back Spritesheet_8: -3788850855148868635
+      Character Flip Back Spritesheet_9: 8215041053383680598
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
