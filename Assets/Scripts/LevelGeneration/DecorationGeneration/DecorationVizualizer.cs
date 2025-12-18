@@ -49,10 +49,6 @@ public class DecorationVizualizer : MonoBehaviour
         go.transform.SetParent(tilemap.transform, worldPositionStays: false);
         go.transform.position = position;
 
-        //go.AddComponent<BoxCollider2D>();
-        //go.transform.SetParent(tilemap.transform, worldPositionStays: false);
-        //go.transform.position = position;
-
         return go;
     }
 
