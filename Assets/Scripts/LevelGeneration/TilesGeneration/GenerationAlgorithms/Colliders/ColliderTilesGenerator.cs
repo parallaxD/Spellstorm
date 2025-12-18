@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using Random = UnityEngine.Random;
 
 public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
 {
@@ -33,7 +32,7 @@ public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
                 {
                     var position = new Vector2(x, y);
 
-                    if ((x == xStart || x == xEnd - 1 ||  y == yStart || y == yEnd - 1) && F(position))
+                    if ((x == xStart || x == xEnd - 1 ||  y == yStart || y == yEnd - 1) && IsPointOutsideAllCorridors(position))
                     {
                         result.Add(position);
                     }
@@ -44,15 +43,14 @@ public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
         return result;
     }
 
-    private bool F(Vector2 p)
+    private bool IsPointOutsideAllCorridors(Vector2 position)
     {
-        return corridorPositionsList.All(
-            x =>
-            !x.Contains(p) && 
-            !x.Contains(p + Direction2D.Up) &&
-            !x.Contains(p + Direction2D.Left) &&
-            !x.Contains(p + Direction2D.Right) &&
-            !x.Contains(p + Direction2D.Down)
+        return corridorPositionsList.All(corridorPositions =>
+            !corridorPositions.Contains(position) &&
+                Direction2D.cardinalDirectionList.All(
+                    direction =>
+                    !corridorPositions.Contains(position + direction)
+                )
         );
     }
 }
