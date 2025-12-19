@@ -11,7 +11,6 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     private void Start()
     {
-        // Можно подписаться на события здесь, если нужно
         // _playerHealth.OnDeath += HandlePlayerDeath;
     }
 

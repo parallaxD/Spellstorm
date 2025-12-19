@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 7a0713405d4c16141b3cd0833d4e34fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9191845259791781420
+    second: ASH_WISP_01 Walk Back Spritesheet_0
+  - first:
+      213: -4710564333489898989
+    second: ASH_WISP_01 Walk Back Spritesheet_1
+  - first:
+      213: -2571266022454338129
+    second: ASH_WISP_01 Walk Back Spritesheet_2
+  - first:
+      213: 2975971569071593741
+    second: ASH_WISP_01 Walk Back Spritesheet_3
+  - first:
+      213: 5470822739707618380
+    second: ASH_WISP_01 Walk Back Spritesheet_4
+  - first:
+      213: 5672564438549520826
+    second: ASH_WISP_01 Walk Back Spritesheet_5
+  - first:
+      213: -132245514390283187
+    second: ASH_WISP_01 Walk Back Spritesheet_6
+  - first:
+      213: -3659503324239631555
+    second: ASH_WISP_01 Walk Back Spritesheet_7
+  - first:
+      213: -5262706687806885788
+    second: ASH_WISP_01 Walk Back Spritesheet_8
+  - first:
+      213: -2189377283931805941
+    second: ASH_WISP_01 Walk Back Spritesheet_9
+  - first:
+      213: -211852116790217229
+    second: ASH_WISP_01 Walk Back Spritesheet_10
+  - first:
+      213: -6014847968570769974
+    second: ASH_WISP_01 Walk Back Spritesheet_11
+  - first:
+      213: -8471820309827909233
+    second: ASH_WISP_01 Walk Back Spritesheet_12
+  - first:
+      213: 3808685280274563155
+    second: ASH_WISP_01 Walk Back Spritesheet_13
+  - first:
+      213: 4453942312968524151
+    second: ASH_WISP_01 Walk Back Spritesheet_14
+  - first:
+      213: 1178734852888273941
+    second: ASH_WISP_01 Walk Back Spritesheet_15
+  - first:
+      213: 8812924533430583109
+    second: ASH_WISP_01 Walk Back Spritesheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e4f34309eff8f70800000000000000
+      internalID: 9191845259791781420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 46
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ab5b242b6b0aeb0800000000000000
+      internalID: -4710564333489898989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 46
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadd39cfc27015cd0800000000000000
+      internalID: -2571266022454338129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 46
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d099c2cef56cc4920800000000000000
+      internalID: 2975971569071593741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 46
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44e66dcb444ceb40800000000000000
+      internalID: 5470822739707618380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 46
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1e1456d4ff8be40800000000000000
+      internalID: 5672564438549520826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 46
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd0a3c76b2a2ef0800000000000000
+      internalID: -132245514390283187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 46
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be5509d15d63dc0800000000000000
+      internalID: -3659503324239631555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b234862c17f6b0800000000000000
+      internalID: -5262706687806885788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 46
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b076fe7c5f4cd91e0800000000000000
+      internalID: -2189377283931805941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 46
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5fdc94f995f0df0800000000000000
+      internalID: -211852116790217229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 46
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdfb5ff3a7f68ca0800000000000000
+      internalID: -6014847968570769974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 46
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8984c7505c0e6a80800000000000000
+      internalID: -8471820309827909233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 46
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3504608451b2bd430800000000000000
+      internalID: 3808685280274563155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 46
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77112968fe49fcd30800000000000000
+      internalID: 4453942312968524151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 46
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51427ce7a15bb5010800000000000000
+      internalID: 1178734852888273941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Walk Back Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f74779b2ccd4a70800000000000000
+      internalID: 8812924533430583109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ASH_WISP_01 Walk Back Spritesheet_0: 9191845259791781420
+      ASH_WISP_01 Walk Back Spritesheet_1: -4710564333489898989
+      ASH_WISP_01 Walk Back Spritesheet_10: -211852116790217229
+      ASH_WISP_01 Walk Back Spritesheet_11: -6014847968570769974
+      ASH_WISP_01 Walk Back Spritesheet_12: -8471820309827909233
+      ASH_WISP_01 Walk Back Spritesheet_13: 3808685280274563155
+      ASH_WISP_01 Walk Back Spritesheet_14: 4453942312968524151
+      ASH_WISP_01 Walk Back Spritesheet_15: 1178734852888273941
+      ASH_WISP_01 Walk Back Spritesheet_16: 8812924533430583109
+      ASH_WISP_01 Walk Back Spritesheet_2: -2571266022454338129
+      ASH_WISP_01 Walk Back Spritesheet_3: 2975971569071593741
+      ASH_WISP_01 Walk Back Spritesheet_4: 5470822739707618380
+      ASH_WISP_01 Walk Back Spritesheet_5: 5672564438549520826
+      ASH_WISP_01 Walk Back Spritesheet_6: -132245514390283187
+      ASH_WISP_01 Walk Back Spritesheet_7: -3659503324239631555
+      ASH_WISP_01 Walk Back Spritesheet_8: -5262706687806885788
+      ASH_WISP_01 Walk Back Spritesheet_9: -2189377283931805941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

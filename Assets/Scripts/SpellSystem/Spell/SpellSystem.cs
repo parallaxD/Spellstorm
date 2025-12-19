@@ -70,7 +70,6 @@ public class SpellSystem : MonoBehaviour
         {
             _spellStash.CastSpell();
             _spellStash.ClearStash();
-
         }
 
         if (Input.GetKeyDown(KeyCode.V))
@@ -125,7 +124,7 @@ public class SpellSystem : MonoBehaviour
 
             if (Elements.Count == MAX_ELEMENTS)
             {
-                Debug.Log("Достигнут максимум элементов! Автоматически создаем заклинание...");
+                Debug.Log("Достигнут максимум элементов! Автоматически создаем заклинание");
 
                 var id = SpellReceiptDataBase.GetIDBySequence(CreateSequence());
                 if (id != null)
