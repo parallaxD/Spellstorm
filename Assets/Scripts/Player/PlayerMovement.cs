@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
@@ -33,22 +34,14 @@ public class Player : MonoBehaviour
     {
         var targetVelocity = moveInput * maxSpeed;
 
-        if (moveInput.sqrMagnitude > 0.01f)
-        {
-            rb.linearVelocity = Vector2.Lerp(
+        var accel = moveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
+        var velocity = moveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
+
+        rb.linearVelocity = Vector2.Lerp(
                 rb.linearVelocity,
-                targetVelocity,
-                acceleration * Time.fixedDeltaTime
+                velocity,
+                accel * Time.fixedDeltaTime
             );
-        }
-        else
-        {
-            rb.linearVelocity = Vector2.Lerp(
-                rb.linearVelocity,
-                Vector2.zero,
-                deceleration * Time.fixedDeltaTime
-            );
-        }
 
         UpdateAnimation();
     }
