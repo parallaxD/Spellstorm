@@ -9,25 +9,34 @@ public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
     public static List<HashSet<Vector2>> roomPositionsList;
     public static List<HashSet<Vector2>> corridorPositionsList;
 
+    public static HashSet<Vector2> roomAvialablePositions;
+    public static HashSet<Vector2> corridorAvialablePositions;
+
     public void GenerateColliderTiles()
     {
-        var corridorColliders = GetCorridorColliderTilesPositions();
-        var roomColliders = GetRoomColliderTilesPositions();
+        roomAvialablePositions = new HashSet<Vector2>();
+        corridorAvialablePositions = new HashSet<Vector2>();
+
+        var roomPotentialColliderPositions = GetPotentialColliderPositions(roomPositionsList, roomAvialablePositions);
+        var corridorPotentialColliderPositions = GetPotentialColliderPositions(corridorPositionsList, corridorAvialablePositions);
+
+        var roomColliders = CleanupColliderPositions(roomPotentialColliderPositions);
+        var corridorColliders = CleanupColliderPositions(corridorPotentialColliderPositions);
 
         pathVizualizer.PaintColliderTiles(roomColliders);
         pathVizualizer.PaintColliderTiles(corridorColliders);
     }
 
-    private HashSet<Vector2> GetRoomColliderTilesPositions()
+    private HashSet<Vector2> GetPotentialColliderPositions(List<HashSet<Vector2>> positionsList, HashSet<Vector2> avialablePositions)
     {
         var result = new HashSet<Vector2>();
 
-        foreach (var room in roomPositionsList)
+        foreach (var positions in positionsList)
         {
-            var xStart = room.Min(p => p.x) - sizeOffset;
-            var xEnd = room.Max(p => p.x) + sizeOffset;
-            var yStart = room.Min(p => p.y) - sizeOffset;
-            var yEnd = room.Max(p => p.y) + sizeOffset;
+            var xStart = positions.Min(p => p.x) - sizeOffset;
+            var xEnd = positions.Max(p => p.x) + sizeOffset;
+            var yStart = positions.Min(p => p.y) - sizeOffset;
+            var yEnd = positions.Max(p => p.y) + sizeOffset;
 
             for (var x = xStart; x < xEnd; x += 0.5f)
             {
@@ -35,9 +44,13 @@ public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
                 {
                     var position = new Vector2(x, y);
 
-                    if ((x == xStart || x == xEnd - 1 ||  y == yStart || y == yEnd - 1) && IsPointOutsideAllCorridors(position))
+                    if (IsApproximately(x, xStart) || IsApproximately(x, xEnd - 0.5f) || IsApproximately(y, yStart) || IsApproximately(y, yEnd - 0.5f))
                     {
                         result.Add(position);
+                    }
+                    else
+                    {
+                        avialablePositions.Add(position);
                     }
                 }
             }
@@ -46,43 +59,23 @@ public class ColliderTilesGenerator : SimpleRandomWalkDungeonGenerator
         return result;
     }
 
-    private HashSet<Vector2> GetCorridorColliderTilesPositions()
+    private HashSet<Vector2> CleanupColliderPositions(HashSet<Vector2> positions)
     {
         var result = new HashSet<Vector2>();
 
-        foreach (var corridor in corridorPositionsList)
+        foreach (var position in positions)
         {
-            var xStart = corridor.Min(p => p.x) - sizeOffset;
-            var xEnd = corridor.Max(p => p.x) + sizeOffset;
-            var yStart = corridor.Min(p => p.y) - sizeOffset;
-            var yEnd = corridor.Max(p => p.y) + sizeOffset;
-
-            for (var x = xStart; x < xEnd; x += 0.5f)
+            if (!roomAvialablePositions.Contains(position) && !corridorAvialablePositions.Contains(position))
             {
-                for (var y = yStart; y < yEnd; y += 0.5f)
-                {
-                    var position = new Vector2(x, y);
-
-                    if (x == xStart || x == xEnd - 1 || y == yStart || y == yEnd - 1)
-                    {
-                        result.Add(position);
-                    }
-                }
+                result.Add(position);
             }
         }
 
         return result;
-        // Стереть все, которые входят в область друг друга
     }
 
-    private bool IsPointOutsideAllCorridors(Vector2 position)
+    private bool IsApproximately(float a, float b, float tolerance = 0.01f)
     {
-        return corridorPositionsList.All(corridorPositions =>
-            !corridorPositions.Contains(position) &&
-                Direction2D.cardinalDirectionList.All(
-                    direction =>
-                    !corridorPositions.Contains(position + direction)
-                )
-        );
+        return Mathf.Abs(a - b) < tolerance;
     }
 }
