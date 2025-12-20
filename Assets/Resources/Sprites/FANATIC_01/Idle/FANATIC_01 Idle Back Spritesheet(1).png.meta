@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 67276de2aa86a8e44bfd3383b27282cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 389283732080409482
+    second: FANATIC_01 Idle Back Spritesheet(1)_0
+  - first:
+      213: 3710111673136719463
+    second: FANATIC_01 Idle Back Spritesheet(1)_1
+  - first:
+      213: 1655953654105090747
+    second: FANATIC_01 Idle Back Spritesheet(1)_2
+  - first:
+      213: 4788625581718457719
+    second: FANATIC_01 Idle Back Spritesheet(1)_3
+  - first:
+      213: 5183003328357149189
+    second: FANATIC_01 Idle Back Spritesheet(1)_4
+  - first:
+      213: -8780316048063705430
+    second: FANATIC_01 Idle Back Spritesheet(1)_5
+  - first:
+      213: -1569229335673269662
+    second: FANATIC_01 Idle Back Spritesheet(1)_6
+  - first:
+      213: 3480196404381758457
+    second: FANATIC_01 Idle Back Spritesheet(1)_7
+  - first:
+      213: 3347895429071188576
+    second: FANATIC_01 Idle Back Spritesheet(1)_8
+  - first:
+      213: 1383000710174511343
+    second: FANATIC_01 Idle Back Spritesheet(1)_9
+  - first:
+      213: -3013557519495239832
+    second: FANATIC_01 Idle Back Spritesheet(1)_10
+  - first:
+      213: 1731895052956000540
+    second: FANATIC_01 Idle Back Spritesheet(1)_11
+  - first:
+      213: -6148056995854650006
+    second: FANATIC_01 Idle Back Spritesheet(1)_12
+  - first:
+      213: 7156585460649758413
+    second: FANATIC_01 Idle Back Spritesheet(1)_13
+  - first:
+      213: 997606665407329398
+    second: FANATIC_01 Idle Back Spritesheet(1)_14
+  - first:
+      213: -166531498526452970
+    second: FANATIC_01 Idle Back Spritesheet(1)_15
+  - first:
+      213: -5870008781983945467
+    second: FANATIC_01 Idle Back Spritesheet(1)_16
+  - first:
+      213: 7094154933728531588
+    second: FANATIC_01 Idle Back Spritesheet(1)_17
+  - first:
+      213: -4355279143469164596
+    second: FANATIC_01 Idle Back Spritesheet(1)_18
+  - first:
+      213: 3088743508520054822
+    second: FANATIC_01 Idle Back Spritesheet(1)_19
+  - first:
+      213: 3493451303001683472
+    second: FANATIC_01 Idle Back Spritesheet(1)_20
+  - first:
+      213: -3601451848020643842
+    second: FANATIC_01 Idle Back Spritesheet(1)_21
+  - first:
+      213: -1570545781370925952
+    second: FANATIC_01 Idle Back Spritesheet(1)_22
+  - first:
+      213: 3520754485167708607
+    second: FANATIC_01 Idle Back Spritesheet(1)_23
+  - first:
+      213: -3344806278381565771
+    second: FANATIC_01 Idle Back Spritesheet(1)_24
+  - first:
+      213: 3438503513447095015
+    second: FANATIC_01 Idle Back Spritesheet(1)_25
+  - first:
+      213: 2169827705605627007
+    second: FANATIC_01 Idle Back Spritesheet(1)_26
+  - first:
+      213: -2675127101008993271
+    second: FANATIC_01 Idle Back Spritesheet(1)_27
+  - first:
+      213: -4354942482630852381
+    second: FANATIC_01 Idle Back Spritesheet(1)_28
+  - first:
+      213: -8120889113589574205
+    second: FANATIC_01 Idle Back Spritesheet(1)_29
+  - first:
+      213: -705175188233203906
+    second: FANATIC_01 Idle Back Spritesheet(1)_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bbd77ed73076500800000000000000
+      internalID: 389283732080409482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7662852e8e6fc7330800000000000000
+      internalID: 3710111673136719463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_2
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa17523112bf610800000000000000
+      internalID: 1655953654105090747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d4da8689d947240800000000000000
+      internalID: 4788625581718457719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_4
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a2560011abde740800000000000000
+      internalID: 5183003328357149189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_5
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae408b031d062680800000000000000
+      internalID: -8780316048063705430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_6
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262921cbb3af83ae0800000000000000
+      internalID: -1569229335673269662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_7
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f334cfd0342c4030800000000000000
+      internalID: 3480196404381758457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_8
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06231f2a72d167e20800000000000000
+      internalID: 3347895429071188576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_9
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0901681d7613310800000000000000
+      internalID: 1383000710174511343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_10
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867674c0761bd26d0800000000000000
+      internalID: -3013557519495239832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_11
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11e2bbef5de80810800000000000000
+      internalID: 1731895052956000540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_12
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a657a3f6cb6bdaaa0800000000000000
+      internalID: -6148056995854650006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce01ca2f8c415360800000000000000
+      internalID: 7156585460649758413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_14
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747a250af538dd00800000000000000
+      internalID: 997606665407329398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_15
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613da620c7c50bdf0800000000000000
+      internalID: -166531498526452970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_16
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d6c690d1a898ea0800000000000000
+      internalID: -5870008781983945467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_17
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48459766350837260800000000000000
+      internalID: 7094154933728531588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_18
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75adbb1b0fe83c0800000000000000
+      internalID: -4355279143469164596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_19
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620b1ab2bdb6dda20800000000000000
+      internalID: 3088743508520054822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_20
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0167a83737b3b7030800000000000000
+      internalID: 3493451303001683472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_21
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff2e0320a2150ec0800000000000000
+      internalID: -3601451848020643842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_22
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc5e5deec443ae0800000000000000
+      internalID: -1570545781370925952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_23
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 33
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9d8cdec8b3cd030800000000000000
+      internalID: 3520754485167708607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_24
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8029e496cd491d0800000000000000
+      internalID: -3344806278381565771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_25
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea52fd3ab408bf20800000000000000
+      internalID: 3438503513447095015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_26
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c9c605dc6cc1e10800000000000000
+      internalID: 2169827705605627007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_27
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904a657331a00ead0800000000000000
+      internalID: -2675127101008993271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_28
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0c781b2e22093c0800000000000000
+      internalID: -4354942482630852381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_29
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c51824a06ecc4f80800000000000000
+      internalID: -8120889113589574205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Idle Back Spritesheet(1)_30
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fc0f807e6b636f0800000000000000
+      internalID: -705175188233203906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FANATIC_01 Idle Back Spritesheet(1)_0: 389283732080409482
+      FANATIC_01 Idle Back Spritesheet(1)_1: 3710111673136719463
+      FANATIC_01 Idle Back Spritesheet(1)_10: -3013557519495239832
+      FANATIC_01 Idle Back Spritesheet(1)_11: 1731895052956000540
+      FANATIC_01 Idle Back Spritesheet(1)_12: -6148056995854650006
+      FANATIC_01 Idle Back Spritesheet(1)_13: 7156585460649758413
+      FANATIC_01 Idle Back Spritesheet(1)_14: 997606665407329398
+      FANATIC_01 Idle Back Spritesheet(1)_15: -166531498526452970
+      FANATIC_01 Idle Back Spritesheet(1)_16: -5870008781983945467
+      FANATIC_01 Idle Back Spritesheet(1)_17: 7094154933728531588
+      FANATIC_01 Idle Back Spritesheet(1)_18: -4355279143469164596
+      FANATIC_01 Idle Back Spritesheet(1)_19: 3088743508520054822
+      FANATIC_01 Idle Back Spritesheet(1)_2: 1655953654105090747
+      FANATIC_01 Idle Back Spritesheet(1)_20: 3493451303001683472
+      FANATIC_01 Idle Back Spritesheet(1)_21: -3601451848020643842
+      FANATIC_01 Idle Back Spritesheet(1)_22: -1570545781370925952
+      FANATIC_01 Idle Back Spritesheet(1)_23: 3520754485167708607
+      FANATIC_01 Idle Back Spritesheet(1)_24: -3344806278381565771
+      FANATIC_01 Idle Back Spritesheet(1)_25: 3438503513447095015
+      FANATIC_01 Idle Back Spritesheet(1)_26: 2169827705605627007
+      FANATIC_01 Idle Back Spritesheet(1)_27: -2675127101008993271
+      FANATIC_01 Idle Back Spritesheet(1)_28: -4354942482630852381
+      FANATIC_01 Idle Back Spritesheet(1)_29: -8120889113589574205
+      FANATIC_01 Idle Back Spritesheet(1)_3: 4788625581718457719
+      FANATIC_01 Idle Back Spritesheet(1)_30: -705175188233203906
+      FANATIC_01 Idle Back Spritesheet(1)_4: 5183003328357149189
+      FANATIC_01 Idle Back Spritesheet(1)_5: -8780316048063705430
+      FANATIC_01 Idle Back Spritesheet(1)_6: -1569229335673269662
+      FANATIC_01 Idle Back Spritesheet(1)_7: 3480196404381758457
+      FANATIC_01 Idle Back Spritesheet(1)_8: 3347895429071188576
+      FANATIC_01 Idle Back Spritesheet(1)_9: 1383000710174511343
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

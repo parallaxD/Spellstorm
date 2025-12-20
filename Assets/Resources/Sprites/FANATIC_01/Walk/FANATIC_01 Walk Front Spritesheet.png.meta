@@ -1,0 +1,1133 @@
+fileFormatVersion: 2
+guid: fb26409da45ad124f99798fd3a95ece5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 813732243622260702
+    second: FANATIC_01 Walk Front Spritesheet_0
+  - first:
+      213: 4658466899950244297
+    second: FANATIC_01 Walk Front Spritesheet_1
+  - first:
+      213: -5554880062134188453
+    second: FANATIC_01 Walk Front Spritesheet_2
+  - first:
+      213: 6915955799797726119
+    second: FANATIC_01 Walk Front Spritesheet_3
+  - first:
+      213: -4500643528960627171
+    second: FANATIC_01 Walk Front Spritesheet_4
+  - first:
+      213: -1504095675496044541
+    second: FANATIC_01 Walk Front Spritesheet_5
+  - first:
+      213: -1495834307398615987
+    second: FANATIC_01 Walk Front Spritesheet_6
+  - first:
+      213: -1970374116944954816
+    second: FANATIC_01 Walk Front Spritesheet_7
+  - first:
+      213: 1562008760033249063
+    second: FANATIC_01 Walk Front Spritesheet_8
+  - first:
+      213: -7132572087165653993
+    second: FANATIC_01 Walk Front Spritesheet_9
+  - first:
+      213: 1264750437147673453
+    second: FANATIC_01 Walk Front Spritesheet_10
+  - first:
+      213: 6682938668719262324
+    second: FANATIC_01 Walk Front Spritesheet_11
+  - first:
+      213: 8354919900598932764
+    second: FANATIC_01 Walk Front Spritesheet_12
+  - first:
+      213: -1513137760219167047
+    second: FANATIC_01 Walk Front Spritesheet_13
+  - first:
+      213: -7475144758047547981
+    second: FANATIC_01 Walk Front Spritesheet_14
+  - first:
+      213: -4344441190101515809
+    second: FANATIC_01 Walk Front Spritesheet_15
+  - first:
+      213: 1539745207621416809
+    second: FANATIC_01 Walk Front Spritesheet_16
+  - first:
+      213: -376529857819968992
+    second: FANATIC_01 Walk Front Spritesheet_17
+  - first:
+      213: 8826988108542194395
+    second: FANATIC_01 Walk Front Spritesheet_18
+  - first:
+      213: -7214678696680776260
+    second: FANATIC_01 Walk Front Spritesheet_19
+  - first:
+      213: -1976947498686933782
+    second: FANATIC_01 Walk Front Spritesheet_20
+  - first:
+      213: 2551958965769668983
+    second: FANATIC_01 Walk Front Spritesheet_21
+  - first:
+      213: -7956415124795957666
+    second: FANATIC_01 Walk Front Spritesheet_22
+  - first:
+      213: 9013732723722588040
+    second: FANATIC_01 Walk Front Spritesheet_23
+  - first:
+      213: -2740038536156582882
+    second: FANATIC_01 Walk Front Spritesheet_24
+  - first:
+      213: 1422265485166682034
+    second: FANATIC_01 Walk Front Spritesheet_25
+  - first:
+      213: -726319879595705012
+    second: FANATIC_01 Walk Front Spritesheet_26
+  - first:
+      213: 6065040787097162069
+    second: FANATIC_01 Walk Front Spritesheet_27
+  - first:
+      213: -7856952709617304459
+    second: FANATIC_01 Walk Front Spritesheet_28
+  - first:
+      213: 3299466279165092786
+    second: FANATIC_01 Walk Front Spritesheet_29
+  - first:
+      213: 2403767927816511055
+    second: FANATIC_01 Walk Front Spritesheet_30
+  - first:
+      213: 5643995094225722642
+    second: FANATIC_01 Walk Front Spritesheet_31
+  - first:
+      213: 1471644442659230198
+    second: FANATIC_01 Walk Front Spritesheet_32
+  - first:
+      213: -1492011066343157661
+    second: FANATIC_01 Walk Front Spritesheet_33
+  - first:
+      213: -4204052404406365096
+    second: FANATIC_01 Walk Front Spritesheet_34
+  - first:
+      213: -9044521845057561714
+    second: FANATIC_01 Walk Front Spritesheet_35
+  - first:
+      213: 8552261608146210396
+    second: FANATIC_01 Walk Front Spritesheet_36
+  - first:
+      213: -5886683060200834136
+    second: FANATIC_01 Walk Front Spritesheet_37
+  - first:
+      213: -8266774617293099601
+    second: FANATIC_01 Walk Front Spritesheet_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfe26b0a25fa4b00800000000000000
+      internalID: 813732243622260702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c11371c6f236a040800000000000000
+      internalID: 4658466899950244297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b568796b30a19e2b0800000000000000
+      internalID: -5554880062134188453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abfe3958296aff50800000000000000
+      internalID: 6915955799797726119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e24ab4e808a81c0800000000000000
+      internalID: -4500643528960627171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3086bd1c3f0602be0800000000000000
+      internalID: -1504095675496044541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb9a86f9abd3be0800000000000000
+      internalID: -1495834307398615987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a3fdc1e23d7a4e0800000000000000
+      internalID: -1970374116944954816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 33
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72784ddf0be5da510800000000000000
+      internalID: 1562008760033249063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cef990a73040d90800000000000000
+      internalID: -7132572087165653993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6305b752db4d8110800000000000000
+      internalID: 1264750437147673453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47acbbcbf419ebc50800000000000000
+      internalID: 6682938668719262324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c159a022263a2f370800000000000000
+      internalID: 8354919900598932764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 33
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b608e95931400be0800000000000000
+      internalID: -1513137760219167047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 33
+        width: 21
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdd3f39273f24890800000000000000
+      internalID: -7475144758047547981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd18c6461c175b3c0800000000000000
+      internalID: -4344441190101515809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96772e0cb164e5510800000000000000
+      internalID: 1539745207621416809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aff49d61c46caf0800000000000000
+      internalID: -376529857819968992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 33
+        width: 22
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd23146dae2cf7a70800000000000000
+      internalID: 8826988108542194395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd93cb43ff40eb90800000000000000
+      internalID: -7214678696680776260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae41b2969b87094e0800000000000000
+      internalID: -1976947498686933782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779031498216a6320800000000000000
+      internalID: 2551958965769668983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 33
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eddf05992259190800000000000000
+      internalID: -7956415124795957666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 33
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f8cc9c726371d70800000000000000
+      internalID: 9013732723722588040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c618df77d69f9d0800000000000000
+      internalID: -2740038536156582882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf98ab5ce6ecb310800000000000000
+      internalID: 1422265485166682034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 33
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db46feae79be5f0800000000000000
+      internalID: -726319879595705012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5519e2f367a5b2450800000000000000
+      internalID: 6065040787097162069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cb736732f76f290800000000000000
+      internalID: -7856952709617304459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3762
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3e30e791f0acd20800000000000000
+      internalID: 3299466279165092786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3890
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4edaf3d136eb5120800000000000000
+      internalID: 2403767927816511055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d1f5192af735e40800000000000000
+      internalID: 5643995094225722642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4146
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f19160d2d45c6410800000000000000
+      internalID: 1471644442659230198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4274
+        y: 33
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3601aa517df4b4be0800000000000000
+      internalID: -1492011066343157661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4401
+        y: 32
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545b3abc9438a5c0800000000000000
+      internalID: -4204052404406365096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 32
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b55164d476b7280800000000000000
+      internalID: -9044521845057561714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 32
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e04cbee9cbfa670800000000000000
+      internalID: 8552261608146210396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 32
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab7b6b12fc4e4ea0800000000000000
+      internalID: -5886683060200834136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Walk Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 32
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad670ae844864d80800000000000000
+      internalID: -8266774617293099601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7d38f5cfd2a3806458d61d9d7092a2a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FANATIC_01 Walk Front Spritesheet_0: 813732243622260702
+      FANATIC_01 Walk Front Spritesheet_1: 4658466899950244297
+      FANATIC_01 Walk Front Spritesheet_10: 1264750437147673453
+      FANATIC_01 Walk Front Spritesheet_11: 6682938668719262324
+      FANATIC_01 Walk Front Spritesheet_12: 8354919900598932764
+      FANATIC_01 Walk Front Spritesheet_13: -1513137760219167047
+      FANATIC_01 Walk Front Spritesheet_14: -7475144758047547981
+      FANATIC_01 Walk Front Spritesheet_15: -4344441190101515809
+      FANATIC_01 Walk Front Spritesheet_16: 1539745207621416809
+      FANATIC_01 Walk Front Spritesheet_17: -376529857819968992
+      FANATIC_01 Walk Front Spritesheet_18: 8826988108542194395
+      FANATIC_01 Walk Front Spritesheet_19: -7214678696680776260
+      FANATIC_01 Walk Front Spritesheet_2: -5554880062134188453
+      FANATIC_01 Walk Front Spritesheet_20: -1976947498686933782
+      FANATIC_01 Walk Front Spritesheet_21: 2551958965769668983
+      FANATIC_01 Walk Front Spritesheet_22: -7956415124795957666
+      FANATIC_01 Walk Front Spritesheet_23: 9013732723722588040
+      FANATIC_01 Walk Front Spritesheet_24: -2740038536156582882
+      FANATIC_01 Walk Front Spritesheet_25: 1422265485166682034
+      FANATIC_01 Walk Front Spritesheet_26: -726319879595705012
+      FANATIC_01 Walk Front Spritesheet_27: 6065040787097162069
+      FANATIC_01 Walk Front Spritesheet_28: -7856952709617304459
+      FANATIC_01 Walk Front Spritesheet_29: 3299466279165092786
+      FANATIC_01 Walk Front Spritesheet_3: 6915955799797726119
+      FANATIC_01 Walk Front Spritesheet_30: 2403767927816511055
+      FANATIC_01 Walk Front Spritesheet_31: 5643995094225722642
+      FANATIC_01 Walk Front Spritesheet_32: 1471644442659230198
+      FANATIC_01 Walk Front Spritesheet_33: -1492011066343157661
+      FANATIC_01 Walk Front Spritesheet_34: -4204052404406365096
+      FANATIC_01 Walk Front Spritesheet_35: -9044521845057561714
+      FANATIC_01 Walk Front Spritesheet_36: 8552261608146210396
+      FANATIC_01 Walk Front Spritesheet_37: -5886683060200834136
+      FANATIC_01 Walk Front Spritesheet_38: -8266774617293099601
+      FANATIC_01 Walk Front Spritesheet_4: -4500643528960627171
+      FANATIC_01 Walk Front Spritesheet_5: -1504095675496044541
+      FANATIC_01 Walk Front Spritesheet_6: -1495834307398615987
+      FANATIC_01 Walk Front Spritesheet_7: -1970374116944954816
+      FANATIC_01 Walk Front Spritesheet_8: 1562008760033249063
+      FANATIC_01 Walk Front Spritesheet_9: -7132572087165653993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

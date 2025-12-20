@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: 2f80077d11267be40bae5e324f61fd87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6597166033129930588
+    second: ASH_WISP_01 Death Front Spritesheet_0
+  - first:
+      213: 2547541558511274689
+    second: ASH_WISP_01 Death Front Spritesheet_1
+  - first:
+      213: -5222958679281503382
+    second: ASH_WISP_01 Death Front Spritesheet_2
+  - first:
+      213: 6864808663028990568
+    second: ASH_WISP_01 Death Front Spritesheet_3
+  - first:
+      213: 2183310677549670417
+    second: ASH_WISP_01 Death Front Spritesheet_4
+  - first:
+      213: 5233048266887917777
+    second: ASH_WISP_01 Death Front Spritesheet_5
+  - first:
+      213: 6979424202135060183
+    second: ASH_WISP_01 Death Front Spritesheet_6
+  - first:
+      213: -2791570841756150254
+    second: ASH_WISP_01 Death Front Spritesheet_7
+  - first:
+      213: -1572780101093689893
+    second: ASH_WISP_01 Death Front Spritesheet_8
+  - first:
+      213: -4944689396921470090
+    second: ASH_WISP_01 Death Front Spritesheet_9
+  - first:
+      213: -7219290419977213184
+    second: ASH_WISP_01 Death Front Spritesheet_10
+  - first:
+      213: -3290527887735020651
+    second: ASH_WISP_01 Death Front Spritesheet_11
+  - first:
+      213: 3862729119019152016
+    second: ASH_WISP_01 Death Front Spritesheet_12
+  - first:
+      213: -7539411281696302064
+    second: ASH_WISP_01 Death Front Spritesheet_13
+  - first:
+      213: -1797934875357123373
+    second: ASH_WISP_01 Death Front Spritesheet_14
+  - first:
+      213: -4286367345535993338
+    second: ASH_WISP_01 Death Front Spritesheet_15
+  - first:
+      213: 6916581205154008141
+    second: ASH_WISP_01 Death Front Spritesheet_16
+  - first:
+      213: 3823736624820971274
+    second: ASH_WISP_01 Death Front Spritesheet_17
+  - first:
+      213: 1328856816334834306
+    second: ASH_WISP_01 Death Front Spritesheet_18
+  - first:
+      213: 2653912824661327350
+    second: ASH_WISP_01 Death Front Spritesheet_19
+  - first:
+      213: 3677585772975792310
+    second: ASH_WISP_01 Death Front Spritesheet_20
+  - first:
+      213: -6292209748861263077
+    second: ASH_WISP_01 Death Front Spritesheet_21
+  - first:
+      213: -5066056764288698624
+    second: ASH_WISP_01 Death Front Spritesheet_22
+  - first:
+      213: -8871588804930829165
+    second: ASH_WISP_01 Death Front Spritesheet_23
+  - first:
+      213: 7530966023298319633
+    second: ASH_WISP_01 Death Front Spritesheet_24
+  - first:
+      213: -3590769205405361801
+    second: ASH_WISP_01 Death Front Spritesheet_25
+  - first:
+      213: -7344724934939938711
+    second: ASH_WISP_01 Death Front Spritesheet_26
+  - first:
+      213: -5163284259785794410
+    second: ASH_WISP_01 Death Front Spritesheet_27
+  - first:
+      213: 7805375340732109813
+    second: ASH_WISP_01 Death Front Spritesheet_28
+  - first:
+      213: -2344532549972376984
+    second: ASH_WISP_01 Death Front Spritesheet_29
+  - first:
+      213: 1598999198548323551
+    second: ASH_WISP_01 Death Front Spritesheet_30
+  - first:
+      213: -9033482005880312369
+    second: ASH_WISP_01 Death Front Spritesheet_31
+  - first:
+      213: 624399088807895008
+    second: ASH_WISP_01 Death Front Spritesheet_32
+  - first:
+      213: 6881814201179900444
+    second: ASH_WISP_01 Death Front Spritesheet_33
+  - first:
+      213: 2519754359864222551
+    second: ASH_WISP_01 Death Front Spritesheet_34
+  - first:
+      213: 5464346244611921306
+    second: ASH_WISP_01 Death Front Spritesheet_35
+  - first:
+      213: -3525862507120851211
+    second: ASH_WISP_01 Death Front Spritesheet_36
+  - first:
+      213: 4008737784231564291
+    second: ASH_WISP_01 Death Front Spritesheet_37
+  - first:
+      213: -5710900869049783689
+    second: ASH_WISP_01 Death Front Spritesheet_38
+  - first:
+      213: -7716711978605289389
+    second: ASH_WISP_01 Death Front Spritesheet_39
+  - first:
+      213: 6033518261441410609
+    second: ASH_WISP_01 Death Front Spritesheet_40
+  - first:
+      213: -7441111877061773326
+    second: ASH_WISP_01 Death Front Spritesheet_41
+  - first:
+      213: 9153376963264020836
+    second: ASH_WISP_01 Death Front Spritesheet_42
+  - first:
+      213: -4217579478546710574
+    second: ASH_WISP_01 Death Front Spritesheet_43
+  - first:
+      213: 5905259264959629634
+    second: ASH_WISP_01 Death Front Spritesheet_44
+  - first:
+      213: -7643315150022033804
+    second: ASH_WISP_01 Death Front Spritesheet_45
+  - first:
+      213: -7893194886277030739
+    second: ASH_WISP_01 Death Front Spritesheet_46
+  - first:
+      213: 5923878191512570630
+    second: ASH_WISP_01 Death Front Spritesheet_47
+  - first:
+      213: 1830115241774140970
+    second: ASH_WISP_01 Death Front Spritesheet_48
+  - first:
+      213: 1490922458096041324
+    second: ASH_WISP_01 Death Front Spritesheet_49
+  - first:
+      213: -1867391299578825687
+    second: ASH_WISP_01 Death Front Spritesheet_50
+  - first:
+      213: 2506272707076160052
+    second: ASH_WISP_01 Death Front Spritesheet_51
+  - first:
+      213: -1769079270493501854
+    second: ASH_WISP_01 Death Front Spritesheet_52
+  - first:
+      213: 2826190327864986033
+    second: ASH_WISP_01 Death Front Spritesheet_53
+  - first:
+      213: -7337963217706864813
+    second: ASH_WISP_01 Death Front Spritesheet_54
+  - first:
+      213: -1381963485744275591
+    second: ASH_WISP_01 Death Front Spritesheet_55
+  - first:
+      213: -8419496901582740183
+    second: ASH_WISP_01 Death Front Spritesheet_56
+  - first:
+      213: -1137930073221911611
+    second: ASH_WISP_01 Death Front Spritesheet_57
+  - first:
+      213: 1162085729477602403
+    second: ASH_WISP_01 Death Front Spritesheet_58
+  - first:
+      213: -720518036730809473
+    second: ASH_WISP_01 Death Front Spritesheet_59
+  - first:
+      213: -8913340694637632192
+    second: ASH_WISP_01 Death Front Spritesheet_60
+  - first:
+      213: -8541572145908928020
+    second: ASH_WISP_01 Death Front Spritesheet_61
+  - first:
+      213: -1907219994741911273
+    second: ASH_WISP_01 Death Front Spritesheet_62
+  - first:
+      213: 2107178749641128000
+    second: ASH_WISP_01 Death Front Spritesheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f7bf8cd87dd8b50800000000000000
+      internalID: 6597166033129930588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 50
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca0c9dcc8faa5320800000000000000
+      internalID: 2547541558511274689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 50
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63f1ece0c25487b0800000000000000
+      internalID: -5222958679281503382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 50
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8620ed29b13b44f50800000000000000
+      internalID: 6864808663028990568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1106aa95e7dac4e10800000000000000
+      internalID: 2183310677549670417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0f3504ca58f9840800000000000000
+      internalID: 5233048266887917777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de36015555ebd060800000000000000
+      internalID: 6979424202135060183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21659cb1c195249d0800000000000000
+      internalID: -2791570841756150254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 50
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f18cb4dc5c2ae0800000000000000
+      internalID: -1572780101093689893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673fadb013fe06bb0800000000000000
+      internalID: -4944689396921470090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba0eacc9defcb90800000000000000
+      internalID: -7219290419977213184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593a900f152b552d0800000000000000
+      internalID: -3290527887735020651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b1ba0bab2b9530800000000000000
+      internalID: 3862729119019152016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c5be28261ae5790800000000000000
+      internalID: -7539411281696302064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc6d09b1c37c07e0800000000000000
+      internalID: -1797934875357123373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3e700c93c384c0800000000000000
+      internalID: -4286367345535993338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c0951e5f1acff50800000000000000
+      internalID: 6916581205154008141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07ea158334a01530800000000000000
+      internalID: 3823736624820971274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 49
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a8efedb3c017210800000000000000
+      internalID: 1328856816334834306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdbaca27a794d420800000000000000
+      internalID: 2653912824661327350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0a04d96c8690330800000000000000
+      internalID: 3677585772975792310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13efda22949da8a0800000000000000
+      internalID: -6292209748861263077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2864
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0077b98c630c1b9b0800000000000000
+      internalID: -5066056764288698624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39404c05cf8c1e480800000000000000
+      internalID: -8871588804930829165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1158b3a82bd538860800000000000000
+      internalID: 7530966023298319633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779d661be660b2ec0800000000000000
+      internalID: -3590769205405361801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3376
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96073ffe59b421a90800000000000000
+      internalID: -7344724934939938711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c1a1d62545858b0800000000000000
+      internalID: -5163284259785794410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 48
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f35eea8483425c60800000000000000
+      internalID: 7805375340732109813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 48
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8624e82511c867fd0800000000000000
+      internalID: -2344532549972376984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 48
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc6b999c49c03610800000000000000
+      internalID: 1598999198548323551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 48
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdee922aff92a280800000000000000
+      internalID: -9033482005880312369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 48
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd87eb9af4aa800800000000000000
+      internalID: 624399088807895008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 48
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0197fd8d118f50800000000000000
+      internalID: 6881814201179900444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e2f47d37f7f220800000000000000
+      internalID: 2519754359864222551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9555d745f145db40800000000000000
+      internalID: 5464346244611921306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f681380bbe911fc0800000000000000
+      internalID: -3525862507120851211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041fca86c5e1a730800000000000000
+      internalID: 4008737784231564291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a61d0daedceb0b0800000000000000
+      internalID: -5710900869049783689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5038
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ea31275bb8e490800000000000000
+      internalID: -7716711978605289389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1363c0f44ec5bb350800000000000000
+      internalID: 6033518261441410609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5294
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7fac92c2cdbb890800000000000000
+      internalID: -7441111877061773326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5422
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4618896f9d3570f70800000000000000
+      internalID: 9153376963264020836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 47
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dffe395fc52875c0800000000000000
+      internalID: -4217579478546710574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249c08a9302b3f150800000000000000
+      internalID: 5905259264959629634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5806
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e3398fd5d7de590800000000000000
+      internalID: -7643315150022033804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5934
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac1784221db57290800000000000000
+      internalID: -7893194886277030739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6062
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b4ac144d7d53250800000000000000
+      internalID: 5923878191512570630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6190
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ec9f3bd10e56910800000000000000
+      internalID: 1830115241774140970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6318
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d777e8312d0b410800000000000000
+      internalID: 1490922458096041324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6446
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924f2f3c181b516e0800000000000000
+      internalID: -1867391299578825687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6574
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43af78f8fb118c220800000000000000
+      internalID: 2506272707076160052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6702
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664ab6c6c7f277e0800000000000000
+      internalID: -1769079270493501854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6830
+        y: 46
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b989002125a83720800000000000000
+      internalID: 2826190327864986033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6958
+        y: 46
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f23b9e4515a2a90800000000000000
+      internalID: -7337963217706864813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 6984
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd6ab188742dce0800000000000000
+      internalID: -1381963485744275591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7086
+        y: 46
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a8a92d20f72b80800000000000000
+      internalID: -8419496901582740183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbaf5e90a24530f0800000000000000
+      internalID: -1137930073221911611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 46
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c201060de802010800000000000000
+      internalID: 1162085729477602403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7240
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73f56eb9a43006f0800000000000000
+      internalID: -720518036730809473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7342
+        y: 46
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452716fcd37d4480800000000000000
+      internalID: -8913340694637632192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7368
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13ab3736d367980800000000000000
+      internalID: -8541572145908928020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7470
+        y: 46
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d2e805813885e0800000000000000
+      internalID: -1907219994741911273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 50
+        width: 1281
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0487c9298e33e3d10800000000000000
+      internalID: 2107178749641128000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ASH_WISP_01 Death Front Spritesheet_0: 6597166033129930588
+      ASH_WISP_01 Death Front Spritesheet_1: 2547541558511274689
+      ASH_WISP_01 Death Front Spritesheet_10: -7219290419977213184
+      ASH_WISP_01 Death Front Spritesheet_11: -3290527887735020651
+      ASH_WISP_01 Death Front Spritesheet_12: 3862729119019152016
+      ASH_WISP_01 Death Front Spritesheet_13: -7539411281696302064
+      ASH_WISP_01 Death Front Spritesheet_14: -1797934875357123373
+      ASH_WISP_01 Death Front Spritesheet_15: -4286367345535993338
+      ASH_WISP_01 Death Front Spritesheet_16: 6916581205154008141
+      ASH_WISP_01 Death Front Spritesheet_17: 3823736624820971274
+      ASH_WISP_01 Death Front Spritesheet_18: 1328856816334834306
+      ASH_WISP_01 Death Front Spritesheet_19: 2653912824661327350
+      ASH_WISP_01 Death Front Spritesheet_2: -5222958679281503382
+      ASH_WISP_01 Death Front Spritesheet_20: 3677585772975792310
+      ASH_WISP_01 Death Front Spritesheet_21: -6292209748861263077
+      ASH_WISP_01 Death Front Spritesheet_22: -5066056764288698624
+      ASH_WISP_01 Death Front Spritesheet_23: -8871588804930829165
+      ASH_WISP_01 Death Front Spritesheet_24: 7530966023298319633
+      ASH_WISP_01 Death Front Spritesheet_25: -3590769205405361801
+      ASH_WISP_01 Death Front Spritesheet_26: -7344724934939938711
+      ASH_WISP_01 Death Front Spritesheet_27: -5163284259785794410
+      ASH_WISP_01 Death Front Spritesheet_28: 7805375340732109813
+      ASH_WISP_01 Death Front Spritesheet_29: -2344532549972376984
+      ASH_WISP_01 Death Front Spritesheet_3: 6864808663028990568
+      ASH_WISP_01 Death Front Spritesheet_30: 1598999198548323551
+      ASH_WISP_01 Death Front Spritesheet_31: -9033482005880312369
+      ASH_WISP_01 Death Front Spritesheet_32: 624399088807895008
+      ASH_WISP_01 Death Front Spritesheet_33: 6881814201179900444
+      ASH_WISP_01 Death Front Spritesheet_34: 2519754359864222551
+      ASH_WISP_01 Death Front Spritesheet_35: 5464346244611921306
+      ASH_WISP_01 Death Front Spritesheet_36: -3525862507120851211
+      ASH_WISP_01 Death Front Spritesheet_37: 4008737784231564291
+      ASH_WISP_01 Death Front Spritesheet_38: -5710900869049783689
+      ASH_WISP_01 Death Front Spritesheet_39: -7716711978605289389
+      ASH_WISP_01 Death Front Spritesheet_4: 2183310677549670417
+      ASH_WISP_01 Death Front Spritesheet_40: 6033518261441410609
+      ASH_WISP_01 Death Front Spritesheet_41: -7441111877061773326
+      ASH_WISP_01 Death Front Spritesheet_42: 9153376963264020836
+      ASH_WISP_01 Death Front Spritesheet_43: -4217579478546710574
+      ASH_WISP_01 Death Front Spritesheet_44: 5905259264959629634
+      ASH_WISP_01 Death Front Spritesheet_45: -7643315150022033804
+      ASH_WISP_01 Death Front Spritesheet_46: -7893194886277030739
+      ASH_WISP_01 Death Front Spritesheet_47: 5923878191512570630
+      ASH_WISP_01 Death Front Spritesheet_48: 1830115241774140970
+      ASH_WISP_01 Death Front Spritesheet_49: 1490922458096041324
+      ASH_WISP_01 Death Front Spritesheet_5: 5233048266887917777
+      ASH_WISP_01 Death Front Spritesheet_50: -1867391299578825687
+      ASH_WISP_01 Death Front Spritesheet_51: 2506272707076160052
+      ASH_WISP_01 Death Front Spritesheet_52: -1769079270493501854
+      ASH_WISP_01 Death Front Spritesheet_53: 2826190327864986033
+      ASH_WISP_01 Death Front Spritesheet_54: -7337963217706864813
+      ASH_WISP_01 Death Front Spritesheet_55: -1381963485744275591
+      ASH_WISP_01 Death Front Spritesheet_56: -8419496901582740183
+      ASH_WISP_01 Death Front Spritesheet_57: -1137930073221911611
+      ASH_WISP_01 Death Front Spritesheet_58: 1162085729477602403
+      ASH_WISP_01 Death Front Spritesheet_59: -720518036730809473
+      ASH_WISP_01 Death Front Spritesheet_6: 6979424202135060183
+      ASH_WISP_01 Death Front Spritesheet_60: -8913340694637632192
+      ASH_WISP_01 Death Front Spritesheet_61: -8541572145908928020
+      ASH_WISP_01 Death Front Spritesheet_62: -1907219994741911273
+      ASH_WISP_01 Death Front Spritesheet_63: 2107178749641128000
+      ASH_WISP_01 Death Front Spritesheet_7: -2791570841756150254
+      ASH_WISP_01 Death Front Spritesheet_8: -1572780101093689893
+      ASH_WISP_01 Death Front Spritesheet_9: -4944689396921470090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

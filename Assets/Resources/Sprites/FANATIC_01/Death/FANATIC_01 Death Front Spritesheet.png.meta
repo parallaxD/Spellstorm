@@ -1,0 +1,4251 @@
+fileFormatVersion: 2
+guid: 29ddb7763c263fb46af315034b2f0eea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7922158761452497142
+    second: FANATIC_01 Death Front Spritesheet_0
+  - first:
+      213: 842236156125679400
+    second: FANATIC_01 Death Front Spritesheet_1
+  - first:
+      213: -2154220776961424452
+    second: FANATIC_01 Death Front Spritesheet_2
+  - first:
+      213: 2080202233914231577
+    second: FANATIC_01 Death Front Spritesheet_3
+  - first:
+      213: 3687277964753210612
+    second: FANATIC_01 Death Front Spritesheet_4
+  - first:
+      213: 1705866456106636571
+    second: FANATIC_01 Death Front Spritesheet_5
+  - first:
+      213: 3086620684998216562
+    second: FANATIC_01 Death Front Spritesheet_6
+  - first:
+      213: 1324299469632076729
+    second: FANATIC_01 Death Front Spritesheet_7
+  - first:
+      213: -1198096143245242415
+    second: FANATIC_01 Death Front Spritesheet_8
+  - first:
+      213: -5599470486105846934
+    second: FANATIC_01 Death Front Spritesheet_9
+  - first:
+      213: -6341790433759455910
+    second: FANATIC_01 Death Front Spritesheet_10
+  - first:
+      213: 1259259952383211539
+    second: FANATIC_01 Death Front Spritesheet_11
+  - first:
+      213: -317111667276854649
+    second: FANATIC_01 Death Front Spritesheet_12
+  - first:
+      213: -7580783401380860443
+    second: FANATIC_01 Death Front Spritesheet_13
+  - first:
+      213: -7069991590451460115
+    second: FANATIC_01 Death Front Spritesheet_14
+  - first:
+      213: 3282658806108080817
+    second: FANATIC_01 Death Front Spritesheet_15
+  - first:
+      213: 9113306607028308065
+    second: FANATIC_01 Death Front Spritesheet_16
+  - first:
+      213: -6526666752700811325
+    second: FANATIC_01 Death Front Spritesheet_17
+  - first:
+      213: 9211916515197586
+    second: FANATIC_01 Death Front Spritesheet_18
+  - first:
+      213: 7161520589170729237
+    second: FANATIC_01 Death Front Spritesheet_19
+  - first:
+      213: -4332124243104768224
+    second: FANATIC_01 Death Front Spritesheet_20
+  - first:
+      213: -3715079428334819627
+    second: FANATIC_01 Death Front Spritesheet_21
+  - first:
+      213: 8509226988516478607
+    second: FANATIC_01 Death Front Spritesheet_22
+  - first:
+      213: -4147552984460139681
+    second: FANATIC_01 Death Front Spritesheet_23
+  - first:
+      213: 9146144829415300818
+    second: FANATIC_01 Death Front Spritesheet_24
+  - first:
+      213: 152357144634963765
+    second: FANATIC_01 Death Front Spritesheet_25
+  - first:
+      213: 2560501110007944982
+    second: FANATIC_01 Death Front Spritesheet_26
+  - first:
+      213: -4301179248373650688
+    second: FANATIC_01 Death Front Spritesheet_27
+  - first:
+      213: 6530471472999419624
+    second: FANATIC_01 Death Front Spritesheet_28
+  - first:
+      213: -2563585654114323583
+    second: FANATIC_01 Death Front Spritesheet_29
+  - first:
+      213: 3551226484968602884
+    second: FANATIC_01 Death Front Spritesheet_30
+  - first:
+      213: 8641429435027718171
+    second: FANATIC_01 Death Front Spritesheet_31
+  - first:
+      213: -7703401645304719404
+    second: FANATIC_01 Death Front Spritesheet_32
+  - first:
+      213: 2866276048544221168
+    second: FANATIC_01 Death Front Spritesheet_33
+  - first:
+      213: -252799575509774951
+    second: FANATIC_01 Death Front Spritesheet_34
+  - first:
+      213: -4151423285735381156
+    second: FANATIC_01 Death Front Spritesheet_35
+  - first:
+      213: 7861772234334087726
+    second: FANATIC_01 Death Front Spritesheet_36
+  - first:
+      213: -146426042079452046
+    second: FANATIC_01 Death Front Spritesheet_37
+  - first:
+      213: 5694551406365030131
+    second: FANATIC_01 Death Front Spritesheet_38
+  - first:
+      213: 8300936549440655985
+    second: FANATIC_01 Death Front Spritesheet_39
+  - first:
+      213: -691763506569889119
+    second: FANATIC_01 Death Front Spritesheet_40
+  - first:
+      213: 21828187708419864
+    second: FANATIC_01 Death Front Spritesheet_41
+  - first:
+      213: -4215273720612682499
+    second: FANATIC_01 Death Front Spritesheet_42
+  - first:
+      213: -4857416604924359049
+    second: FANATIC_01 Death Front Spritesheet_43
+  - first:
+      213: -5520586043913792529
+    second: FANATIC_01 Death Front Spritesheet_44
+  - first:
+      213: 8132496279401903528
+    second: FANATIC_01 Death Front Spritesheet_45
+  - first:
+      213: 3420373765765052336
+    second: FANATIC_01 Death Front Spritesheet_46
+  - first:
+      213: 6553767550920893693
+    second: FANATIC_01 Death Front Spritesheet_47
+  - first:
+      213: 3509934031282207744
+    second: FANATIC_01 Death Front Spritesheet_48
+  - first:
+      213: -4221980949918840519
+    second: FANATIC_01 Death Front Spritesheet_49
+  - first:
+      213: -4929892446905241562
+    second: FANATIC_01 Death Front Spritesheet_50
+  - first:
+      213: 4236433006613444278
+    second: FANATIC_01 Death Front Spritesheet_51
+  - first:
+      213: -6649171915309054103
+    second: FANATIC_01 Death Front Spritesheet_52
+  - first:
+      213: 2193878934500036431
+    second: FANATIC_01 Death Front Spritesheet_53
+  - first:
+      213: -4092200334111488944
+    second: FANATIC_01 Death Front Spritesheet_54
+  - first:
+      213: 8553170426323248361
+    second: FANATIC_01 Death Front Spritesheet_55
+  - first:
+      213: -3154631699695408689
+    second: FANATIC_01 Death Front Spritesheet_56
+  - first:
+      213: 8173659020687269180
+    second: FANATIC_01 Death Front Spritesheet_57
+  - first:
+      213: -780295579375620128
+    second: FANATIC_01 Death Front Spritesheet_58
+  - first:
+      213: 2080011548561662999
+    second: FANATIC_01 Death Front Spritesheet_59
+  - first:
+      213: 3690820892183125551
+    second: FANATIC_01 Death Front Spritesheet_60
+  - first:
+      213: -4419108841411915115
+    second: FANATIC_01 Death Front Spritesheet_61
+  - first:
+      213: -7255702331820751431
+    second: FANATIC_01 Death Front Spritesheet_62
+  - first:
+      213: 3080678579727250280
+    second: FANATIC_01 Death Front Spritesheet_63
+  - first:
+      213: -2667967898048640268
+    second: FANATIC_01 Death Front Spritesheet_64
+  - first:
+      213: -2399149510386215446
+    second: FANATIC_01 Death Front Spritesheet_65
+  - first:
+      213: -6670503608624073154
+    second: FANATIC_01 Death Front Spritesheet_66
+  - first:
+      213: -5732584407501151493
+    second: FANATIC_01 Death Front Spritesheet_67
+  - first:
+      213: -513034557189950610
+    second: FANATIC_01 Death Front Spritesheet_68
+  - first:
+      213: -5493502667163316277
+    second: FANATIC_01 Death Front Spritesheet_69
+  - first:
+      213: 3824692964016790964
+    second: FANATIC_01 Death Front Spritesheet_70
+  - first:
+      213: 1153275356715435676
+    second: FANATIC_01 Death Front Spritesheet_71
+  - first:
+      213: 330078320904827103
+    second: FANATIC_01 Death Front Spritesheet_72
+  - first:
+      213: -7888735347121948734
+    second: FANATIC_01 Death Front Spritesheet_73
+  - first:
+      213: -7258686752793096813
+    second: FANATIC_01 Death Front Spritesheet_74
+  - first:
+      213: 6512568894598186582
+    second: FANATIC_01 Death Front Spritesheet_75
+  - first:
+      213: -5335949814153770760
+    second: FANATIC_01 Death Front Spritesheet_76
+  - first:
+      213: 6975209832887973790
+    second: FANATIC_01 Death Front Spritesheet_77
+  - first:
+      213: -4070899772218288579
+    second: FANATIC_01 Death Front Spritesheet_78
+  - first:
+      213: -4597096436582998525
+    second: FANATIC_01 Death Front Spritesheet_79
+  - first:
+      213: 937837824632095758
+    second: FANATIC_01 Death Front Spritesheet_80
+  - first:
+      213: -2473478821360638082
+    second: FANATIC_01 Death Front Spritesheet_81
+  - first:
+      213: 8353055156877585218
+    second: FANATIC_01 Death Front Spritesheet_82
+  - first:
+      213: -3565470111719099680
+    second: FANATIC_01 Death Front Spritesheet_83
+  - first:
+      213: -2088437517036540180
+    second: FANATIC_01 Death Front Spritesheet_84
+  - first:
+      213: -6866754085858837004
+    second: FANATIC_01 Death Front Spritesheet_85
+  - first:
+      213: -1209933883613313194
+    second: FANATIC_01 Death Front Spritesheet_86
+  - first:
+      213: -4736300746417268685
+    second: FANATIC_01 Death Front Spritesheet_87
+  - first:
+      213: -7011041527268714469
+    second: FANATIC_01 Death Front Spritesheet_88
+  - first:
+      213: -3682629222297793110
+    second: FANATIC_01 Death Front Spritesheet_89
+  - first:
+      213: -6872552641416287932
+    second: FANATIC_01 Death Front Spritesheet_90
+  - first:
+      213: -4307566972702017113
+    second: FANATIC_01 Death Front Spritesheet_91
+  - first:
+      213: -4746774173996336376
+    second: FANATIC_01 Death Front Spritesheet_92
+  - first:
+      213: -9075828962285271087
+    second: FANATIC_01 Death Front Spritesheet_93
+  - first:
+      213: -918651935015728922
+    second: FANATIC_01 Death Front Spritesheet_94
+  - first:
+      213: 7951257954367888875
+    second: FANATIC_01 Death Front Spritesheet_95
+  - first:
+      213: 6587668688891031249
+    second: FANATIC_01 Death Front Spritesheet_96
+  - first:
+      213: 2218845192678187887
+    second: FANATIC_01 Death Front Spritesheet_97
+  - first:
+      213: 2911510347208752364
+    second: FANATIC_01 Death Front Spritesheet_98
+  - first:
+      213: -2185341853199896658
+    second: FANATIC_01 Death Front Spritesheet_99
+  - first:
+      213: 2057855830831637156
+    second: FANATIC_01 Death Front Spritesheet_100
+  - first:
+      213: -213245755304131571
+    second: FANATIC_01 Death Front Spritesheet_101
+  - first:
+      213: -3405000278800363756
+    second: FANATIC_01 Death Front Spritesheet_102
+  - first:
+      213: 5734023474820094870
+    second: FANATIC_01 Death Front Spritesheet_103
+  - first:
+      213: 8724290284260451786
+    second: FANATIC_01 Death Front Spritesheet_104
+  - first:
+      213: 6432725959639984699
+    second: FANATIC_01 Death Front Spritesheet_105
+  - first:
+      213: 5055755467165784585
+    second: FANATIC_01 Death Front Spritesheet_106
+  - first:
+      213: 5408194743407389488
+    second: FANATIC_01 Death Front Spritesheet_107
+  - first:
+      213: -3628399709599332145
+    second: FANATIC_01 Death Front Spritesheet_108
+  - first:
+      213: 7716572752566826175
+    second: FANATIC_01 Death Front Spritesheet_109
+  - first:
+      213: 1815936542426442672
+    second: FANATIC_01 Death Front Spritesheet_110
+  - first:
+      213: -2945032518782275538
+    second: FANATIC_01 Death Front Spritesheet_111
+  - first:
+      213: 5928436955060248817
+    second: FANATIC_01 Death Front Spritesheet_112
+  - first:
+      213: -2560240146923759802
+    second: FANATIC_01 Death Front Spritesheet_113
+  - first:
+      213: -5194867012280597341
+    second: FANATIC_01 Death Front Spritesheet_114
+  - first:
+      213: -5596132947318140352
+    second: FANATIC_01 Death Front Spritesheet_115
+  - first:
+      213: -2155920233575929055
+    second: FANATIC_01 Death Front Spritesheet_116
+  - first:
+      213: 6368104015738114549
+    second: FANATIC_01 Death Front Spritesheet_117
+  - first:
+      213: 8335763473454529967
+    second: FANATIC_01 Death Front Spritesheet_118
+  - first:
+      213: 3822753383617136206
+    second: FANATIC_01 Death Front Spritesheet_119
+  - first:
+      213: -68050907952497511
+    second: FANATIC_01 Death Front Spritesheet_120
+  - first:
+      213: -4042075759687755563
+    second: FANATIC_01 Death Front Spritesheet_121
+  - first:
+      213: 3940852110663899491
+    second: FANATIC_01 Death Front Spritesheet_122
+  - first:
+      213: -1663634769733444468
+    second: FANATIC_01 Death Front Spritesheet_123
+  - first:
+      213: -3038292970058085986
+    second: FANATIC_01 Death Front Spritesheet_124
+  - first:
+      213: -539737269957796792
+    second: FANATIC_01 Death Front Spritesheet_125
+  - first:
+      213: 5433756135083129812
+    second: FANATIC_01 Death Front Spritesheet_126
+  - first:
+      213: 1479504692780315628
+    second: FANATIC_01 Death Front Spritesheet_127
+  - first:
+      213: 188157870389777132
+    second: FANATIC_01 Death Front Spritesheet_128
+  - first:
+      213: 3648572872213235701
+    second: FANATIC_01 Death Front Spritesheet_129
+  - first:
+      213: 3045446526801477799
+    second: FANATIC_01 Death Front Spritesheet_130
+  - first:
+      213: -7697538381368887154
+    second: FANATIC_01 Death Front Spritesheet_131
+  - first:
+      213: -1655319537468775364
+    second: FANATIC_01 Death Front Spritesheet_132
+  - first:
+      213: 1076474048993851818
+    second: FANATIC_01 Death Front Spritesheet_133
+  - first:
+      213: 932298553960704014
+    second: FANATIC_01 Death Front Spritesheet_134
+  - first:
+      213: -7338972675222281382
+    second: FANATIC_01 Death Front Spritesheet_135
+  - first:
+      213: 2779634333679129721
+    second: FANATIC_01 Death Front Spritesheet_136
+  - first:
+      213: -6836935529688771364
+    second: FANATIC_01 Death Front Spritesheet_137
+  - first:
+      213: -1104219743057082889
+    second: FANATIC_01 Death Front Spritesheet_138
+  - first:
+      213: 5586742434683886604
+    second: FANATIC_01 Death Front Spritesheet_139
+  - first:
+      213: 4350585694975070427
+    second: FANATIC_01 Death Front Spritesheet_140
+  - first:
+      213: -7365548969437067481
+    second: FANATIC_01 Death Front Spritesheet_141
+  - first:
+      213: 7917129622329589086
+    second: FANATIC_01 Death Front Spritesheet_142
+  - first:
+      213: 3605209094033517391
+    second: FANATIC_01 Death Front Spritesheet_143
+  - first:
+      213: -614986358990944998
+    second: FANATIC_01 Death Front Spritesheet_144
+  - first:
+      213: -660581249849254173
+    second: FANATIC_01 Death Front Spritesheet_145
+  - first:
+      213: -5832981420552858523
+    second: FANATIC_01 Death Front Spritesheet_146
+  - first:
+      213: 2450510613515798296
+    second: FANATIC_01 Death Front Spritesheet_147
+  - first:
+      213: 2785079833596553301
+    second: FANATIC_01 Death Front Spritesheet_148
+  - first:
+      213: 3682453178338467484
+    second: FANATIC_01 Death Front Spritesheet_149
+  - first:
+      213: -6425196464422998346
+    second: FANATIC_01 Death Front Spritesheet_150
+  - first:
+      213: -5219413383531001879
+    second: FANATIC_01 Death Front Spritesheet_151
+  - first:
+      213: 1573508929768099373
+    second: FANATIC_01 Death Front Spritesheet_152
+  - first:
+      213: -8037477250801599374
+    second: FANATIC_01 Death Front Spritesheet_153
+  - first:
+      213: 4194653194636565046
+    second: FANATIC_01 Death Front Spritesheet_154
+  - first:
+      213: -1501092138390624033
+    second: FANATIC_01 Death Front Spritesheet_155
+  - first:
+      213: -5475295285426765104
+    second: FANATIC_01 Death Front Spritesheet_156
+  - first:
+      213: -8437110926159693121
+    second: FANATIC_01 Death Front Spritesheet_157
+  - first:
+      213: 244631915657403223
+    second: FANATIC_01 Death Front Spritesheet_158
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0710617496de0290800000000000000
+      internalID: -7922158761452497142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f8cd6525930bb00800000000000000
+      internalID: 842236156125679400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3c27ded9baa12e0800000000000000
+      internalID: -2154220776961424452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 33
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b8e6d09ec5edc10800000000000000
+      internalID: 2080202233914231577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc8d3dd5c7db2330800000000000000
+      internalID: 3687277964753210612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159d76f0847ca710800000000000000
+      internalID: 1705866456106636571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b01bdc821e5da20800000000000000
+      internalID: 3086620684998216562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb78a7e95bd06210800000000000000
+      internalID: 1324299469632076729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 33
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df0a1fc7e18f5fe0800000000000000
+      internalID: -1198096143245242415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 33
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b8069924faa42b0800000000000000
+      internalID: -5599470486105846934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 33
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a551cc3633f6df7a0800000000000000
+      internalID: -6341790433759455910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 33
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3183dad314ac97110800000000000000
+      internalID: 1259259952383211539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 33
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ac4d56e94699bf0800000000000000
+      internalID: -317111667276854649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 33
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed248149a5abc690800000000000000
+      internalID: -7580783401380860443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 33
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7442e5b1852ed90800000000000000
+      internalID: -7069991590451460115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 33
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba41e8bac85e8d20800000000000000
+      internalID: 3282658806108080817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 33
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16884212318f87e70800000000000000
+      internalID: 9113306607028308065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 33
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c77aed0b2f9c65a0800000000000000
+      internalID: -6526666752700811325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 33
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292c693703ab02000800000000000000
+      internalID: 9211916515197586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511ea215805d26360800000000000000
+      internalID: 7161520589170729237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fd1e614f331e3c0800000000000000
+      internalID: -4332124243104768224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6edb971f2617cc0800000000000000
+      internalID: -3715079428334819627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e01bbbcd8d61670800000000000000
+      internalID: 8509226988516478607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 34
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53642a098ee076c0800000000000000
+      internalID: -4147552984460139681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 33
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de13959342adee70800000000000000
+      internalID: 9146144829415300818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 33
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b5fc04084d1200800000000000000
+      internalID: 152357144634963765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 33
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6175405813ab88320800000000000000
+      internalID: 2560501110007944982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3499
+        y: 33
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b286123442f44c0800000000000000
+      internalID: -4301179248373650688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 33
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eec3fb6435e0aa50800000000000000
+      internalID: 6530471472999419624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 30
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1837a371e605c6cd0800000000000000
+      internalID: -2563585654114323583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3876
+        y: 30
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d33814cad784130800000000000000
+      internalID: 3551226484968602884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 30
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108e6279468ce770800000000000000
+      internalID: 8641429435027718171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 30
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7d3799405081590800000000000000
+      internalID: -7703401645304719404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 30
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f740b541ee07c720800000000000000
+      internalID: 2866276048544221168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dce5e1020ed7cf0800000000000000
+      internalID: -252799575509774951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57257d448e2366c0800000000000000
+      internalID: -4151423285735381156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a23849130aa1d60800000000000000
+      internalID: 7861772234334087726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274ecff5a4ac7fdf0800000000000000
+      internalID: -146426042079452046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 30
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b693455c170f40800000000000000
+      internalID: 5694551406365030131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 30
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172977cbfc9d23370800000000000000
+      internalID: 8300936549440655985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 30
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab25281cc5666f0800000000000000
+      internalID: -691763506569889119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 30
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f637efe9c8d4000800000000000000
+      internalID: 21828187708419864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5400
+        y: 30
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df487d372e65085c0800000000000000
+      internalID: -4215273720612682499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5528
+        y: 30
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4661655df69cb0800000000000000
+      internalID: -4857416604924359049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 30
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31a8c0e30f263b0800000000000000
+      internalID: -5520586043913792529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5780
+        y: 30
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5bfee374e6cd070800000000000000
+      internalID: 8132496279401903528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 30
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7bd7b61db977f20800000000000000
+      internalID: 3420373765765052336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 30
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42f1d3dd8a3fa50800000000000000
+      internalID: 6553767550920893693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6164
+        y: 30
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c71afa76ac5b030800000000000000
+      internalID: 3509934031282207744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 27
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390f9fe1b28865c0800000000000000
+      internalID: -4221980949918840519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 27
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620f45170f0859bb0800000000000000
+      internalID: -4929892446905241562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6543
+        y: 27
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b63fe9bf55daca30800000000000000
+      internalID: 4236433006613444278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6671
+        y: 27
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96700813f5569b3a0800000000000000
+      internalID: -6649171915309054103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6799
+        y: 27
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f461b6449327e10800000000000000
+      internalID: 2193878934500036431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6921
+        y: 29
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054cc8f3a759537c0800000000000000
+      internalID: -4092200334111488944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7049
+        y: 29
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4af54af27f2b670800000000000000
+      internalID: 8553170426323248361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7177
+        y: 29
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e77ede2f7834d0800000000000000
+      internalID: -3154631699695408689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7305
+        y: 29
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d5b3bc29bae6170800000000000000
+      internalID: 8173659020687269180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7433
+        y: 29
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef22830e45db25f0800000000000000
+      internalID: -780295579375620128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7558
+        y: 26
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7146ab8ab7faddc10800000000000000
+      internalID: 2080011548561662999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7686
+        y: 26
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e5a20fb0e683330800000000000000
+      internalID: 3690820892183125551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7814
+        y: 26
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592dad31ceb2ca2c0800000000000000
+      internalID: -4419108841411915115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7942
+        y: 26
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5c9dbeb219e4b90800000000000000
+      internalID: -7255702331820751431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8070
+        y: 26
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8633ccb98d4c0ca20800000000000000
+      internalID: 3080678579727250280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8203
+        y: 26
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa4aac055979fad0800000000000000
+      internalID: -2667967898048640268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8331
+        y: 26
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae590664b3284bed0800000000000000
+      internalID: -2399149510386215446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8459
+        y: 26
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36300f4f4c9d63a0800000000000000
+      internalID: -6670503608624073154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8587
+        y: 26
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf263f99ad4c170b0800000000000000
+      internalID: -5732584407501151493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8715
+        y: 26
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e637135d9c551e8f0800000000000000
+      internalID: -513034557189950610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8839
+        y: 25
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfc1171e6823c3b0800000000000000
+      internalID: -5493502667163316277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8967
+        y: 25
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd18279cf9041530800000000000000
+      internalID: 3824692964016790964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9095
+        y: 25
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c964c3d93d1410010800000000000000
+      internalID: 1153275356715435676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9223
+        y: 25
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0f699eb7ca49400800000000000000
+      internalID: 330078320904827103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9351
+        y: 25
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c77ab38ff4958290800000000000000
+      internalID: -7888735347121948734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9481
+        y: 24
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0fe34bd6f34b90800000000000000
+      internalID: -7258686752793096813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9609
+        y: 24
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65688c197ea416a50800000000000000
+      internalID: 6512568894598186582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9737
+        y: 24
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f88d044ae5e2f5b0800000000000000
+      internalID: -5335949814153770760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9865
+        y: 24
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e977913036cecc060800000000000000
+      internalID: 6975209832887973790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9993
+        y: 24
+        width: 69
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d5b8c9324187c0800000000000000
+      internalID: -4070899772218288579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10119
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e914bb525d330c0800000000000000
+      internalID: -4597096436582998525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10247
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e040f1a588ed30d00800000000000000
+      internalID: 937837824632095758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10375
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77e855fd107cadd0800000000000000
+      internalID: -2473478821360638082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10503
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24beee6a8630ce370800000000000000
+      internalID: 8353055156877585218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10631
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2f5b5f2d7e48ec0800000000000000
+      internalID: -3565470111719099680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10759
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee207da4216403e0800000000000000
+      internalID: -2088437517036540180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10887
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdfb606a8364b0a0800000000000000
+      internalID: -6866754085858837004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11015
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65705891b83753fe0800000000000000
+      internalID: -1209933883613313194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 11143
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338916ca097454eb0800000000000000
+      internalID: -4736300746417268685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 11271
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d2a580e6c3be90800000000000000
+      internalID: -7011041527268714469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11399
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad8775db3ca4ecc0800000000000000
+      internalID: -3682629222297793110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11527
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449a534f8c9cf90a0800000000000000
+      internalID: -6872552641416287932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11655
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a934e929a27834c0800000000000000
+      internalID: -4307566972702017113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11783
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b33f9c902102eb0800000000000000
+      internalID: -4746774173996336376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11911
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c8c405ad2c0280800000000000000
+      internalID: -9075828962285271087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 12039
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8892daeea4043f0800000000000000
+      internalID: -918651935015728922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 12167
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedd89f5bfa885e60800000000000000
+      internalID: 7951257954367888875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 12295
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de205305c91c6b50800000000000000
+      internalID: 6587668688891031249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 12423
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63aa2162fbeace10800000000000000
+      internalID: 2218845192678187887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 12551
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec70452c33c76820800000000000000
+      internalID: 2911510347208752364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 12679
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafe937b92b1ca1e0800000000000000
+      internalID: -2185341853199896658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 12807
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2afa3a9f8fe8c10800000000000000
+      internalID: 2057855830831637156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 12935
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04cc398d166a0df0800000000000000
+      internalID: -213245755304131571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 13063
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f8ff179420fb0d0800000000000000
+      internalID: -3405000278800363756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 13191
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b176e58f7539f40800000000000000
+      internalID: 5734023474820094870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 13319
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac56cbe4ac7e21970800000000000000
+      internalID: 8724290284260451786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 13447
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a66c1ad22a54950800000000000000
+      internalID: 6432725959639984699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 13575
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad7a39fc6a92640800000000000000
+      internalID: 5055755467165784585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 13703
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03baeec1774cd0b40800000000000000
+      internalID: 5408194743407389488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 13831
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8833e20b555adc0800000000000000
+      internalID: -3628399709599332145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 13959
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43438c806c61b60800000000000000
+      internalID: 7716572752566826175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 14087
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbaaf10aa0833910800000000000000
+      internalID: 1815936542426442672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 14215
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20320217842127d0800000000000000
+      internalID: -2945032518782275538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 14343
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f02aab100a064250800000000000000
+      internalID: 5928436955060248817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 14471
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6475aeea623387cd0800000000000000
+      internalID: -2560240146923759802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 14599
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4ce95d9ff18e7b0800000000000000
+      internalID: -5194867012280597341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 14727
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0421e37ebba8652b0800000000000000
+      internalID: -5596132947318140352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 14855
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b21a958f1a412e0800000000000000
+      internalID: -2155920233575929055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 14983
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f11fc6dcdc006850800000000000000
+      internalID: 6368104015738114549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 15111
+        y: 23
+        width: 70
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadfeeed6b49ea370800000000000000
+      internalID: 8335763473454529967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 15239
+        y: 24
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e460c66d2f52d0530800000000000000
+      internalID: 3822753383617136206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 15367
+        y: 24
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c39dc4f0c3e0ff0800000000000000
+      internalID: -68050907952497511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 15495
+        y: 24
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8189c2389a7e7c0800000000000000
+      internalID: -4042075759687755563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 15623
+        y: 24
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36958787d18b0b630800000000000000
+      internalID: 3940852110663899491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 15751
+        y: 24
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c9c02cdf499e8e0800000000000000
+      internalID: -1663634769733444468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 15879
+        y: 28
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e990f1c24a0d5d5d0800000000000000
+      internalID: -3038292970058085986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 15911
+        y: 28
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c502800d77288f0800000000000000
+      internalID: -539737269957796792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 15932
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbbab36a64986b40800000000000000
+      internalID: 5433756135083129812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 15941
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b1b8eda1488410800000000000000
+      internalID: 1479504692780315628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 16007
+        y: 28
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d64216987c9200800000000000000
+      internalID: 188157870389777132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 16039
+        y: 28
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7856142b552a230800000000000000
+      internalID: 3648572872213235701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 16060
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0037c0b79934a20800000000000000
+      internalID: 3045446526801477799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 16069
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88729d10a9dc2590800000000000000
+      internalID: -7697538381368887154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 16135
+        y: 28
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34e863a6af1709e0800000000000000
+      internalID: -1655319537468775364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 16167
+        y: 28
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa97434b17760fe00800000000000000
+      internalID: 1076474048993851818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 16188
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e082075689030fc00800000000000000
+      internalID: 932298553960704014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 16197
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53e3154c3bb62a90800000000000000
+      internalID: -7338972675222281382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 16263
+        y: 28
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9749c6803be339620800000000000000
+      internalID: 2779634333679129721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 16295
+        y: 28
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd457a00c535e11a0800000000000000
+      internalID: -6836935529688771364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 16316
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f50c1d7ef50da0f0800000000000000
+      internalID: -1104219743057082889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 16325
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c1feef4a8188d40800000000000000
+      internalID: 5586742434683886604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 16391
+        y: 28
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd092e1a3a2606c30800000000000000
+      internalID: 4350585694975070427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 16423
+        y: 28
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72785f49c3058c990800000000000000
+      internalID: -7365548969437067481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 16444
+        y: 37
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7dabd17b4fdd60800000000000000
+      internalID: 7917129622329589086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 16453
+        y: 34
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b20eed196480230800000000000000
+      internalID: 3605209094033517391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 16519
+        y: 26
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1542a23a212777f0800000000000000
+      internalID: -614986358990944998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 16565
+        y: 33
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee93796ad425d6f0800000000000000
+      internalID: -660581249849254173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 16647
+        y: 26
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5645e7e6d461d0fa0800000000000000
+      internalID: -5832981420552858523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 16693
+        y: 33
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170fec6b66f10220800000000000000
+      internalID: 2450510613515798296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 16775
+        y: 26
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55860a84a5796a620800000000000000
+      internalID: 2785079833596553301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 16821
+        y: 33
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e5fdcb7a3ba1330800000000000000
+      internalID: 3682453178338467484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 16903
+        y: 26
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bea8f59bdd15d6a0800000000000000
+      internalID: -6425196464422998346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 16949
+        y: 33
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e707ba6e2be097b0800000000000000
+      internalID: -5219413383531001879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 17031
+        y: 26
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e8bb9e80a36d510800000000000000
+      internalID: 1573508929768099373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 17077
+        y: 27
+        width: 3324
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cffa75605257090800000000000000
+      internalID: -8037477250801599374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_154
+      rect:
+        serializedVersion: 2
+        x: 15904
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a15463bd6663a30800000000000000
+      internalID: 4194653194636565046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_155
+      rect:
+        serializedVersion: 2
+        x: 16032
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8681c37ac0b2be0800000000000000
+      internalID: -1501092138390624033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_156
+      rect:
+        serializedVersion: 2
+        x: 16160
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d244cf72f7d304b0800000000000000
+      internalID: -5475295285426765104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_157
+      rect:
+        serializedVersion: 2
+        x: 16288
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba3fab705c59ea80800000000000000
+      internalID: -8437110926159693121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FANATIC_01 Death Front Spritesheet_158
+      rect:
+        serializedVersion: 2
+        x: 16416
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b9b716e6b156300800000000000000
+      internalID: 244631915657403223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FANATIC_01 Death Front Spritesheet_0: -7922158761452497142
+      FANATIC_01 Death Front Spritesheet_1: 842236156125679400
+      FANATIC_01 Death Front Spritesheet_10: -6341790433759455910
+      FANATIC_01 Death Front Spritesheet_100: 2057855830831637156
+      FANATIC_01 Death Front Spritesheet_101: -213245755304131571
+      FANATIC_01 Death Front Spritesheet_102: -3405000278800363756
+      FANATIC_01 Death Front Spritesheet_103: 5734023474820094870
+      FANATIC_01 Death Front Spritesheet_104: 8724290284260451786
+      FANATIC_01 Death Front Spritesheet_105: 6432725959639984699
+      FANATIC_01 Death Front Spritesheet_106: 5055755467165784585
+      FANATIC_01 Death Front Spritesheet_107: 5408194743407389488
+      FANATIC_01 Death Front Spritesheet_108: -3628399709599332145
+      FANATIC_01 Death Front Spritesheet_109: 7716572752566826175
+      FANATIC_01 Death Front Spritesheet_11: 1259259952383211539
+      FANATIC_01 Death Front Spritesheet_110: 1815936542426442672
+      FANATIC_01 Death Front Spritesheet_111: -2945032518782275538
+      FANATIC_01 Death Front Spritesheet_112: 5928436955060248817
+      FANATIC_01 Death Front Spritesheet_113: -2560240146923759802
+      FANATIC_01 Death Front Spritesheet_114: -5194867012280597341
+      FANATIC_01 Death Front Spritesheet_115: -5596132947318140352
+      FANATIC_01 Death Front Spritesheet_116: -2155920233575929055
+      FANATIC_01 Death Front Spritesheet_117: 6368104015738114549
+      FANATIC_01 Death Front Spritesheet_118: 8335763473454529967
+      FANATIC_01 Death Front Spritesheet_119: 3822753383617136206
+      FANATIC_01 Death Front Spritesheet_12: -317111667276854649
+      FANATIC_01 Death Front Spritesheet_120: -68050907952497511
+      FANATIC_01 Death Front Spritesheet_121: -4042075759687755563
+      FANATIC_01 Death Front Spritesheet_122: 3940852110663899491
+      FANATIC_01 Death Front Spritesheet_123: -1663634769733444468
+      FANATIC_01 Death Front Spritesheet_124: -3038292970058085986
+      FANATIC_01 Death Front Spritesheet_125: -539737269957796792
+      FANATIC_01 Death Front Spritesheet_126: 5433756135083129812
+      FANATIC_01 Death Front Spritesheet_127: 1479504692780315628
+      FANATIC_01 Death Front Spritesheet_128: 188157870389777132
+      FANATIC_01 Death Front Spritesheet_129: 3648572872213235701
+      FANATIC_01 Death Front Spritesheet_13: -7580783401380860443
+      FANATIC_01 Death Front Spritesheet_130: 3045446526801477799
+      FANATIC_01 Death Front Spritesheet_131: -7697538381368887154
+      FANATIC_01 Death Front Spritesheet_132: -1655319537468775364
+      FANATIC_01 Death Front Spritesheet_133: 1076474048993851818
+      FANATIC_01 Death Front Spritesheet_134: 932298553960704014
+      FANATIC_01 Death Front Spritesheet_135: -7338972675222281382
+      FANATIC_01 Death Front Spritesheet_136: 2779634333679129721
+      FANATIC_01 Death Front Spritesheet_137: -6836935529688771364
+      FANATIC_01 Death Front Spritesheet_138: -1104219743057082889
+      FANATIC_01 Death Front Spritesheet_139: 5586742434683886604
+      FANATIC_01 Death Front Spritesheet_14: -7069991590451460115
+      FANATIC_01 Death Front Spritesheet_140: 4350585694975070427
+      FANATIC_01 Death Front Spritesheet_141: -7365548969437067481
+      FANATIC_01 Death Front Spritesheet_142: 7917129622329589086
+      FANATIC_01 Death Front Spritesheet_143: 3605209094033517391
+      FANATIC_01 Death Front Spritesheet_144: -614986358990944998
+      FANATIC_01 Death Front Spritesheet_145: -660581249849254173
+      FANATIC_01 Death Front Spritesheet_146: -5832981420552858523
+      FANATIC_01 Death Front Spritesheet_147: 2450510613515798296
+      FANATIC_01 Death Front Spritesheet_148: 2785079833596553301
+      FANATIC_01 Death Front Spritesheet_149: 3682453178338467484
+      FANATIC_01 Death Front Spritesheet_15: 3282658806108080817
+      FANATIC_01 Death Front Spritesheet_150: -6425196464422998346
+      FANATIC_01 Death Front Spritesheet_151: -5219413383531001879
+      FANATIC_01 Death Front Spritesheet_152: 1573508929768099373
+      FANATIC_01 Death Front Spritesheet_153: -8037477250801599374
+      FANATIC_01 Death Front Spritesheet_154: 4194653194636565046
+      FANATIC_01 Death Front Spritesheet_155: -1501092138390624033
+      FANATIC_01 Death Front Spritesheet_156: -5475295285426765104
+      FANATIC_01 Death Front Spritesheet_157: -8437110926159693121
+      FANATIC_01 Death Front Spritesheet_158: 244631915657403223
+      FANATIC_01 Death Front Spritesheet_16: 9113306607028308065
+      FANATIC_01 Death Front Spritesheet_17: -6526666752700811325
+      FANATIC_01 Death Front Spritesheet_18: 9211916515197586
+      FANATIC_01 Death Front Spritesheet_19: 7161520589170729237
+      FANATIC_01 Death Front Spritesheet_2: -2154220776961424452
+      FANATIC_01 Death Front Spritesheet_20: -4332124243104768224
+      FANATIC_01 Death Front Spritesheet_21: -3715079428334819627
+      FANATIC_01 Death Front Spritesheet_22: 8509226988516478607
+      FANATIC_01 Death Front Spritesheet_23: -4147552984460139681
+      FANATIC_01 Death Front Spritesheet_24: 9146144829415300818
+      FANATIC_01 Death Front Spritesheet_25: 152357144634963765
+      FANATIC_01 Death Front Spritesheet_26: 2560501110007944982
+      FANATIC_01 Death Front Spritesheet_27: -4301179248373650688
+      FANATIC_01 Death Front Spritesheet_28: 6530471472999419624
+      FANATIC_01 Death Front Spritesheet_29: -2563585654114323583
+      FANATIC_01 Death Front Spritesheet_3: 2080202233914231577
+      FANATIC_01 Death Front Spritesheet_30: 3551226484968602884
+      FANATIC_01 Death Front Spritesheet_31: 8641429435027718171
+      FANATIC_01 Death Front Spritesheet_32: -7703401645304719404
+      FANATIC_01 Death Front Spritesheet_33: 2866276048544221168
+      FANATIC_01 Death Front Spritesheet_34: -252799575509774951
+      FANATIC_01 Death Front Spritesheet_35: -4151423285735381156
+      FANATIC_01 Death Front Spritesheet_36: 7861772234334087726
+      FANATIC_01 Death Front Spritesheet_37: -146426042079452046
+      FANATIC_01 Death Front Spritesheet_38: 5694551406365030131
+      FANATIC_01 Death Front Spritesheet_39: 8300936549440655985
+      FANATIC_01 Death Front Spritesheet_4: 3687277964753210612
+      FANATIC_01 Death Front Spritesheet_40: -691763506569889119
+      FANATIC_01 Death Front Spritesheet_41: 21828187708419864
+      FANATIC_01 Death Front Spritesheet_42: -4215273720612682499
+      FANATIC_01 Death Front Spritesheet_43: -4857416604924359049
+      FANATIC_01 Death Front Spritesheet_44: -5520586043913792529
+      FANATIC_01 Death Front Spritesheet_45: 8132496279401903528
+      FANATIC_01 Death Front Spritesheet_46: 3420373765765052336
+      FANATIC_01 Death Front Spritesheet_47: 6553767550920893693
+      FANATIC_01 Death Front Spritesheet_48: 3509934031282207744
+      FANATIC_01 Death Front Spritesheet_49: -4221980949918840519
+      FANATIC_01 Death Front Spritesheet_5: 1705866456106636571
+      FANATIC_01 Death Front Spritesheet_50: -4929892446905241562
+      FANATIC_01 Death Front Spritesheet_51: 4236433006613444278
+      FANATIC_01 Death Front Spritesheet_52: -6649171915309054103
+      FANATIC_01 Death Front Spritesheet_53: 2193878934500036431
+      FANATIC_01 Death Front Spritesheet_54: -4092200334111488944
+      FANATIC_01 Death Front Spritesheet_55: 8553170426323248361
+      FANATIC_01 Death Front Spritesheet_56: -3154631699695408689
+      FANATIC_01 Death Front Spritesheet_57: 8173659020687269180
+      FANATIC_01 Death Front Spritesheet_58: -780295579375620128
+      FANATIC_01 Death Front Spritesheet_59: 2080011548561662999
+      FANATIC_01 Death Front Spritesheet_6: 3086620684998216562
+      FANATIC_01 Death Front Spritesheet_60: 3690820892183125551
+      FANATIC_01 Death Front Spritesheet_61: -4419108841411915115
+      FANATIC_01 Death Front Spritesheet_62: -7255702331820751431
+      FANATIC_01 Death Front Spritesheet_63: 3080678579727250280
+      FANATIC_01 Death Front Spritesheet_64: -2667967898048640268
+      FANATIC_01 Death Front Spritesheet_65: -2399149510386215446
+      FANATIC_01 Death Front Spritesheet_66: -6670503608624073154
+      FANATIC_01 Death Front Spritesheet_67: -5732584407501151493
+      FANATIC_01 Death Front Spritesheet_68: -513034557189950610
+      FANATIC_01 Death Front Spritesheet_69: -5493502667163316277
+      FANATIC_01 Death Front Spritesheet_7: 1324299469632076729
+      FANATIC_01 Death Front Spritesheet_70: 3824692964016790964
+      FANATIC_01 Death Front Spritesheet_71: 1153275356715435676
+      FANATIC_01 Death Front Spritesheet_72: 330078320904827103
+      FANATIC_01 Death Front Spritesheet_73: -7888735347121948734
+      FANATIC_01 Death Front Spritesheet_74: -7258686752793096813
+      FANATIC_01 Death Front Spritesheet_75: 6512568894598186582
+      FANATIC_01 Death Front Spritesheet_76: -5335949814153770760
+      FANATIC_01 Death Front Spritesheet_77: 6975209832887973790
+      FANATIC_01 Death Front Spritesheet_78: -4070899772218288579
+      FANATIC_01 Death Front Spritesheet_79: -4597096436582998525
+      FANATIC_01 Death Front Spritesheet_8: -1198096143245242415
+      FANATIC_01 Death Front Spritesheet_80: 937837824632095758
+      FANATIC_01 Death Front Spritesheet_81: -2473478821360638082
+      FANATIC_01 Death Front Spritesheet_82: 8353055156877585218
+      FANATIC_01 Death Front Spritesheet_83: -3565470111719099680
+      FANATIC_01 Death Front Spritesheet_84: -2088437517036540180
+      FANATIC_01 Death Front Spritesheet_85: -6866754085858837004
+      FANATIC_01 Death Front Spritesheet_86: -1209933883613313194
+      FANATIC_01 Death Front Spritesheet_87: -4736300746417268685
+      FANATIC_01 Death Front Spritesheet_88: -7011041527268714469
+      FANATIC_01 Death Front Spritesheet_89: -3682629222297793110
+      FANATIC_01 Death Front Spritesheet_9: -5599470486105846934
+      FANATIC_01 Death Front Spritesheet_90: -6872552641416287932
+      FANATIC_01 Death Front Spritesheet_91: -4307566972702017113
+      FANATIC_01 Death Front Spritesheet_92: -4746774173996336376
+      FANATIC_01 Death Front Spritesheet_93: -9075828962285271087
+      FANATIC_01 Death Front Spritesheet_94: -918651935015728922
+      FANATIC_01 Death Front Spritesheet_95: 7951257954367888875
+      FANATIC_01 Death Front Spritesheet_96: 6587668688891031249
+      FANATIC_01 Death Front Spritesheet_97: 2218845192678187887
+      FANATIC_01 Death Front Spritesheet_98: 2911510347208752364
+      FANATIC_01 Death Front Spritesheet_99: -2185341853199896658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
