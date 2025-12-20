@@ -5,7 +5,7 @@ public class IsometricOverlapCircle : MonoBehaviour
 {
     [SerializeField] private float radius = 2f;
     [SerializeField] private LayerMask targetLayers;
-    [SerializeField] private bool drawGizmos = true;
+    //[SerializeField] private bool drawGizmos = true;
 
     private Matrix4x4 isometricMatrix = Matrix4x4.Rotate(Quaternion.Euler(0, 45, 0));
 
