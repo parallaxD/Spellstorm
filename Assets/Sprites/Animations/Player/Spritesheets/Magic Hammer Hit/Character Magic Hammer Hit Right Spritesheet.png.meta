@@ -253,7 +253,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -267,7 +267,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -288,7 +288,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -319,12 +319,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 55
-        y: 15
-        width: 50
-        height: 55
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,12 +341,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 183
-        y: 15
-        width: 50
-        height: 55
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,12 +363,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 311
-        y: 15
-        width: 50
-        height: 55
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,12 +385,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 439
-        y: 15
-        width: 50
-        height: 55
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,12 +407,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 567
-        y: 15
-        width: 50
-        height: 54
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,12 +429,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 695
-        y: 15
-        width: 50
-        height: 54
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -451,12 +451,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 823
-        y: 15
-        width: 50
-        height: 54
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -473,12 +473,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 951
-        y: 15
-        width: 50
-        height: 54
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -495,12 +495,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 1079
-        y: 15
-        width: 50
-        height: 54
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -517,12 +517,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 1197
-        y: 15
-        width: 37
-        height: 87
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -539,12 +539,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_10
       rect:
         serializedVersion: 2
-        x: 1325
-        y: 15
-        width: 37
-        height: 87
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -561,12 +561,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_11
       rect:
         serializedVersion: 2
-        x: 1453
-        y: 15
-        width: 37
-        height: 87
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -583,12 +583,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 1581
-        y: 15
-        width: 37
-        height: 87
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -605,12 +605,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 1709
-        y: 15
-        width: 37
-        height: 87
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -627,12 +627,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_14
       rect:
         serializedVersion: 2
-        x: 1826
-        y: 15
-        width: 44
-        height: 85
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -649,12 +649,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_15
       rect:
         serializedVersion: 2
-        x: 1954
-        y: 15
-        width: 44
-        height: 85
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -671,12 +671,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_16
       rect:
         serializedVersion: 2
-        x: 2082
-        y: 15
-        width: 44
-        height: 85
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -693,12 +693,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_17
       rect:
         serializedVersion: 2
-        x: 2210
-        y: 15
-        width: 44
-        height: 85
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -715,12 +715,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 2338
-        y: 15
-        width: 44
-        height: 85
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -737,12 +737,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_19
       rect:
         serializedVersion: 2
-        x: 2470
-        y: 15
-        width: 41
-        height: 86
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -759,12 +759,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_20
       rect:
         serializedVersion: 2
-        x: 2598
-        y: 15
-        width: 41
-        height: 86
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -781,12 +781,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_21
       rect:
         serializedVersion: 2
-        x: 2726
-        y: 15
-        width: 41
-        height: 86
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -803,12 +803,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_22
       rect:
         serializedVersion: 2
-        x: 2854
-        y: 15
-        width: 41
-        height: 86
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -825,12 +825,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_23
       rect:
         serializedVersion: 2
-        x: 2982
-        y: 15
-        width: 41
-        height: 86
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -847,12 +847,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_24
       rect:
         serializedVersion: 2
-        x: 3100
-        y: 15
-        width: 50
-        height: 68
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -869,12 +869,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_25
       rect:
         serializedVersion: 2
-        x: 3228
-        y: 15
-        width: 50
-        height: 68
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -891,12 +891,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_26
       rect:
         serializedVersion: 2
-        x: 3356
-        y: 15
-        width: 50
-        height: 68
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -913,12 +913,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_27
       rect:
         serializedVersion: 2
-        x: 3484
-        y: 15
-        width: 50
-        height: 68
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -935,12 +935,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_28
       rect:
         serializedVersion: 2
-        x: 3612
-        y: 15
-        width: 50
-        height: 68
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -957,12 +957,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_29
       rect:
         serializedVersion: 2
-        x: 3747
-        y: 15
-        width: 48
-        height: 54
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -979,12 +979,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_30
       rect:
         serializedVersion: 2
-        x: 3875
-        y: 15
-        width: 48
-        height: 54
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1001,12 +1001,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_31
       rect:
         serializedVersion: 2
-        x: 4003
-        y: 15
-        width: 48
-        height: 54
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1023,12 +1023,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_32
       rect:
         serializedVersion: 2
-        x: 4131
-        y: 15
-        width: 48
-        height: 54
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1045,12 +1045,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_33
       rect:
         serializedVersion: 2
-        x: 4259
-        y: 15
-        width: 48
-        height: 54
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1067,12 +1067,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_34
       rect:
         serializedVersion: 2
-        x: 4406
-        y: 15
-        width: 47
-        height: 57
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1089,12 +1089,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_35
       rect:
         serializedVersion: 2
-        x: 4534
-        y: 15
-        width: 47
-        height: 57
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1111,12 +1111,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_36
       rect:
         serializedVersion: 2
-        x: 4662
-        y: 15
-        width: 47
-        height: 57
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1133,12 +1133,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_37
       rect:
         serializedVersion: 2
-        x: 4790
-        y: 15
-        width: 47
-        height: 57
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1155,12 +1155,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_38
       rect:
         serializedVersion: 2
-        x: 4918
-        y: 15
-        width: 47
-        height: 57
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1177,12 +1177,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_39
       rect:
         serializedVersion: 2
-        x: 5053
-        y: 4
-        width: 66
-        height: 34
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1199,12 +1199,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_40
       rect:
         serializedVersion: 2
-        x: 5181
-        y: 4
-        width: 66
-        height: 34
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1221,12 +1221,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_41
       rect:
         serializedVersion: 2
-        x: 5309
-        y: 4
-        width: 66
-        height: 34
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1243,12 +1243,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_42
       rect:
         serializedVersion: 2
-        x: 5437
-        y: 4
-        width: 66
-        height: 34
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1265,12 +1265,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_43
       rect:
         serializedVersion: 2
-        x: 5565
-        y: 4
-        width: 66
-        height: 34
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1287,12 +1287,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_44
       rect:
         serializedVersion: 2
-        x: 5693
-        y: 4
-        width: 66
-        height: 35
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1309,12 +1309,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_45
       rect:
         serializedVersion: 2
-        x: 5821
-        y: 4
-        width: 66
-        height: 35
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1331,12 +1331,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_46
       rect:
         serializedVersion: 2
-        x: 5949
-        y: 4
-        width: 66
-        height: 35
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1353,12 +1353,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_47
       rect:
         serializedVersion: 2
-        x: 6077
-        y: 4
-        width: 66
-        height: 35
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1375,12 +1375,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_48
       rect:
         serializedVersion: 2
-        x: 6205
-        y: 4
-        width: 66
-        height: 35
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1397,12 +1397,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_49
       rect:
         serializedVersion: 2
-        x: 6333
-        y: 4
-        width: 65
-        height: 37
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1419,12 +1419,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_50
       rect:
         serializedVersion: 2
-        x: 6461
-        y: 4
-        width: 65
-        height: 37
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1441,12 +1441,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_51
       rect:
         serializedVersion: 2
-        x: 6589
-        y: 4
-        width: 65
-        height: 37
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1463,12 +1463,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_52
       rect:
         serializedVersion: 2
-        x: 6717
-        y: 4
-        width: 65
-        height: 37
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1485,12 +1485,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_53
       rect:
         serializedVersion: 2
-        x: 6845
-        y: 4
-        width: 65
-        height: 37
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1507,12 +1507,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_54
       rect:
         serializedVersion: 2
-        x: 6973
-        y: 4
-        width: 66
-        height: 42
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1529,12 +1529,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_55
       rect:
         serializedVersion: 2
-        x: 7101
-        y: 4
-        width: 66
-        height: 42
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1551,12 +1551,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_56
       rect:
         serializedVersion: 2
-        x: 7229
-        y: 4
-        width: 66
-        height: 42
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1573,12 +1573,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_57
       rect:
         serializedVersion: 2
-        x: 7357
-        y: 4
-        width: 66
-        height: 42
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1595,12 +1595,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_58
       rect:
         serializedVersion: 2
-        x: 7485
-        y: 4
-        width: 66
-        height: 42
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1617,12 +1617,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_59
       rect:
         serializedVersion: 2
-        x: 7608
-        y: 15
-        width: 67
-        height: 47
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1639,12 +1639,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_60
       rect:
         serializedVersion: 2
-        x: 7736
-        y: 15
-        width: 67
-        height: 47
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1661,12 +1661,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_61
       rect:
         serializedVersion: 2
-        x: 7864
-        y: 15
-        width: 67
-        height: 47
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1683,12 +1683,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_62
       rect:
         serializedVersion: 2
-        x: 7992
-        y: 15
-        width: 67
-        height: 47
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1705,12 +1705,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_63
       rect:
         serializedVersion: 2
-        x: 8120
-        y: 15
-        width: 67
-        height: 47
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1727,12 +1727,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_64
       rect:
         serializedVersion: 2
-        x: 8246
-        y: 15
-        width: 53
-        height: 55
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1749,12 +1749,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_65
       rect:
         serializedVersion: 2
-        x: 8374
-        y: 15
-        width: 53
-        height: 55
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1771,12 +1771,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_66
       rect:
         serializedVersion: 2
-        x: 8502
-        y: 15
-        width: 53
-        height: 55
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1793,12 +1793,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_67
       rect:
         serializedVersion: 2
-        x: 8630
-        y: 15
-        width: 53
-        height: 55
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1815,12 +1815,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_68
       rect:
         serializedVersion: 2
-        x: 8758
-        y: 15
-        width: 53
-        height: 55
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1837,12 +1837,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_69
       rect:
         serializedVersion: 2
-        x: 8887
-        y: 15
-        width: 55
-        height: 54
+        x: 8832
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1859,12 +1859,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_70
       rect:
         serializedVersion: 2
-        x: 9015
-        y: 15
-        width: 55
-        height: 54
+        x: 8960
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1881,12 +1881,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_71
       rect:
         serializedVersion: 2
-        x: 9143
-        y: 15
-        width: 55
-        height: 54
+        x: 9088
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1903,12 +1903,12 @@ TextureImporter:
       name: Character Magic Hammer Hit Right Spritesheet_72
       rect:
         serializedVersion: 2
-        x: 9271
-        y: 15
-        width: 55
-        height: 54
+        x: 9216
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1925,7 +1925,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ac3b4459516d97c4683c7498bb49a137
     internalID: 0
     vertices: []
     indices: 
@@ -1933,7 +1933,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Character Magic Hammer Hit Right Spritesheet_0: 3935587071369779269
       Character Magic Hammer Hit Right Spritesheet_1: 4303502487596303272

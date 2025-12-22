@@ -8,8 +8,8 @@ public class Player : MonoBehaviour
     private Vector2 moveInput;
 
     [SerializeField] private float maxSpeed = 5f;
-    [SerializeField] private float acceleration = 10f;  // ускорение
-    [SerializeField] private float deceleration = 12f;  // замедление
+    [SerializeField] private float acceleration = 10f;
+    [SerializeField] private float deceleration = 12f;
 
     private Animator animator;
 
