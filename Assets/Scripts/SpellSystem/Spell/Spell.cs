@@ -3,7 +3,7 @@ using UnityEngine;
 
 public abstract class Spell
 {
-    public SpellData Data { get; private set; } = new SpellData();
+    public SpellData Data { get; private set; } = ScriptableObject.CreateInstance<SpellData>();
 
     public Spell(SpellData data)
     {

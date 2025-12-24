@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public abstract class MovementAbility : ScriptableObject
+public abstract class MovementAbility
 {
     public abstract void Action(Transform playerTransform);
 }
