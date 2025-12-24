@@ -5,7 +5,7 @@ using UnityEngine;
 public class SpellProjectile : Projectile
 {
     [SerializeField] private SpriteRenderer spriteRenderer;
-    [SerializeField] private float rotationSpeed = 180f;
+    [SerializeField] private float rotationSpeed = 1000f;
 
     public int dotDamage = 0;
     public int dotTicks = 0;

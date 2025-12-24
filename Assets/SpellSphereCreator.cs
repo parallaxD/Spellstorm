@@ -30,6 +30,7 @@ public class SpellSphereCreator : MonoBehaviour
         spellProjectileGO.AddComponent<Rigidbody2D>().gravityScale = 0;
         spellProjectileGO.AddComponent<CircleCollider2D>().isTrigger = true;
         //spellProjectileGO.GetComponent<CircleCollider2D>().excludeLayers = LayerMask.GetMask("Player");
+        spellProjectileGO.GetComponent<Transform>().localScale = new Vector3(0.8f, 0.8f, 0.8f);
         spellProjectileGO.AddComponent<SpellProjectile>();
         foreach (var tuple in visualRecipe)
         {
