@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: UnityFigmaBridgeEditor::UnityFigmaBridge.Editor.Settings.UnityFigmaBridgeSettings
   DocumentUrl: https://www.figma.com/design/U1JxHHSuRFgraX9LrSPSvk/Spellstorm?node-id=35-2&p=f&t=Dl7SaL0U2jW92Dif-0
   BuildPrototypeFlow: 1
-  RunTimeAssetsScenePath: Assets/Scenes/SampleScene.unity
+  RunTimeAssetsScenePath: 
   EnableAutoLayout: 0
   ScreenBindingNamespace: 
   ServerRenderImageScale: 3

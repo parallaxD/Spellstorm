@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SpellStash
+public class SpellStash : MonoBehaviour
 {
     Spell _spell;
 
