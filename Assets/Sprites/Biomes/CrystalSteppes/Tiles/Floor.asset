@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59df71b97bae41046aac48325a6dcc46, type: 3}
+  m_Name: Floor
+  m_EditorClassIdentifier: Assembly-CSharp::TileSet
+  tiles:
+  - Sprite: {fileID: 11400000, guid: 3b942228fc646ba4da7a14d204edf9a3, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: 5155f8f4a31106948827cfdc0032a5fe, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: 4af89d5c727995c47b84ee61e241ec90, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: 91d1236a04082254083b76f5a9060bbf, type: 2}
+    Weight: 20
+  - Sprite: {fileID: 11400000, guid: 4c9042212bc0229458003adca18c8588, type: 2}
+    Weight: 5
+  - Sprite: {fileID: 11400000, guid: 445a285f3bce9b64cb46dc99524d3cf2, type: 2}
+    Weight: 5
+  - Sprite: {fileID: 11400000, guid: 5076dccfd84a38f4890477c55ad1b826, type: 2}
+    Weight: 5
+  - Sprite: {fileID: 11400000, guid: ff934bc3d4758f24b87fa9921c257c5a, type: 2}
+    Weight: 5

@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 92a6f401ea0371642a8a031facfe58c5
+guid: 2f11f242ed1d0ed478dfce5b355581fc
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 3852935397828220675
     second: old-platform-v1-decor_0
+  - first:
+      213: 3172760229539372846
+    second: old-platform-v1-decor_1
+  - first:
+      213: -2207228921525846232
+    second: old-platform-v1-decor_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +52,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,10 +109,10 @@ TextureImporter:
       name: old-platform-v1-decor_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 12
-        width: 62
-        height: 37
+        x: 1
+        y: 22
+        width: 127
+        height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,11 +127,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: old-platform-v1-decor_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 53
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f5e276e98e70c20800000000000000
+      internalID: 3172760229539372846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-platform-v1-decor_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fbb728df85e51e0800000000000000
+      internalID: -2207228921525846232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +186,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       old-platform-v1-decor_0: 3852935397828220675
+      old-platform-v1-decor_1: 3172760229539372846
+      old-platform-v1-decor_2: -2207228921525846232
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

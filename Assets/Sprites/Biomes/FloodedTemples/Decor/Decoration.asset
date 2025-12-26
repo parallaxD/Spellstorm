@@ -13,12 +13,27 @@ MonoBehaviour:
   m_Name: Decoration
   m_EditorClassIdentifier: Assembly-CSharp::DecorationSet
   decorations:
-  - Sprite: {fileID: 8183845620476355493, guid: 8f9d44ec7205eca4a86d84022276d38a, type: 3}
+  - Sprite: {fileID: 21300000, guid: f6bccec80352ea243a4be6904ec1d6fa, type: 3}
     Count: 1
     isDecorNearPaths: 0
-  - Sprite: {fileID: 21300000, guid: c5d66eda8aab47541b7193f4f957943d, type: 3}
+  - Sprite: {fileID: 21300000, guid: 0cd59dc47da1d2a4290507c11f2ffca2, type: 3}
     Count: 1
     isDecorNearPaths: 0
-  - Sprite: {fileID: -2574467184920973589, guid: 6a0d6aada8e2ff942b3a31e1c13dab2b, type: 3}
+  - Sprite: {fileID: 21300000, guid: f01ec389e242e1648b38acadf3a41831, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: d75f54c7b6378ca45a680580ac8f5e3b, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: ad734cb8aad2b304d9d9c011288245f6, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: 69722ef7dd7b11043923fe05a3b997a2, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: 66e622c994350174e95ceffa244d4f73, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: c3bb59fef9b93d14f8952bec9e25df0a, type: 3}
     Count: 1
     isDecorNearPaths: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 39be3af0ce117e149acfb16052863c2c
+guid: ad734cb8aad2b304d9d9c011288245f6
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -11,6 +11,18 @@ TextureImporter:
   - first:
       213: 2253783819413969547
     second: fragments-of-statues-v1-decor_2
+  - first:
+      213: 4535944714142307076
+    second: fragments-of-statues-v1-decor_3
+  - first:
+      213: 6986615162291119090
+    second: fragments-of-statues-v1-decor_4
+  - first:
+      213: 6797087520004044973
+    second: fragments-of-statues-v1-decor_5
+  - first:
+      213: -1464647602578225092
+    second: fragments-of-statues-v1-decor_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,12 +64,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,10 +121,10 @@ TextureImporter:
       name: fragments-of-statues-v1-decor_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 50
-        width: 22
-        height: 19
+        x: 2
+        y: 100
+        width: 46
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,10 +143,10 @@ TextureImporter:
       name: fragments-of-statues-v1-decor_1
       rect:
         serializedVersion: 2
-        x: 21
-        y: 23
-        width: 95
-        height: 75
+        x: 29
+        y: 113
+        width: 19
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +165,10 @@ TextureImporter:
       name: fragments-of-statues-v1-decor_2
       rect:
         serializedVersion: 2
-        x: 115
-        y: 51
-        width: 9
-        height: 12
+        x: 41
+        y: 44
+        width: 192
+        height: 152
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,11 +183,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: fragments-of-statues-v1-decor_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403534f5fa9e2fe30800000000000000
+      internalID: 4535944714142307076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragments-of-statues-v1-decor_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 118
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f368b2397175f060800000000000000
+      internalID: 6986615162291119090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragments-of-statues-v1-decor_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8f411461b145e50800000000000000
+      internalID: 6797087520004044973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fragments-of-statues-v1-decor_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 101
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c388237f3c68cabe0800000000000000
+      internalID: -1464647602578225092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +288,10 @@ TextureImporter:
       fragments-of-statues-v1-decor_0: 7639008920594720618
       fragments-of-statues-v1-decor_1: -9081318299879261849
       fragments-of-statues-v1-decor_2: 2253783819413969547
+      fragments-of-statues-v1-decor_3: 4535944714142307076
+      fragments-of-statues-v1-decor_4: 6986615162291119090
+      fragments-of-statues-v1-decor_5: 6797087520004044973
+      fragments-of-statues-v1-decor_6: -1464647602578225092
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

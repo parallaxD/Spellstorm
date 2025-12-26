@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 36f4221593f92764ab20d77eabb38f2c
+guid: 9ad3ceed9b3cbc646ae027b3f826ca8c
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -55,12 +55,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -112,10 +112,10 @@ TextureImporter:
       name: altar-V2-decor_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 45
-        width: 10
-        height: 7
+        x: 0
+        y: 43
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,10 +134,10 @@ TextureImporter:
       name: altar-V2-decor_1
       rect:
         serializedVersion: 2
-        x: 25
-        y: 34
-        width: 80
-        height: 56
+        x: 16
+        y: 29
+        width: 98
+        height: 68
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,10 +156,10 @@ TextureImporter:
       name: altar-V2-decor_2
       rect:
         serializedVersion: 2
-        x: 58
-        y: 22
-        width: 9
-        height: 7
+        x: 57
+        y: 15
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,10 +178,10 @@ TextureImporter:
       name: altar-V2-decor_3
       rect:
         serializedVersion: 2
-        x: 74
-        y: 27
-        width: 10
-        height: 7
+        x: 76
+        y: 21
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

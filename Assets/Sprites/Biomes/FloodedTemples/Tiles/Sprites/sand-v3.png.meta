@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 58e1b9e572668074291d2e4e3d8adadb
+guid: 10ec70a41febea74d8c88ea35d6295e7
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -106,9 +106,9 @@ TextureImporter:
         x: 0
         y: 0
         width: 64
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3c0bfbf1476f0ab4884f6672ded469b4
     internalID: 0
     vertices: []
     indices: 
@@ -133,7 +133,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.25},"pivotPixels":{"x":32.0,"y":16.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":1,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       sand-v3_0: -1369311476242864351
   mipmapLimitGroupName: 

@@ -16,4 +16,4 @@ MonoBehaviour:
   floorTileset: {fileID: 11400000, guid: ac3e43fef2548be47bdcf8a6cc91ec48, type: 2}
   backgroundTileset: {fileID: 11400000, guid: 1930c39896820ba44b436bb294bba999, type: 2}
   decorationTileset: {fileID: 11400000, guid: 6f684ab7b5618ae4bb79aa0e0806ee54, type: 2}
-  decorations: {fileID: 11400000, guid: f95d5573881c5144b948e6552f73989a, type: 2}
+  decorationSet: {fileID: 11400000, guid: f95d5573881c5144b948e6552f73989a, type: 2}
