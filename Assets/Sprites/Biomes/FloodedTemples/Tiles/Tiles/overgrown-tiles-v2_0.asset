@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: overgrown-tiles-v2_0
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: 6543396417463560850, guid: 668efa6e794295c4ca11cc6c6d13de44, type: 3}
+  m_Sprite: {fileID: 6543396417463560850, guid: 66b7672be5a8a014abd8f58f779d79e1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 49aaf58455404d9458641177bc334ff5
+guid: a87a29e48c23f5c49a7045db66a6345a
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -11,6 +11,9 @@ TextureImporter:
   - first:
       213: -8853253289678165139
     second: cycle-stairs-decor_2
+  - first:
+      213: -2160075041155700734
+    second: cycle-stairs-decor_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -52,12 +55,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,10 +112,10 @@ TextureImporter:
       name: cycle-stairs-decor_0
       rect:
         serializedVersion: 2
-        x: 28
-        y: 31
-        width: 80
-        height: 76
+        x: 2
+        y: 22
+        width: 115
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,10 +134,10 @@ TextureImporter:
       name: cycle-stairs-decor_1
       rect:
         serializedVersion: 2
-        x: 104
-        y: 52
-        width: 12
-        height: 10
+        x: 112
+        y: 48
+        width: 15
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,9 +156,9 @@ TextureImporter:
       name: cycle-stairs-decor_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 30
-        width: 11
+        x: 45
+        y: 15
+        width: 13
         height: 8
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -171,11 +174,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cycle-stairs-decor_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2082ab3d13fd502e0800000000000000
+      internalID: -2160075041155700734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -188,6 +213,7 @@ TextureImporter:
       cycle-stairs-decor_0: -2293426373214592330
       cycle-stairs-decor_1: -3820242288216997515
       cycle-stairs-decor_2: -8853253289678165139
+      cycle-stairs-decor_3: -2160075041155700734
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

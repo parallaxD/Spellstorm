@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: sand-v4_0
   m_EditorClassIdentifier: UnityEngine.dll::UnityEngine.Tilemaps.Tile
-  m_Sprite: {fileID: 3796058987544871330, guid: ae70e195f91565d46809da30c98b614a, type: 3}
+  m_Sprite: {fileID: 3796058987544871330, guid: 18496e440cd43c34d923c7d2eb7868a9, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

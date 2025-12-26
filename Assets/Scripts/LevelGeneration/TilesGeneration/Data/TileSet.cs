@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "SpriteSets/TileSet")]
+[CreateAssetMenu(menuName = "Generation/TileSet")]
 public class TileSet : ScriptableObject
 {
     public List<MyTile> tiles;

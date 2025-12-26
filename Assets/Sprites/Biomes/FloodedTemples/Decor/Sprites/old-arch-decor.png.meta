@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 6f2b5675b5534c046a91cef2ab5506b5
+guid: 69722ef7dd7b11043923fe05a3b997a2
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -253217382245304801
     second: old-arch-decor_0
+  - first:
+      213: 1925240266160602388
+    second: old-arch-decor_1
+  - first:
+      213: -2509369796110474239
+    second: old-arch-decor_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +52,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,10 +109,10 @@ TextureImporter:
       name: old-arch-decor_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 3
-        width: 61
-        height: 57
+        x: 1
+        y: 8
+        width: 124
+        height: 112
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,11 +127,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: old-arch-decor_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41df7cb52d3d7ba10800000000000000
+      internalID: 1925240266160602388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: old-arch-decor_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104adb4377dec2dd0800000000000000
+      internalID: -2509369796110474239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -136,6 +186,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       old-arch-decor_0: -253217382245304801
+      old-arch-decor_1: 1925240266160602388
+      old-arch-decor_2: -2509369796110474239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

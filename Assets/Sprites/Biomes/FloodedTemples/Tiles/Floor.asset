@@ -13,7 +13,11 @@ MonoBehaviour:
   m_Name: Floor
   m_EditorClassIdentifier: Assembly-CSharp::TileSet
   tiles:
+  - Sprite: {fileID: 11400000, guid: 685ece3698c98c84386e045540c5b32f, type: 2}
+    Weight: 10
   - Sprite: {fileID: 11400000, guid: 84c85e1cc20b0bf42832aa269e8dba27, type: 2}
+    Weight: 10
+  - Sprite: {fileID: 11400000, guid: e588564d5f4d01f4d8e5e5b021b564b0, type: 2}
     Weight: 10
   - Sprite: {fileID: 11400000, guid: f03353df9b5953041857a97bd3709341, type: 2}
     Weight: 10
@@ -25,11 +29,7 @@ MonoBehaviour:
     Weight: 10
   - Sprite: {fileID: 11400000, guid: 6ed0f7f49aca61c4fb594359ed884a90, type: 2}
     Weight: 10
-  - Sprite: {fileID: 11400000, guid: 822d463b189ecca49b75595a7f6afd03, type: 2}
-    Weight: 10
   - Sprite: {fileID: 11400000, guid: 780cabfd656567746ad158774be135c8, type: 2}
-    Weight: 10
-  - Sprite: {fileID: 11400000, guid: 685ece3698c98c84386e045540c5b32f, type: 2}
     Weight: 10
   - Sprite: {fileID: 11400000, guid: 36aee2e9f4b47cc44a9d8fa02717893d, type: 2}
     Weight: 2
@@ -37,5 +37,5 @@ MonoBehaviour:
     Weight: 3
   - Sprite: {fileID: 11400000, guid: b25ff09feee76214cb5bae15636c26a8, type: 2}
     Weight: 2
-  - Sprite: {fileID: 11400000, guid: b25ff09feee76214cb5bae15636c26a8, type: 2}
+  - Sprite: {fileID: 11400000, guid: 06b36615dd6a1a94cabdeb7eff84439a, type: 2}
     Weight: 0

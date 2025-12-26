@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9d46320af8f42634d8f4502135bdad3d
+guid: 0266a18175886c040812e5cd21913f4f
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -103,10 +103,10 @@ TextureImporter:
       name: old-bridge-decor_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 6
-        width: 56
-        height: 50
+        x: 12
+        y: 12
+        width: 116
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

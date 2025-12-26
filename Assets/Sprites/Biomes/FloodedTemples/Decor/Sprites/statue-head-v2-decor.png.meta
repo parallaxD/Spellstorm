@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 3f085144995d3854bb5c993a75f76868
+guid: fc5c2dbdacc73914494fdd01f6c7e567
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: -8498633434196311818
     second: statue-head-v2-decor_0
-  - first:
-      213: -581673914020302743
-    second: statue-head-v2-decor_1
-  - first:
-      213: 633943174233184637
-    second: statue-head-v2-decor_2
-  - first:
-      213: -8963727241694416635
-    second: statue-head-v2-decor_3
-  - first:
-      213: -1243216751070120722
-    second: statue-head-v2-decor_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -115,10 +103,10 @@ TextureImporter:
       name: statue-head-v2-decor_0
       rect:
         serializedVersion: 2
-        x: 29
-        y: 22
-        width: 79
-        height: 93
+        x: 8
+        y: 3
+        width: 111
+        height: 119
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,99 +121,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: statue-head-v2-decor_1
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 57
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96075b338aa7de7f0800000000000000
-      internalID: -581673914020302743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: statue-head-v2-decor_2
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 41
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d79d3fb45f73cc800800000000000000
-      internalID: 633943174233184637
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: statue-head-v2-decor_3
-      rect:
-        serializedVersion: 2
-        x: 107
-        y: 44
-        width: 12
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 501ff47c0917a9380800000000000000
-      internalID: -8963727241694416635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: statue-head-v2-decor_4
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 18
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee476a5a3f43fbee0800000000000000
-      internalID: -1243216751070120722
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -236,10 +136,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       statue-head-v2-decor_0: -8498633434196311818
-      statue-head-v2-decor_1: -581673914020302743
-      statue-head-v2-decor_2: 633943174233184637
-      statue-head-v2-decor_3: -8963727241694416635
-      statue-head-v2-decor_4: -1243216751070120722
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

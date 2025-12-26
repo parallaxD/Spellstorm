@@ -5,9 +5,9 @@ using UnityEngine.Tilemaps;
 
 public class TileManager : MonoBehaviour
 {
-    [SerializeField] private TileSet floorTileSet;
-    [SerializeField] private TileSet backgroundTileSet;
-    [SerializeField] private TileSet decorationsTileSet;
+    [SerializeField] public TileSet floorTileSet;
+    [SerializeField] public TileSet backgroundTileSet;
+    [SerializeField] public TileSet decorationsTileSet;
     [SerializeField] private TileSet collidersTileSet;
 
     private List<MyTile> floorTiles;
