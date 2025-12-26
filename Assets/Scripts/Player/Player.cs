@@ -11,6 +11,8 @@ public class Player : MonoBehaviour
     [SerializeField] private float acceleration = 10f;
     [SerializeField] private float deceleration = 12f;
 
+    public bool isAttacking = false;
+
     private Animator animator;
 
     private void Awake()
@@ -21,19 +23,36 @@ public class Player : MonoBehaviour
         ResetPosition();
     }
 
+    public void SetAttacking(bool value)
+    {
+        isAttacking = value;
+    }
+
+    public void OnAttack(InputValue value)
+    {
+        if (value.isPressed && !isAttacking)
+        {
+            animator.SetTrigger("Attack");
+        }
+    }
+
     private void FixedUpdate()
     {
-        var targetVelocity = moveInput * maxSpeed;
+        var effectiveInput = isAttacking ? Vector2.zero : moveInput;
 
-        var accel = moveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
-        var velocity = moveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
+        var targetVelocity = effectiveInput * maxSpeed;
+        var accel = effectiveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
+        var velocity = effectiveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
 
         rb.linearVelocity = Vector2.Lerp(
                 rb.linearVelocity,
                 velocity,
                 accel * Time.fixedDeltaTime
             );
+    }
 
+    private void Update()
+    {
         UpdateAnimation();
     }
 
@@ -57,6 +76,6 @@ public class Player : MonoBehaviour
     {
         animator.SetFloat("MoveX", moveInput.x);
         animator.SetFloat("MoveY", moveInput.y);
-        animator.SetBool("IsMoving", moveInput.magnitude > 0.01f);
+        animator.SetBool("IsMoving", !isAttacking && moveInput.magnitude > 0.01f);
     }
 }
