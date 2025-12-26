@@ -1,10 +1,9 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
 using UnityEngine;
 
 public class DecorationManager : MonoBehaviour
 {
-    [SerializeField] private DecorationSet decorationSet;
+    [SerializeField] public DecorationSet decorationSet;
 
     public List<MyDecoration> decorations;
 

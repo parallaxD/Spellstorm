@@ -15,7 +15,7 @@ MonoBehaviour:
   iterations: 50
   walkLength: 10
   roomCount: 4
-  startRandomlyEachIteration: 1
-  corridorLength: 40
+  startRandomlyEachIteration: 0
+  corridorLength: 30
   corridorWidth: 5
   corridorCount: 3

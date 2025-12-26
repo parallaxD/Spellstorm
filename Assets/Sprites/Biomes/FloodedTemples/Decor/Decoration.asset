@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee68996405b064445aa1ab8920b24809, type: 3}
+  m_Name: Decoration
+  m_EditorClassIdentifier: Assembly-CSharp::DecorationSet
+  decorations:
+  - Sprite: {fileID: 21300000, guid: f6bccec80352ea243a4be6904ec1d6fa, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: 0cd59dc47da1d2a4290507c11f2ffca2, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: f01ec389e242e1648b38acadf3a41831, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: d75f54c7b6378ca45a680580ac8f5e3b, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: ad734cb8aad2b304d9d9c011288245f6, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: 69722ef7dd7b11043923fe05a3b997a2, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: 66e622c994350174e95ceffa244d4f73, type: 3}
+    Count: 1
+    isDecorNearPaths: 0
+  - Sprite: {fileID: 21300000, guid: c3bb59fef9b93d14f8952bec9e25df0a, type: 3}
+    Count: 1
+    isDecorNearPaths: 0

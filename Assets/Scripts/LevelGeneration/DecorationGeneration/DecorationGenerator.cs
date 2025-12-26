@@ -9,6 +9,8 @@ public class DecorationGenerator : MonoBehaviour
     [SerializeField] private DecorationManager decorationManager;
     [SerializeField] private DecorationVizualizer decorationVizualizer;
 
+    [SerializeField] private float sizeOffset = LevelGenerationConstants.decorationSizeOffset;
+
     public static List<HashSet<Vector2>> roomPositionsList;
     private List<DecorationObject> decorationsObjects = new List<DecorationObject>();
 
@@ -115,8 +117,6 @@ public class DecorationGenerator : MonoBehaviour
         var xMax = room.Max(p => p.x);
         var yMin = room.Min(p => p.y);
         var yMax = room.Max(p => p.y);
-
-        var sizeOffset = 3f;
 
         for (float x = xMin - sizeOffset; x < xMax + sizeOffset; x += 0.5f)
         {
