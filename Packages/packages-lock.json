@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.simonoliver.unityfigma": {
-      "version": "file:C:/Users/denis/Desktop/UnityFigmaBridge-main/UnityFigmaBridge-main",
+      "version": "file:UnityFigmaBridge-main",
       "depth": 0,
-      "source": "local",
+      "source": "embedded",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.1-preview.1",
         "com.unity.textmeshpro": "2.0.1"
