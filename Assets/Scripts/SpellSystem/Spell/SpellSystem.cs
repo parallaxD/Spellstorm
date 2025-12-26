@@ -5,16 +5,8 @@ using UnityEngine;
 
 public class SpellSystem : MonoBehaviour
 {
-    private Animator animator;
-
     private List<ElementType> Elements = new ();
     private SpellStash _spellStash = new ();
-
-    private void Awake()
-    {
-        animator = GetComponent<Animator>();
-    }
-
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Q))
@@ -46,8 +38,6 @@ public class SpellSystem : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Z))
         {
-            animator.SetTrigger("IsAttacking");
-
             _spellStash.CastSpell();
             _spellStash.ClearStash();
         }
