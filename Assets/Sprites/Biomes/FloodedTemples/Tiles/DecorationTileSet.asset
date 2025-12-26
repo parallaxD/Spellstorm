@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 59df71b97bae41046aac48325a6dcc46, type: 3}
-  m_Name: DecorationTeliSet
+  m_Name: DecorationTileSet
   m_EditorClassIdentifier: Assembly-CSharp::TileSet
   tiles:
   - Sprite: {fileID: 11400000, guid: 52b703654bdb40c4392740d668f35093, type: 2}

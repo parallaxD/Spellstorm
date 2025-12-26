@@ -8,8 +8,8 @@ public class Player : MonoBehaviour
     private Vector2 moveInput;
 
     [SerializeField] private float maxSpeed = 5f;
-    [SerializeField] private float acceleration = 10f;  // ускорение
-    [SerializeField] private float deceleration = 12f;  // замедление
+    [SerializeField] private float acceleration = 10f;
+    [SerializeField] private float deceleration = 12f;
 
     private Animator animator;
 
@@ -17,17 +17,8 @@ public class Player : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-    }
 
-    public void OnMove(InputValue value)
-    {
-        moveInput = value.Get<Vector2>();
-
-        if (moveInput != Vector2.zero)
-        {
-            animator.SetFloat("LastMoveX", moveInput.x);
-            animator.SetFloat("LastMoveY", moveInput.y);
-        }
+        ResetPosition();
     }
 
     private void FixedUpdate()
@@ -44,6 +35,22 @@ public class Player : MonoBehaviour
             );
 
         UpdateAnimation();
+    }
+
+    public void OnMove(InputValue value)
+    {
+        moveInput = value.Get<Vector2>();
+
+        if (moveInput != Vector2.zero)
+        {
+            animator.SetFloat("LastMoveX", moveInput.x);
+            animator.SetFloat("LastMoveY", moveInput.y);
+        }
+    }
+
+    public void ResetPosition()
+    {
+        transform.position = Vector2.zero;
     }
 
     private void UpdateAnimation()
