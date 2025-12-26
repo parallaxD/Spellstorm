@@ -25,7 +25,7 @@ public static class Constants
     }
     private static void FindPlayer()
     {
-        var player = GameObject.FindAnyObjectByType<Player>();
+        var player = GameObject.FindWithTag("Player");
         if (player != null)
             _playerTransform = player.transform;
     }

@@ -2,16 +2,16 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.InputSystem;
 
-public class PlayerMovement : MonoBehaviour
+public class Player : MonoBehaviour
 {
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
     [SerializeField] private float maxSpeed = 5f;
-    [SerializeField] private float acceleration = 10f; 
-    [SerializeField] private float deceleration = 12f;  
+    [SerializeField] private float acceleration = 10f;  // ускорение
+    [SerializeField] private float deceleration = 12f;  // замедление
 
-    public Animator animator;
+    private Animator animator;
 
     private void Awake()
     {
@@ -44,11 +44,6 @@ public class PlayerMovement : MonoBehaviour
             );
 
         UpdateAnimation();
-    }
-
-    public Vector2 GetMoveDir()
-    {
-        return moveInput;
     }
 
     private void UpdateAnimation()
