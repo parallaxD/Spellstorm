@@ -10,18 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 96937407bf0a5524aa48a506c00a827f, type: 3}
-  m_Name: 8_FireWind
+  m_Name: 1_Fireball
   m_EditorClassIdentifier: Assembly-CSharp::SpellData
-  ID: 8
-  Name: FireWind
-  Cooldown: 3
+  ID: 1
+  Name: Fireball
+  Cooldown: 2
   Sprite: {fileID: 0}
   Receipt:
   - elementType: 0
-    count: 1
+    count: 3
   - elementType: 1
+    count: 0
+  - elementType: 3
     count: 0
   - elementType: 2
     count: 0
-  - elementType: 3
-    count: 1
