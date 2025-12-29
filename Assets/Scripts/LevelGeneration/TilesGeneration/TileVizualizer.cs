@@ -10,7 +10,7 @@ public class TileVizualizer : MonoBehaviour
     [SerializeField] private Tilemap collidersTilemap;
     [SerializeField] private TileManager tileManager;
 
-    [SerializeField] private float sizeOffset = LevelGenerationConstants.backgroundSizeOffset;
+    [SerializeField] private float backgroundSizeOffset = 5f;
 
     public void PaintFloor(HashSet<Vector2> positions)
     {
@@ -71,9 +71,9 @@ public class TileVizualizer : MonoBehaviour
 
         var backgroundPositions = new HashSet<Vector2>();
 
-        for (float x = xMin - sizeOffset; x < xMax + sizeOffset; x += 0.5f)
+        for (float x = xMin - backgroundSizeOffset; x < xMax + backgroundSizeOffset; x += 0.5f)
         {
-            for (float y = yMin - sizeOffset; y < yMax + sizeOffset; y += 0.5f)
+            for (float y = yMin - backgroundSizeOffset; y < yMax + backgroundSizeOffset; y += 0.5f)
             {
                 backgroundPositions.Add(new Vector2(x, y));
             }

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "SimpleRandomWalkParameters_", menuName = "Generation/SimpleRandomWalkData")]
+[CreateAssetMenu(fileName = "SimpleRandomWalkParameters_", menuName = "PCG/SimpleRandomWalkData")]
 public class SimpleRandomWalkData : ScriptableObject
 {
     [Header("Rooms")]

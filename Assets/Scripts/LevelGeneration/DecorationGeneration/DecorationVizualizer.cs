@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -45,7 +46,6 @@ public class DecorationVizualizer : MonoBehaviour
         sr.sprite = sprite;
         sr.sortingLayerName = "Decorations";
         sr.sortingOrder = 2;
-        sr.spriteSortPoint = SpriteSortPoint.Pivot;
         go.transform.SetParent(tilemap.transform, worldPositionStays: false);
         go.transform.position = position;
 

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-[CreateAssetMenu(menuName = "Generation/DecorationSet")]
+[CreateAssetMenu(menuName = "SpriteSets/DecorationSet")]
 public class DecorationSet : ScriptableObject
 {
     public List<MyDecoration> decorations;

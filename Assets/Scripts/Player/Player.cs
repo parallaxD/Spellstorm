@@ -1,81 +1,57 @@
 using UnityEngine;
-using UnityEngine.EventSystems;
-using UnityEngine.InputSystem;
 
-public class Player : MonoBehaviour
+public class Player : MonoBehaviour, IDamagable, IEffectable
 {
-    private Rigidbody2D rb;
-    private Vector2 moveInput;
+    [SerializeField] private PlayerMovement _playerMovement;
+    [SerializeField] private PlayerHealth _playerHealth;
 
-    [SerializeField] private float maxSpeed = 5f;
-    [SerializeField] private float acceleration = 10f;
-    [SerializeField] private float deceleration = 12f;
+    public PlayerHealth Health => _playerHealth;
 
-    public bool isAttacking = false;
+    public bool IsAlive => _playerHealth.IsAlive();
 
-    private Animator animator;
-
-    private void Awake()
+    private void Start()
     {
-        rb = GetComponent<Rigidbody2D>();
-        animator = GetComponent<Animator>();
-
-        ResetPosition();
+        // _playerHealth.OnDeath += HandlePlayerDeath;
     }
 
-    public void SetAttacking(bool value)
+    public void ApplySlow(float slowFactor, float duration)
     {
-        isAttacking = value;
+        
     }
 
-    public void OnAttack(InputValue value)
+    public void TakeDamage(int damage)
     {
-        if (value.isPressed && !isAttacking)
+        if (!IsAlive) return;
+
+        _playerHealth.ReduceHealth(damage);
+
+        StartCoroutine(DamageVisualFeedback());
+    }
+
+    public void TakeDamage(int damage, Vector2 damageDirection)
+    {
+        
+    }
+
+    private System.Collections.IEnumerator DamageVisualFeedback()
+    {
+        var spriteRenderer = GetComponent<SpriteRenderer>();
+        if (spriteRenderer != null)
         {
-            animator.SetTrigger("Attack");
+            spriteRenderer.color = Color.red;
+            yield return new WaitForSeconds(0.1f);
+            spriteRenderer.color = Color.white;
         }
     }
 
-    private void FixedUpdate()
+    public void Heal(int amount)
     {
-        var effectiveInput = isAttacking ? Vector2.zero : moveInput;
-
-        var targetVelocity = effectiveInput * maxSpeed;
-        var accel = effectiveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
-        var velocity = effectiveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
-
-        rb.linearVelocity = Vector2.Lerp(
-                rb.linearVelocity,
-                velocity,
-                accel * Time.fixedDeltaTime
-            );
+        _playerHealth.RestoreHealth(amount);
     }
 
-    private void Update()
+    private void OnDestroy()
     {
-        UpdateAnimation();
-    }
-
-    public void OnMove(InputValue value)
-    {
-        moveInput = value.Get<Vector2>();
-
-        if (moveInput != Vector2.zero)
-        {
-            animator.SetFloat("LastMoveX", moveInput.x);
-            animator.SetFloat("LastMoveY", moveInput.y);
-        }
-    }
-
-    public void ResetPosition()
-    {
-        transform.position = Vector2.zero;
-    }
-
-    private void UpdateAnimation()
-    {
-        animator.SetFloat("MoveX", moveInput.x);
-        animator.SetFloat("MoveY", moveInput.y);
-        animator.SetBool("IsMoving", !isAttacking && moveInput.magnitude > 0.01f);
+        // if (_playerHealth != null)
+        //     _playerHealth.OnDeath -= HandlePlayerDeath;
     }
 }

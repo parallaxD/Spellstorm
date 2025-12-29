@@ -15,7 +15,7 @@ public class GenerationManager : MonoBehaviour
     [SerializeField] private LevelData FloodedTemplesData;
     [SerializeField] private LevelData CrystalSteppesData;
 
-    [SerializeField] private Player player;
+    [SerializeField] private PlayerMovement player;
     [SerializeField] private Portal portal;
 
     [SerializeField] private GameObject hubTilemapObject;

@@ -49,14 +49,12 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
         {
             var roomRandomWalkPosition = RunRandomWalk(randomWalkParameters, roomPosition);
             roomPositions.UnionWith(roomRandomWalkPosition);
-
             roomPositionsSet.Add(roomRandomWalkPosition);
         }
 
-        // Передача в декорации, коллайдеры и портал
+        // Передача в декорации и коллайдеры
         DecorationGenerator.roomPositionsList = roomPositionsSet;
         ColliderTilesGenerator.roomPositionsList = roomPositionsSet;
-        Portal.roomStartPositions = potentialRoomPositions.ToList();
 
         return roomPositions;
     }

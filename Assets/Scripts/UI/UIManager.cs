@@ -14,6 +14,7 @@ public class UIManager : MonoBehaviour
 
     void Awake()
     {
+
         panels = new GameObject[]
         {
             mainMenuPanel,

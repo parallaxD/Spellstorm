@@ -8,7 +8,7 @@ public class TileManager : MonoBehaviour
     [SerializeField] public TileSet floorTileSet;
     [SerializeField] public TileSet backgroundTileSet;
     [SerializeField] public TileSet decorationsTileSet;
-    [SerializeField] private TileSet collidersTileSet;
+    [SerializeField] public TileSet collidersTileSet;
 
     private List<MyTile> floorTiles;
     private List<MyTile> backgroundTiles;
