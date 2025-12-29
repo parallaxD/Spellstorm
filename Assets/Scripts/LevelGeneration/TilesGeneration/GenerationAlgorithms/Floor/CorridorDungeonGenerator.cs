@@ -49,12 +49,13 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
         {
             var roomRandomWalkPosition = RunRandomWalk(randomWalkParameters, roomPosition);
             roomPositions.UnionWith(roomRandomWalkPosition);
+
             roomPositionsSet.Add(roomRandomWalkPosition);
         }
 
-        // Передача в декорации и коллайдеры
         DecorationGenerator.roomPositionsList = roomPositionsSet;
         ColliderTilesGenerator.roomPositionsList = roomPositionsSet;
+        Portal.roomStartPositions = potentialRoomPositions.ToList();
 
         return roomPositions;
     }
@@ -79,7 +80,6 @@ public class CorridorDungeonGenerator : SimpleRandomWalkDungeonGenerator
             corridors.Add(new HashSet<Vector2>(corridor));
         }
 
-        // Передача в коллайдеры
         ColliderTilesGenerator.corridorPositionsList = corridors;
     }
 }
