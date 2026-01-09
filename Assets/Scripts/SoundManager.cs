@@ -11,7 +11,7 @@ public class SoundManager : MonoBehaviour
         volumeSlider.minValue = 0f;
         volumeSlider.maxValue = 1f;
 
-        float savedVolume = PlayerPrefs.GetFloat(volumeParameter, 0.8f);
+        float savedVolume = /*PlayerPrefs.GetFloat(volumeParameter, 0.8f);*/ 0.8f;
         volumeSlider.value = savedVolume;
 
         SetVolume(savedVolume);

@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.UI;
+using AYellowpaper.SerializedCollections;
 
 public class SpellSystem : MonoBehaviour
 {
@@ -11,8 +13,18 @@ public class SpellSystem : MonoBehaviour
     private const int MAX_ELEMENTS = 4;
     private bool _isCollectingMode = false;
 
+    public SerializedDictionary<ElementType, GameObject> ElementHighlightImages;
+
+
     private void Update()
     {
+        
+        if (Input.GetKeyDown(KeyCode.Z))
+        {
+            ToggleSpellCollectionMode();
+        }
+
+        
         if (_isCollectingMode)
         {
             if (Input.GetKeyDown(KeyCode.Q))
@@ -33,6 +45,7 @@ public class SpellSystem : MonoBehaviour
             }
         }
 
+        
         if (Input.GetKeyDown(KeyCode.G))
         {
             if (Elements.Count > 0)
@@ -45,6 +58,7 @@ public class SpellSystem : MonoBehaviour
                     Debug.Log("Заклинание создано и сохранено в сташ!");
 
                     _isCollectingMode = false;
+                    DeactivateAllElementHighlights();
                 }
                 else
                 {
@@ -57,26 +71,23 @@ public class SpellSystem : MonoBehaviour
             }
         }
 
+        
         if (Input.GetKeyDown(KeyCode.C))
         {
             _spellStash.ClearStash();
             Elements.Clear();
             _isCollectingMode = false;
+            DeactivateAllElementHighlights();
             Debug.Log("Все очищено! Режим сбора деактивирован.");
         }
 
-
-        if (Input.GetKeyDown(KeyCode.Z))
+        
+        if (Input.GetMouseButtonDown(0))
         {
             _spellStash.CastSpell();
-            _spellStash.ClearStash();
         }
 
-        if (Input.GetKeyDown(KeyCode.V))
-        {
-            ToggleSpellCollectionMode();
-        }
-
+        
         if (Input.GetKeyDown(KeyCode.I))
         {
             Debug.Log($"Текущее количество элементов: {Elements.Count}/{MAX_ELEMENTS}");
@@ -94,17 +105,18 @@ public class SpellSystem : MonoBehaviour
         {
             _isCollectingMode = true;
             Elements.Clear();
+            DeactivateAllElementHighlights();
             Debug.Log("=== РЕЖИМ СБОРА ЗАКЛИНАНИЯ АКТИВИРОВАН ===");
             Debug.Log("Очищены все ячейки. Введите комбинацию элементов:");
             Debug.Log("Q - Огонь | E - Вода | R - Земля | T - Ветер");
             Debug.Log("G - Сохранить в сташ и выйти из режима");
-            Debug.Log("V - Отмена сбора (очистить и выйти)");
+            Debug.Log("Z - Отмена сбора (очистить и выйти)");
         }
         else
         {
-
             _isCollectingMode = false;
             Elements.Clear();
+            DeactivateAllElementHighlights();
             Debug.Log("Режим сбора отменен. Ячейки очищены.");
         }
     }
@@ -113,13 +125,14 @@ public class SpellSystem : MonoBehaviour
     {
         if (!_isCollectingMode)
         {
-            Debug.LogWarning("Не в режиме сбора! Нажмите V для активации.");
+            Debug.LogWarning("Не в режиме сбора! Нажмите Z для активации.");
             return;
         }
 
         if (Elements.Count < MAX_ELEMENTS)
         {
             Elements.Add(element);
+            ElementHighlightImages[element].SetActive(true);
             Debug.Log($"Добавлен элемент: {element}. Всего: {Elements.Count}/{MAX_ELEMENTS}");
 
             if (Elements.Count == MAX_ELEMENTS)
@@ -133,11 +146,12 @@ public class SpellSystem : MonoBehaviour
                     _spellStash.ChangeCurrentSpell(spell);
                     Debug.Log("Заклинание создано и сохранено в сташ!");
                     _isCollectingMode = false;
+                    DeactivateAllElementHighlights();
                 }
                 else
                 {
                     Debug.LogWarning("Эта комбинация не является валидным заклинанием!");
-                    Debug.Log("Продолжайте ввод или нажмите V для отмены.");
+                    Debug.Log("Продолжайте ввод или нажмите Z для отмены.");
                 }
             }
         }
@@ -159,6 +173,7 @@ public class SpellSystem : MonoBehaviour
 
         DebugSequence(sequence);
         Elements.Clear();
+        DeactivateAllElementHighlights();
 
         return sequence;
     }
@@ -178,5 +193,16 @@ public class SpellSystem : MonoBehaviour
     private Spell CreateSpell(string spellID)
     {
         return SpellIDDataBase.GetSpellByID(spellID);
+    }
+
+    private void DeactivateAllElementHighlights()
+    {
+        foreach (var elementImage in ElementHighlightImages.Values)
+        {
+            if (elementImage != null)
+            {
+                elementImage.SetActive(false);
+            }
+        }
     }
 }
