@@ -283,12 +283,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_0
       rect:
         serializedVersion: 2
-        x: 56
-        y: 33
-        width: 51
-        height: 62
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -305,12 +305,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_1
       rect:
         serializedVersion: 2
-        x: 184
-        y: 33
-        width: 51
-        height: 62
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -327,12 +327,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_2
       rect:
         serializedVersion: 2
-        x: 312
-        y: 33
-        width: 51
-        height: 62
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -349,12 +349,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_3
       rect:
         serializedVersion: 2
-        x: 440
-        y: 33
-        width: 51
-        height: 62
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -371,12 +371,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_4
       rect:
         serializedVersion: 2
-        x: 568
-        y: 33
-        width: 50
-        height: 63
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -393,12 +393,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_5
       rect:
         serializedVersion: 2
-        x: 696
-        y: 33
-        width: 50
-        height: 63
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -415,12 +415,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_6
       rect:
         serializedVersion: 2
-        x: 824
-        y: 33
-        width: 50
-        height: 63
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -437,12 +437,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_7
       rect:
         serializedVersion: 2
-        x: 952
-        y: 33
-        width: 50
-        height: 63
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -459,12 +459,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_8
       rect:
         serializedVersion: 2
-        x: 1080
-        y: 33
-        width: 50
-        height: 63
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -481,12 +481,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_9
       rect:
         serializedVersion: 2
-        x: 1214
-        y: 32
-        width: 21
-        height: 81
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -503,12 +503,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_10
       rect:
         serializedVersion: 2
-        x: 1342
-        y: 32
-        width: 21
-        height: 81
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -525,12 +525,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_11
       rect:
         serializedVersion: 2
-        x: 1470
-        y: 32
-        width: 21
-        height: 81
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -547,12 +547,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_12
       rect:
         serializedVersion: 2
-        x: 1598
-        y: 32
-        width: 21
-        height: 81
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -569,12 +569,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_13
       rect:
         serializedVersion: 2
-        x: 1726
-        y: 32
-        width: 21
-        height: 81
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -591,12 +591,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_14
       rect:
         serializedVersion: 2
-        x: 1849
-        y: 89
-        width: 10
-        height: 14
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -613,12 +613,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_15
       rect:
         serializedVersion: 2
-        x: 1855
-        y: 32
-        width: 22
-        height: 62
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -635,12 +635,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_16
       rect:
         serializedVersion: 2
-        x: 1977
-        y: 89
-        width: 10
-        height: 14
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -657,12 +657,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_17
       rect:
         serializedVersion: 2
-        x: 1983
-        y: 32
-        width: 22
-        height: 62
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -679,12 +679,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_18
       rect:
         serializedVersion: 2
-        x: 2105
-        y: 89
-        width: 10
-        height: 14
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -701,12 +701,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_19
       rect:
         serializedVersion: 2
-        x: 2111
-        y: 32
-        width: 22
-        height: 62
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -723,12 +723,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_20
       rect:
         serializedVersion: 2
-        x: 2233
-        y: 89
-        width: 10
-        height: 14
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -745,12 +745,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_21
       rect:
         serializedVersion: 2
-        x: 2239
-        y: 32
-        width: 22
-        height: 62
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -767,12 +767,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_22
       rect:
         serializedVersion: 2
-        x: 2361
-        y: 89
-        width: 10
-        height: 14
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -789,12 +789,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_23
       rect:
         serializedVersion: 2
-        x: 2367
-        y: 32
-        width: 22
-        height: 62
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -811,12 +811,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_24
       rect:
         serializedVersion: 2
-        x: 2488
-        y: 33
-        width: 35
-        height: 57
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -833,12 +833,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_25
       rect:
         serializedVersion: 2
-        x: 2616
-        y: 33
-        width: 35
-        height: 57
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -855,12 +855,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_26
       rect:
         serializedVersion: 2
-        x: 2744
-        y: 33
-        width: 35
-        height: 57
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -877,12 +877,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_27
       rect:
         serializedVersion: 2
-        x: 2872
-        y: 33
-        width: 35
-        height: 57
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -899,12 +899,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_28
       rect:
         serializedVersion: 2
-        x: 3000
-        y: 33
-        width: 35
-        height: 57
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -921,12 +921,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_29
       rect:
         serializedVersion: 2
-        x: 5033
-        y: 33
-        width: 46
-        height: 66
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -943,12 +943,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_30
       rect:
         serializedVersion: 2
-        x: 5161
-        y: 33
-        width: 46
-        height: 66
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -965,12 +965,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_31
       rect:
         serializedVersion: 2
-        x: 5289
-        y: 33
-        width: 46
-        height: 66
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -987,12 +987,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_32
       rect:
         serializedVersion: 2
-        x: 5417
-        y: 33
-        width: 46
-        height: 66
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1009,12 +1009,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_33
       rect:
         serializedVersion: 2
-        x: 5545
-        y: 33
-        width: 46
-        height: 66
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1031,12 +1031,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_34
       rect:
         serializedVersion: 2
-        x: 5690
-        y: 33
-        width: 27
-        height: 77
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1053,12 +1053,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_35
       rect:
         serializedVersion: 2
-        x: 5818
-        y: 33
-        width: 27
-        height: 77
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1075,12 +1075,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_36
       rect:
         serializedVersion: 2
-        x: 5946
-        y: 33
-        width: 27
-        height: 77
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1097,12 +1097,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_37
       rect:
         serializedVersion: 2
-        x: 6074
-        y: 33
-        width: 27
-        height: 77
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1119,12 +1119,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_38
       rect:
         serializedVersion: 2
-        x: 6202
-        y: 33
-        width: 27
-        height: 77
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1141,12 +1141,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_39
       rect:
         serializedVersion: 2
-        x: 6328
-        y: 33
-        width: 44
-        height: 62
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1163,12 +1163,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_40
       rect:
         serializedVersion: 2
-        x: 6456
-        y: 33
-        width: 44
-        height: 62
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1185,12 +1185,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_41
       rect:
         serializedVersion: 2
-        x: 6584
-        y: 33
-        width: 44
-        height: 62
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1207,12 +1207,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_42
       rect:
         serializedVersion: 2
-        x: 6712
-        y: 33
-        width: 44
-        height: 62
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1229,12 +1229,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_43
       rect:
         serializedVersion: 2
-        x: 6840
-        y: 33
-        width: 44
-        height: 62
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1251,12 +1251,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_44
       rect:
         serializedVersion: 2
-        x: 6968
-        y: 33
-        width: 49
-        height: 62
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1273,12 +1273,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_45
       rect:
         serializedVersion: 2
-        x: 7096
-        y: 33
-        width: 49
-        height: 62
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1295,12 +1295,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_46
       rect:
         serializedVersion: 2
-        x: 3112
-        y: 33
-        width: 51
-        height: 49
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1317,12 +1317,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_47
       rect:
         serializedVersion: 2
-        x: 3240
-        y: 33
-        width: 51
-        height: 49
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1339,12 +1339,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_48
       rect:
         serializedVersion: 2
-        x: 3368
-        y: 33
-        width: 51
-        height: 49
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1361,12 +1361,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_49
       rect:
         serializedVersion: 2
-        x: 3496
-        y: 33
-        width: 51
-        height: 49
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1383,12 +1383,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_50
       rect:
         serializedVersion: 2
-        x: 3624
-        y: 33
-        width: 51
-        height: 49
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1405,12 +1405,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_51
       rect:
         serializedVersion: 2
-        x: 3777
-        y: 33
-        width: 61
-        height: 42
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1427,12 +1427,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_52
       rect:
         serializedVersion: 2
-        x: 3905
-        y: 33
-        width: 61
-        height: 42
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1449,12 +1449,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_53
       rect:
         serializedVersion: 2
-        x: 4033
-        y: 33
-        width: 61
-        height: 42
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1471,12 +1471,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_54
       rect:
         serializedVersion: 2
-        x: 4161
-        y: 33
-        width: 61
-        height: 42
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1493,12 +1493,12 @@ TextureImporter:
       name: FANATIC_01 Hit 1 Right Spritesheet(1)_55
       rect:
         serializedVersion: 2
-        x: 4289
-        y: 33
-        width: 61
-        height: 42
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1511,121 +1511,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: FANATIC_01 Hit 1 Right Spritesheet(1)_56
-      rect:
-        serializedVersion: 2
-        x: 4403
-        y: 33
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de5a8e38a213bc9d0800000000000000
-      internalID: -2753052688535476755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FANATIC_01 Hit 1 Right Spritesheet(1)_57
-      rect:
-        serializedVersion: 2
-        x: 4531
-        y: 33
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f09824cec1c925c0800000000000000
-      internalID: -4239644480394194696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FANATIC_01 Hit 1 Right Spritesheet(1)_58
-      rect:
-        serializedVersion: 2
-        x: 4659
-        y: 33
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b07fd12ada6da350800000000000000
-      internalID: 6029592961222668465
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FANATIC_01 Hit 1 Right Spritesheet(1)_59
-      rect:
-        serializedVersion: 2
-        x: 4787
-        y: 33
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef4cb4ac6b4ba5f40800000000000000
-      internalID: 5718081374071276798
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FANATIC_01 Hit 1 Right Spritesheet(1)_60
-      rect:
-        serializedVersion: 2
-        x: 4915
-        y: 33
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d2afdc5154e46aa0800000000000000
-      internalID: -6168554551489092904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 25ce884a5b9a15a43a79dac66efec0dd
     internalID: 0
     vertices: []
     indices: 
@@ -1633,7 +1523,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       FANATIC_01 Hit 1 Right Spritesheet(1)_0: -7685402401740566945
       FANATIC_01 Hit 1 Right Spritesheet(1)_1: -7687073868282031977
@@ -1687,12 +1579,7 @@ TextureImporter:
       FANATIC_01 Hit 1 Right Spritesheet(1)_53: 5665873218590477746
       FANATIC_01 Hit 1 Right Spritesheet(1)_54: 5931159666063528797
       FANATIC_01 Hit 1 Right Spritesheet(1)_55: 3907796273318108404
-      FANATIC_01 Hit 1 Right Spritesheet(1)_56: -2753052688535476755
-      FANATIC_01 Hit 1 Right Spritesheet(1)_57: -4239644480394194696
-      FANATIC_01 Hit 1 Right Spritesheet(1)_58: 6029592961222668465
-      FANATIC_01 Hit 1 Right Spritesheet(1)_59: 5718081374071276798
       FANATIC_01 Hit 1 Right Spritesheet(1)_6: -8837034435618754692
-      FANATIC_01 Hit 1 Right Spritesheet(1)_60: -6168554551489092904
       FANATIC_01 Hit 1 Right Spritesheet(1)_7: 4386485315394106688
       FANATIC_01 Hit 1 Right Spritesheet(1)_8: 3296202539685603233
       FANATIC_01 Hit 1 Right Spritesheet(1)_9: -7912434540561743750

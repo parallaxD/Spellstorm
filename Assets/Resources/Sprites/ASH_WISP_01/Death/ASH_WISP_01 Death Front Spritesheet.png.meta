@@ -292,12 +292,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 50
-        width: 28
-        height: 29
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +314,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 50
-        width: 28
-        height: 29
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +336,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 306
-        y: 50
-        width: 28
-        height: 29
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 434
-        y: 50
-        width: 28
-        height: 29
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 561
-        y: 50
-        width: 30
-        height: 29
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +402,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 689
-        y: 50
-        width: 30
-        height: 29
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 817
-        y: 50
-        width: 30
-        height: 29
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,12 +446,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 945
-        y: 50
-        width: 30
-        height: 29
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,12 +468,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 1073
-        y: 50
-        width: 30
-        height: 29
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,12 +490,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 49
-        width: 30
-        height: 31
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,12 +512,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_10
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 49
-        width: 30
-        height: 31
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,12 +534,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_11
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 49
-        width: 30
-        height: 31
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,12 +556,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 1585
-        y: 49
-        width: 30
-        height: 31
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,12 +578,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 1713
-        y: 49
-        width: 30
-        height: 31
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,12 +600,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_14
       rect:
         serializedVersion: 2
-        x: 1841
-        y: 49
-        width: 30
-        height: 31
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,12 +622,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_15
       rect:
         serializedVersion: 2
-        x: 1969
-        y: 49
-        width: 30
-        height: 31
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,12 +644,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_16
       rect:
         serializedVersion: 2
-        x: 2097
-        y: 49
-        width: 30
-        height: 31
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -666,12 +666,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_17
       rect:
         serializedVersion: 2
-        x: 2225
-        y: 49
-        width: 30
-        height: 31
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -688,12 +688,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 2353
-        y: 49
-        width: 30
-        height: 31
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -710,12 +710,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_19
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 48
-        width: 32
-        height: 33
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -732,12 +732,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_20
       rect:
         serializedVersion: 2
-        x: 2608
-        y: 48
-        width: 32
-        height: 33
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -754,12 +754,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_21
       rect:
         serializedVersion: 2
-        x: 2736
-        y: 48
-        width: 32
-        height: 33
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -776,12 +776,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_22
       rect:
         serializedVersion: 2
-        x: 2864
-        y: 48
-        width: 32
-        height: 33
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -798,12 +798,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_23
       rect:
         serializedVersion: 2
-        x: 2992
-        y: 48
-        width: 32
-        height: 33
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -820,12 +820,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_24
       rect:
         serializedVersion: 2
-        x: 3120
-        y: 48
-        width: 32
-        height: 33
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -842,12 +842,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_25
       rect:
         serializedVersion: 2
-        x: 3248
-        y: 48
-        width: 32
-        height: 33
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -864,12 +864,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_26
       rect:
         serializedVersion: 2
-        x: 3376
-        y: 48
-        width: 32
-        height: 33
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -886,12 +886,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_27
       rect:
         serializedVersion: 2
-        x: 3504
-        y: 48
-        width: 32
-        height: 33
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -908,12 +908,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_28
       rect:
         serializedVersion: 2
-        x: 3632
-        y: 48
-        width: 32
-        height: 33
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,12 +930,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_29
       rect:
         serializedVersion: 2
-        x: 3759
-        y: 48
-        width: 34
-        height: 33
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -952,12 +952,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_30
       rect:
         serializedVersion: 2
-        x: 3887
-        y: 48
-        width: 34
-        height: 33
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -974,12 +974,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_31
       rect:
         serializedVersion: 2
-        x: 4015
-        y: 48
-        width: 34
-        height: 33
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -996,12 +996,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_32
       rect:
         serializedVersion: 2
-        x: 4143
-        y: 48
-        width: 34
-        height: 33
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1018,12 +1018,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_33
       rect:
         serializedVersion: 2
-        x: 4271
-        y: 48
-        width: 34
-        height: 33
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1040,12 +1040,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_34
       rect:
         serializedVersion: 2
-        x: 4399
-        y: 47
-        width: 34
-        height: 35
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1062,12 +1062,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_35
       rect:
         serializedVersion: 2
-        x: 4527
-        y: 47
-        width: 34
-        height: 35
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1084,12 +1084,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_36
       rect:
         serializedVersion: 2
-        x: 4655
-        y: 47
-        width: 34
-        height: 35
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1106,12 +1106,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_37
       rect:
         serializedVersion: 2
-        x: 4783
-        y: 47
-        width: 34
-        height: 35
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1128,12 +1128,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_38
       rect:
         serializedVersion: 2
-        x: 4911
-        y: 47
-        width: 34
-        height: 35
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1150,12 +1150,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_39
       rect:
         serializedVersion: 2
-        x: 5038
-        y: 47
-        width: 35
-        height: 35
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1172,12 +1172,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_40
       rect:
         serializedVersion: 2
-        x: 5166
-        y: 47
-        width: 35
-        height: 35
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1194,12 +1194,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_41
       rect:
         serializedVersion: 2
-        x: 5294
-        y: 47
-        width: 35
-        height: 35
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1216,12 +1216,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_42
       rect:
         serializedVersion: 2
-        x: 5422
-        y: 47
-        width: 35
-        height: 35
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1238,12 +1238,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_43
       rect:
         serializedVersion: 2
-        x: 5550
-        y: 47
-        width: 35
-        height: 35
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1260,12 +1260,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_44
       rect:
         serializedVersion: 2
-        x: 5678
-        y: 46
-        width: 36
-        height: 37
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1282,12 +1282,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_45
       rect:
         serializedVersion: 2
-        x: 5806
-        y: 46
-        width: 36
-        height: 37
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1304,12 +1304,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_46
       rect:
         serializedVersion: 2
-        x: 5934
-        y: 46
-        width: 36
-        height: 37
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1326,12 +1326,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_47
       rect:
         serializedVersion: 2
-        x: 6062
-        y: 46
-        width: 36
-        height: 37
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1348,12 +1348,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_48
       rect:
         serializedVersion: 2
-        x: 6190
-        y: 46
-        width: 36
-        height: 37
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1370,12 +1370,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_49
       rect:
         serializedVersion: 2
-        x: 6318
-        y: 46
-        width: 36
-        height: 37
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1392,12 +1392,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_50
       rect:
         serializedVersion: 2
-        x: 6446
-        y: 46
-        width: 36
-        height: 37
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1414,12 +1414,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_51
       rect:
         serializedVersion: 2
-        x: 6574
-        y: 46
-        width: 36
-        height: 37
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1436,12 +1436,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_52
       rect:
         serializedVersion: 2
-        x: 6702
-        y: 46
-        width: 36
-        height: 37
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1458,12 +1458,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_53
       rect:
         serializedVersion: 2
-        x: 6830
-        y: 46
-        width: 36
-        height: 37
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1480,12 +1480,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_54
       rect:
         serializedVersion: 2
-        x: 6958
-        y: 46
-        width: 33
-        height: 37
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1502,12 +1502,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_55
       rect:
         serializedVersion: 2
-        x: 6984
-        y: 55
-        width: 9
-        height: 7
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1524,12 +1524,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_56
       rect:
         serializedVersion: 2
-        x: 7086
-        y: 46
-        width: 33
-        height: 37
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1546,12 +1546,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_57
       rect:
         serializedVersion: 2
-        x: 7112
-        y: 55
-        width: 9
-        height: 7
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1568,12 +1568,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_58
       rect:
         serializedVersion: 2
-        x: 7214
-        y: 46
-        width: 33
-        height: 37
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1590,12 +1590,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_59
       rect:
         serializedVersion: 2
-        x: 7240
-        y: 55
-        width: 9
-        height: 7
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1612,12 +1612,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_60
       rect:
         serializedVersion: 2
-        x: 7342
-        y: 46
-        width: 33
-        height: 37
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1634,12 +1634,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_61
       rect:
         serializedVersion: 2
-        x: 7368
-        y: 55
-        width: 9
-        height: 7
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1656,12 +1656,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_62
       rect:
         serializedVersion: 2
-        x: 7470
-        y: 46
-        width: 33
-        height: 37
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1678,12 +1678,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Front Spritesheet_63
       rect:
         serializedVersion: 2
-        x: 7496
-        y: 50
-        width: 1281
-        height: 29
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1696,11 +1696,121 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2aa6307c3e6b814eb059521d2c5e01c
+      internalID: -361970002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f579e82992deaed45bd859bda6584e15
+      internalID: 923038513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363c3e5e9047f324fb34a2cff32ff75e
+      internalID: -1332934326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c059d785267b664885c6a91b6f459f8
+      internalID: 840326291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASH_WISP_01 Death Front Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce933121e21b9646b892d4f17e0f680
+      internalID: 1790249261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0e51aec8fa01e5f4ea7988c2574d75c7
     internalID: 0
     vertices: []
     indices: 
@@ -1708,7 +1818,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       ASH_WISP_01 Death Front Spritesheet_0: 6597166033129930588
       ASH_WISP_01 Death Front Spritesheet_1: 2547541558511274689
@@ -1771,6 +1883,11 @@ TextureImporter:
       ASH_WISP_01 Death Front Spritesheet_61: -8541572145908928020
       ASH_WISP_01 Death Front Spritesheet_62: -1907219994741911273
       ASH_WISP_01 Death Front Spritesheet_63: 2107178749641128000
+      ASH_WISP_01 Death Front Spritesheet_64: -361970002
+      ASH_WISP_01 Death Front Spritesheet_65: 923038513
+      ASH_WISP_01 Death Front Spritesheet_66: -1332934326
+      ASH_WISP_01 Death Front Spritesheet_67: 840326291
+      ASH_WISP_01 Death Front Spritesheet_68: 1790249261
       ASH_WISP_01 Death Front Spritesheet_7: -2791570841756150254
       ASH_WISP_01 Death Front Spritesheet_8: -1572780101093689893
       ASH_WISP_01 Death Front Spritesheet_9: -4944689396921470090

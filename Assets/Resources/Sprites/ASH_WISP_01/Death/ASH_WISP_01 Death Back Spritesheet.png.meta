@@ -292,12 +292,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 50
-        width: 28
-        height: 29
+        x: 0
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -314,12 +314,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 50
-        width: 28
-        height: 29
+        x: 128
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -336,12 +336,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 306
-        y: 50
-        width: 28
-        height: 29
+        x: 256
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -358,12 +358,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 434
-        y: 50
-        width: 28
-        height: 29
+        x: 384
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -380,12 +380,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 562
-        y: 50
-        width: 28
-        height: 30
+        x: 512
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -402,12 +402,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 690
-        y: 50
-        width: 28
-        height: 30
+        x: 640
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -424,12 +424,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 818
-        y: 50
-        width: 28
-        height: 30
+        x: 768
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -446,12 +446,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 946
-        y: 50
-        width: 28
-        height: 30
+        x: 896
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -468,12 +468,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 1074
-        y: 50
-        width: 28
-        height: 30
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -490,12 +490,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 1201
-        y: 49
-        width: 30
-        height: 31
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -512,12 +512,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_10
       rect:
         serializedVersion: 2
-        x: 1329
-        y: 49
-        width: 30
-        height: 31
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -534,12 +534,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_11
       rect:
         serializedVersion: 2
-        x: 1457
-        y: 49
-        width: 30
-        height: 31
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -556,12 +556,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 1585
-        y: 49
-        width: 30
-        height: 31
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -578,12 +578,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 1713
-        y: 49
-        width: 30
-        height: 31
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -600,12 +600,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_14
       rect:
         serializedVersion: 2
-        x: 1841
-        y: 49
-        width: 30
-        height: 31
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -622,12 +622,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_15
       rect:
         serializedVersion: 2
-        x: 1969
-        y: 49
-        width: 30
-        height: 31
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -644,12 +644,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_16
       rect:
         serializedVersion: 2
-        x: 2097
-        y: 49
-        width: 30
-        height: 31
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -666,12 +666,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_17
       rect:
         serializedVersion: 2
-        x: 2225
-        y: 49
-        width: 30
-        height: 31
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -688,12 +688,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 2353
-        y: 49
-        width: 30
-        height: 31
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -710,12 +710,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_19
       rect:
         serializedVersion: 2
-        x: 2480
-        y: 48
-        width: 31
-        height: 33
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -732,12 +732,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_20
       rect:
         serializedVersion: 2
-        x: 2608
-        y: 48
-        width: 31
-        height: 33
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -754,12 +754,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_21
       rect:
         serializedVersion: 2
-        x: 2736
-        y: 48
-        width: 31
-        height: 33
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -776,12 +776,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_22
       rect:
         serializedVersion: 2
-        x: 2864
-        y: 48
-        width: 31
-        height: 33
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -798,12 +798,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_23
       rect:
         serializedVersion: 2
-        x: 2992
-        y: 48
-        width: 31
-        height: 33
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -820,12 +820,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_24
       rect:
         serializedVersion: 2
-        x: 3120
-        y: 48
-        width: 32
-        height: 33
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -842,12 +842,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_25
       rect:
         serializedVersion: 2
-        x: 3248
-        y: 48
-        width: 32
-        height: 33
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -864,12 +864,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_26
       rect:
         serializedVersion: 2
-        x: 3376
-        y: 48
-        width: 32
-        height: 33
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -886,12 +886,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_27
       rect:
         serializedVersion: 2
-        x: 3504
-        y: 48
-        width: 32
-        height: 33
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -908,12 +908,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_28
       rect:
         serializedVersion: 2
-        x: 3632
-        y: 48
-        width: 32
-        height: 33
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -930,12 +930,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_29
       rect:
         serializedVersion: 2
-        x: 3760
-        y: 48
-        width: 32
-        height: 34
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -952,12 +952,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_30
       rect:
         serializedVersion: 2
-        x: 3888
-        y: 48
-        width: 32
-        height: 34
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -974,12 +974,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_31
       rect:
         serializedVersion: 2
-        x: 4016
-        y: 48
-        width: 32
-        height: 34
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -996,12 +996,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_32
       rect:
         serializedVersion: 2
-        x: 4144
-        y: 48
-        width: 32
-        height: 34
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1018,12 +1018,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_33
       rect:
         serializedVersion: 2
-        x: 4272
-        y: 48
-        width: 32
-        height: 34
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1040,12 +1040,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_34
       rect:
         serializedVersion: 2
-        x: 4399
-        y: 47
-        width: 34
-        height: 35
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1062,12 +1062,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_35
       rect:
         serializedVersion: 2
-        x: 4527
-        y: 47
-        width: 34
-        height: 35
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1084,12 +1084,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_36
       rect:
         serializedVersion: 2
-        x: 4655
-        y: 47
-        width: 34
-        height: 35
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1106,12 +1106,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_37
       rect:
         serializedVersion: 2
-        x: 4783
-        y: 47
-        width: 34
-        height: 35
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1128,12 +1128,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_38
       rect:
         serializedVersion: 2
-        x: 4911
-        y: 47
-        width: 34
-        height: 35
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1150,12 +1150,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_39
       rect:
         serializedVersion: 2
-        x: 5039
-        y: 47
-        width: 34
-        height: 35
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1172,12 +1172,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_40
       rect:
         serializedVersion: 2
-        x: 5167
-        y: 47
-        width: 34
-        height: 35
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1194,12 +1194,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_41
       rect:
         serializedVersion: 2
-        x: 5295
-        y: 47
-        width: 34
-        height: 35
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1216,12 +1216,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_42
       rect:
         serializedVersion: 2
-        x: 5423
-        y: 47
-        width: 34
-        height: 35
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1238,12 +1238,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_43
       rect:
         serializedVersion: 2
-        x: 5551
-        y: 47
-        width: 34
-        height: 35
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1260,12 +1260,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_44
       rect:
         serializedVersion: 2
-        x: 5678
-        y: 46
-        width: 35
-        height: 37
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1282,12 +1282,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_45
       rect:
         serializedVersion: 2
-        x: 5806
-        y: 46
-        width: 35
-        height: 37
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1304,12 +1304,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_46
       rect:
         serializedVersion: 2
-        x: 5934
-        y: 46
-        width: 35
-        height: 37
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1326,12 +1326,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_47
       rect:
         serializedVersion: 2
-        x: 6062
-        y: 46
-        width: 35
-        height: 37
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1348,12 +1348,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_48
       rect:
         serializedVersion: 2
-        x: 6190
-        y: 46
-        width: 35
-        height: 37
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1370,12 +1370,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_49
       rect:
         serializedVersion: 2
-        x: 6318
-        y: 46
-        width: 36
-        height: 37
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1392,12 +1392,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_50
       rect:
         serializedVersion: 2
-        x: 6446
-        y: 46
-        width: 36
-        height: 37
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1414,12 +1414,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_51
       rect:
         serializedVersion: 2
-        x: 6574
-        y: 46
-        width: 36
-        height: 37
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1436,12 +1436,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_52
       rect:
         serializedVersion: 2
-        x: 6702
-        y: 46
-        width: 36
-        height: 37
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1458,12 +1458,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_53
       rect:
         serializedVersion: 2
-        x: 6830
-        y: 46
-        width: 36
-        height: 37
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1480,12 +1480,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_54
       rect:
         serializedVersion: 2
-        x: 6959
-        y: 46
-        width: 35
-        height: 37
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1502,12 +1502,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_55
       rect:
         serializedVersion: 2
-        x: 6961
-        y: 50
-        width: 15
-        height: 18
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1524,12 +1524,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_56
       rect:
         serializedVersion: 2
-        x: 7087
-        y: 46
-        width: 35
-        height: 37
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1546,12 +1546,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_57
       rect:
         serializedVersion: 2
-        x: 7089
-        y: 50
-        width: 15
-        height: 18
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1568,12 +1568,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_58
       rect:
         serializedVersion: 2
-        x: 7215
-        y: 46
-        width: 35
-        height: 37
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1590,12 +1590,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_59
       rect:
         serializedVersion: 2
-        x: 7217
-        y: 50
-        width: 15
-        height: 18
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1612,12 +1612,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_60
       rect:
         serializedVersion: 2
-        x: 7343
-        y: 46
-        width: 35
-        height: 37
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1634,12 +1634,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_61
       rect:
         serializedVersion: 2
-        x: 7345
-        y: 50
-        width: 15
-        height: 18
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1656,12 +1656,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_62
       rect:
         serializedVersion: 2
-        x: 7471
-        y: 46
-        width: 672
-        height: 37
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1678,12 +1678,12 @@ TextureImporter:
       name: ASH_WISP_01 Death Back Spritesheet_63
       rect:
         serializedVersion: 2
-        x: 7473
-        y: 50
-        width: 15
-        height: 18
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1700,7 +1700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8455203cf99b3a247b867adbbe8c3626
     internalID: 0
     vertices: []
     indices: 
@@ -1708,7 +1708,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       ASH_WISP_01 Death Back Spritesheet_0: -70255498295184656
       ASH_WISP_01 Death Back Spritesheet_1: -4094131115395433838
