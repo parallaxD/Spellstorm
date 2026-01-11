@@ -23,6 +23,25 @@ public class PlayerMovement : MonoBehaviour
         ResetPosition();
     }
 
+    private void FixedUpdate()
+    {
+        var effectiveInput = isAttacking ? Vector2.zero : moveInput;
+        var targetVelocity = effectiveInput * maxSpeed;
+        var accel = effectiveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
+        var velocity = effectiveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
+
+        rb.linearVelocity = Vector2.Lerp(
+                rb.linearVelocity,
+                velocity,
+                accel * Time.fixedDeltaTime
+            );
+    }
+
+    private void Update()
+    {
+        UpdateAnimation();
+    }
+
     public void OnMove(InputValue value)
     {
         moveInput = value.Get<Vector2>();
@@ -42,39 +61,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void FixedUpdate()
-    {
-        var targetVelocity = moveInput * maxSpeed;
+    public void SetAttacking(bool value) => isAttacking = value;
 
-        var accel = moveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
-        var velocity = moveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
+    public Vector2 GetMoveDir() => moveInput;
 
-        rb.linearVelocity = Vector2.Lerp(
-                rb.linearVelocity,
-                velocity,
-                accel * Time.fixedDeltaTime
-            );
-    }
-
-    private void Update()
-    {
-        UpdateAnimation();
-    }
-
-    public void SetAttacking(bool value)
-    {
-        isAttacking = value;
-    }
-
-    public Vector2 GetMoveDir()
-    {
-        return moveInput;
-    }
-
-    public void ResetPosition()
-    {
-        transform.position = Vector2.zero;
-    }
+    public void ResetPosition() => transform.position = Vector2.zero;
 
     private void UpdateAnimation()
     {

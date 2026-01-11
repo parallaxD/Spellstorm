@@ -13,5 +13,19 @@ MonoBehaviour:
   m_Name: Background
   m_EditorClassIdentifier: Assembly-CSharp::TileSet
   tiles:
-  - Sprite: {fileID: 11400000, guid: f69c1943d01807242a1c521d6d4c9003, type: 2}
+  - Sprite: {fileID: 11400000, guid: e53255f5196f6be449028e1f054d150e, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: 84bac680693121a478ad1eda7b66687c, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: c5ad7ac6fe01a544399422e2c3980838, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: 21ff4fafa72d7d34abcb66028b8a9d62, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: 08b21cdbf67319344a3a147b234a420e, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: 9a35854dddbffad40bfbd13b9e6e3b87, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: 7dffc4910688f274ab862f79ef34b529, type: 2}
+    Weight: 1
+  - Sprite: {fileID: 11400000, guid: 2c28940866a796c40a10803bc6febe1f, type: 2}
     Weight: 1
