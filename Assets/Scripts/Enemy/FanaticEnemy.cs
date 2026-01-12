@@ -18,7 +18,6 @@ public class FanaticEnemy : EnemyBase
         animator.SetFloat("lastMoveX", attackDirection.x);
         animator.SetFloat("lastMoveY", attackDirection.y);
         animator.SetTrigger("Attack");
-        Debug.Log("Attack");
     }
 
     protected override string GetAttackAnimationName(Vector2 direction)

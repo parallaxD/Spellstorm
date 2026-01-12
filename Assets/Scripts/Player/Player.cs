@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class Player : MonoBehaviour, IDamagable, IEffectable
 {
@@ -6,6 +7,8 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
     [SerializeField] private PlayerHealth _playerHealth;
 
     public PlayerHealth Health => _playerHealth;
+
+    public HealthBar healthBar;
 
     public bool IsAlive => _playerHealth.IsAlive();
 
@@ -21,19 +24,25 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     public void TakeDamage(int damage)
     {
-        if (!IsAlive) return;
+        if (!IsAlive)
+        {
+            //Die();
+            return;
+        }
 
         _playerHealth.ReduceHealth(damage);
 
         StartCoroutine(DamageVisualFeedback());
+
+        healthBar.UpdateBar(_playerHealth.HealthPercentage);
     }
 
     public void TakeDamage(int damage, Vector2 damageDirection)
     {
-        
+
     }
 
-    private System.Collections.IEnumerator DamageVisualFeedback()
+    private IEnumerator DamageVisualFeedback()
     {
         var spriteRenderer = GetComponent<SpriteRenderer>();
         if (spriteRenderer != null)
@@ -49,9 +58,9 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
         _playerHealth.RestoreHealth(amount);
     }
 
-    private void OnDestroy()
+    public void Die()
     {
-        // if (_playerHealth != null)
-        //     _playerHealth.OnDeath -= HandlePlayerDeath;
+        
+
     }
 }

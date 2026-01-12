@@ -162,7 +162,7 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
             if (playerDamagable != null)
             {
                 playerDamagable.TakeDamage(attackDamage);
-                Debug.Log($"{gameObject.name} наносит {attackDamage} урона игроку. Оставшееся HP: {((MonoBehaviour)playerDamagable).GetComponent<PlayerHealth>()?.GetCurrentHealth() ?? 0}");
+                //Debug.Log($"{gameObject.name} наносит {attackDamage} урона игроку. Оставшееся HP: {((MonoBehaviour)playerDamagable).GetComponent<PlayerHealth>()?.GetCurrentHealth() ?? 0}");
             }
         }
     }

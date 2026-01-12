@@ -7,11 +7,17 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Vector2 moveInput;
 
-    [SerializeField] private float maxSpeed = 5f;
+    [Header("Walk")]
+    [SerializeField] private float walkSpeed = 1f;
+
+    [Header("Sprint")]
+    [SerializeField] private float runSpeed = 5f;
+
     [SerializeField] private float acceleration = 10f; 
     [SerializeField] private float deceleration = 12f;
 
     public bool isAttacking = false;
+    public bool isSprinting = false;
 
     public Animator animator;
 
@@ -26,7 +32,9 @@ public class PlayerMovement : MonoBehaviour
     private void FixedUpdate()
     {
         var effectiveInput = isAttacking ? Vector2.zero : moveInput;
-        var targetVelocity = effectiveInput * maxSpeed;
+        var speed = isSprinting ? runSpeed : walkSpeed;
+
+        var targetVelocity = effectiveInput * speed;
         var accel = effectiveInput.sqrMagnitude > 0.01f ? acceleration : deceleration;
         var velocity = effectiveInput.sqrMagnitude > 0.01f ? targetVelocity : Vector2.zero;
 
@@ -53,6 +61,11 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void OnSprint(InputValue value)
+    {
+        isSprinting = true;
+    }
+
     public void OnAttack(InputValue value)
     {
         if (value.isPressed && !isAttacking)
@@ -72,5 +85,6 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("MoveX", moveInput.x);
         animator.SetFloat("MoveY", moveInput.y);
         animator.SetBool("IsMoving", !isAttacking && moveInput.magnitude > 0.01f);
+        animator.SetBool("IsSprinting", isSprinting);
     }
 }
