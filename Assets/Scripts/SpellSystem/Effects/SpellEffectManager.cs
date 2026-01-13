@@ -60,4 +60,43 @@ public class SpellEffectManager : MonoBehaviour
             }
         }
     }
+
+    public void ApplyKnockbackEffect(GameObject target, Vector2 direction, float force)
+    {
+        IDamagable damagable = target.GetComponent<IDamagable>();
+        if (damagable == null || !damagable.IsAlive)
+            return;
+
+        var rigidbody = target.GetComponent<Rigidbody2D>();
+        if (rigidbody != null)
+        {
+            Vector2 knockbackForce = direction.normalized * force;
+            rigidbody.AddForce(knockbackForce, ForceMode2D.Impulse);
+
+            float maxKnockbackSpeed = 10f;
+            if (rigidbody.linearVelocity.magnitude > maxKnockbackSpeed)
+            {
+                rigidbody.linearVelocity = rigidbody.linearVelocity.normalized * maxKnockbackSpeed;
+            }
+
+            Debug.Log($"Applied knockback to {target.name} with force {force}");
+        }
+        else
+        {
+            Debug.LogWarning($"No Rigidbody2D found on {target.name} for knockback effect");
+        }
+    }
+
+    public void ApplyAOEKnockback(Vector3 position, float radius, Vector2 direction, float force)
+    {
+        Collider2D[] hitColliders = Physics2D.OverlapCircleAll(position, radius);
+        foreach (var collider in hitColliders)
+        {
+            if (collider.CompareTag("Enemy"))
+            {
+                ApplyKnockbackEffect(collider.gameObject, direction, force);
+            }
+        }
+    }
 }
+

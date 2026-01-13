@@ -6,10 +6,13 @@
 
     public static float decorationSizeOffset = 3f;
 
-    public enum LocationType {
-        Hub,
-        BurningWastelands,
-        FloodedTemples,
-        CrystalSteppes
-    }
+    
+}
+
+public enum LocationType
+{
+    Hub,
+    BurningWastelands,
+    FloodedTemples,
+    CrystalSteppes
 }

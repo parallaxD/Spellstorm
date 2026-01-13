@@ -39,7 +39,11 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     public void TakeDamage(int damage, Vector2 damageDirection)
     {
+        _playerHealth.ReduceHealth(damage);
 
+        StartCoroutine(DamageVisualFeedback());
+
+        healthBar.UpdateBar(_playerHealth.HealthPercentage);
     }
 
     private IEnumerator DamageVisualFeedback()
@@ -61,6 +65,5 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
     public void Die()
     {
         
-
     }
 }

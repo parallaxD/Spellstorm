@@ -15,12 +15,18 @@ public class SpellProjectile : Projectile
     public float slowFactorAmount = 0.5f;
     public float slowDurationAmount = 3f;
 
+    public bool applyKnockbackEffect = false;
+    public float knockbackForceAmount = 5f;
+    public bool onlyKnockbackOnDirectHit = false;
+
     private static SpellSphereCreator spellSphereCreator => GameObject.FindAnyObjectByType<SpellSphereCreator>();
 
     public void Initialize(int damageAmount = 30, float forceAmount = 2f,
                            float aoeRadiusAmount = 3f, bool applySlow = false,
                            float slowFactor = 0.5f, float slowDuration = 3f,
-                           int fireDOTDamage = 0, int fireDOTTicks = 0, float fireDOTInterval = 0f)
+                           int fireDOTDamage = 0, int fireDOTTicks = 0, float fireDOTInterval = 0f,
+                           bool applyKnockback = false, float knockbackForce = 5f,
+                           bool knockbackOnlyOnDirectHit = false) 
     {
         if (spriteRenderer == null)
             spriteRenderer = GetComponent<SpriteRenderer>();
@@ -35,6 +41,10 @@ public class SpellProjectile : Projectile
         dotDamage = fireDOTDamage;
         dotTicks = fireDOTTicks;
         dotInterval = fireDOTInterval;
+
+        applyKnockbackEffect = applyKnockback;
+        knockbackForceAmount = knockbackForce;
+        onlyKnockbackOnDirectHit = knockbackOnlyOnDirectHit;
     }
 
     private void FixedUpdate()
@@ -50,7 +60,7 @@ public class SpellProjectile : Projectile
 
     protected override void ApplyDirectHitEffects(Collider2D collision)
     {
-        if (!collision.CompareTag("Enemy") || dotDamage <= 0 && !applySlowEffect)
+        if (!collision.CompareTag("Enemy") || (dotDamage <= 0 && !applySlowEffect && !applyKnockbackEffect))
             return;
 
         base.ApplyDirectHitEffects(collision);
@@ -59,10 +69,23 @@ public class SpellProjectile : Projectile
         if (damagable != null)
         {
             if (dotDamage > 0)
-                spellEffectManager?.ApplyDOT(dotDamage, dotTicks, dotInterval, damagable);
+            {
+                spellEffectManager.ApplyDOT(dotDamage, dotTicks, dotInterval, damagable);
+                print("DOT");
+            }
 
             if (applySlowEffect)
-                spellEffectManager?.ApplySlowEffect(collision.gameObject, slowFactorAmount, slowDurationAmount);
+            {
+                spellEffectManager.ApplySlowEffect(collision.gameObject, slowFactorAmount, slowDurationAmount);
+                print("Slow");
+            }
+
+            if (applyKnockbackEffect)
+            {
+                Vector2 knockbackDirection = rb.linearVelocity.normalized;
+                spellEffectManager.ApplyKnockbackEffect(collision.gameObject, knockbackDirection, knockbackForceAmount);
+                print("Knockback on direct hit");
+            }
         }
     }
 
@@ -84,6 +107,13 @@ public class SpellProjectile : Projectile
 
                 if (applySlowEffect)
                     spellEffectManager?.ApplySlowEffect(collider.gameObject, slowFactorAmount, slowDurationAmount);
+
+                
+                if (applyKnockbackEffect && !onlyKnockbackOnDirectHit)
+                {
+                    Vector2 knockbackDirection = (collider.transform.position - transform.position).normalized;
+                    spellEffectManager?.ApplyKnockbackEffect(collider.gameObject, knockbackDirection, knockbackForceAmount);
+                }
             }
         }
     }
@@ -92,6 +122,7 @@ public class SpellProjectile : Projectile
     {
         if (dotDamage > 0) return new Color(1f, 0.5f, 0f);
         if (applySlowEffect) return new Color(0f, 0.5f, 1f);
+        if (applyKnockbackEffect) return new Color(0.5f, 0f, 0.5f); 
         return Color.white;
     }
 
@@ -99,14 +130,17 @@ public class SpellProjectile : Projectile
                                          int damageAmount = 30, float forceAmount = 2f,
                                          float aoeRadiusAmount = 3f, bool applySlow = false,
                                          float slowFactor = 0.5f, float slowDuration = 3f,
-                                         int fireDOTDamage = 0, int fireDOTTicks = 0, float fireDOTInterval = 0f)
+                                         int fireDOTDamage = 0, int fireDOTTicks = 0, float fireDOTInterval = 0f,
+                                         bool applyKnockback = false, float knockbackForce = 5f,
+                                         bool knockbackOnlyOnDirectHit = false)
     {
         var projectileObj = spellSphereCreator.CreateSpellSphere(recipe);
         projectileObj.transform.position = spawnPosition;
         var projectile = projectileObj.GetComponent<SpellProjectile>();
         projectile.Initialize(damageAmount, forceAmount, aoeRadiusAmount,
                               applySlow, slowFactor, slowDuration,
-                              fireDOTDamage, fireDOTTicks, fireDOTInterval);
+                              fireDOTDamage, fireDOTTicks, fireDOTInterval,
+                              applyKnockback, knockbackForce, knockbackOnlyOnDirectHit);
         return projectile;
     }
 }

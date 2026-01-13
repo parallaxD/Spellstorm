@@ -6,6 +6,8 @@ public class PlayerHealth : MonoBehaviour
     [SerializeField] private int _maxHealth = 100;
     private int _currentHealth;
 
+    public float DamageMultiplier { get; set; } = 1f;
+
     public static event Action<int> OnHealthChanged;       
     public event Action<int> OnHealthReduced;        
     public event Action<int> OnHealthRestored;       
@@ -23,12 +25,13 @@ public class PlayerHealth : MonoBehaviour
         OnHealthChangedWithMax?.Invoke(_currentHealth, _maxHealth);
     }
 
+
     public void ReduceHealth(int value)
     {
         if (value <= 0 || !IsAlive()) return;
 
         int previousHealth = _currentHealth;
-        _currentHealth = Mathf.Max(0, _currentHealth - value);
+        _currentHealth = (int)(Mathf.Max(0, _currentHealth - value) * DamageMultiplier);
 
         OnHealthChanged?.Invoke(_currentHealth);
         OnHealthReduced?.Invoke(value);
@@ -69,6 +72,12 @@ public class PlayerHealth : MonoBehaviour
 
         OnHealthChanged?.Invoke(_currentHealth);
         OnHealthChangedWithMax?.Invoke(_currentHealth, _maxHealth);
+    }
+
+    public void SetDamageMultiplier(float newDamageMultiplier)
+    {
+        DamageMultiplier = newDamageMultiplier;
+        
     }
 
     public bool IsAlive()

@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1578342531409441026}
   - component: {fileID: 2628991133719644729}
   - component: {fileID: -6830912148924363315}
+  - component: {fileID: -4820289435237924973}
   m_Layer: 0
   m_Name: WindBall
   m_TagString: Untagged
@@ -232,3 +233,18 @@ MonoBehaviour:
   slowFactor: 0.5
   slowDuration: 3
   slowRadius: 3
+--- !u!114 &-4820289435237924973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5906944589546422025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d6a2d0740abd23419af38885b888daf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::QuicksandTrap
+  slowFactor: 0.4
+  trapDuration: 5
+  trapRadius: 2

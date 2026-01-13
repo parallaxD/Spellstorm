@@ -22,7 +22,7 @@ public abstract class Projectile : MonoBehaviour
     protected virtual void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
-        spellEffectManager = GameObject.FindAnyObjectByType<SpellEffectManager>();
+        spellEffectManager = FindAnyObjectByType<SpellEffectManager>();
     }
 
     public static T Create<T>() where T : Projectile

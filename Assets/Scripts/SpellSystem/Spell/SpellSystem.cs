@@ -46,7 +46,7 @@ public class SpellSystem : MonoBehaviour
         }
 
         
-        if (Input.GetKeyDown(KeyCode.G))
+        if (Input.GetMouseButtonDown(0))
         {
             if (Elements.Count > 0)
             {
@@ -59,6 +59,7 @@ public class SpellSystem : MonoBehaviour
 
                     _isCollectingMode = false;
                     DeactivateAllElementHighlights();
+                    _spellStash.CastSpell();
                 }
                 else
                 {
@@ -72,20 +73,20 @@ public class SpellSystem : MonoBehaviour
         }
 
         
-        if (Input.GetKeyDown(KeyCode.C))
-        {
-            _spellStash.ClearStash();
-            Elements.Clear();
-            _isCollectingMode = false;
-            DeactivateAllElementHighlights();
-            Debug.Log("Все очищено! Режим сбора деактивирован.");
-        }
+        //if (Input.GetKeyDown(KeyCode.C))
+        //{
+        //    _spellStash.ClearStash();
+        //    Elements.Clear();
+        //    _isCollectingMode = false;
+        //    DeactivateAllElementHighlights();
+        //    Debug.Log("Все очищено! Режим сбора деактивирован.");
+        //}
 
         
-        if (Input.GetMouseButtonDown(0))
-        {
-            _spellStash.CastSpell();
-        }
+        //if (Input.GetMouseButtonDown(0))
+        //{
+        //    _spellStash.CastSpell();
+        //}
 
         
         if (Input.GetKeyDown(KeyCode.I))
@@ -101,6 +102,11 @@ public class SpellSystem : MonoBehaviour
 
     private void ToggleSpellCollectionMode()
     {
+        _spellStash.ClearStash();
+        Elements.Clear();
+        _isCollectingMode = false;
+        DeactivateAllElementHighlights();
+        Debug.Log("Все очищено! Режим сбора деактивирован.");
         if (!_isCollectingMode)
         {
             _isCollectingMode = true;

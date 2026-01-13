@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4501002721005316996}
   - component: {fileID: 1578342531409441026}
   - component: {fileID: 2628991133719644729}
-  - component: {fileID: -7172952078723646926}
+  - component: {fileID: 4297491548509115273}
   m_Layer: 0
   m_Name: Fireball
   m_TagString: Untagged
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 1, g: 0.70368606, b: 0.0141509175, a: 1}
   m_FlipX: 0
@@ -209,7 +209,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
---- !u!114 &-7172952078723646926
+--- !u!114 &4297491548509115273
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -218,20 +218,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 5906944589546422025}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d390d070a9e1f1c48990f898c4e44713, type: 3}
+  m_Script: {fileID: 11500000, guid: 62c994ad5dc83ee4cb52ad7e2f4e1211, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FireballProjectile
-  damage: 30
-  force: 2
-  lifetime: 5
-  aoeDelay: 2
-  aoeRadius: 3
-  explodeOnEnemyContact: 1
-  explodeAfterDelay: 1
-  applySlow: 0
-  slowFactor: 0.5
-  slowDuration: 3
-  slowRadius: 3
-  dotDamage: 5
-  dotTicks: 6
-  dotInterval: 0.5
+  m_EditorClassIdentifier: Assembly-CSharp::WindBladeProjectile
+  speed: 10
+  damage: 15
+  knockbackForce: 8
+  lifetime: 3
+  collisionLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295

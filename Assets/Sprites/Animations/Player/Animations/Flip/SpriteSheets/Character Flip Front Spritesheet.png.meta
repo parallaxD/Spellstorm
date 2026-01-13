@@ -147,10 +147,10 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -202,12 +202,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 15
-        width: 28
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -224,12 +224,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 178
-        y: 15
-        width: 28
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 306
-        y: 15
-        width: 28
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -268,12 +268,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 434
-        y: 15
-        width: 28
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -290,12 +290,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 551
-        y: 15
-        width: 45
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -312,12 +312,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 679
-        y: 15
-        width: 45
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -334,12 +334,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 807
-        y: 15
-        width: 45
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -356,12 +356,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 935
-        y: 15
-        width: 45
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -378,12 +378,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 1063
-        y: 15
-        width: 45
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -400,12 +400,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 1188
-        y: 15
-        width: 45
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -422,12 +422,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_10
       rect:
         serializedVersion: 2
-        x: 1316
-        y: 15
-        width: 45
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -444,12 +444,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_11
       rect:
         serializedVersion: 2
-        x: 1444
-        y: 15
-        width: 45
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -466,12 +466,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 1572
-        y: 15
-        width: 45
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -488,12 +488,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 1700
-        y: 15
-        width: 45
-        height: 66
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -510,12 +510,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_14
       rect:
         serializedVersion: 2
-        x: 1832
-        y: 29
-        width: 47
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -532,12 +532,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_15
       rect:
         serializedVersion: 2
-        x: 1960
-        y: 29
-        width: 47
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -554,12 +554,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_16
       rect:
         serializedVersion: 2
-        x: 2088
-        y: 29
-        width: 47
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -576,12 +576,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_17
       rect:
         serializedVersion: 2
-        x: 2216
-        y: 29
-        width: 47
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -598,12 +598,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 2344
-        y: 29
-        width: 47
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -620,12 +620,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_19
       rect:
         serializedVersion: 2
-        x: 2464
-        y: 42
-        width: 52
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -642,12 +642,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_20
       rect:
         serializedVersion: 2
-        x: 2592
-        y: 42
-        width: 52
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -664,12 +664,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_21
       rect:
         serializedVersion: 2
-        x: 2720
-        y: 42
-        width: 52
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -686,12 +686,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_22
       rect:
         serializedVersion: 2
-        x: 2848
-        y: 42
-        width: 52
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -708,12 +708,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_23
       rect:
         serializedVersion: 2
-        x: 2976
-        y: 42
-        width: 52
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -730,12 +730,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_24
       rect:
         serializedVersion: 2
-        x: 3109
-        y: 41
-        width: 46
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -752,12 +752,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_25
       rect:
         serializedVersion: 2
-        x: 3237
-        y: 41
-        width: 46
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -774,12 +774,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_26
       rect:
         serializedVersion: 2
-        x: 3365
-        y: 41
-        width: 46
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -796,12 +796,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_27
       rect:
         serializedVersion: 2
-        x: 3493
-        y: 41
-        width: 46
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -818,12 +818,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_28
       rect:
         serializedVersion: 2
-        x: 3621
-        y: 41
-        width: 46
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -840,12 +840,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_29
       rect:
         serializedVersion: 2
-        x: 3762
-        y: 13
-        width: 29
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -862,12 +862,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_30
       rect:
         serializedVersion: 2
-        x: 3890
-        y: 13
-        width: 29
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -884,12 +884,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_31
       rect:
         serializedVersion: 2
-        x: 4018
-        y: 13
-        width: 29
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -906,12 +906,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_32
       rect:
         serializedVersion: 2
-        x: 4146
-        y: 13
-        width: 29
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -928,12 +928,12 @@ TextureImporter:
       name: Character Flip Front Spritesheet_33
       rect:
         serializedVersion: 2
-        x: 4274
-        y: 13
-        width: 29
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -950,7 +950,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 8d871c3c7483ec244b630f7816e71334
     internalID: 0
     vertices: []
     indices: 
@@ -958,7 +958,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.18000000715255738},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Character Flip Front Spritesheet_0: -142838939355716743
       Character Flip Front Spritesheet_1: -4324870324360285613

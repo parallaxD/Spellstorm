@@ -27,6 +27,7 @@ public class SpellSphereCreator : MonoBehaviour
         float currentAngle = 0f;
 
         GameObject spellProjectileGO = new GameObject("spellProjectile");
+        spellProjectileGO.tag = "Projectile";
         spellProjectileGO.AddComponent<Rigidbody2D>().gravityScale = 0;
         spellProjectileGO.AddComponent<CircleCollider2D>().isTrigger = true;
         //spellProjectileGO.GetComponent<CircleCollider2D>().excludeLayers = LayerMask.GetMask("Player");

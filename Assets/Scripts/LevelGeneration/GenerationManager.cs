@@ -7,6 +7,7 @@ public class GenerationManager : MonoBehaviour
 {
     [SerializeField] private TileManager tileManager;
     [SerializeField] private DecorationManager decorationManager;
+    [SerializeField] private EnemySpawner enemySpawnManager;
 
     [SerializeField] AbstractDungeonGenerator tileGenerator;
     [SerializeField] DecorationGenerator decorationGenerator;
@@ -23,8 +24,9 @@ public class GenerationManager : MonoBehaviour
     [SerializeField] private GameObject collidersTilemapObject;
 
     private List<LevelData> levelsData;
+    private LocationType currentLocation = LocationType.Hub; 
 
-    private LocationType currentLocation;
+    public LocationType CurrentLocation => currentLocation;
 
     public void Awake()
     {
@@ -32,9 +34,9 @@ public class GenerationManager : MonoBehaviour
         HubGeneration();
     }
 
+
     private void Initialize()
     {
-
         levelsData = new List<LevelData>()
         {
             BurningWastelandsData,
@@ -66,8 +68,19 @@ public class GenerationManager : MonoBehaviour
     {
         var level = levelsData.FirstOrDefault(l => l.locationType == currentLocation);
 
+        if (level == null)
+        {
+            Debug.LogError($"Нет данных для локации: {currentLocation}");
+            return;
+        }
+
         TilesGeneration(level);
         DecorationGenerator(level);
+
+        if (enemySpawnManager != null)
+        {;
+            enemySpawnManager.StartSpawningForLocation(currentLocation, level);
+        }
 
         hubTilemapObject.SetActive(false);
         basicTilemapObject.SetActive(true);
@@ -76,6 +89,11 @@ public class GenerationManager : MonoBehaviour
 
     private void HubGeneration()
     {
+        if (enemySpawnManager != null)
+        {
+            enemySpawnManager.StartSpawningForLocation(LocationType.Hub, null);
+        }
+
         hubTilemapObject.SetActive(true);
         basicTilemapObject.SetActive(false);
         collidersTilemapObject.SetActive(false);

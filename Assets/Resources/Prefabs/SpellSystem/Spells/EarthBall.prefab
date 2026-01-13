@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4501002721005316996}
   - component: {fileID: 1578342531409441026}
   - component: {fileID: 2628991133719644729}
-  - component: {fileID: 3415900038715258433}
+  - component: {fileID: 7803291627884107075}
   m_Layer: 0
   m_Name: EarthBall
   m_TagString: Untagged
@@ -82,7 +82,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
   m_Color: {r: 0.49056602, g: 0.19956546, b: 0.025453899, a: 1}
   m_FlipX: 0
@@ -209,7 +209,7 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
---- !u!114 &3415900038715258433
+--- !u!114 &7803291627884107075
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -218,17 +218,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 5906944589546422025}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2ddd93dea9091c54b880be2945c5aac8, type: 3}
+  m_Script: {fileID: 11500000, guid: 7fcb2d4fd0c51c047b444243e50078a0, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FireEarthProjectile
-  damage: 30
-  force: 2
-  lifetime: 5
-  aoeDelay: 2
-  aoeRadius: 3
-  explodeOnEnemyContact: 1
-  explodeAfterDelay: 1
-  applySlow: 0
-  slowFactor: 0.5
-  slowDuration: 3
-  slowRadius: 3
+  m_EditorClassIdentifier: Assembly-CSharp::EarthProjectile
+  speed: 7
+  damage: 25
+  lifetime: 4
+  impactEffect: {fileID: 0}

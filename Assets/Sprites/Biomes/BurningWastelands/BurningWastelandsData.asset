@@ -13,7 +13,17 @@ MonoBehaviour:
   m_Name: BurningWastelandsData
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
   locationType: 1
+  locationName: BurningWastelands
   floorTileset: {fileID: 11400000, guid: 95d405f83a95b7043ad361d865fadace, type: 2}
   backgroundTileset: {fileID: 11400000, guid: 3b995e113c1a9d047b9ec7d17c987706, type: 2}
   decorationTileset: {fileID: 11400000, guid: 4e707c6092bcd2848a9a57c64b3ada93, type: 2}
   decorationSet: {fileID: 11400000, guid: 1106221d052705e47befc484fe4a8aa4, type: 2}
+  enemySpawnData:
+  - enemyPrefab: {fileID: 0}
+    minCount: 0
+    maxCount: 1
+    spawnChance: 0
+  maxTotalEnemies: 15
+  spawnCheckRadius: 1.5
+  spawnZoneSize: {x: 20, y: 15}
+  spawnZonesCount: 3

@@ -24,7 +24,7 @@ public class SlowEffect : IStatusEffect
 
     public void Remove(GameObject target)
     {
-        // Автоматически снимается через EnemyMovement
+        
     }
 }
 
@@ -47,6 +47,6 @@ public class DOTEffect : IStatusEffect
 
     public void Remove(GameObject target)
     {
-        // Управляется через SpellEffectManager
+        
     }
 }
