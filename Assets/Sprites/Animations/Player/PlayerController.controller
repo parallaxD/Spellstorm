@@ -406,6 +406,18 @@ AnimatorController:
     m_DefaultInt: 0
     m_DefaultBool: 0
     m_Controller: {fileID: 9100000}
+  - m_Name: ClickX
+    m_Type: 1
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
+  - m_Name: ClickY
+    m_Type: 1
+    m_DefaultFloat: 0
+    m_DefaultInt: 0
+    m_DefaultBool: 0
+    m_Controller: {fileID: 9100000}
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer
@@ -875,8 +887,8 @@ BlendTree:
     m_CycleOffset: 0
     m_DirectBlendParameter: MoveX
     m_Mirror: 0
-  m_BlendParameter: LastMoveX
-  m_BlendParameterY: LastMoveY
+  m_BlendParameter: ClickX
+  m_BlendParameterY: ClickY
   m_MinThreshold: 0
   m_MaxThreshold: 1
   m_UseAutomaticThresholds: 1

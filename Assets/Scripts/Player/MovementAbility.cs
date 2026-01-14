@@ -38,16 +38,3 @@ public class Flip : MovementAbility
         playerTransform.position = targetPosition;
     }
 }
-
-
-
-//[CreateAssetMenu(fileName = "MovementAbility", menuName = "Abilities/Rolling")]
-//public class Rolling : MovementAbility
-//{
-//    [SerializeField] private float teleportDistance = 5f;
-
-//    public override void Action()
-//    {
-//        Debug.Log("rolled");
-//    }
-//}

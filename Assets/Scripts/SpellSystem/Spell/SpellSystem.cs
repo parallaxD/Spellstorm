@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using UnityEngine.UI;
 using AYellowpaper.SerializedCollections;
 
 public class SpellSystem : MonoBehaviour
@@ -15,6 +14,8 @@ public class SpellSystem : MonoBehaviour
 
     public SerializedDictionary<ElementType, GameObject> ElementHighlightImages;
 
+    // Для анимации атаки
+    public bool isCreated => Elements.Count > 0;
 
     private void Update()
     {
