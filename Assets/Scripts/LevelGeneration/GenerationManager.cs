@@ -78,10 +78,10 @@ public class GenerationManager : MonoBehaviour
         TilesGeneration(level);
         DecorationGenerator(level);
 
-        //if (enemySpawnManager != null)
-        //{;
-        //    enemySpawnManager.StartSpawningForLocation(nextLocation, level);
-        //}
+        if (enemySpawnManager != null)
+        {
+            enemySpawnManager.StartSpawningForLocation(currentLocation, level);
+        }
 
         hubTilemapObject.SetActive(false);
         basicTilemapObject.SetActive(true);

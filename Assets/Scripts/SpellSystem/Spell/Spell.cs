@@ -60,7 +60,7 @@ public class Earth : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt, applyKnockback: true, knockbackForce: 5, knockbackOnlyOnDirectHit: true, damageAmount: 10);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt,  damageAmount: 10);
         Projectile.Launch(direction);
     }
 }
@@ -71,7 +71,7 @@ public class Wind : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt, applyKnockback: true, knockbackForce: 2f, knockbackOnlyOnDirectHit: true);
         Projectile.Launch(direction);
     }
 }

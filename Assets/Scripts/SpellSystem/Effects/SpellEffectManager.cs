@@ -36,6 +36,38 @@ public class SpellEffectManager : MonoBehaviour
         }
     }
 
+    private IEnumerator ShowSlowVisual(Transform target, float duration)
+    {
+        Transform dotEffect = target.Find("SlowEffect");
+        if (dotEffect == null) yield break;
+
+        GameObject effect = dotEffect.gameObject;
+        effect.SetActive(true);
+
+        yield return new WaitForSeconds(duration);
+
+        if (effect != null)
+        {
+            effect.SetActive(false);
+        }
+    }
+
+    private IEnumerator ShowKnockbackVisual(Transform target, float duration)
+    {
+        Transform dotEffect = target.Find("KnockbackEffect");
+        if (dotEffect == null) yield break;
+
+        GameObject effect = dotEffect.gameObject;
+        effect.SetActive(true);
+
+        yield return new WaitForSeconds(duration);
+
+        if (effect != null)
+        {
+            effect.SetActive(false);
+        }
+    }
+
     private IEnumerator DOT(int DOTValue, int totalTicks, float tickInterval, IDamagable objToDamage)
     {
         for (int i = 0; i < totalTicks; i++)
@@ -62,6 +94,7 @@ public class SpellEffectManager : MonoBehaviour
         var objToSlow = target.GetComponent<IEffectable>();
         if (objToSlow != null)
         {
+            StartCoroutine(ShowSlowVisual(target.transform, duration));
             objToSlow.ApplySlow(slowFactor, duration);
         }
     }
@@ -87,6 +120,7 @@ public class SpellEffectManager : MonoBehaviour
         var rigidbody = target.GetComponent<Rigidbody2D>();
         if (rigidbody != null)
         {
+            StartCoroutine(ShowKnockbackVisual(target.transform, 1f));
             Vector2 knockbackForce = direction.normalized * force;
             rigidbody.AddForce(knockbackForce, ForceMode2D.Impulse);
 

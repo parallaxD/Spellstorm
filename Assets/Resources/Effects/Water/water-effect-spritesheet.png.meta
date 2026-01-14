@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 3202732733ef6214aa5e11110a0f118d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8726208986429892165
+    second: water-effect-spritesheet_0
+  - first:
+      213: -5016615473363450818
+    second: water-effect-spritesheet_1
+  - first:
+      213: 4072924351336040467
+    second: water-effect-spritesheet_2
+  - first:
+      213: 2285950088362673304
+    second: water-effect-spritesheet_3
+  - first:
+      213: -2057106863827098797
+    second: water-effect-spritesheet_4
+  - first:
+      213: -2266750212464280385
+    second: water-effect-spritesheet_5
+  - first:
+      213: 5963256096553365467
+    second: water-effect-spritesheet_6
+  - first:
+      213: -8723932154279148006
+    second: water-effect-spritesheet_7
+  - first:
+      213: -5364809364567196567
+    second: water-effect-spritesheet_8
+  - first:
+      213: 7258326130695663186
+    second: water-effect-spritesheet_9
+  - first:
+      213: 4621796838489243623
+    second: water-effect-spritesheet_10
+  - first:
+      213: 4542772476681990636
+    second: water-effect-spritesheet_11
+  - first:
+      213: -8698925038018853116
+    second: water-effect-spritesheet_12
+  - first:
+      213: 2416979827101784635
+    second: water-effect-spritesheet_13
+  - first:
+      213: 3112290796108353732
+    second: water-effect-spritesheet_14
+  - first:
+      213: -3885190847152195486
+    second: water-effect-spritesheet_15
+  - first:
+      213: 474912424653522829
+    second: water-effect-spritesheet_16
+  - first:
+      213: -2070858618171195339
+    second: water-effect-spritesheet_17
+  - first:
+      213: -8842829773212798463
+    second: water-effect-spritesheet_18
+  - first:
+      213: 3236326490527264959
+    second: water-effect-spritesheet_19
+  - first:
+      213: 3953005630627679479
+    second: water-effect-spritesheet_20
+  - first:
+      213: -8860382754102213492
+    second: water-effect-spritesheet_21
+  - first:
+      213: 5020071622790974919
+    second: water-effect-spritesheet_22
+  - first:
+      213: -1381402745834225909
+    second: water-effect-spritesheet_23
+  - first:
+      213: 8511416177995936172
+    second: water-effect-spritesheet_24
+  - first:
+      213: 633364938220357681
+    second: water-effect-spritesheet_25
+  - first:
+      213: -5273097484579704176
+    second: water-effect-spritesheet_26
+  - first:
+      213: 3139839751628054454
+    second: water-effect-spritesheet_27
+  - first:
+      213: 3026746959934391713
+    second: water-effect-spritesheet_28
+  - first:
+      213: -1768361555802126048
+    second: water-effect-spritesheet_29
+  - first:
+      213: -3128933448311787344
+    second: water-effect-spritesheet_30
+  - first:
+      213: -1784894277143889300
+    second: water-effect-spritesheet_31
+  - first:
+      213: 1041327066173254711
+    second: water-effect-spritesheet_32
+  - first:
+      213: 1098507618050276419
+    second: water-effect-spritesheet_33
+  - first:
+      213: -6617701171078120232
+    second: water-effect-spritesheet_34
+  - first:
+      213: 3559505548211871668
+    second: water-effect-spritesheet_35
+  - first:
+      213: -1980604837791907228
+    second: water-effect-spritesheet_36
+  - first:
+      213: -673971418181408916
+    second: water-effect-spritesheet_37
+  - first:
+      213: 5000012504592113692
+    second: water-effect-spritesheet_38
+  - first:
+      213: 2466023475109273972
+    second: water-effect-spritesheet_39
+  - first:
+      213: 6641763262879132581
+    second: water-effect-spritesheet_40
+  - first:
+      213: 6159591609104235776
+    second: water-effect-spritesheet_41
+  - first:
+      213: 7754141520611672750
+    second: water-effect-spritesheet_42
+  - first:
+      213: 3669268004419514469
+    second: water-effect-spritesheet_43
+  - first:
+      213: 1864294920108524522
+    second: water-effect-spritesheet_44
+  - first:
+      213: 7485800839145460660
+    second: water-effect-spritesheet_45
+  - first:
+      213: -1492158762211637870
+    second: water-effect-spritesheet_46
+  - first:
+      213: 1700163441239076957
+    second: water-effect-spritesheet_47
+  - first:
+      213: -6819059062106538523
+    second: water-effect-spritesheet_48
+  - first:
+      213: 9061445796676528469
+    second: water-effect-spritesheet_49
+  - first:
+      213: 1638003867464290084
+    second: water-effect-spritesheet_50
+  - first:
+      213: 5742495731464743028
+    second: water-effect-spritesheet_51
+  - first:
+      213: -985506067648657239
+    second: water-effect-spritesheet_52
+  - first:
+      213: 1071941184151329835
+    second: water-effect-spritesheet_53
+  - first:
+      213: -8298882249529635712
+    second: water-effect-spritesheet_54
+  - first:
+      213: 1711622723494214379
+    second: water-effect-spritesheet_55
+  - first:
+      213: -1632753166882168753
+    second: water-effect-spritesheet_56
+  - first:
+      213: -6459725347078276877
+    second: water-effect-spritesheet_57
+  - first:
+      213: -9106648684202505010
+    second: water-effect-spritesheet_58
+  - first:
+      213: 1687066413906263926
+    second: water-effect-spritesheet_59
+  - first:
+      213: -92098743890841570
+    second: water-effect-spritesheet_60
+  - first:
+      213: -408218186441173852
+    second: water-effect-spritesheet_61
+  - first:
+      213: -5062643997624468459
+    second: water-effect-spritesheet_62
+  - first:
+      213: -6239210926504973985
+    second: water-effect-spritesheet_63
+  - first:
+      213: -5758869315982437842
+    second: water-effect-spritesheet_64
+  - first:
+      213: -4598932269744327975
+    second: water-effect-spritesheet_65
+  - first:
+      213: -4927572787115763050
+    second: water-effect-spritesheet_66
+  - first:
+      213: 6165844774660788110
+    second: water-effect-spritesheet_67
+  - first:
+      213: 1834899597552544228
+    second: water-effect-spritesheet_68
+  - first:
+      213: 9182546968174969451
+    second: water-effect-spritesheet_69
+  - first:
+      213: 7473692101676258458
+    second: water-effect-spritesheet_70
+  - first:
+      213: -1627937627945941756
+    second: water-effect-spritesheet_71
+  - first:
+      213: 4377893126899692567
+    second: water-effect-spritesheet_72
+  - first:
+      213: -3803452348780141469
+    second: water-effect-spritesheet_73
+  - first:
+      213: 5680673663956470296
+    second: water-effect-spritesheet_74
+  - first:
+      213: -2440910983938170525
+    second: water-effect-spritesheet_75
+  - first:
+      213: 830746449442647213
+    second: water-effect-spritesheet_76
+  - first:
+      213: -187935837249833512
+    second: water-effect-spritesheet_77
+  - first:
+      213: -5302834461105699946
+    second: water-effect-spritesheet_78
+  - first:
+      213: -4459635315763137527
+    second: water-effect-spritesheet_79
+  - first:
+      213: 4601064339766381032
+    second: water-effect-spritesheet_80
+  - first:
+      213: 4057008075290973080
+    second: water-effect-spritesheet_81
+  - first:
+      213: -3617564679367045045
+    second: water-effect-spritesheet_82
+  - first:
+      213: 2229147909845215487
+    second: water-effect-spritesheet_83
+  - first:
+      213: 4741334197720900962
+    second: water-effect-spritesheet_84
+  - first:
+      213: 8423973773603418689
+    second: water-effect-spritesheet_85
+  - first:
+      213: -2275270254878983938
+    second: water-effect-spritesheet_86
+  - first:
+      213: -6790623341105050521
+    second: water-effect-spritesheet_87
+  - first:
+      213: -8080100729342267729
+    second: water-effect-spritesheet_88
+  - first:
+      213: -7788551674769220816
+    second: water-effect-spritesheet_89
+  - first:
+      213: 8987768015050573493
+    second: water-effect-spritesheet_90
+  - first:
+      213: -1616559202368758002
+    second: water-effect-spritesheet_91
+  - first:
+      213: 3802949659767720254
+    second: water-effect-spritesheet_92
+  - first:
+      213: 1499910695768328576
+    second: water-effect-spritesheet_93
+  - first:
+      213: -2288267448096294773
+    second: water-effect-spritesheet_94
+  - first:
+      213: 4290036493766038255
+    second: water-effect-spritesheet_95
+  - first:
+      213: 6549720065019518150
+    second: water-effect-spritesheet_96
+  - first:
+      213: 3641646025236014737
+    second: water-effect-spritesheet_97
+  - first:
+      213: -5486321939754402747
+    second: water-effect-spritesheet_98
+  - first:
+      213: 9079686902694471366
+    second: water-effect-spritesheet_99
+  - first:
+      213: -5898116015180501163
+    second: water-effect-spritesheet_100
+  - first:
+      213: 7231777198095575593
+    second: water-effect-spritesheet_101
+  - first:
+      213: 6996043632966612760
+    second: water-effect-spritesheet_102
+  - first:
+      213: -6010886631084531298
+    second: water-effect-spritesheet_103
+  - first:
+      213: -1844636159194727698
+    second: water-effect-spritesheet_104
+  - first:
+      213: -984703460188100867
+    second: water-effect-spritesheet_105
+  - first:
+      213: -3838890027039333846
+    second: water-effect-spritesheet_106
+  - first:
+      213: -7277029648979423673
+    second: water-effect-spritesheet_107
+  - first:
+      213: -1925128875536071601
+    second: water-effect-spritesheet_108
+  - first:
+      213: -9206619629189238332
+    second: water-effect-spritesheet_109
+  - first:
+      213: 6500364018339758476
+    second: water-effect-spritesheet_110
+  - first:
+      213: -585582856344982039
+    second: water-effect-spritesheet_111
+  - first:
+      213: -2312279693897225434
+    second: water-effect-spritesheet_112
+  - first:
+      213: -3695046499006167973
+    second: water-effect-spritesheet_113
+  - first:
+      213: -7526870575918479349
+    second: water-effect-spritesheet_114
+  - first:
+      213: 1156719246572674701
+    second: water-effect-spritesheet_115
+  - first:
+      213: -3327639522301535193
+    second: water-effect-spritesheet_116
+  - first:
+      213: 3176037239070309267
+    second: water-effect-spritesheet_117
+  - first:
+      213: 541696563325632468
+    second: water-effect-spritesheet_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: water-effect-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95608092746e680800000000000000
+      internalID: -8726208986429892165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34817f5ec6616ab0800000000000000
+      internalID: -5016615473363450818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3184c664e1fe58830800000000000000
+      internalID: 4072924351336040467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894412f6e7359bf10800000000000000
+      internalID: 2285950088362673304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3536194d430b373e0800000000000000
+      internalID: -2057106863827098797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc768701b2ea80e0800000000000000
+      internalID: -2266750212464280385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfeebb33ddb1c250800000000000000
+      internalID: 5963256096553365467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1645935ded5ee680800000000000000
+      internalID: -8723932154279148006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c78419e4e5c85b0800000000000000
+      internalID: -5364809364567196567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25eec0cd821cab460800000000000000
+      internalID: 7258326130695663186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efbc2ebcbbe32040800000000000000
+      internalID: 4621796838489243623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13d08bf7b2b0f30800000000000000
+      internalID: 4542772476681990636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407822d44c5374780800000000000000
+      internalID: -8698925038018853116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: water-effect-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3adfa7d856da8120800000000000000
+      internalID: 2416979827101784635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7223a2cc2d20d394b8d86558b5e24d4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      water-effect-spritesheet_0: -8726208986429892165
+      water-effect-spritesheet_1: -5016615473363450818
+      water-effect-spritesheet_10: 4621796838489243623
+      water-effect-spritesheet_11: 4542772476681990636
+      water-effect-spritesheet_12: -8698925038018853116
+      water-effect-spritesheet_13: 2416979827101784635
+      water-effect-spritesheet_2: 4072924351336040467
+      water-effect-spritesheet_3: 2285950088362673304
+      water-effect-spritesheet_4: -2057106863827098797
+      water-effect-spritesheet_5: -2266750212464280385
+      water-effect-spritesheet_6: 5963256096553365467
+      water-effect-spritesheet_7: -8723932154279148006
+      water-effect-spritesheet_8: -5364809364567196567
+      water-effect-spritesheet_9: 7258326130695663186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
