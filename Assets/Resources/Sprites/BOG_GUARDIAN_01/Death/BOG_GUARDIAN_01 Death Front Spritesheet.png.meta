@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: cacff8432248b104192a1dde39683e4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4554820204293855451
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_0
+  - first:
+      213: 5634790099862915696
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_1
+  - first:
+      213: 3665680183879398156
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_2
+  - first:
+      213: -2325508875666003986
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_3
+  - first:
+      213: 2400893672199663476
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_4
+  - first:
+      213: 925326777513405335
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_5
+  - first:
+      213: 4811929874729579836
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_6
+  - first:
+      213: 3622491522526500222
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_7
+  - first:
+      213: -5981070312112061662
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_8
+  - first:
+      213: -2476817736366797860
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_9
+  - first:
+      213: 8928563261856431524
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_10
+  - first:
+      213: 4428654665252327567
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_11
+  - first:
+      213: 496675543910310536
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_12
+  - first:
+      213: -3898135915677642791
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_13
+  - first:
+      213: -3008349904624047851
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_14
+  - first:
+      213: -5403991921557654824
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_15
+  - first:
+      213: 4767670663697571061
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_16
+  - first:
+      213: -8173208849314549877
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_17
+  - first:
+      213: -5947475279355912423
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_18
+  - first:
+      213: 7876854915818004476
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_19
+  - first:
+      213: 9124208926194166533
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_20
+  - first:
+      213: 2481719057089772416
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_21
+  - first:
+      213: 4792061604963264191
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_22
+  - first:
+      213: 4228767272125835546
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_23
+  - first:
+      213: -4435423162768964395
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_24
+  - first:
+      213: -8321978782395105437
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_25
+  - first:
+      213: 7921251267228926525
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_26
+  - first:
+      213: -1487213190155546231
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_27
+  - first:
+      213: 1219153682997017955
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_28
+  - first:
+      213: 5457444022927166395
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_29
+  - first:
+      213: 7790131549492896856
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_30
+  - first:
+      213: -897869499269715671
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_31
+  - first:
+      213: 2428259542639009384
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_32
+  - first:
+      213: 1149886834166785009
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_33
+  - first:
+      213: -5416069255294993504
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_34
+  - first:
+      213: 3291759688206987712
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_35
+  - first:
+      213: 5740397146983659248
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_36
+  - first:
+      213: -3061870611694682660
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_37
+  - first:
+      213: 5793023219251857447
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_38
+  - first:
+      213: 7964293259814400164
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_39
+  - first:
+      213: -6398678117832223418
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_40
+  - first:
+      213: 193416166256715496
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_41
+  - first:
+      213: -5661402806728924967
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_42
+  - first:
+      213: -4212597468772817741
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_43
+  - first:
+      213: 4030858125129898517
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_44
+  - first:
+      213: 8937878386411494187
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_45
+  - first:
+      213: -4396779912820615824
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_46
+  - first:
+      213: -5620409330621194281
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_47
+  - first:
+      213: -6208354385035427703
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_48
+  - first:
+      213: -6008401896349547111
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_49
+  - first:
+      213: 6766246530125543510
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_50
+  - first:
+      213: 2621776143443763112
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_51
+  - first:
+      213: 5078445881273069519
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_52
+  - first:
+      213: -962107791126644997
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_53
+  - first:
+      213: -5672413452143987183
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_54
+  - first:
+      213: -7866853010426043439
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_55
+  - first:
+      213: 4867252722981396276
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_56
+  - first:
+      213: 1692397718181179372
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_57
+  - first:
+      213: -9159721528238435592
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_58
+  - first:
+      213: 3156025193001074343
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_59
+  - first:
+      213: -3426061090089715080
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_60
+  - first:
+      213: 2925072690369058314
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_61
+  - first:
+      213: 7062105542035468078
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_62
+  - first:
+      213: 4684058842376076399
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_63
+  - first:
+      213: 7684681883414674990
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_64
+  - first:
+      213: -4111806055941550150
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_65
+  - first:
+      213: -5882862208604183542
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_66
+  - first:
+      213: -235714110285703688
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_67
+  - first:
+      213: 8161402630073223225
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_68
+  - first:
+      213: -8549773077335798761
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_69
+  - first:
+      213: -6523811922531031585
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_70
+  - first:
+      213: -4024520494383294462
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_71
+  - first:
+      213: -5914299551081568539
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_72
+  - first:
+      213: 3203882776633722698
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_73
+  - first:
+      213: 2578435681454494009
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_74
+  - first:
+      213: 4334946059759038311
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_75
+  - first:
+      213: -3541743513002139023
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_76
+  - first:
+      213: -6645693310315181347
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_77
+  - first:
+      213: -8785329744284044589
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_78
+  - first:
+      213: 2103680880310350231
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_79
+  - first:
+      213: -8598846467328484014
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_80
+  - first:
+      213: 331118509898973799
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_81
+  - first:
+      213: 4809399588510589924
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_82
+  - first:
+      213: 5845575628983393221
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_83
+  - first:
+      213: 307696210160428672
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_84
+  - first:
+      213: 1686926114600792753
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_85
+  - first:
+      213: -7248631559616819885
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_86
+  - first:
+      213: -7100031157132353675
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_87
+  - first:
+      213: 8612198873217589215
+    second: BOG_GUARDIAN_01 Death Front Spritesheet_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527ea4b18270ac0c0800000000000000
+      internalID: -4554820204293855451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a873ecdbbc23e40800000000000000
+      internalID: 5634790099862915696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f154a4bc1fd230800000000000000
+      internalID: 3665680183879398156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7e8e7aff12abfd0800000000000000
+      internalID: -2325508875666003986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fa1fa0310b15120800000000000000
+      internalID: 2400893672199663476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79be7d23dcb67dc00800000000000000
+      internalID: 925326777513405335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35b853f9b867c240800000000000000
+      internalID: 4811929874729579836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e755e02d8dca54230800000000000000
+      internalID: 3622491522526500222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2230ded7d38fefca0800000000000000
+      internalID: -5981070312112061662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb487a346390add0800000000000000
+      internalID: -2476817736366797860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad3e892bf0a8eb70800000000000000
+      internalID: 8928563261856431524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80dd3b34fdb57d30800000000000000
+      internalID: 4428654665252327567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e56396cb84e600800000000000000
+      internalID: 496675543910310536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df87d3b90a07e9c0800000000000000
+      internalID: -3898135915677642791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519adce53b13046d0800000000000000
+      internalID: -3008349904624047851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2b97a9af92105b0800000000000000
+      internalID: -5403991921557654824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc9ebb553b2a2240800000000000000
+      internalID: 4767670663697571061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fe685eadde29e80800000000000000
+      internalID: -8173208849314549877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fd2979eb2567da0800000000000000
+      internalID: -5947475279355912423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff1f9400d5305d60800000000000000
+      internalID: 7876854915818004476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b604e1da3bf9e70800000000000000
+      internalID: 9124208926194166533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b372e6556d07220800000000000000
+      internalID: 2481719057089772416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6af99e3a2d08240800000000000000
+      internalID: 4792061604963264191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19abd4dd699faa30800000000000000
+      internalID: 4228767272125835546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4cd9222263272c0800000000000000
+      internalID: -4435423162768964395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f700f9364628c80800000000000000
+      internalID: -8321978782395105437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d320bc71f00fded60800000000000000
+      internalID: 7921251267228926525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981d08fab7b5c5be0800000000000000
+      internalID: -1487213190155546231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d75a9b0dd4be010800000000000000
+      internalID: 1219153682997017955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb07209c6cbcbb40800000000000000
+      internalID: 5457444022927166395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8546611de5b1c1c60800000000000000
+      internalID: 7790131549492896856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929ee5192702a83f0800000000000000
+      internalID: -897869499269715671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e53754039e2b120800000000000000
+      internalID: 2428259542639009384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3e86abbf735ff00800000000000000
+      internalID: 1149886834166785009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab3a3735b146d4b0800000000000000
+      internalID: -5416069255294993504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13785fefdaead20800000000000000
+      internalID: 3291759688206987712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f670af8accf9af40800000000000000
+      internalID: 5740397146983659248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddfab1b6ec0285d0800000000000000
+      internalID: -3061870611694682660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728c817dce3f46050800000000000000
+      internalID: 5793023219251857447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0764ee58ad68e60800000000000000
+      internalID: 7964293259814400164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6459b8a47245337a0800000000000000
+      internalID: -6398678117832223418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6ac8b7af62fa200800000000000000
+      internalID: 193416166256715496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0e5868428ae61b0800000000000000
+      internalID: -5661402806728924967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b42614ebe8d985c0800000000000000
+      internalID: -4212597468772817741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a5d50cb1c70f730800000000000000
+      internalID: 4030858125129898517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bd2bb9909b90c70800000000000000
+      internalID: 8937878386411494187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07511c4e6ff7bf2c0800000000000000
+      internalID: -4396779912820615824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df5804fd7b4002b0800000000000000
+      internalID: -5620409330621194281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9808930849e77d9a0800000000000000
+      internalID: -6208354385035427703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954d442f4edd9ca0800000000000000
+      internalID: -6008401896349547111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6583adabe5986ed50800000000000000
+      internalID: 6766246530125543510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af1f8ef28b626420800000000000000
+      internalID: 2621776143443763112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfa35c4f934a7640800000000000000
+      internalID: 5078445881273069519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6b24abf08e5a2f0800000000000000
+      internalID: -962107791126644997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1167fcdd40a8741b0800000000000000
+      internalID: -5672413452143987183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3e75d0ed253d290800000000000000
+      internalID: -7866853010426043439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fdb515094fb8340800000000000000
+      internalID: 4867252722981396276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefeeda02ca9c7710800000000000000
+      internalID: 1692397718181179372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f299d3ecc122e080800000000000000
+      internalID: -9159721528238435592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae330311347ccb20800000000000000
+      internalID: 3156025193001074343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3a62379f2470d0800000000000000
+      internalID: -3426061090089715080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06d4ab3d12f79820800000000000000
+      internalID: 2925072690369058314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f6757e293a10260800000000000000
+      internalID: 7062105542035468078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c7ade23be110140800000000000000
+      internalID: 4684058842376076399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ebfc0357975aa60800000000000000
+      internalID: 7684681883414674990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfcd4a6d2eefe6c0800000000000000
+      internalID: -4111806055941550150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e3917dffdb5ea0800000000000000
+      internalID: -5882862208604183542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59fdbf3439abcf0800000000000000
+      internalID: -235714110285703688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938047a7370234170800000000000000
+      internalID: 8161402630073223225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c833f4faa195980800000000000000
+      internalID: -8549773077335798761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd564100f93c675a0800000000000000
+      internalID: -6523811922531031585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9088
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081105eee70628c0800000000000000
+      internalID: -4024520494383294462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6e782c4ef2ceda0800000000000000
+      internalID: -5914299551081568539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ce33196a767c20800000000000000
+      internalID: 3203882776633722698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9319945579178c320800000000000000
+      internalID: 2578435681454494009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76faa6c4972d82c30800000000000000
+      internalID: 4334946059759038311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a6f53a0339dec0800000000000000
+      internalID: -3541743513002139023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda49780521c5c3a0800000000000000
+      internalID: -6645693310315181347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2b64de42d341680800000000000000
+      internalID: -8785329744284044589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fda76d96c13d10800000000000000
+      internalID: 2103680880310350231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d53c452b2caa880800000000000000
+      internalID: -8598846467328484014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c519c78e589400800000000000000
+      internalID: 331118509898973799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36518c17b6eb240800000000000000
+      internalID: 4809399588510589924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb5c393018af1150800000000000000
+      internalID: 5845575628983393221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086a859a218254400800000000000000
+      internalID: 307696210160428672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b23c1f0d5a296710800000000000000
+      internalID: 1686926114600792753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11008
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d8a5d5000b76b90800000000000000
+      internalID: -7248631559616819885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 11136
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9be8b74f977d90800000000000000
+      internalID: -7100031157132353675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 11264
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf572dee3da48770800000000000000
+      internalID: 8612198873217589215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248999fd8cb51b3449241b904046da0e
+      internalID: -2128588062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac52c064c0de3d4eb14a5fa25a773bc
+      internalID: 1150900815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11648
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663331d28bc032c4e9fa61dd5a0a6d15
+      internalID: 1965251237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ac6987e8d95c84a87084b494995bee
+      internalID: -505645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Front Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11904
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66651290a559734c90f117c4bbd8b24
+      internalID: 1496669259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b927215babe55c49ad68ffb42b4e3a7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Death Front Spritesheet_0: -4554820204293855451
+      BOG_GUARDIAN_01 Death Front Spritesheet_1: 5634790099862915696
+      BOG_GUARDIAN_01 Death Front Spritesheet_10: 8928563261856431524
+      BOG_GUARDIAN_01 Death Front Spritesheet_11: 4428654665252327567
+      BOG_GUARDIAN_01 Death Front Spritesheet_12: 496675543910310536
+      BOG_GUARDIAN_01 Death Front Spritesheet_13: -3898135915677642791
+      BOG_GUARDIAN_01 Death Front Spritesheet_14: -3008349904624047851
+      BOG_GUARDIAN_01 Death Front Spritesheet_15: -5403991921557654824
+      BOG_GUARDIAN_01 Death Front Spritesheet_16: 4767670663697571061
+      BOG_GUARDIAN_01 Death Front Spritesheet_17: -8173208849314549877
+      BOG_GUARDIAN_01 Death Front Spritesheet_18: -5947475279355912423
+      BOG_GUARDIAN_01 Death Front Spritesheet_19: 7876854915818004476
+      BOG_GUARDIAN_01 Death Front Spritesheet_2: 3665680183879398156
+      BOG_GUARDIAN_01 Death Front Spritesheet_20: 9124208926194166533
+      BOG_GUARDIAN_01 Death Front Spritesheet_21: 2481719057089772416
+      BOG_GUARDIAN_01 Death Front Spritesheet_22: 4792061604963264191
+      BOG_GUARDIAN_01 Death Front Spritesheet_23: 4228767272125835546
+      BOG_GUARDIAN_01 Death Front Spritesheet_24: -4435423162768964395
+      BOG_GUARDIAN_01 Death Front Spritesheet_25: -8321978782395105437
+      BOG_GUARDIAN_01 Death Front Spritesheet_26: 7921251267228926525
+      BOG_GUARDIAN_01 Death Front Spritesheet_27: -1487213190155546231
+      BOG_GUARDIAN_01 Death Front Spritesheet_28: 1219153682997017955
+      BOG_GUARDIAN_01 Death Front Spritesheet_29: 5457444022927166395
+      BOG_GUARDIAN_01 Death Front Spritesheet_3: -2325508875666003986
+      BOG_GUARDIAN_01 Death Front Spritesheet_30: 7790131549492896856
+      BOG_GUARDIAN_01 Death Front Spritesheet_31: -897869499269715671
+      BOG_GUARDIAN_01 Death Front Spritesheet_32: 2428259542639009384
+      BOG_GUARDIAN_01 Death Front Spritesheet_33: 1149886834166785009
+      BOG_GUARDIAN_01 Death Front Spritesheet_34: -5416069255294993504
+      BOG_GUARDIAN_01 Death Front Spritesheet_35: 3291759688206987712
+      BOG_GUARDIAN_01 Death Front Spritesheet_36: 5740397146983659248
+      BOG_GUARDIAN_01 Death Front Spritesheet_37: -3061870611694682660
+      BOG_GUARDIAN_01 Death Front Spritesheet_38: 5793023219251857447
+      BOG_GUARDIAN_01 Death Front Spritesheet_39: 7964293259814400164
+      BOG_GUARDIAN_01 Death Front Spritesheet_4: 2400893672199663476
+      BOG_GUARDIAN_01 Death Front Spritesheet_40: -6398678117832223418
+      BOG_GUARDIAN_01 Death Front Spritesheet_41: 193416166256715496
+      BOG_GUARDIAN_01 Death Front Spritesheet_42: -5661402806728924967
+      BOG_GUARDIAN_01 Death Front Spritesheet_43: -4212597468772817741
+      BOG_GUARDIAN_01 Death Front Spritesheet_44: 4030858125129898517
+      BOG_GUARDIAN_01 Death Front Spritesheet_45: 8937878386411494187
+      BOG_GUARDIAN_01 Death Front Spritesheet_46: -4396779912820615824
+      BOG_GUARDIAN_01 Death Front Spritesheet_47: -5620409330621194281
+      BOG_GUARDIAN_01 Death Front Spritesheet_48: -6208354385035427703
+      BOG_GUARDIAN_01 Death Front Spritesheet_49: -6008401896349547111
+      BOG_GUARDIAN_01 Death Front Spritesheet_5: 925326777513405335
+      BOG_GUARDIAN_01 Death Front Spritesheet_50: 6766246530125543510
+      BOG_GUARDIAN_01 Death Front Spritesheet_51: 2621776143443763112
+      BOG_GUARDIAN_01 Death Front Spritesheet_52: 5078445881273069519
+      BOG_GUARDIAN_01 Death Front Spritesheet_53: -962107791126644997
+      BOG_GUARDIAN_01 Death Front Spritesheet_54: -5672413452143987183
+      BOG_GUARDIAN_01 Death Front Spritesheet_55: -7866853010426043439
+      BOG_GUARDIAN_01 Death Front Spritesheet_56: 4867252722981396276
+      BOG_GUARDIAN_01 Death Front Spritesheet_57: 1692397718181179372
+      BOG_GUARDIAN_01 Death Front Spritesheet_58: -9159721528238435592
+      BOG_GUARDIAN_01 Death Front Spritesheet_59: 3156025193001074343
+      BOG_GUARDIAN_01 Death Front Spritesheet_6: 4811929874729579836
+      BOG_GUARDIAN_01 Death Front Spritesheet_60: -3426061090089715080
+      BOG_GUARDIAN_01 Death Front Spritesheet_61: 2925072690369058314
+      BOG_GUARDIAN_01 Death Front Spritesheet_62: 7062105542035468078
+      BOG_GUARDIAN_01 Death Front Spritesheet_63: 4684058842376076399
+      BOG_GUARDIAN_01 Death Front Spritesheet_64: 7684681883414674990
+      BOG_GUARDIAN_01 Death Front Spritesheet_65: -4111806055941550150
+      BOG_GUARDIAN_01 Death Front Spritesheet_66: -5882862208604183542
+      BOG_GUARDIAN_01 Death Front Spritesheet_67: -235714110285703688
+      BOG_GUARDIAN_01 Death Front Spritesheet_68: 8161402630073223225
+      BOG_GUARDIAN_01 Death Front Spritesheet_69: -8549773077335798761
+      BOG_GUARDIAN_01 Death Front Spritesheet_7: 3622491522526500222
+      BOG_GUARDIAN_01 Death Front Spritesheet_70: -6523811922531031585
+      BOG_GUARDIAN_01 Death Front Spritesheet_71: -4024520494383294462
+      BOG_GUARDIAN_01 Death Front Spritesheet_72: -5914299551081568539
+      BOG_GUARDIAN_01 Death Front Spritesheet_73: 3203882776633722698
+      BOG_GUARDIAN_01 Death Front Spritesheet_74: 2578435681454494009
+      BOG_GUARDIAN_01 Death Front Spritesheet_75: 4334946059759038311
+      BOG_GUARDIAN_01 Death Front Spritesheet_76: -3541743513002139023
+      BOG_GUARDIAN_01 Death Front Spritesheet_77: -6645693310315181347
+      BOG_GUARDIAN_01 Death Front Spritesheet_78: -8785329744284044589
+      BOG_GUARDIAN_01 Death Front Spritesheet_79: 2103680880310350231
+      BOG_GUARDIAN_01 Death Front Spritesheet_8: -5981070312112061662
+      BOG_GUARDIAN_01 Death Front Spritesheet_80: -8598846467328484014
+      BOG_GUARDIAN_01 Death Front Spritesheet_81: 331118509898973799
+      BOG_GUARDIAN_01 Death Front Spritesheet_82: 4809399588510589924
+      BOG_GUARDIAN_01 Death Front Spritesheet_83: 5845575628983393221
+      BOG_GUARDIAN_01 Death Front Spritesheet_84: 307696210160428672
+      BOG_GUARDIAN_01 Death Front Spritesheet_85: 1686926114600792753
+      BOG_GUARDIAN_01 Death Front Spritesheet_86: -7248631559616819885
+      BOG_GUARDIAN_01 Death Front Spritesheet_87: -7100031157132353675
+      BOG_GUARDIAN_01 Death Front Spritesheet_88: 8612198873217589215
+      BOG_GUARDIAN_01 Death Front Spritesheet_89: -2128588062
+      BOG_GUARDIAN_01 Death Front Spritesheet_9: -2476817736366797860
+      BOG_GUARDIAN_01 Death Front Spritesheet_90: 1150900815
+      BOG_GUARDIAN_01 Death Front Spritesheet_91: 1965251237
+      BOG_GUARDIAN_01 Death Front Spritesheet_92: -505645342
+      BOG_GUARDIAN_01 Death Front Spritesheet_93: 1496669259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

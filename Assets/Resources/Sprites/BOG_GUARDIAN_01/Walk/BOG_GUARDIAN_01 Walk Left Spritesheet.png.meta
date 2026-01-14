@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: a1ae4865d7c21cc40a655601409fca29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5730379342700371358
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_0
+  - first:
+      213: -7350551894820166886
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_1
+  - first:
+      213: 5691447398548077728
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_2
+  - first:
+      213: 493593637135736048
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_3
+  - first:
+      213: 3690978784359082946
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_4
+  - first:
+      213: -3566538344038681012
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_5
+  - first:
+      213: 9028412752521669184
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_6
+  - first:
+      213: -3791577893235558568
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_7
+  - first:
+      213: 1975435404686035014
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_8
+  - first:
+      213: -3538272817165264510
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_9
+  - first:
+      213: 5488074074012585996
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_10
+  - first:
+      213: -35431022110318589
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_11
+  - first:
+      213: 206647289751388082
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_12
+  - first:
+      213: -446116873055176293
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_13
+  - first:
+      213: -3409246059566104676
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_14
+  - first:
+      213: 7372583223195375500
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_15
+  - first:
+      213: 2962627834218023781
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_16
+  - first:
+      213: -1591930037708723748
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_17
+  - first:
+      213: -3327749657673163647
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_18
+  - first:
+      213: 1449907506020993841
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_19
+  - first:
+      213: 4793394076392488424
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_20
+  - first:
+      213: 1343552671210210084
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_21
+  - first:
+      213: -8325192659804820937
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_22
+  - first:
+      213: 4725447487631286991
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_23
+  - first:
+      213: 7115772448418246150
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_24
+  - first:
+      213: 2009477128114382828
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_25
+  - first:
+      213: -2526062581142662613
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_26
+  - first:
+      213: 4326613790906545096
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_27
+  - first:
+      213: 2050849361493806605
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_28
+  - first:
+      213: -5133135427783260443
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_29
+  - first:
+      213: -5937887445036292725
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_30
+  - first:
+      213: 1263927166240090281
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_31
+  - first:
+      213: -7516208739743602685
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_32
+  - first:
+      213: 6972454099142162754
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_33
+  - first:
+      213: 7217891247866657186
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_34
+  - first:
+      213: 366669634665618037
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_35
+  - first:
+      213: 2028712810504827313
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_36
+  - first:
+      213: 1004904796366756045
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_37
+  - first:
+      213: 2511313241054942841
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_38
+  - first:
+      213: -9052890798107017578
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_39
+  - first:
+      213: -2907858070516639509
+    second: BOG_GUARDIAN_01 Walk Left Spritesheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262ab12495a9970b0800000000000000
+      internalID: -5730379342700371358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a136b2e1ff79df990800000000000000
+      internalID: -7350551894820166886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac774021451cfe40800000000000000
+      internalID: 5691447398548077728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc5edc3cc899d600800000000000000
+      internalID: 493593637135736048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe93316adf83330800000000000000
+      internalID: 3690978784359082946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b3cdb54c118ec0800000000000000
+      internalID: -3566538344038681012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a29a7509d5b4d70800000000000000
+      internalID: 9028412752521669184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8577877aefb916bc0800000000000000
+      internalID: -3791577893235558568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6488a05c8082a6b10800000000000000
+      internalID: 1975435404686035014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289917e8e9785eec0800000000000000
+      internalID: -3538272817165264510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001d821b4e892c40800000000000000
+      internalID: 5488074074012585996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300e5115caf128ff0800000000000000
+      internalID: -35431022110318589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfbd6b7d982ed200800000000000000
+      internalID: 206647289751388082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99fc3d41131fc9f0800000000000000
+      internalID: -446116873055176293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f79a395ccefa0d0800000000000000
+      internalID: -3409246059566104676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87909f316da05660800000000000000
+      internalID: 7372583223195375500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b004c815e5d1920800000000000000
+      internalID: 2962627834218023781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9e81ba01458e9e0800000000000000
+      internalID: -1591930037708723748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c96f8415571d1d0800000000000000
+      internalID: -3327749657673163647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcd8dd13b1f1410800000000000000
+      internalID: 1449907506020993841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf5d7148e858240800000000000000
+      internalID: 4793394076392488424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4230388390245a210800000000000000
+      internalID: 1343552671210210084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ae4a97269f67c80800000000000000
+      internalID: -8325192659804820937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc266091479249140800000000000000
+      internalID: 4725447487631286991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e2b72475d40c260800000000000000
+      internalID: 7115772448418246150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7a7852dc813eb10800000000000000
+      internalID: 2009477128114382828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22d592577f91fcd0800000000000000
+      internalID: -2526062581142662613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c37a47c1583b0c30800000000000000
+      internalID: 4326613790906545096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eccafd0a4167c10800000000000000
+      internalID: 2050849361493806605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e68103668073c8b0800000000000000
+      internalID: -5133135427783260443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852c5a34d2689da0800000000000000
+      internalID: -5937887445036292725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8e4b5af0f5a8110800000000000000
+      internalID: 1263927166240090281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30865e949ff01b790800000000000000
+      internalID: -7516208739743602685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249b510cf0223c060800000000000000
+      internalID: 6972454099142162754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a93e7019d91b2460800000000000000
+      internalID: 7217891247866657186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a9a2c071ca61500800000000000000
+      internalID: 366669634665618037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1bc657d8f672c10800000000000000
+      internalID: 2028712810504827313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8d68c869322fd00800000000000000
+      internalID: 1004904796366756045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97690d4561af9d220800000000000000
+      internalID: 2511313241054942841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ebd6c88cbad5280800000000000000
+      internalID: -9052890798107017578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Left Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be85a99cd7635a7d0800000000000000
+      internalID: -2907858070516639509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0559e67425e52f4aa1627f3a5b748cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Walk Left Spritesheet_0: -5730379342700371358
+      BOG_GUARDIAN_01 Walk Left Spritesheet_1: -7350551894820166886
+      BOG_GUARDIAN_01 Walk Left Spritesheet_10: 5488074074012585996
+      BOG_GUARDIAN_01 Walk Left Spritesheet_11: -35431022110318589
+      BOG_GUARDIAN_01 Walk Left Spritesheet_12: 206647289751388082
+      BOG_GUARDIAN_01 Walk Left Spritesheet_13: -446116873055176293
+      BOG_GUARDIAN_01 Walk Left Spritesheet_14: -3409246059566104676
+      BOG_GUARDIAN_01 Walk Left Spritesheet_15: 7372583223195375500
+      BOG_GUARDIAN_01 Walk Left Spritesheet_16: 2962627834218023781
+      BOG_GUARDIAN_01 Walk Left Spritesheet_17: -1591930037708723748
+      BOG_GUARDIAN_01 Walk Left Spritesheet_18: -3327749657673163647
+      BOG_GUARDIAN_01 Walk Left Spritesheet_19: 1449907506020993841
+      BOG_GUARDIAN_01 Walk Left Spritesheet_2: 5691447398548077728
+      BOG_GUARDIAN_01 Walk Left Spritesheet_20: 4793394076392488424
+      BOG_GUARDIAN_01 Walk Left Spritesheet_21: 1343552671210210084
+      BOG_GUARDIAN_01 Walk Left Spritesheet_22: -8325192659804820937
+      BOG_GUARDIAN_01 Walk Left Spritesheet_23: 4725447487631286991
+      BOG_GUARDIAN_01 Walk Left Spritesheet_24: 7115772448418246150
+      BOG_GUARDIAN_01 Walk Left Spritesheet_25: 2009477128114382828
+      BOG_GUARDIAN_01 Walk Left Spritesheet_26: -2526062581142662613
+      BOG_GUARDIAN_01 Walk Left Spritesheet_27: 4326613790906545096
+      BOG_GUARDIAN_01 Walk Left Spritesheet_28: 2050849361493806605
+      BOG_GUARDIAN_01 Walk Left Spritesheet_29: -5133135427783260443
+      BOG_GUARDIAN_01 Walk Left Spritesheet_3: 493593637135736048
+      BOG_GUARDIAN_01 Walk Left Spritesheet_30: -5937887445036292725
+      BOG_GUARDIAN_01 Walk Left Spritesheet_31: 1263927166240090281
+      BOG_GUARDIAN_01 Walk Left Spritesheet_32: -7516208739743602685
+      BOG_GUARDIAN_01 Walk Left Spritesheet_33: 6972454099142162754
+      BOG_GUARDIAN_01 Walk Left Spritesheet_34: 7217891247866657186
+      BOG_GUARDIAN_01 Walk Left Spritesheet_35: 366669634665618037
+      BOG_GUARDIAN_01 Walk Left Spritesheet_36: 2028712810504827313
+      BOG_GUARDIAN_01 Walk Left Spritesheet_37: 1004904796366756045
+      BOG_GUARDIAN_01 Walk Left Spritesheet_38: 2511313241054942841
+      BOG_GUARDIAN_01 Walk Left Spritesheet_39: -9052890798107017578
+      BOG_GUARDIAN_01 Walk Left Spritesheet_4: 3690978784359082946
+      BOG_GUARDIAN_01 Walk Left Spritesheet_40: -2907858070516639509
+      BOG_GUARDIAN_01 Walk Left Spritesheet_5: -3566538344038681012
+      BOG_GUARDIAN_01 Walk Left Spritesheet_6: 9028412752521669184
+      BOG_GUARDIAN_01 Walk Left Spritesheet_7: -3791577893235558568
+      BOG_GUARDIAN_01 Walk Left Spritesheet_8: 1975435404686035014
+      BOG_GUARDIAN_01 Walk Left Spritesheet_9: -3538272817165264510
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

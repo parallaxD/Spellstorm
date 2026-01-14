@@ -31,8 +31,8 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -4.69, y: 1.32, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 5104723262867952535}
   m_Father: {fileID: 0}
@@ -178,7 +178,7 @@ Animator:
   m_GameObject: {fileID: 2221786029468395712}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0b738ea1770fad043b97ecb4972209e8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -219,8 +219,10 @@ MonoBehaviour:
   resumeMoveDistance: 0.01
   animationVelocityThreshold: 0.05
   zoneData:
-    allowedZones: []
+    allowedZones:
+    - 
     canLeaveZone: 1
+  essenceReward: 10
   windBladeProjectilePrefab: {fileID: 5906944589546422025, guid: 41360e6df7249a2489026a1079ee504f, type: 3}
   projectileSpawnPoint: {fileID: 5104723262867952535}
   rangedAttackRange: 8

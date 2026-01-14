@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 2b18111a1f89dec43a44a59f698eedee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -267016763275254028
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_0
+  - first:
+      213: -7482474366540619778
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_1
+  - first:
+      213: 4901504845122317895
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_2
+  - first:
+      213: -2524396998405179957
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_3
+  - first:
+      213: 573417024802401708
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_4
+  - first:
+      213: 361246304198263483
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_5
+  - first:
+      213: 7005325950786550580
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_6
+  - first:
+      213: 5845537693033960201
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_7
+  - first:
+      213: -4842520501539524144
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_8
+  - first:
+      213: 4181019324730121635
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_9
+  - first:
+      213: -2929371099706125145
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_10
+  - first:
+      213: -724780208861303006
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_11
+  - first:
+      213: 4615007300884751315
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_12
+  - first:
+      213: 6359613162040863948
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_13
+  - first:
+      213: 7942668810505183908
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_14
+  - first:
+      213: 30253975648927364
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_15
+  - first:
+      213: 964748474352646163
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_16
+  - first:
+      213: 10812272859118920
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_17
+  - first:
+      213: 4391604311748459620
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_18
+  - first:
+      213: 159143228023705940
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_19
+  - first:
+      213: 2865058599908684275
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_20
+  - first:
+      213: -1876753315887074247
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_21
+  - first:
+      213: -1148629256981311726
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_22
+  - first:
+      213: 7982084917053391546
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_23
+  - first:
+      213: -160490782265987177
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_24
+  - first:
+      213: -2590220375270505480
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_25
+  - first:
+      213: -1771125609975242960
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_26
+  - first:
+      213: 8100431023804762803
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_27
+  - first:
+      213: 6336234469086084665
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_28
+  - first:
+      213: 5092863635856022935
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_29
+  - first:
+      213: -3909614161332669884
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_30
+  - first:
+      213: -1361691516118669788
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_31
+  - first:
+      213: 7904174630840024493
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_32
+  - first:
+      213: -3585834797830814162
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_33
+  - first:
+      213: 9104893334217259126
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_34
+  - first:
+      213: -5209216992983431848
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_35
+  - first:
+      213: 9035724528302336483
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_36
+  - first:
+      213: 1406530784376700557
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_37
+  - first:
+      213: -533323439012212467
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_38
+  - first:
+      213: -4697693460826567792
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_39
+  - first:
+      213: -1749208309068526724
+    second: BOG_GUARDIAN_01 Block Back Spritesheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f667e32bad5b4cf0800000000000000
+      internalID: -267016763275254028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff516d1539e82890800000000000000
+      internalID: -7482474366540619778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e2f56ffa4a50440800000000000000
+      internalID: 4901504845122317895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53ff50e4a87fcd0800000000000000
+      internalID: -2524396998405179957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 26
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2287febf25f700800000000000000
+      internalID: 573417024802401708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 26
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb209268997630500800000000000000
+      internalID: 361246304198263483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 26
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b357026dae73160800000000000000
+      internalID: 7005325950786550580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 26
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90312729f858f1150800000000000000
+      internalID: 5845537693033960201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 26
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1b038b249ebccb0800000000000000
+      internalID: -4842520501539524144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 26
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad15918ce6f50a30800000000000000
+      internalID: 4181019324730121635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 26
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a498ba5188c857d0800000000000000
+      internalID: -2929371099706125145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 26
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fa6967d3011f5f0800000000000000
+      internalID: -724780208861303006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 26
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3e11550bccb0040800000000000000
+      internalID: 4615007300884751315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 26
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc2858e972e14850800000000000000
+      internalID: 6359613162040863948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 26
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a26cba73370a3e60800000000000000
+      internalID: 7942668810505183908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 26
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ef89f94db7b6000800000000000000
+      internalID: 30253975648927364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 26
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318b36f30a9736d00800000000000000
+      internalID: 964748474352646163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 26
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d7bf274b9662000800000000000000
+      internalID: 10812272859118920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 26
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c37d39adc12fc30800000000000000
+      internalID: 4391604311748459620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 26
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45113c63ce3653200800000000000000
+      internalID: 159143228023705940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 26
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13c3ced9bb2c720800000000000000
+      internalID: 2865058599908684275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 26
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934b38b7dce64f5e0800000000000000
+      internalID: -1876753315887074247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 26
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f0207c6cf3f00f0800000000000000
+      internalID: -1148629256981311726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 26
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab288ffe0ff06ce60800000000000000
+      internalID: 7982084917053391546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 26
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79faf4ddb72d5cdf0800000000000000
+      internalID: -160490782265987177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 26
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c502da40bd0cd0800000000000000
+      internalID: -2590220375270505480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 26
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f14dc34a2bb67e0800000000000000
+      internalID: -1771125609975242960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 26
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bacf6529138a6070800000000000000
+      internalID: 8100431023804762803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 26
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e3677cda3dee750800000000000000
+      internalID: 6336234469086084665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 26
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dd3b06e7c7da640800000000000000
+      internalID: 5092863635856022935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 26
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442fde062a24eb9c0800000000000000
+      internalID: -3909614161332669884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4015
+        y: 26
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4266518d7cc4a1de0800000000000000
+      internalID: -1361691516118669788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 26
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadbfd9d2f441bd60800000000000000
+      internalID: 7904174630840024493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 26
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e264f0cff3e8c3ec0800000000000000
+      internalID: -3585834797830814162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67877d76f341b5e70800000000000000
+      internalID: 9104893334217259126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4527
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8554b479eb425b7b0800000000000000
+      internalID: -5209216992983431848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9aebdc597556d70800000000000000
+      internalID: 9035724528302336483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ebc68db40058310800000000000000
+      internalID: 1406530784376700557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01994b68214998f0800000000000000
+      internalID: -533323439012212467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bc1c3dfa07eceb0800000000000000
+      internalID: -4697693460826567792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Block Back Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5167
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b0fc38f4099b7e0800000000000000
+      internalID: -1749208309068526724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Block Back Spritesheet_0: -267016763275254028
+      BOG_GUARDIAN_01 Block Back Spritesheet_1: -7482474366540619778
+      BOG_GUARDIAN_01 Block Back Spritesheet_10: -2929371099706125145
+      BOG_GUARDIAN_01 Block Back Spritesheet_11: -724780208861303006
+      BOG_GUARDIAN_01 Block Back Spritesheet_12: 4615007300884751315
+      BOG_GUARDIAN_01 Block Back Spritesheet_13: 6359613162040863948
+      BOG_GUARDIAN_01 Block Back Spritesheet_14: 7942668810505183908
+      BOG_GUARDIAN_01 Block Back Spritesheet_15: 30253975648927364
+      BOG_GUARDIAN_01 Block Back Spritesheet_16: 964748474352646163
+      BOG_GUARDIAN_01 Block Back Spritesheet_17: 10812272859118920
+      BOG_GUARDIAN_01 Block Back Spritesheet_18: 4391604311748459620
+      BOG_GUARDIAN_01 Block Back Spritesheet_19: 159143228023705940
+      BOG_GUARDIAN_01 Block Back Spritesheet_2: 4901504845122317895
+      BOG_GUARDIAN_01 Block Back Spritesheet_20: 2865058599908684275
+      BOG_GUARDIAN_01 Block Back Spritesheet_21: -1876753315887074247
+      BOG_GUARDIAN_01 Block Back Spritesheet_22: -1148629256981311726
+      BOG_GUARDIAN_01 Block Back Spritesheet_23: 7982084917053391546
+      BOG_GUARDIAN_01 Block Back Spritesheet_24: -160490782265987177
+      BOG_GUARDIAN_01 Block Back Spritesheet_25: -2590220375270505480
+      BOG_GUARDIAN_01 Block Back Spritesheet_26: -1771125609975242960
+      BOG_GUARDIAN_01 Block Back Spritesheet_27: 8100431023804762803
+      BOG_GUARDIAN_01 Block Back Spritesheet_28: 6336234469086084665
+      BOG_GUARDIAN_01 Block Back Spritesheet_29: 5092863635856022935
+      BOG_GUARDIAN_01 Block Back Spritesheet_3: -2524396998405179957
+      BOG_GUARDIAN_01 Block Back Spritesheet_30: -3909614161332669884
+      BOG_GUARDIAN_01 Block Back Spritesheet_31: -1361691516118669788
+      BOG_GUARDIAN_01 Block Back Spritesheet_32: 7904174630840024493
+      BOG_GUARDIAN_01 Block Back Spritesheet_33: -3585834797830814162
+      BOG_GUARDIAN_01 Block Back Spritesheet_34: 9104893334217259126
+      BOG_GUARDIAN_01 Block Back Spritesheet_35: -5209216992983431848
+      BOG_GUARDIAN_01 Block Back Spritesheet_36: 9035724528302336483
+      BOG_GUARDIAN_01 Block Back Spritesheet_37: 1406530784376700557
+      BOG_GUARDIAN_01 Block Back Spritesheet_38: -533323439012212467
+      BOG_GUARDIAN_01 Block Back Spritesheet_39: -4697693460826567792
+      BOG_GUARDIAN_01 Block Back Spritesheet_4: 573417024802401708
+      BOG_GUARDIAN_01 Block Back Spritesheet_40: -1749208309068526724
+      BOG_GUARDIAN_01 Block Back Spritesheet_5: 361246304198263483
+      BOG_GUARDIAN_01 Block Back Spritesheet_6: 7005325950786550580
+      BOG_GUARDIAN_01 Block Back Spritesheet_7: 5845537693033960201
+      BOG_GUARDIAN_01 Block Back Spritesheet_8: -4842520501539524144
+      BOG_GUARDIAN_01 Block Back Spritesheet_9: 4181019324730121635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

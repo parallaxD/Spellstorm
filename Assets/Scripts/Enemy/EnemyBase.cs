@@ -53,6 +53,9 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
 
     [SerializeField] protected EnemyZoneData zoneData;
 
+    [SerializeField] protected int essenceReward = 10;
+
+
     protected virtual void Start()
     {
         if (animator == null) animator = GetComponent<Animator>();
@@ -79,7 +82,6 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
 
     protected virtual void FixedUpdate()
     {
-        // Добавляем проверку на isDying
         if (!IsAlive || isDying || isAttacking) return;
 
         if (IsPlayerInDetectionRange && Player != null)
@@ -256,17 +258,13 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
 
     protected virtual void Die()
     {
-        // Устанавливаем флаг смерти
         isDying = true;
 
-        // Полностью останавливаем врага
         rb.linearVelocity = Vector2.zero;
         rb.angularVelocity = 0f;
 
-        // Отключаем физику или делаем kinematic
         rb.bodyType = RigidbodyType2D.Kinematic;
-        rb.simulated = false; // Или true, если хотите чтобы тело все еще регистрировало коллизии
-
+        rb.simulated = false;
 
         if (attackCoroutine != null)
             StopCoroutine(attackCoroutine);
@@ -276,10 +274,12 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
         shouldMove = false;
         isAttacking = false;
         canAttack = false;
-    
+
         animator.SetBool("isMoving", false);
         animator.SetTrigger("Death");
-       
+
+        EventsManager.TriggerEnemyKilled(essenceReward);
+
         StartCoroutine(DisappearTime());
     }
 

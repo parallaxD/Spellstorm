@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 7b3b6e3f0aed0624591502503ebc7f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4151861620052438394
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_0
+  - first:
+      213: 7679898591496568583
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_1
+  - first:
+      213: -1587750769611426603
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_2
+  - first:
+      213: 3739955132871594669
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_3
+  - first:
+      213: -7805509554034054437
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_4
+  - first:
+      213: 730439745194236798
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_5
+  - first:
+      213: 563852624226459999
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_6
+  - first:
+      213: -2094153796546881422
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_7
+  - first:
+      213: 8441590340904468695
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_8
+  - first:
+      213: 8135683568666197627
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_9
+  - first:
+      213: 6635432035540057946
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_10
+  - first:
+      213: -8680085852484744806
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_11
+  - first:
+      213: -330743561927285184
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_12
+  - first:
+      213: 8719862880243467188
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_13
+  - first:
+      213: -3203953876794818874
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_14
+  - first:
+      213: -9090816867361890605
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_15
+  - first:
+      213: 8847671849015574487
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_16
+  - first:
+      213: 7512980695174575495
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_17
+  - first:
+      213: 1107272095781029930
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_18
+  - first:
+      213: -6451676436112859308
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_19
+  - first:
+      213: -5091353278884484871
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_20
+  - first:
+      213: -1493463244002190639
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_21
+  - first:
+      213: -3442420968744766859
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_22
+  - first:
+      213: 58517517634664552
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_23
+  - first:
+      213: -7068074553383359126
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_24
+  - first:
+      213: -4597286105581384137
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_25
+  - first:
+      213: 570166575268380431
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_26
+  - first:
+      213: 3437528802546562813
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_27
+  - first:
+      213: -416004046379671199
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_28
+  - first:
+      213: -281535552284793475
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_29
+  - first:
+      213: 1610410419207496049
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_30
+  - first:
+      213: -3687561377194844639
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_31
+  - first:
+      213: 7135282064769016239
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_32
+  - first:
+      213: 8308677337999868023
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_33
+  - first:
+      213: -1191846660083531967
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_34
+  - first:
+      213: -137749272424643922
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_35
+  - first:
+      213: 586164948944627109
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_36
+  - first:
+      213: 4087382651860669650
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_37
+  - first:
+      213: 2923297492706818944
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_38
+  - first:
+      213: 4434399520203407508
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_39
+  - first:
+      213: -989885106874361093
+    second: BOG_GUARDIAN_01 Walk Front Spritesheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6825234aadf9166c0800000000000000
+      internalID: -4151861620052438394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ffc21441b749a60800000000000000
+      internalID: 7679898591496568583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d43579561d27f9e0800000000000000
+      internalID: -1587750769611426603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d5b2d06df6e330800000000000000
+      internalID: 3739955132871594669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdae1ec7a624da390800000000000000
+      internalID: -7805509554034054437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b1126041b032a00800000000000000
+      internalID: 730439745194236798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51a0bc69f433d700800000000000000
+      internalID: 563852624226459999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27899c3a73210f2e0800000000000000
+      internalID: -2094153796546881422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0caf880bd862570800000000000000
+      internalID: 8441590340904468695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eb45bd911c7e070800000000000000
+      internalID: 8135683568666197627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fbc91c74ac51c50800000000000000
+      internalID: 6635432035540057946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c0cef7e32a8780800000000000000
+      internalID: -8680085852484744806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046a3979b76f86bf0800000000000000
+      internalID: -330743561927285184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3c60bf61d230970800000000000000
+      internalID: 8719862880243467188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb8e0ace44983d0800000000000000
+      internalID: -3203953876794818874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ded3ce693ee6d180800000000000000
+      internalID: -9090816867361890605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dffbc17bae39ca70800000000000000
+      internalID: 8847671849015574487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7857f340328734860800000000000000
+      internalID: 7512980695174575495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a280bb2ca12dd5f00800000000000000
+      internalID: 1107272095781029930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f1cbbb67a0776a0800000000000000
+      internalID: -6451676436112859308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8e1120b21e759b0800000000000000
+      internalID: -5091353278884484871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da9520a717264be0800000000000000
+      internalID: -1493463244002190639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572bc9e1e501a30d0800000000000000
+      internalID: -3442420968744766859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86870cb4f55efc000800000000000000
+      internalID: 58517517634664552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d6b9754a729ed90800000000000000
+      internalID: -7068074553383359126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e8bf9f4a82330c0800000000000000
+      internalID: -4597286105581384137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f3ca5ba73a9e700800000000000000
+      internalID: 570166575268380431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df636fcab3e84bf20800000000000000
+      internalID: 3437528802546562813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612a6e168e0a3af0800000000000000
+      internalID: -416004046379671199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75eb6628e8c71cf0800000000000000
+      internalID: -281535552284793475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17163737eb3595610800000000000000
+      internalID: 1610410419207496049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ed9d8077623dcc0800000000000000
+      internalID: -3687561377194844639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e5cacb3d950360800000000000000
+      internalID: 7135282064769016239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77002d4840a5e4370800000000000000
+      internalID: 8308677337999868023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3cfef6c5b57fe0800000000000000
+      internalID: -1191846660083531967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea28f0d34cd961ef0800000000000000
+      internalID: -137749272424643922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a521a95ae9722800800000000000000
+      internalID: 586164948944627109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4df31bddc49b830800000000000000
+      internalID: 4087382651860669650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b7491d493a19820800000000000000
+      internalID: 2923297492706818944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49003e18ed62a8d30800000000000000
+      internalID: 4434399520203407508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Walk Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfadd4c6db83342f0800000000000000
+      internalID: -989885106874361093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fc0b39510e302da4ea958e323c561aae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Walk Front Spritesheet_0: -4151861620052438394
+      BOG_GUARDIAN_01 Walk Front Spritesheet_1: 7679898591496568583
+      BOG_GUARDIAN_01 Walk Front Spritesheet_10: 6635432035540057946
+      BOG_GUARDIAN_01 Walk Front Spritesheet_11: -8680085852484744806
+      BOG_GUARDIAN_01 Walk Front Spritesheet_12: -330743561927285184
+      BOG_GUARDIAN_01 Walk Front Spritesheet_13: 8719862880243467188
+      BOG_GUARDIAN_01 Walk Front Spritesheet_14: -3203953876794818874
+      BOG_GUARDIAN_01 Walk Front Spritesheet_15: -9090816867361890605
+      BOG_GUARDIAN_01 Walk Front Spritesheet_16: 8847671849015574487
+      BOG_GUARDIAN_01 Walk Front Spritesheet_17: 7512980695174575495
+      BOG_GUARDIAN_01 Walk Front Spritesheet_18: 1107272095781029930
+      BOG_GUARDIAN_01 Walk Front Spritesheet_19: -6451676436112859308
+      BOG_GUARDIAN_01 Walk Front Spritesheet_2: -1587750769611426603
+      BOG_GUARDIAN_01 Walk Front Spritesheet_20: -5091353278884484871
+      BOG_GUARDIAN_01 Walk Front Spritesheet_21: -1493463244002190639
+      BOG_GUARDIAN_01 Walk Front Spritesheet_22: -3442420968744766859
+      BOG_GUARDIAN_01 Walk Front Spritesheet_23: 58517517634664552
+      BOG_GUARDIAN_01 Walk Front Spritesheet_24: -7068074553383359126
+      BOG_GUARDIAN_01 Walk Front Spritesheet_25: -4597286105581384137
+      BOG_GUARDIAN_01 Walk Front Spritesheet_26: 570166575268380431
+      BOG_GUARDIAN_01 Walk Front Spritesheet_27: 3437528802546562813
+      BOG_GUARDIAN_01 Walk Front Spritesheet_28: -416004046379671199
+      BOG_GUARDIAN_01 Walk Front Spritesheet_29: -281535552284793475
+      BOG_GUARDIAN_01 Walk Front Spritesheet_3: 3739955132871594669
+      BOG_GUARDIAN_01 Walk Front Spritesheet_30: 1610410419207496049
+      BOG_GUARDIAN_01 Walk Front Spritesheet_31: -3687561377194844639
+      BOG_GUARDIAN_01 Walk Front Spritesheet_32: 7135282064769016239
+      BOG_GUARDIAN_01 Walk Front Spritesheet_33: 8308677337999868023
+      BOG_GUARDIAN_01 Walk Front Spritesheet_34: -1191846660083531967
+      BOG_GUARDIAN_01 Walk Front Spritesheet_35: -137749272424643922
+      BOG_GUARDIAN_01 Walk Front Spritesheet_36: 586164948944627109
+      BOG_GUARDIAN_01 Walk Front Spritesheet_37: 4087382651860669650
+      BOG_GUARDIAN_01 Walk Front Spritesheet_38: 2923297492706818944
+      BOG_GUARDIAN_01 Walk Front Spritesheet_39: 4434399520203407508
+      BOG_GUARDIAN_01 Walk Front Spritesheet_4: -7805509554034054437
+      BOG_GUARDIAN_01 Walk Front Spritesheet_40: -989885106874361093
+      BOG_GUARDIAN_01 Walk Front Spritesheet_5: 730439745194236798
+      BOG_GUARDIAN_01 Walk Front Spritesheet_6: 563852624226459999
+      BOG_GUARDIAN_01 Walk Front Spritesheet_7: -2094153796546881422
+      BOG_GUARDIAN_01 Walk Front Spritesheet_8: 8441590340904468695
+      BOG_GUARDIAN_01 Walk Front Spritesheet_9: 8135683568666197627
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

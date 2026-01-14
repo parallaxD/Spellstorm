@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: dbc3c9b41779aa44a945702da557e966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1887519331164507363
+    second: WINDSTALKER_01 Death Front Spritesheet_0
+  - first:
+      213: 8746917011774499246
+    second: WINDSTALKER_01 Death Front Spritesheet_1
+  - first:
+      213: -1775543728133252442
+    second: WINDSTALKER_01 Death Front Spritesheet_2
+  - first:
+      213: -8482747936548728775
+    second: WINDSTALKER_01 Death Front Spritesheet_3
+  - first:
+      213: 4621136529388413200
+    second: WINDSTALKER_01 Death Front Spritesheet_4
+  - first:
+      213: 1570182412183335038
+    second: WINDSTALKER_01 Death Front Spritesheet_5
+  - first:
+      213: 9159599275164234328
+    second: WINDSTALKER_01 Death Front Spritesheet_6
+  - first:
+      213: 8453023246360236099
+    second: WINDSTALKER_01 Death Front Spritesheet_7
+  - first:
+      213: 2621671316058103213
+    second: WINDSTALKER_01 Death Front Spritesheet_8
+  - first:
+      213: 8754162812921101646
+    second: WINDSTALKER_01 Death Front Spritesheet_9
+  - first:
+      213: -1247956120216371370
+    second: WINDSTALKER_01 Death Front Spritesheet_10
+  - first:
+      213: -3472601593582511278
+    second: WINDSTALKER_01 Death Front Spritesheet_11
+  - first:
+      213: -2700486895529864790
+    second: WINDSTALKER_01 Death Front Spritesheet_12
+  - first:
+      213: -7787420587193065745
+    second: WINDSTALKER_01 Death Front Spritesheet_13
+  - first:
+      213: -7202908261549843779
+    second: WINDSTALKER_01 Death Front Spritesheet_14
+  - first:
+      213: 4938199888324535092
+    second: WINDSTALKER_01 Death Front Spritesheet_15
+  - first:
+      213: -1926405506193057751
+    second: WINDSTALKER_01 Death Front Spritesheet_16
+  - first:
+      213: -8801567542275163661
+    second: WINDSTALKER_01 Death Front Spritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13b1473b2f2ec5e0800000000000000
+      internalID: -1887519331164507363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9e3a6ddaa436970800000000000000
+      internalID: 8746917011774499246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aad171f2600c57e0800000000000000
+      internalID: -1775543728133252442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930d5daf1b9374a80800000000000000
+      internalID: -8482747936548728775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01127cc8033912040800000000000000
+      internalID: 4621136529388413200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70f0cea5986ac510800000000000000
+      internalID: 1570182412183335038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852f619d20f6d1f70800000000000000
+      internalID: 9159599275164234328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340db654bdb2f4570800000000000000
+      internalID: 8453023246360236099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad5977fb2c026420800000000000000
+      internalID: 2621671316058103213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Death Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4db81262b80d7970800000000000000
+      internalID: 8754162812921101646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c4d19506186c994fa1b6714af7e0cc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      WINDSTALKER_01 Death Front Spritesheet_0: -1887519331164507363
+      WINDSTALKER_01 Death Front Spritesheet_1: 8746917011774499246
+      WINDSTALKER_01 Death Front Spritesheet_2: -1775543728133252442
+      WINDSTALKER_01 Death Front Spritesheet_3: -8482747936548728775
+      WINDSTALKER_01 Death Front Spritesheet_4: 4621136529388413200
+      WINDSTALKER_01 Death Front Spritesheet_5: 1570182412183335038
+      WINDSTALKER_01 Death Front Spritesheet_6: 9159599275164234328
+      WINDSTALKER_01 Death Front Spritesheet_7: 8453023246360236099
+      WINDSTALKER_01 Death Front Spritesheet_8: 2621671316058103213
+      WINDSTALKER_01 Death Front Spritesheet_9: 8754162812921101646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

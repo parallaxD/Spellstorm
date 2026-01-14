@@ -13,7 +13,17 @@ MonoBehaviour:
   m_Name: CrystalSteppes
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
   locationType: 3
+  locationName: CrystalSteppes
   floorTileset: {fileID: 11400000, guid: 84cb8d12f4305bb41bec3487374ee48e, type: 2}
   backgroundTileset: {fileID: 11400000, guid: d471fa438bef0324fb8b63ab373fbdea, type: 2}
   decorationTileset: {fileID: 11400000, guid: 3e655a5c61881c34cbadca9c0c423c91, type: 2}
   decorationSet: {fileID: 11400000, guid: 7c35eea1ab8ca814b805f54f5e86e922, type: 2}
+  enemySpawnData:
+  - enemyPrefab: {fileID: 2221786029468395712, guid: fa56243ec1a05c24fa1c38724bf8013c, type: 3}
+    minCount: 1
+    maxCount: 0
+    spawnChance: 0.2
+  maxTotalEnemies: 5
+  spawnCheckRadius: 1.5
+  spawnZoneSize: {x: 20, y: 15}
+  spawnZonesCount: 3

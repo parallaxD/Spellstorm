@@ -1,0 +1,2615 @@
+fileFormatVersion: 2
+guid: da28608fd91e6514d8790ba09ac5c522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 522679392402871450
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_0
+  - first:
+      213: 2442305968991525722
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_1
+  - first:
+      213: 7767423478819169005
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_2
+  - first:
+      213: 6513614259336745574
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_3
+  - first:
+      213: 2611134876771913829
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_4
+  - first:
+      213: 5503231695815207774
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_5
+  - first:
+      213: 2390088354742930201
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_6
+  - first:
+      213: 5000268195713633347
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_7
+  - first:
+      213: 2320555741754509650
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_8
+  - first:
+      213: 5361307059677273612
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_9
+  - first:
+      213: -5923310091246960739
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_10
+  - first:
+      213: 5710722826770547301
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_11
+  - first:
+      213: 4519056363652778525
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_12
+  - first:
+      213: -4956661485123322153
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_13
+  - first:
+      213: 6906709986827209315
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_14
+  - first:
+      213: 4573295994093511325
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_15
+  - first:
+      213: -4108009070435793292
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_16
+  - first:
+      213: 7169696908171170119
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_17
+  - first:
+      213: 7724997157101427471
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_18
+  - first:
+      213: -5266864136145859250
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_19
+  - first:
+      213: -434247307559539737
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_20
+  - first:
+      213: -6549006916909235958
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_21
+  - first:
+      213: -471634983743424196
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_22
+  - first:
+      213: -452478887408781658
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_23
+  - first:
+      213: 4062791338305798045
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_24
+  - first:
+      213: 195092394589963661
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_25
+  - first:
+      213: -3288247072330244295
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_26
+  - first:
+      213: 8476585056410555441
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_27
+  - first:
+      213: -7966758807062758648
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_28
+  - first:
+      213: 5182409529143537507
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_29
+  - first:
+      213: -3413231511283343182
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_30
+  - first:
+      213: -296105093801940797
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_31
+  - first:
+      213: 7744400445469094106
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_32
+  - first:
+      213: 4089889676520453220
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_33
+  - first:
+      213: -212300330495904503
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_34
+  - first:
+      213: -408586445149054708
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_35
+  - first:
+      213: -1797408206820989071
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_36
+  - first:
+      213: 7890860795014570274
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_37
+  - first:
+      213: -8933014541367697731
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_38
+  - first:
+      213: -7799896125140177906
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_39
+  - first:
+      213: 8309042563330802514
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_40
+  - first:
+      213: 2288245714671468227
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_41
+  - first:
+      213: -4247811223653215984
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_42
+  - first:
+      213: 1727896322566232970
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_43
+  - first:
+      213: -7193622250578088546
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_44
+  - first:
+      213: 4749072481743421701
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_45
+  - first:
+      213: 7800144522835613943
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_46
+  - first:
+      213: 8065367464785196785
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_47
+  - first:
+      213: 2993521523670689158
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_48
+  - first:
+      213: 4314648747158057092
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_49
+  - first:
+      213: 6262159630989406276
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_50
+  - first:
+      213: 6623282685155960023
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_51
+  - first:
+      213: -615770757077948327
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_52
+  - first:
+      213: -4984913225846536859
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_53
+  - first:
+      213: 175255287819451531
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_54
+  - first:
+      213: -3488550181566950876
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_55
+  - first:
+      213: 293320773719038982
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_56
+  - first:
+      213: -2303921508085976674
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_57
+  - first:
+      213: 8889190825182033815
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_58
+  - first:
+      213: 2941948485417187092
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_59
+  - first:
+      213: 6297627970865029130
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_60
+  - first:
+      213: -1078600656021916721
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_61
+  - first:
+      213: 6100786858144661336
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_62
+  - first:
+      213: -3012101894800493060
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_63
+  - first:
+      213: 3880568748856174508
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_64
+  - first:
+      213: 4202170119060250756
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_65
+  - first:
+      213: -8004608846804047267
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_66
+  - first:
+      213: 2760915614082278384
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_67
+  - first:
+      213: -579997358216788323
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_68
+  - first:
+      213: -7344441498459362186
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_69
+  - first:
+      213: -7687381916447531552
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_70
+  - first:
+      213: 4268673696905312989
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_71
+  - first:
+      213: 7322486308509085954
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_72
+  - first:
+      213: -5519713830258181124
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_73
+  - first:
+      213: 41242716504769802
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_74
+  - first:
+      213: 2373097485742569236
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_75
+  - first:
+      213: 7400078161670723968
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_76
+  - first:
+      213: 6673216497976986231
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_77
+  - first:
+      213: -7648999815307571282
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_78
+  - first:
+      213: 1218474378763441123
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_79
+  - first:
+      213: -8657833516959505844
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_80
+  - first:
+      213: -9154616413605837124
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_81
+  - first:
+      213: -8521203923413546275
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_82
+  - first:
+      213: 6258655028717590843
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_83
+  - first:
+      213: -3564957849969000502
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_84
+  - first:
+      213: -3652321702770233353
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_85
+  - first:
+      213: 3842952322504201896
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_86
+  - first:
+      213: 6155821800266300914
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_87
+  - first:
+      213: 4648114536134721298
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_88
+  - first:
+      213: 6429446259143175736
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_89
+  - first:
+      213: 536367724572546204
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_90
+  - first:
+      213: 3064503673028060554
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_91
+  - first:
+      213: -2235779578466434068
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_92
+  - first:
+      213: -1183418067142963626
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_93
+  - first:
+      213: 5887424830501836184
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_94
+  - first:
+      213: 8966535904489474869
+    second: BOG_GUARDIAN_01 Hit Back Spritesheet_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94179b532ee04700800000000000000
+      internalID: 522679392402871450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b5e82c650d4e120800000000000000
+      internalID: 2442305968991525722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2ab0b108e6bcb60800000000000000
+      internalID: 7767423478819169005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6629fa388a1056a50800000000000000
+      internalID: 6513614259336745574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5609f96065d9c3420800000000000000
+      internalID: 2611134876771913829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6cb9e1186f5c40800000000000000
+      internalID: 5503231695815207774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b004602bc4b2120800000000000000
+      internalID: 2390088354742930201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cc1337e65846540800000000000000
+      internalID: 5000268195713633347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25945ccf625443020800000000000000
+      internalID: 2320555741754509650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e9bd78d50376a40800000000000000
+      internalID: 5361307059677273612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffcb4eadc2ccda0800000000000000
+      internalID: -5923310091246960739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628f5c7720904f40800000000000000
+      internalID: 5710722826770547301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a0e7bd1d9e6be30800000000000000
+      internalID: 4519056363652778525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de3d5b04a6663bb0800000000000000
+      internalID: -4956661485123322153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8a73c32099df50800000000000000
+      internalID: 6906709986827209315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9229ace97c977f30800000000000000
+      internalID: 4573295994093511325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476879ef38b6df6c0800000000000000
+      internalID: -4108009070435793292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74152cee951ef7360800000000000000
+      internalID: 7169696908171170119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bdeef4cf3b43b60800000000000000
+      internalID: 7724997157101427471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d08c429f658e6b0800000000000000
+      internalID: -5266864136145859250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb6e30ef5e39f9f0800000000000000
+      internalID: -434247307559539737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a018c0e38e04d15a0800000000000000
+      internalID: -6549006916909235958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39735a2b7a6479f0800000000000000
+      internalID: -471634983743424196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b2a769d878b9f0800000000000000
+      internalID: -452478887408781658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f3044523fe16830800000000000000
+      internalID: 4062791338305798045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d854aedcf7b15b200800000000000000
+      internalID: 195092394589963661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f9908a5bccd52d0800000000000000
+      internalID: -3288247072330244295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1345cbba231e2a570800000000000000
+      internalID: 8476585056410555441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b3fcd1313607190800000000000000
+      internalID: -7966758807062758648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2339520e9be740800000000000000
+      internalID: 5182409529143537507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b069c94604c1a0d0800000000000000
+      internalID: -3413231511283343182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c860cb6cf504ebf0800000000000000
+      internalID: -296105093801940797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0ff8e6c23a97b60800000000000000
+      internalID: 7744400445469094106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464f98bddf432c830800000000000000
+      internalID: 4089889676520453220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905f71769f1cd0df0800000000000000
+      internalID: -212300330495904503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09d9dcfac8645af0800000000000000
+      internalID: -408586445149054708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177201c42c25e07e0800000000000000
+      internalID: -1797408206820989071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22166e2e518f18d60800000000000000
+      internalID: 7890860795014570274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe11609a9e870480800000000000000
+      internalID: -8933014541367697731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ce210ccc331c390800000000000000
+      internalID: -7799896125140177906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2530fea2036af4370800000000000000
+      internalID: 8309042563330802514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7dc59a5b71cf10800000000000000
+      internalID: 2288245714671468227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119b3da23ebc05c0800000000000000
+      internalID: -4247811223653215984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b9343fc88baf710800000000000000
+      internalID: 1727896322566232970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d62f13dae1b2c90800000000000000
+      internalID: -7193622250578088546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50146eea24818e140800000000000000
+      internalID: 4749072481743421701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f85358dd1eaf3c60800000000000000
+      internalID: 7800144522835613943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6b3812af0fdef60800000000000000
+      internalID: 8065367464785196785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685a0e527ff1b8920800000000000000
+      internalID: 2993521523670689158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480b0f0fc26b0eb30800000000000000
+      internalID: 4314648747158057092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4403aeb8109a7e650800000000000000
+      internalID: 6262159630989406276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d467bfa280aaeb50800000000000000
+      internalID: 6623282685155960023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ab4942c75477f0800000000000000
+      internalID: -615770757077948327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565454115d702dab0800000000000000
+      internalID: -4984913225846536859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cbc7771c1ae6200800000000000000
+      internalID: 175255287819451531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422d39ec71e269fc0800000000000000
+      internalID: -3488550181566950876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c14ca80b5121400800000000000000
+      internalID: 293320773719038982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9137285893d600e0800000000000000
+      internalID: -2303921508085976674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797f2a365ffbc5b70800000000000000
+      internalID: 8889190825182033815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4173ac47f86e3d820800000000000000
+      internalID: 2941948485417187092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0069f2f54ba56750800000000000000
+      internalID: 6297627970865029130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc37f430b6a0801f0800000000000000
+      internalID: -1078600656021916721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f751af2595aa450800000000000000
+      internalID: 6100786858144661336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5b225194dd236d0800000000000000
+      internalID: -3012101894800493060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7ed0a87bc8ad530800000000000000
+      internalID: 3880568748856174508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480e850957b115a30800000000000000
+      internalID: 4202170119060250756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aab400aaae9e090800000000000000
+      internalID: -8004608846804047267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f324308f1eb05620800000000000000
+      internalID: 2760915614082278384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96c2d4c97f63f7f0800000000000000
+      internalID: -579997358216788323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c21b2ae5d431a90800000000000000
+      internalID: -7344441498459362186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed126160eee05590800000000000000
+      internalID: -7687381916447531552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9088
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda38166c106d3b30800000000000000
+      internalID: 4268673696905312989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201785b5082be9560800000000000000
+      internalID: 7322486308509085954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb76ad14890663b0800000000000000
+      internalID: -5519713830258181124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c6da3806829000800000000000000
+      internalID: 41242716504769802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417fe0f079feee020800000000000000
+      internalID: 2373097485742569236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089528871eb52b660800000000000000
+      internalID: 7400078161670723968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac1377c070c9c50800000000000000
+      internalID: 6673216497976986231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf4091b13b49d590800000000000000
+      internalID: -7648999815307571282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e31c12edf3e8e010800000000000000
+      internalID: 1218474378763441123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c426829994239d780800000000000000
+      internalID: -8657833516959505844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6401400e444f080800000000000000
+      internalID: -9154616413605837124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda454ecd2a9eb980800000000000000
+      internalID: -8521203923413546275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b399c6eb6953bd650800000000000000
+      internalID: 6258655028717590843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf7b5139b9b68ec0800000000000000
+      internalID: -3564957849969000502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff2eec13c8505dc0800000000000000
+      internalID: -3652321702770233353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11008
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a610a7c6c8e45530800000000000000
+      internalID: 3842952322504201896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 11136
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd7a79ff4fdd6550800000000000000
+      internalID: 6155821800266300914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 11264
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fb3a93b8b618040800000000000000
+      internalID: 4648114536134721298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e61bade4bf93950800000000000000
+      internalID: 6429446259143175736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94912c8a9f817700800000000000000
+      internalID: 536367724572546204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11648
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85a7bbaadd478a20800000000000000
+      internalID: 3064503673028060554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce38f6da15ae8f0e0800000000000000
+      internalID: -2235779578466434068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11904
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e0a27b987a39fe0800000000000000
+      internalID: -1183418067142963626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 12032
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89550efb0b554b150800000000000000
+      internalID: 5887424830501836184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Hit Back Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 12160
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b81ecf5e88f6c70800000000000000
+      internalID: 8966535904489474869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 582953bdb0942464cb71e911b1022c11
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Hit Back Spritesheet_0: 522679392402871450
+      BOG_GUARDIAN_01 Hit Back Spritesheet_1: 2442305968991525722
+      BOG_GUARDIAN_01 Hit Back Spritesheet_10: -5923310091246960739
+      BOG_GUARDIAN_01 Hit Back Spritesheet_11: 5710722826770547301
+      BOG_GUARDIAN_01 Hit Back Spritesheet_12: 4519056363652778525
+      BOG_GUARDIAN_01 Hit Back Spritesheet_13: -4956661485123322153
+      BOG_GUARDIAN_01 Hit Back Spritesheet_14: 6906709986827209315
+      BOG_GUARDIAN_01 Hit Back Spritesheet_15: 4573295994093511325
+      BOG_GUARDIAN_01 Hit Back Spritesheet_16: -4108009070435793292
+      BOG_GUARDIAN_01 Hit Back Spritesheet_17: 7169696908171170119
+      BOG_GUARDIAN_01 Hit Back Spritesheet_18: 7724997157101427471
+      BOG_GUARDIAN_01 Hit Back Spritesheet_19: -5266864136145859250
+      BOG_GUARDIAN_01 Hit Back Spritesheet_2: 7767423478819169005
+      BOG_GUARDIAN_01 Hit Back Spritesheet_20: -434247307559539737
+      BOG_GUARDIAN_01 Hit Back Spritesheet_21: -6549006916909235958
+      BOG_GUARDIAN_01 Hit Back Spritesheet_22: -471634983743424196
+      BOG_GUARDIAN_01 Hit Back Spritesheet_23: -452478887408781658
+      BOG_GUARDIAN_01 Hit Back Spritesheet_24: 4062791338305798045
+      BOG_GUARDIAN_01 Hit Back Spritesheet_25: 195092394589963661
+      BOG_GUARDIAN_01 Hit Back Spritesheet_26: -3288247072330244295
+      BOG_GUARDIAN_01 Hit Back Spritesheet_27: 8476585056410555441
+      BOG_GUARDIAN_01 Hit Back Spritesheet_28: -7966758807062758648
+      BOG_GUARDIAN_01 Hit Back Spritesheet_29: 5182409529143537507
+      BOG_GUARDIAN_01 Hit Back Spritesheet_3: 6513614259336745574
+      BOG_GUARDIAN_01 Hit Back Spritesheet_30: -3413231511283343182
+      BOG_GUARDIAN_01 Hit Back Spritesheet_31: -296105093801940797
+      BOG_GUARDIAN_01 Hit Back Spritesheet_32: 7744400445469094106
+      BOG_GUARDIAN_01 Hit Back Spritesheet_33: 4089889676520453220
+      BOG_GUARDIAN_01 Hit Back Spritesheet_34: -212300330495904503
+      BOG_GUARDIAN_01 Hit Back Spritesheet_35: -408586445149054708
+      BOG_GUARDIAN_01 Hit Back Spritesheet_36: -1797408206820989071
+      BOG_GUARDIAN_01 Hit Back Spritesheet_37: 7890860795014570274
+      BOG_GUARDIAN_01 Hit Back Spritesheet_38: -8933014541367697731
+      BOG_GUARDIAN_01 Hit Back Spritesheet_39: -7799896125140177906
+      BOG_GUARDIAN_01 Hit Back Spritesheet_4: 2611134876771913829
+      BOG_GUARDIAN_01 Hit Back Spritesheet_40: 8309042563330802514
+      BOG_GUARDIAN_01 Hit Back Spritesheet_41: 2288245714671468227
+      BOG_GUARDIAN_01 Hit Back Spritesheet_42: -4247811223653215984
+      BOG_GUARDIAN_01 Hit Back Spritesheet_43: 1727896322566232970
+      BOG_GUARDIAN_01 Hit Back Spritesheet_44: -7193622250578088546
+      BOG_GUARDIAN_01 Hit Back Spritesheet_45: 4749072481743421701
+      BOG_GUARDIAN_01 Hit Back Spritesheet_46: 7800144522835613943
+      BOG_GUARDIAN_01 Hit Back Spritesheet_47: 8065367464785196785
+      BOG_GUARDIAN_01 Hit Back Spritesheet_48: 2993521523670689158
+      BOG_GUARDIAN_01 Hit Back Spritesheet_49: 4314648747158057092
+      BOG_GUARDIAN_01 Hit Back Spritesheet_5: 5503231695815207774
+      BOG_GUARDIAN_01 Hit Back Spritesheet_50: 6262159630989406276
+      BOG_GUARDIAN_01 Hit Back Spritesheet_51: 6623282685155960023
+      BOG_GUARDIAN_01 Hit Back Spritesheet_52: -615770757077948327
+      BOG_GUARDIAN_01 Hit Back Spritesheet_53: -4984913225846536859
+      BOG_GUARDIAN_01 Hit Back Spritesheet_54: 175255287819451531
+      BOG_GUARDIAN_01 Hit Back Spritesheet_55: -3488550181566950876
+      BOG_GUARDIAN_01 Hit Back Spritesheet_56: 293320773719038982
+      BOG_GUARDIAN_01 Hit Back Spritesheet_57: -2303921508085976674
+      BOG_GUARDIAN_01 Hit Back Spritesheet_58: 8889190825182033815
+      BOG_GUARDIAN_01 Hit Back Spritesheet_59: 2941948485417187092
+      BOG_GUARDIAN_01 Hit Back Spritesheet_6: 2390088354742930201
+      BOG_GUARDIAN_01 Hit Back Spritesheet_60: 6297627970865029130
+      BOG_GUARDIAN_01 Hit Back Spritesheet_61: -1078600656021916721
+      BOG_GUARDIAN_01 Hit Back Spritesheet_62: 6100786858144661336
+      BOG_GUARDIAN_01 Hit Back Spritesheet_63: -3012101894800493060
+      BOG_GUARDIAN_01 Hit Back Spritesheet_64: 3880568748856174508
+      BOG_GUARDIAN_01 Hit Back Spritesheet_65: 4202170119060250756
+      BOG_GUARDIAN_01 Hit Back Spritesheet_66: -8004608846804047267
+      BOG_GUARDIAN_01 Hit Back Spritesheet_67: 2760915614082278384
+      BOG_GUARDIAN_01 Hit Back Spritesheet_68: -579997358216788323
+      BOG_GUARDIAN_01 Hit Back Spritesheet_69: -7344441498459362186
+      BOG_GUARDIAN_01 Hit Back Spritesheet_7: 5000268195713633347
+      BOG_GUARDIAN_01 Hit Back Spritesheet_70: -7687381916447531552
+      BOG_GUARDIAN_01 Hit Back Spritesheet_71: 4268673696905312989
+      BOG_GUARDIAN_01 Hit Back Spritesheet_72: 7322486308509085954
+      BOG_GUARDIAN_01 Hit Back Spritesheet_73: -5519713830258181124
+      BOG_GUARDIAN_01 Hit Back Spritesheet_74: 41242716504769802
+      BOG_GUARDIAN_01 Hit Back Spritesheet_75: 2373097485742569236
+      BOG_GUARDIAN_01 Hit Back Spritesheet_76: 7400078161670723968
+      BOG_GUARDIAN_01 Hit Back Spritesheet_77: 6673216497976986231
+      BOG_GUARDIAN_01 Hit Back Spritesheet_78: -7648999815307571282
+      BOG_GUARDIAN_01 Hit Back Spritesheet_79: 1218474378763441123
+      BOG_GUARDIAN_01 Hit Back Spritesheet_8: 2320555741754509650
+      BOG_GUARDIAN_01 Hit Back Spritesheet_80: -8657833516959505844
+      BOG_GUARDIAN_01 Hit Back Spritesheet_81: -9154616413605837124
+      BOG_GUARDIAN_01 Hit Back Spritesheet_82: -8521203923413546275
+      BOG_GUARDIAN_01 Hit Back Spritesheet_83: 6258655028717590843
+      BOG_GUARDIAN_01 Hit Back Spritesheet_84: -3564957849969000502
+      BOG_GUARDIAN_01 Hit Back Spritesheet_85: -3652321702770233353
+      BOG_GUARDIAN_01 Hit Back Spritesheet_86: 3842952322504201896
+      BOG_GUARDIAN_01 Hit Back Spritesheet_87: 6155821800266300914
+      BOG_GUARDIAN_01 Hit Back Spritesheet_88: 4648114536134721298
+      BOG_GUARDIAN_01 Hit Back Spritesheet_89: 6429446259143175736
+      BOG_GUARDIAN_01 Hit Back Spritesheet_9: 5361307059677273612
+      BOG_GUARDIAN_01 Hit Back Spritesheet_90: 536367724572546204
+      BOG_GUARDIAN_01 Hit Back Spritesheet_91: 3064503673028060554
+      BOG_GUARDIAN_01 Hit Back Spritesheet_92: -2235779578466434068
+      BOG_GUARDIAN_01 Hit Back Spritesheet_93: -1183418067142963626
+      BOG_GUARDIAN_01 Hit Back Spritesheet_94: 5887424830501836184
+      BOG_GUARDIAN_01 Hit Back Spritesheet_95: 8966535904489474869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -271,19 +271,16 @@ public class BogGuardian : EnemyBase
 
     private void CheckEarthEnhancement()
     {
-        // Проверяем, стоим ли мы на земле
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, 1f);
         bool wasOnEarth = isOnEarth;
         isOnEarth = hit.collider != null && hit.collider.CompareTag("Ground");
 
         if (isOnEarth && !wasOnEarth)
         {
-            // Вступаем на землю - получаем усиление
             OnEnterEarth();
         }
         else if (!isOnEarth && wasOnEarth)
         {
-            // Сходим с земли - теряем усиление
             OnLeaveEarth();
         }
     }
@@ -293,10 +290,8 @@ public class BogGuardian : EnemyBase
         Debug.Log($"{gameObject.name} entered earth - gaining enhancement");
         currentArmor = baseArmor + earthEnhancementArmor;
 
-        // Визуальный эффект усиления
         StartCoroutine(EarthEnhancementEffect());
 
-        // Начинаем регенерацию
         StartCoroutine(EarthRegeneration());
     }
 
@@ -308,7 +303,6 @@ public class BogGuardian : EnemyBase
 
     private IEnumerator EarthEnhancementEffect()
     {
-        // Можно добавить particle effect или изменение цвета
         var spriteRenderer = GetComponent<SpriteRenderer>();
         Color originalColor = spriteRenderer.color;
         Color earthColor = new Color(0.6f, 0.4f, 0.2f, 1f);
@@ -317,7 +311,6 @@ public class BogGuardian : EnemyBase
 
         while (isOnEarth && IsAlive && !isDying)
         {
-            // Пульсирующий эффект
             float pulse = Mathf.PingPong(Time.time * 2f, 0.2f);
             spriteRenderer.color = Color.Lerp(originalColor, earthColor, 0.3f + pulse);
             yield return null;
@@ -352,11 +345,13 @@ public class BogGuardian : EnemyBase
         }
 
         animator.SetTrigger(projectileAnimTrigger);
+        
 
         Vector2 direction = (Player.position - transform.position).normalized;
         UpdateAnimatorParameters(direction);
+        UpdateAttackAnimation(direction);
 
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1f);
 
         if (earthProjectilePrefab != null)
         {
@@ -764,16 +759,20 @@ public class BogGuardian : EnemyBase
         if (animator == null) return;
 
 
-        animator.SetFloat("MoveX", moveDirection.x);
-        animator.SetFloat("MoveY", moveDirection.y);
+        animator.SetFloat("moveX", moveDirection.x);
+        animator.SetFloat("moveY", moveDirection.y);
+        animator.SetFloat("lastMoveX", moveDirection.x);
+        animator.SetFloat("lastMoveY", moveDirection.y);
 
-        // Для анимаций атак
         animator.SetBool("IsOnEarth", isOnEarth);
     }
 
+
     protected override void UpdateAttackAnimation(Vector2 attackDirection)
     {
-        UpdateAnimatorParameters(attackDirection);
+        animator.SetFloat("lastMoveX", attackDirection.x);
+        animator.SetFloat("lastMoveY", attackDirection.y);
+        animator.SetTrigger("Attack");
     }
 
     protected override string GetAttackAnimationName(Vector2 direction)
@@ -797,7 +796,6 @@ public class BogGuardian : EnemyBase
         Gizmos.color = Color.magenta;
         Gizmos.DrawWireSphere(transform.position, quicksandTrapRange);
 
-        // Радиус усиления от земли
         if (isOnEarth)
         {
             Gizmos.color = new Color(0.6f, 0.4f, 0.2f, 0.3f);

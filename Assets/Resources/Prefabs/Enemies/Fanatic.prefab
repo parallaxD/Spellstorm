@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 4195849719055475075}
   - component: {fileID: 7891593610999654132}
   - component: {fileID: 580242082316169954}
-  - component: {fileID: 5289821347614732386}
+  - component: {fileID: 3742755699793511533}
   m_Layer: 0
   m_Name: Fanatic
   m_TagString: Enemy
@@ -159,7 +159,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.28, y: 1.28}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 0.27, y: 0.64}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -197,10 +197,11 @@ MonoBehaviour:
   animationVelocityThreshold: 0.05
   zoneData:
     allowedZones:
-    - 
+    - FireZone
     canLeaveZone: 1
+  essenceReward: 10
   personalStoppingDistance: 1.2
---- !u!95 &5289821347614732386
+--- !u!95 &3742755699793511533
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0

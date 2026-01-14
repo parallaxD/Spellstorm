@@ -1,0 +1,1679 @@
+fileFormatVersion: 2
+guid: 2087583670d4cad46836ae3d046cbefd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8487324321397911642
+    second: WINDSTALKER_01 Idle Right Spritesheet_0
+  - first:
+      213: 4494898168465044856
+    second: WINDSTALKER_01 Idle Right Spritesheet_1
+  - first:
+      213: 1461574065747328961
+    second: WINDSTALKER_01 Idle Right Spritesheet_2
+  - first:
+      213: 3476647100532288103
+    second: WINDSTALKER_01 Idle Right Spritesheet_3
+  - first:
+      213: -4528960950476372826
+    second: WINDSTALKER_01 Idle Right Spritesheet_4
+  - first:
+      213: 300315095187656363
+    second: WINDSTALKER_01 Idle Right Spritesheet_5
+  - first:
+      213: 647746176952163754
+    second: WINDSTALKER_01 Idle Right Spritesheet_6
+  - first:
+      213: -6299115904899193083
+    second: WINDSTALKER_01 Idle Right Spritesheet_7
+  - first:
+      213: 8298903453183888248
+    second: WINDSTALKER_01 Idle Right Spritesheet_8
+  - first:
+      213: -6494951444233765814
+    second: WINDSTALKER_01 Idle Right Spritesheet_9
+  - first:
+      213: -123615726213500661
+    second: WINDSTALKER_01 Idle Right Spritesheet_10
+  - first:
+      213: 6578673704909581886
+    second: WINDSTALKER_01 Idle Right Spritesheet_11
+  - first:
+      213: 2445942685126604549
+    second: WINDSTALKER_01 Idle Right Spritesheet_12
+  - first:
+      213: -3006851365877794846
+    second: WINDSTALKER_01 Idle Right Spritesheet_13
+  - first:
+      213: 4105450363318023067
+    second: WINDSTALKER_01 Idle Right Spritesheet_14
+  - first:
+      213: 6590912461382256129
+    second: WINDSTALKER_01 Idle Right Spritesheet_15
+  - first:
+      213: -4695620896784230798
+    second: WINDSTALKER_01 Idle Right Spritesheet_16
+  - first:
+      213: -795280453881442507
+    second: WINDSTALKER_01 Idle Right Spritesheet_17
+  - first:
+      213: -1916065967635064879
+    second: WINDSTALKER_01 Idle Right Spritesheet_18
+  - first:
+      213: -2361887048553262791
+    second: WINDSTALKER_01 Idle Right Spritesheet_19
+  - first:
+      213: -5258091716117893899
+    second: WINDSTALKER_01 Idle Right Spritesheet_20
+  - first:
+      213: -4057090237499313644
+    second: WINDSTALKER_01 Idle Right Spritesheet_21
+  - first:
+      213: 2680463267151888867
+    second: WINDSTALKER_01 Idle Right Spritesheet_22
+  - first:
+      213: 8853190932175835071
+    second: WINDSTALKER_01 Idle Right Spritesheet_23
+  - first:
+      213: 715898671952625981
+    second: WINDSTALKER_01 Idle Right Spritesheet_24
+  - first:
+      213: -6998879282479399482
+    second: WINDSTALKER_01 Idle Right Spritesheet_25
+  - first:
+      213: 6662940455338088905
+    second: WINDSTALKER_01 Idle Right Spritesheet_26
+  - first:
+      213: 6482856745859247311
+    second: WINDSTALKER_01 Idle Right Spritesheet_27
+  - first:
+      213: 5241091400570520048
+    second: WINDSTALKER_01 Idle Right Spritesheet_28
+  - first:
+      213: -129643056936921246
+    second: WINDSTALKER_01 Idle Right Spritesheet_29
+  - first:
+      213: 6791459317994422731
+    second: WINDSTALKER_01 Idle Right Spritesheet_30
+  - first:
+      213: -5585293658179421727
+    second: WINDSTALKER_01 Idle Right Spritesheet_31
+  - first:
+      213: -1730859686532540292
+    second: WINDSTALKER_01 Idle Right Spritesheet_32
+  - first:
+      213: 6633791319617051410
+    second: WINDSTALKER_01 Idle Right Spritesheet_33
+  - first:
+      213: -6039298312511815070
+    second: WINDSTALKER_01 Idle Right Spritesheet_34
+  - first:
+      213: 6662112707808549707
+    second: WINDSTALKER_01 Idle Right Spritesheet_35
+  - first:
+      213: 3610393095538361706
+    second: WINDSTALKER_01 Idle Right Spritesheet_36
+  - first:
+      213: -967897426040061596
+    second: WINDSTALKER_01 Idle Right Spritesheet_37
+  - first:
+      213: 8622985122142909490
+    second: WINDSTALKER_01 Idle Right Spritesheet_38
+  - first:
+      213: 2909542653418605755
+    second: WINDSTALKER_01 Idle Right Spritesheet_39
+  - first:
+      213: -3971763504561261819
+    second: WINDSTALKER_01 Idle Right Spritesheet_40
+  - first:
+      213: -152489467437029772
+    second: WINDSTALKER_01 Idle Right Spritesheet_41
+  - first:
+      213: -1959587109365034237
+    second: WINDSTALKER_01 Idle Right Spritesheet_42
+  - first:
+      213: 548744120143643644
+    second: WINDSTALKER_01 Idle Right Spritesheet_43
+  - first:
+      213: 826317610351373476
+    second: WINDSTALKER_01 Idle Right Spritesheet_44
+  - first:
+      213: 3980509819925894362
+    second: WINDSTALKER_01 Idle Right Spritesheet_45
+  - first:
+      213: -6484577925258325423
+    second: WINDSTALKER_01 Idle Right Spritesheet_46
+  - first:
+      213: 602251174396841216
+    second: WINDSTALKER_01 Idle Right Spritesheet_47
+  - first:
+      213: 3651464336333447126
+    second: WINDSTALKER_01 Idle Right Spritesheet_48
+  - first:
+      213: -4180717401545113760
+    second: WINDSTALKER_01 Idle Right Spritesheet_49
+  - first:
+      213: -7901528519329737610
+    second: WINDSTALKER_01 Idle Right Spritesheet_50
+  - first:
+      213: -989848351634458479
+    second: WINDSTALKER_01 Idle Right Spritesheet_51
+  - first:
+      213: 7818182323198618390
+    second: WINDSTALKER_01 Idle Right Spritesheet_52
+  - first:
+      213: -7119084719012094626
+    second: WINDSTALKER_01 Idle Right Spritesheet_53
+  - first:
+      213: 7726028199827003965
+    second: WINDSTALKER_01 Idle Right Spritesheet_54
+  - first:
+      213: 7033043332892362758
+    second: WINDSTALKER_01 Idle Right Spritesheet_55
+  - first:
+      213: 1554917016078678351
+    second: WINDSTALKER_01 Idle Right Spritesheet_56
+  - first:
+      213: -8381732481290536795
+    second: WINDSTALKER_01 Idle Right Spritesheet_57
+  - first:
+      213: 2288018690267380260
+    second: WINDSTALKER_01 Idle Right Spritesheet_58
+  - first:
+      213: 1173059103533392287
+    second: WINDSTALKER_01 Idle Right Spritesheet_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50b476a08809c570800000000000000
+      internalID: 8487324321397911642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b9e8b116116e30800000000000000
+      internalID: 4494898168465044856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cffac97edd884410800000000000000
+      internalID: 1461574065747328961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a6e9c2e188f3030800000000000000
+      internalID: 3476647100532288103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a48d31d206e521c0800000000000000
+      internalID: -4528960950476372826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae0959ecfeea2400800000000000000
+      internalID: 300315095187656363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadd9dd47b14df800800000000000000
+      internalID: 647746176952163754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5076879657b0598a0800000000000000
+      internalID: -6299115904899193083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bc940a8b0ab2370800000000000000
+      internalID: 8298903453183888248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c390db21c4dd5a0800000000000000
+      internalID: -6494951444233765814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b017466e624d84ef0800000000000000
+      internalID: -123615726213500661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ea65a11e42c4b50800000000000000
+      internalID: 6578673704909581886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507bfe7b9ebb1f120800000000000000
+      internalID: 2445942685126604549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b47c1d948546d0800000000000000
+      internalID: -3006851365877794846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93b1949a5d79f830800000000000000
+      internalID: 4105450363318023067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1068266a6ff977b50800000000000000
+      internalID: 6590912461382256129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276564f3cadc5deb0800000000000000
+      internalID: -4695620896784230798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fc59904a896f4f0800000000000000
+      internalID: -795280453881442507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d795e87724c865e0800000000000000
+      internalID: -1916065967635064879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931136f3e34e83fd0800000000000000
+      internalID: -2361887048553262791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc6e5851718707b0800000000000000
+      internalID: -5258091716117893899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412f524ace152b7c0800000000000000
+      internalID: -4057090237499313644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e14218c32be23520800000000000000
+      internalID: 2680463267151888867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfcc012f3adcda70800000000000000
+      internalID: 8853190932175835071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3109e49c026fe900800000000000000
+      internalID: 715898671952625981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd79fdcf5cfede90800000000000000
+      internalID: -6998879282479399482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c99108da05877c50800000000000000
+      internalID: 6662940455338088905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc6faadcdbb7f950800000000000000
+      internalID: 6482856745859247311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f14c5e3cd81cb840800000000000000
+      internalID: 5241091400570520048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267ddab935a633ef0800000000000000
+      internalID: -129643056936921246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1039b544c104e50800000000000000
+      internalID: 6791459317994422731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e939f1920d0d72b0800000000000000
+      internalID: -5585293658179421727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c781f2c1940caf7e0800000000000000
+      internalID: -1730859686532540292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b18dfce06ff0c50800000000000000
+      internalID: 6633791319617051410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620e1eae2a103ca0800000000000000
+      internalID: -6039298312511815070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b5b8ad534947c50800000000000000
+      internalID: 6662112707808549707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6546174461ba1230800000000000000
+      internalID: 3610393095538361706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4610edd4b665192f0800000000000000
+      internalID: -967897426040061596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2347ec4384ffaa770800000000000000
+      internalID: 8622985122142909490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc0ddbb0a5c06820800000000000000
+      internalID: 2909542653418605755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f3cac22671e8c0800000000000000
+      internalID: -3971763504561261819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4766d6523af32edf0800000000000000
+      internalID: -152489467437029772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303dcd708e52ec4e0800000000000000
+      internalID: -1959587109365034237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf30fb1bed78d9700800000000000000
+      internalID: 548744120143643644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aca4a41d7ba77b00800000000000000
+      internalID: 826317610351373476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad413a1779c9d3730800000000000000
+      internalID: 3980509819925894362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15253a6dbb62206a0800000000000000
+      internalID: -6484577925258325423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4c739040ab5800800000000000000
+      internalID: 602251174396841216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df9925b77b9ca230800000000000000
+      internalID: 3651464336333447126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ffb967cab1bf5c0800000000000000
+      internalID: -4180717401545113760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6749bbefca1285290800000000000000
+      internalID: -7901528519329737610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198725b2b2a5342f0800000000000000
+      internalID: -989848351634458479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bed738663cf7c60800000000000000
+      internalID: 7818182323198618390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d5f55aa2ee33d90800000000000000
+      internalID: -7119084719012094626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ad657a6bd583b60800000000000000
+      internalID: 7726028199827003965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6088afa06a36a9160800000000000000
+      internalID: 7033043332892362758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49749ea9cc249510800000000000000
+      internalID: 1554917016078678351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8f25277ba1eab80800000000000000
+      internalID: -8381732481290536795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a77d850eca0cf10800000000000000
+      internalID: 2288018690267380260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WINDSTALKER_01 Idle Right Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9165ae1a0b874010800000000000000
+      internalID: 1173059103533392287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cb122d6bcb1f08c46b1a2404a69beb71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      WINDSTALKER_01 Idle Right Spritesheet_0: 8487324321397911642
+      WINDSTALKER_01 Idle Right Spritesheet_1: 4494898168465044856
+      WINDSTALKER_01 Idle Right Spritesheet_10: -123615726213500661
+      WINDSTALKER_01 Idle Right Spritesheet_11: 6578673704909581886
+      WINDSTALKER_01 Idle Right Spritesheet_12: 2445942685126604549
+      WINDSTALKER_01 Idle Right Spritesheet_13: -3006851365877794846
+      WINDSTALKER_01 Idle Right Spritesheet_14: 4105450363318023067
+      WINDSTALKER_01 Idle Right Spritesheet_15: 6590912461382256129
+      WINDSTALKER_01 Idle Right Spritesheet_16: -4695620896784230798
+      WINDSTALKER_01 Idle Right Spritesheet_17: -795280453881442507
+      WINDSTALKER_01 Idle Right Spritesheet_18: -1916065967635064879
+      WINDSTALKER_01 Idle Right Spritesheet_19: -2361887048553262791
+      WINDSTALKER_01 Idle Right Spritesheet_2: 1461574065747328961
+      WINDSTALKER_01 Idle Right Spritesheet_20: -5258091716117893899
+      WINDSTALKER_01 Idle Right Spritesheet_21: -4057090237499313644
+      WINDSTALKER_01 Idle Right Spritesheet_22: 2680463267151888867
+      WINDSTALKER_01 Idle Right Spritesheet_23: 8853190932175835071
+      WINDSTALKER_01 Idle Right Spritesheet_24: 715898671952625981
+      WINDSTALKER_01 Idle Right Spritesheet_25: -6998879282479399482
+      WINDSTALKER_01 Idle Right Spritesheet_26: 6662940455338088905
+      WINDSTALKER_01 Idle Right Spritesheet_27: 6482856745859247311
+      WINDSTALKER_01 Idle Right Spritesheet_28: 5241091400570520048
+      WINDSTALKER_01 Idle Right Spritesheet_29: -129643056936921246
+      WINDSTALKER_01 Idle Right Spritesheet_3: 3476647100532288103
+      WINDSTALKER_01 Idle Right Spritesheet_30: 6791459317994422731
+      WINDSTALKER_01 Idle Right Spritesheet_31: -5585293658179421727
+      WINDSTALKER_01 Idle Right Spritesheet_32: -1730859686532540292
+      WINDSTALKER_01 Idle Right Spritesheet_33: 6633791319617051410
+      WINDSTALKER_01 Idle Right Spritesheet_34: -6039298312511815070
+      WINDSTALKER_01 Idle Right Spritesheet_35: 6662112707808549707
+      WINDSTALKER_01 Idle Right Spritesheet_36: 3610393095538361706
+      WINDSTALKER_01 Idle Right Spritesheet_37: -967897426040061596
+      WINDSTALKER_01 Idle Right Spritesheet_38: 8622985122142909490
+      WINDSTALKER_01 Idle Right Spritesheet_39: 2909542653418605755
+      WINDSTALKER_01 Idle Right Spritesheet_4: -4528960950476372826
+      WINDSTALKER_01 Idle Right Spritesheet_40: -3971763504561261819
+      WINDSTALKER_01 Idle Right Spritesheet_41: -152489467437029772
+      WINDSTALKER_01 Idle Right Spritesheet_42: -1959587109365034237
+      WINDSTALKER_01 Idle Right Spritesheet_43: 548744120143643644
+      WINDSTALKER_01 Idle Right Spritesheet_44: 826317610351373476
+      WINDSTALKER_01 Idle Right Spritesheet_45: 3980509819925894362
+      WINDSTALKER_01 Idle Right Spritesheet_46: -6484577925258325423
+      WINDSTALKER_01 Idle Right Spritesheet_47: 602251174396841216
+      WINDSTALKER_01 Idle Right Spritesheet_48: 3651464336333447126
+      WINDSTALKER_01 Idle Right Spritesheet_49: -4180717401545113760
+      WINDSTALKER_01 Idle Right Spritesheet_5: 300315095187656363
+      WINDSTALKER_01 Idle Right Spritesheet_50: -7901528519329737610
+      WINDSTALKER_01 Idle Right Spritesheet_51: -989848351634458479
+      WINDSTALKER_01 Idle Right Spritesheet_52: 7818182323198618390
+      WINDSTALKER_01 Idle Right Spritesheet_53: -7119084719012094626
+      WINDSTALKER_01 Idle Right Spritesheet_54: 7726028199827003965
+      WINDSTALKER_01 Idle Right Spritesheet_55: 7033043332892362758
+      WINDSTALKER_01 Idle Right Spritesheet_56: 1554917016078678351
+      WINDSTALKER_01 Idle Right Spritesheet_57: -8381732481290536795
+      WINDSTALKER_01 Idle Right Spritesheet_58: 2288018690267380260
+      WINDSTALKER_01 Idle Right Spritesheet_59: 1173059103533392287
+      WINDSTALKER_01 Idle Right Spritesheet_6: 647746176952163754
+      WINDSTALKER_01 Idle Right Spritesheet_7: -6299115904899193083
+      WINDSTALKER_01 Idle Right Spritesheet_8: 8298903453183888248
+      WINDSTALKER_01 Idle Right Spritesheet_9: -6494951444233765814
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

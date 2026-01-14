@@ -201,6 +201,8 @@ public class WindStalker : EnemyBase
         Quaternion spreadRotation = Quaternion.Euler(0, 0, spreadAngle);
         direction = spreadRotation * direction;
 
+        UpdateAttackAnimation(direction);
+
 
         GameObject projectile = Instantiate(
             windBladeProjectilePrefab,
@@ -396,7 +398,9 @@ public class WindStalker : EnemyBase
 
     protected override void UpdateAttackAnimation(Vector2 attackDirection)
     {
-        UpdateAnimatorParameters(attackDirection);
+        animator.SetFloat("lastMoveX", attackDirection.x);
+        animator.SetFloat("lastMoveY", attackDirection.y);
+        animator.SetTrigger("Attack");
     }
 
     protected override string GetAttackAnimationName(Vector2 direction)

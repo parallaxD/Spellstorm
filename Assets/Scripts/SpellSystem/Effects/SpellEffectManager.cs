@@ -16,6 +16,23 @@ public class SpellEffectManager : MonoBehaviour
         else
         {
             activeDOTs[objToDamage] = StartCoroutine(DOT(DOTValue, totalTicks, tickInterval, objToDamage));
+            StartCoroutine(ShowDOTVisual(objToDamage.gameObject.transform, totalTicks * tickInterval));
+        }
+    }
+
+    private IEnumerator ShowDOTVisual(Transform target, float duration)
+    {
+        Transform dotEffect = target.Find("DOTEffect");
+        if (dotEffect == null) yield break;
+
+        GameObject effect = dotEffect.gameObject;
+        effect.SetActive(true);
+
+        yield return new WaitForSeconds(duration);
+
+        if (effect != null)
+        {
+            effect.SetActive(false);
         }
     }
 

@@ -13,7 +13,17 @@ MonoBehaviour:
   m_Name: FloodedTemplesData
   m_EditorClassIdentifier: Assembly-CSharp::LevelData
   locationType: 2
+  locationName: FloodedTemples
   floorTileset: {fileID: 11400000, guid: ac3e43fef2548be47bdcf8a6cc91ec48, type: 2}
   backgroundTileset: {fileID: 11400000, guid: 1930c39896820ba44b436bb294bba999, type: 2}
   decorationTileset: {fileID: 11400000, guid: 6f684ab7b5618ae4bb79aa0e0806ee54, type: 2}
   decorationSet: {fileID: 11400000, guid: f95d5573881c5144b948e6552f73989a, type: 2}
+  enemySpawnData:
+  - enemyPrefab: {fileID: 3632076930707136777, guid: 2ba188ab02fd6d34c8d89fb906aec5bc, type: 3}
+    minCount: 1
+    maxCount: 0
+    spawnChance: 1
+  maxTotalEnemies: 3
+  spawnCheckRadius: 1.5
+  spawnZoneSize: {x: 20, y: 15}
+  spawnZonesCount: 1

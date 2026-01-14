@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: 6b81a80af481b2243956f6e933597880
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5309071668295887985
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_0
+  - first:
+      213: 1435178290934164657
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_1
+  - first:
+      213: -1798899053254613660
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_2
+  - first:
+      213: -4086394439047608989
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_3
+  - first:
+      213: 5616517737066434320
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_4
+  - first:
+      213: -5120336954427960696
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_5
+  - first:
+      213: -9071434302736521737
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_6
+  - first:
+      213: -5272268488569617592
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_7
+  - first:
+      213: -7841275418297385053
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_8
+  - first:
+      213: 902953776752864752
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_9
+  - first:
+      213: -3626910689887498742
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_10
+  - first:
+      213: 3991306972617298808
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_11
+  - first:
+      213: -7977300171256892355
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_12
+  - first:
+      213: -7879834446474885446
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_13
+  - first:
+      213: -9095656239996393657
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_14
+  - first:
+      213: -7277017310063227071
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_15
+  - first:
+      213: 5553942451426896318
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_16
+  - first:
+      213: -989844867028545114
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_17
+  - first:
+      213: -5065394628541148333
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_18
+  - first:
+      213: -5687305348281085204
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_19
+  - first:
+      213: 4569180549686778465
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_20
+  - first:
+      213: -1207435195925464523
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_21
+  - first:
+      213: -3409767221825092245
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_22
+  - first:
+      213: -2812668183533838694
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_23
+  - first:
+      213: -846879171340537326
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_24
+  - first:
+      213: 8045713416585452134
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_25
+  - first:
+      213: -3049690227277507122
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_26
+  - first:
+      213: 2727932856038784156
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_27
+  - first:
+      213: 4513105120628650090
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_28
+  - first:
+      213: 3326842708276384417
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_29
+  - first:
+      213: -5368874008912786031
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_30
+  - first:
+      213: -5914190105094225801
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_31
+  - first:
+      213: -2202842768122655604
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_32
+  - first:
+      213: 1253397855224492804
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_33
+  - first:
+      213: -5905897119766564958
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_34
+  - first:
+      213: 7568748319381764861
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_35
+  - first:
+      213: 6075551668364333834
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_36
+  - first:
+      213: 1849516928581368833
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_37
+  - first:
+      213: -9204529693402424665
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_38
+  - first:
+      213: 3817289782312934617
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_39
+  - first:
+      213: -3365978848990043303
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_40
+  - first:
+      213: 4757237587895718200
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_41
+  - first:
+      213: 4332685664947697913
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_42
+  - first:
+      213: -5643980798292634400
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_43
+  - first:
+      213: 6689394101001801395
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_44
+  - first:
+      213: 5060480361148957893
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_45
+  - first:
+      213: 6631144081751528298
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_46
+  - first:
+      213: 6067792143517978367
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_47
+  - first:
+      213: 5907211297888825292
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_48
+  - first:
+      213: -7514257710740992040
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_49
+  - first:
+      213: 7018769638217374303
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_50
+  - first:
+      213: -6573075224362948433
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_51
+  - first:
+      213: 3908269237325474385
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_52
+  - first:
+      213: -4788276662170424809
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_53
+  - first:
+      213: -5636779107527676765
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_54
+  - first:
+      213: 2417255521817404179
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_55
+  - first:
+      213: 5331553548522113547
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_56
+  - first:
+      213: 7280673656433013164
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_57
+  - first:
+      213: -5755994788923218663
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_58
+  - first:
+      213: 3914227724075513790
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_59
+  - first:
+      213: -8644172388379095084
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_60
+  - first:
+      213: -259787430346026528
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_61
+  - first:
+      213: -57731443310305552
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_62
+  - first:
+      213: -7696334155230000115
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_63
+  - first:
+      213: 5166593582042157271
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_64
+  - first:
+      213: -7978850313144700743
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_65
+  - first:
+      213: 7599050694124366699
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_66
+  - first:
+      213: -8184220620063904202
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_67
+  - first:
+      213: -4398236950042006329
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_68
+  - first:
+      213: -629090517368939400
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_69
+  - first:
+      213: -8692951878312713304
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_70
+  - first:
+      213: -2512837456695103162
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_71
+  - first:
+      213: -9068255381939156075
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_72
+  - first:
+      213: -2595621384199344480
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_73
+  - first:
+      213: -2913619156882986120
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_74
+  - first:
+      213: -6869644987416705463
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_75
+  - first:
+      213: 7299069249732462908
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_76
+  - first:
+      213: 4481626600546384837
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_77
+  - first:
+      213: 7934801025437855350
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_78
+  - first:
+      213: -2236771849532505966
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_79
+  - first:
+      213: -3706039662052578595
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_80
+  - first:
+      213: -866672732929328070
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_81
+  - first:
+      213: -7705799672783359489
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_82
+  - first:
+      213: -8336428502419289656
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_83
+  - first:
+      213: 5044730497836583329
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_84
+  - first:
+      213: 1289163297130604355
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_85
+  - first:
+      213: -8093461405432169836
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_86
+  - first:
+      213: -1417151218683796103
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_87
+  - first:
+      213: 4818147582910848680
+    second: BOG_GUARDIAN_01 Death Back Spritesheet_88
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83122442736256b0800000000000000
+      internalID: -5309071668295887985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcab7c3d07cae310800000000000000
+      internalID: 1435178290934164657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465e8ff87d60907e0800000000000000
+      internalID: -1798899053254613660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3658f6888e53a47c0800000000000000
+      internalID: -4086394439047608989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f8680df11e1fd40800000000000000
+      internalID: 5616517737066434320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882140d2ba8e0f8b0800000000000000
+      internalID: -5120336954427960696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5a81e609acb1280800000000000000
+      internalID: -9071434302736521737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843825a4eb325d6b0800000000000000
+      internalID: -5272268488569617592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb16a4d813e2390800000000000000
+      internalID: -7841275418297385053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fda3f70dafe78c00800000000000000
+      internalID: 902953776752864752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e403991ff9aadc0800000000000000
+      internalID: -3626910689887498742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873d4647b88f36730800000000000000
+      internalID: 3991306972617298808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f19182cfea4190800000000000000
+      internalID: -7977300171256892355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab64af0f15435a290800000000000000
+      internalID: -7879834446474885446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74723ff27dcb5c180800000000000000
+      internalID: -9095656239996393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f0051df47d20b90800000000000000
+      internalID: -7277017310063227071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb92348cb31931d40800000000000000
+      internalID: 5553942451426896318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1150e765d5342f0800000000000000
+      internalID: -989844867028545114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35312a64c6a14b9b0800000000000000
+      internalID: -5065394628541148333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2d68a1be1a211b0800000000000000
+      internalID: -5687305348281085204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a54ba508df86f30800000000000000
+      internalID: 4569180549686778465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53afe8926145e3fe0800000000000000
+      internalID: -1207435195925464523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65485807c21ea0d0800000000000000
+      internalID: -3409767221825092245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e1c61703567f8d0800000000000000
+      internalID: -2812668183533838694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212f19071e74f34f0800000000000000
+      internalID: -846879171340537326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9b2079bd18af60800000000000000
+      internalID: 8045713416585452134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d42075e25da5d0800000000000000
+      internalID: -3049690227277507122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cfe47ba709bd520800000000000000
+      internalID: 2727932856038784156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60311d1235c1ae30800000000000000
+      internalID: 4513105120628650090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2996a11d15b2e20800000000000000
+      internalID: 3326842708276384417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d0deec88ded75b0800000000000000
+      internalID: -5368874008912786031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7708ab32f639ceda0800000000000000
+      internalID: -5914190105094225801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cc20e6c2eed61e0800000000000000
+      internalID: -2202842768122655604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40374e265b6f46110800000000000000
+      internalID: 1253397855224492804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afaf404cd90a0ea0800000000000000
+      internalID: -5905897119766564958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab51bde78990960800000000000000
+      internalID: 7568748319381764861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03536f7d02b05450800000000000000
+      internalID: 6075551668364333834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cf92ee8ddcaa910800000000000000
+      internalID: 1849516928581368833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa9634f201f24080800000000000000
+      internalID: -9204529693402424665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc9d7705dcb9f430800000000000000
+      internalID: 3817289782312934617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95368701214a941d0800000000000000
+      internalID: -3365978848990043303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83119aa916a150240800000000000000
+      internalID: 4757237587895718200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f872ae18aac02c30800000000000000
+      internalID: 4332685664947697913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e454a6fd5d8ca1b0800000000000000
+      internalID: -5643980798292634400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be4ec03e7085dc50800000000000000
+      internalID: 6689394101001801395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4cf1fa3107a3640800000000000000
+      internalID: 5060480361148957893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63db37b86e860c50800000000000000
+      internalID: 6631144081751528298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe8b455ec0253450800000000000000
+      internalID: 6067792143517978367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf66dfa061aaf150800000000000000
+      internalID: 5907211297888825292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df0b80ac6ef7b790800000000000000
+      internalID: -7514257710740992040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a5e368ccda76160800000000000000
+      internalID: 7018769638217374303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8ece9b8eeb7c4a0800000000000000
+      internalID: -6573075224362948433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2f591a26fc3630800000000000000
+      internalID: 3908269237325474385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae901cebf9c8db0800000000000000
+      internalID: -4788276662170424809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2872444326c1b0800000000000000
+      internalID: -5636779107527676765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31327450711db8120800000000000000
+      internalID: 2417255521817404179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a42a064bb7df940800000000000000
+      internalID: 5331553548522113547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1fb39ad162a0560800000000000000
+      internalID: 7280673656433013164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9156b3d6c399e10b0800000000000000
+      internalID: -5755994788923218663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7b1876061225630800000000000000
+      internalID: 3914227724075513790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df8c65f20bb90880800000000000000
+      internalID: -8644172388379095084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e11d1165bc056cf0800000000000000
+      internalID: -259787430346026528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe5e15ee85e23ff0800000000000000
+      internalID: -57731443310305552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4fccdcd0213590800000000000000
+      internalID: -7696334155230000115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d09f643d7d63b740800000000000000
+      internalID: 5166593582042157271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0fef8f9ed654190800000000000000
+      internalID: -7978850313144700743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6be7754850457960800000000000000
+      internalID: 7599050694124366699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee9a935becb6e80800000000000000
+      internalID: -8184220620063904202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccafbafbc256f2c0800000000000000
+      internalID: -4398236950042006329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c58ace1850547f0800000000000000
+      internalID: -629090517368939400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a32b9be25e6c5780800000000000000
+      internalID: -8692951878312713304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9088
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641746f85ab902dd0800000000000000
+      internalID: -2512837456695103162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b0efa96c5172280800000000000000
+      internalID: -9068255381939156075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee36f6a108afbd0800000000000000
+      internalID: -2595621384199344480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b673750deb097d0800000000000000
+      internalID: -2913619156882986120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460cf7e74e1aa0a0800000000000000
+      internalID: -6869644987416705463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39c74d7fc08b4560800000000000000
+      internalID: 7299069249732462908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb328506afe13e30800000000000000
+      internalID: 4481626600546384837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ee0a40e731e1e60800000000000000
+      internalID: 7934801025437855350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29085019ad365f0e0800000000000000
+      internalID: -2236771849532505966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddae8d31090819cc0800000000000000
+      internalID: -3706039662052578595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cfa31cdb5f8f3f0800000000000000
+      internalID: -866672732929328070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10496
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff13d6156008f0590800000000000000
+      internalID: -7705799672783359489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10624
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94bd1027e0f4c80800000000000000
+      internalID: -8336428502419289656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9012fd8ab720640800000000000000
+      internalID: 5044730497836583329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10880
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347e0fe303704e110800000000000000
+      internalID: 1289163297130604355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11008
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ab1e59bbf3eaf80800000000000000
+      internalID: -8093461405432169836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 11136
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97527599974455ce0800000000000000
+      internalID: -1417151218683796103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 11264
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aedec2f2bf7dd240800000000000000
+      internalID: 4818147582910848680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11392
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00f93b784fa6d34596d7e72fe540277
+      internalID: 938315448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5867c4ff42c53e429b5be4e7c6c6201
+      internalID: -447440709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11648
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcd84b1478e1d94bb8d8b65ebe14a48
+      internalID: 1297175303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3297c2e0c884d41bdc1d5c9fb0d2b3
+      internalID: 573205433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Death Back Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11904
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679516d370083c640bc3ab73eab1e1b3
+      internalID: 1145084863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75bbb8692c4d8af479c0aa538b1a66e2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Death Back Spritesheet_0: -5309071668295887985
+      BOG_GUARDIAN_01 Death Back Spritesheet_1: 1435178290934164657
+      BOG_GUARDIAN_01 Death Back Spritesheet_10: -3626910689887498742
+      BOG_GUARDIAN_01 Death Back Spritesheet_11: 3991306972617298808
+      BOG_GUARDIAN_01 Death Back Spritesheet_12: -7977300171256892355
+      BOG_GUARDIAN_01 Death Back Spritesheet_13: -7879834446474885446
+      BOG_GUARDIAN_01 Death Back Spritesheet_14: -9095656239996393657
+      BOG_GUARDIAN_01 Death Back Spritesheet_15: -7277017310063227071
+      BOG_GUARDIAN_01 Death Back Spritesheet_16: 5553942451426896318
+      BOG_GUARDIAN_01 Death Back Spritesheet_17: -989844867028545114
+      BOG_GUARDIAN_01 Death Back Spritesheet_18: -5065394628541148333
+      BOG_GUARDIAN_01 Death Back Spritesheet_19: -5687305348281085204
+      BOG_GUARDIAN_01 Death Back Spritesheet_2: -1798899053254613660
+      BOG_GUARDIAN_01 Death Back Spritesheet_20: 4569180549686778465
+      BOG_GUARDIAN_01 Death Back Spritesheet_21: -1207435195925464523
+      BOG_GUARDIAN_01 Death Back Spritesheet_22: -3409767221825092245
+      BOG_GUARDIAN_01 Death Back Spritesheet_23: -2812668183533838694
+      BOG_GUARDIAN_01 Death Back Spritesheet_24: -846879171340537326
+      BOG_GUARDIAN_01 Death Back Spritesheet_25: 8045713416585452134
+      BOG_GUARDIAN_01 Death Back Spritesheet_26: -3049690227277507122
+      BOG_GUARDIAN_01 Death Back Spritesheet_27: 2727932856038784156
+      BOG_GUARDIAN_01 Death Back Spritesheet_28: 4513105120628650090
+      BOG_GUARDIAN_01 Death Back Spritesheet_29: 3326842708276384417
+      BOG_GUARDIAN_01 Death Back Spritesheet_3: -4086394439047608989
+      BOG_GUARDIAN_01 Death Back Spritesheet_30: -5368874008912786031
+      BOG_GUARDIAN_01 Death Back Spritesheet_31: -5914190105094225801
+      BOG_GUARDIAN_01 Death Back Spritesheet_32: -2202842768122655604
+      BOG_GUARDIAN_01 Death Back Spritesheet_33: 1253397855224492804
+      BOG_GUARDIAN_01 Death Back Spritesheet_34: -5905897119766564958
+      BOG_GUARDIAN_01 Death Back Spritesheet_35: 7568748319381764861
+      BOG_GUARDIAN_01 Death Back Spritesheet_36: 6075551668364333834
+      BOG_GUARDIAN_01 Death Back Spritesheet_37: 1849516928581368833
+      BOG_GUARDIAN_01 Death Back Spritesheet_38: -9204529693402424665
+      BOG_GUARDIAN_01 Death Back Spritesheet_39: 3817289782312934617
+      BOG_GUARDIAN_01 Death Back Spritesheet_4: 5616517737066434320
+      BOG_GUARDIAN_01 Death Back Spritesheet_40: -3365978848990043303
+      BOG_GUARDIAN_01 Death Back Spritesheet_41: 4757237587895718200
+      BOG_GUARDIAN_01 Death Back Spritesheet_42: 4332685664947697913
+      BOG_GUARDIAN_01 Death Back Spritesheet_43: -5643980798292634400
+      BOG_GUARDIAN_01 Death Back Spritesheet_44: 6689394101001801395
+      BOG_GUARDIAN_01 Death Back Spritesheet_45: 5060480361148957893
+      BOG_GUARDIAN_01 Death Back Spritesheet_46: 6631144081751528298
+      BOG_GUARDIAN_01 Death Back Spritesheet_47: 6067792143517978367
+      BOG_GUARDIAN_01 Death Back Spritesheet_48: 5907211297888825292
+      BOG_GUARDIAN_01 Death Back Spritesheet_49: -7514257710740992040
+      BOG_GUARDIAN_01 Death Back Spritesheet_5: -5120336954427960696
+      BOG_GUARDIAN_01 Death Back Spritesheet_50: 7018769638217374303
+      BOG_GUARDIAN_01 Death Back Spritesheet_51: -6573075224362948433
+      BOG_GUARDIAN_01 Death Back Spritesheet_52: 3908269237325474385
+      BOG_GUARDIAN_01 Death Back Spritesheet_53: -4788276662170424809
+      BOG_GUARDIAN_01 Death Back Spritesheet_54: -5636779107527676765
+      BOG_GUARDIAN_01 Death Back Spritesheet_55: 2417255521817404179
+      BOG_GUARDIAN_01 Death Back Spritesheet_56: 5331553548522113547
+      BOG_GUARDIAN_01 Death Back Spritesheet_57: 7280673656433013164
+      BOG_GUARDIAN_01 Death Back Spritesheet_58: -5755994788923218663
+      BOG_GUARDIAN_01 Death Back Spritesheet_59: 3914227724075513790
+      BOG_GUARDIAN_01 Death Back Spritesheet_6: -9071434302736521737
+      BOG_GUARDIAN_01 Death Back Spritesheet_60: -8644172388379095084
+      BOG_GUARDIAN_01 Death Back Spritesheet_61: -259787430346026528
+      BOG_GUARDIAN_01 Death Back Spritesheet_62: -57731443310305552
+      BOG_GUARDIAN_01 Death Back Spritesheet_63: -7696334155230000115
+      BOG_GUARDIAN_01 Death Back Spritesheet_64: 5166593582042157271
+      BOG_GUARDIAN_01 Death Back Spritesheet_65: -7978850313144700743
+      BOG_GUARDIAN_01 Death Back Spritesheet_66: 7599050694124366699
+      BOG_GUARDIAN_01 Death Back Spritesheet_67: -8184220620063904202
+      BOG_GUARDIAN_01 Death Back Spritesheet_68: -4398236950042006329
+      BOG_GUARDIAN_01 Death Back Spritesheet_69: -629090517368939400
+      BOG_GUARDIAN_01 Death Back Spritesheet_7: -5272268488569617592
+      BOG_GUARDIAN_01 Death Back Spritesheet_70: -8692951878312713304
+      BOG_GUARDIAN_01 Death Back Spritesheet_71: -2512837456695103162
+      BOG_GUARDIAN_01 Death Back Spritesheet_72: -9068255381939156075
+      BOG_GUARDIAN_01 Death Back Spritesheet_73: -2595621384199344480
+      BOG_GUARDIAN_01 Death Back Spritesheet_74: -2913619156882986120
+      BOG_GUARDIAN_01 Death Back Spritesheet_75: -6869644987416705463
+      BOG_GUARDIAN_01 Death Back Spritesheet_76: 7299069249732462908
+      BOG_GUARDIAN_01 Death Back Spritesheet_77: 4481626600546384837
+      BOG_GUARDIAN_01 Death Back Spritesheet_78: 7934801025437855350
+      BOG_GUARDIAN_01 Death Back Spritesheet_79: -2236771849532505966
+      BOG_GUARDIAN_01 Death Back Spritesheet_8: -7841275418297385053
+      BOG_GUARDIAN_01 Death Back Spritesheet_80: -3706039662052578595
+      BOG_GUARDIAN_01 Death Back Spritesheet_81: -866672732929328070
+      BOG_GUARDIAN_01 Death Back Spritesheet_82: -7705799672783359489
+      BOG_GUARDIAN_01 Death Back Spritesheet_83: -8336428502419289656
+      BOG_GUARDIAN_01 Death Back Spritesheet_84: 5044730497836583329
+      BOG_GUARDIAN_01 Death Back Spritesheet_85: 1289163297130604355
+      BOG_GUARDIAN_01 Death Back Spritesheet_86: -8093461405432169836
+      BOG_GUARDIAN_01 Death Back Spritesheet_87: -1417151218683796103
+      BOG_GUARDIAN_01 Death Back Spritesheet_88: 4818147582910848680
+      BOG_GUARDIAN_01 Death Back Spritesheet_89: 938315448
+      BOG_GUARDIAN_01 Death Back Spritesheet_9: 902953776752864752
+      BOG_GUARDIAN_01 Death Back Spritesheet_90: -447440709
+      BOG_GUARDIAN_01 Death Back Spritesheet_91: 1297175303
+      BOG_GUARDIAN_01 Death Back Spritesheet_92: 573205433
+      BOG_GUARDIAN_01 Death Back Spritesheet_93: 1145084863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

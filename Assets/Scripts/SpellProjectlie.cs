@@ -58,6 +58,12 @@ public class SpellProjectile : Projectile
         transform.right = direction.normalized;
     }
 
+    private IEnumerator WaitToDeactivateEffect(float time)
+    {
+        yield return new WaitForSeconds(time);
+        print("sucess");
+    }
+
     protected override void ApplyDirectHitEffects(Collider2D collision)
     {
         if (!collision.CompareTag("Enemy") || (dotDamage <= 0 && !applySlowEffect && !applyKnockbackEffect))

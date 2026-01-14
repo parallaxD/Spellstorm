@@ -1,0 +1,1705 @@
+fileFormatVersion: 2
+guid: adc845b764f31bd46881651a84de9848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2008396413025739270
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_0
+  - first:
+      213: 7572298256893786871
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_1
+  - first:
+      213: 7140698441869397701
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_2
+  - first:
+      213: -31506627879350310
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_3
+  - first:
+      213: 7894397713219386337
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_4
+  - first:
+      213: 1167097989439341191
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_5
+  - first:
+      213: 3867662654757231762
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_6
+  - first:
+      213: 2261667804846371125
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_7
+  - first:
+      213: 2370715960709260415
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_8
+  - first:
+      213: 1623999209931289973
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_9
+  - first:
+      213: 5237744033787484965
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_10
+  - first:
+      213: -3495499998910841956
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_11
+  - first:
+      213: 1381783723132694321
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_12
+  - first:
+      213: 2338758093146902867
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_13
+  - first:
+      213: 1247384276845171015
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_14
+  - first:
+      213: -777376562638941818
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_15
+  - first:
+      213: -2482662064862162189
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_16
+  - first:
+      213: -1646629491277049559
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_17
+  - first:
+      213: -7747218720511254182
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_18
+  - first:
+      213: -5511784789678124640
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_19
+  - first:
+      213: 3161397533962464267
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_20
+  - first:
+      213: 958841954902066055
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_21
+  - first:
+      213: -5121854712452713389
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_22
+  - first:
+      213: -661522215340893754
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_23
+  - first:
+      213: 3252767541662770887
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_24
+  - first:
+      213: -6942810489690831283
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_25
+  - first:
+      213: 2833337820035197408
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_26
+  - first:
+      213: -1044361888702254201
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_27
+  - first:
+      213: 8996833056715834875
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_28
+  - first:
+      213: -4992593194425193699
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_29
+  - first:
+      213: -3774860029852545290
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_30
+  - first:
+      213: 4519639504442590112
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_31
+  - first:
+      213: 3603099209260195811
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_32
+  - first:
+      213: 1975577177985740821
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_33
+  - first:
+      213: -5433127791846890435
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_34
+  - first:
+      213: -9174584810832563493
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_35
+  - first:
+      213: 5585349044412319751
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_36
+  - first:
+      213: -8394187504732581194
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_37
+  - first:
+      213: 7042401476973910937
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_38
+  - first:
+      213: -5114474787129113133
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_39
+  - first:
+      213: 2484865895578696603
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_40
+  - first:
+      213: -136464130073343736
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_41
+  - first:
+      213: 3983044648533709421
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_42
+  - first:
+      213: -5102066058083266184
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_43
+  - first:
+      213: 4338997030350711172
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_44
+  - first:
+      213: 2620519807444869038
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_45
+  - first:
+      213: 4935958051365253702
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_46
+  - first:
+      213: -5500425781704239421
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_47
+  - first:
+      213: 841506698652814280
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_48
+  - first:
+      213: -467779902534430463
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_49
+  - first:
+      213: -1231356836640232572
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_50
+  - first:
+      213: 8001736832639506210
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_51
+  - first:
+      213: -8924478275284131496
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_52
+  - first:
+      213: 5672505240660003715
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_53
+  - first:
+      213: 590135902475888553
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_54
+  - first:
+      213: 3264352646576628253
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_55
+  - first:
+      213: 8231217666811376995
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_56
+  - first:
+      213: 4536440044067508839
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_57
+  - first:
+      213: 8717376552218916532
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_58
+  - first:
+      213: -869909219236140494
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_59
+  - first:
+      213: -8870387062559106988
+    second: BOG_GUARDIAN_01 Idle Front Spritesheet_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602619e85e14fdb10800000000000000
+      internalID: 2008396413025739270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fab6771525361960800000000000000
+      internalID: 7572298256893786871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce8fcb566bd81360800000000000000
+      internalID: 7140698441869397701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf4e2d83e0109ff0800000000000000
+      internalID: -31506627879350310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf814d4e88e8d60800000000000000
+      internalID: 7894397713219386337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782ca96107d523010800000000000000
+      internalID: 1167097989439341191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c59d751b2bca530800000000000000
+      internalID: 3867662654757231762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5313ecbb2ee036f10800000000000000
+      internalID: 2261667804846371125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ac6d0b9976e020800000000000000
+      internalID: 2370715960709260415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57538775daa998610800000000000000
+      internalID: 1623999209931289973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b135ea27430b840800000000000000
+      internalID: 5237744033787484965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b7a8c554d7d7fc0800000000000000
+      internalID: -3495499998910841956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fadb5a9f41d2310800000000000000
+      internalID: 1381783723132694321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351579d2810f47020800000000000000
+      internalID: 2338758093146902867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74193cf04699f4110800000000000000
+      internalID: 1247384276845171015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681113f82243635f0800000000000000
+      internalID: -777376562638941818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29d867100db8dd0800000000000000
+      internalID: -2482662064862162189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921dfbfa33ff529e0800000000000000
+      internalID: -1646629491277049559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51aba6ce995c7490800000000000000
+      internalID: -7747218720511254182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a195dcbfe43283b0800000000000000
+      internalID: -5511784789678124640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ce0adae4a8fdb20800000000000000
+      internalID: 3161397533962464267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783cda58dad7e4d00800000000000000
+      internalID: 958841954902066055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354781996448be8b0800000000000000
+      internalID: -5121854712452713389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9939fcc0dc1d6f0800000000000000
+      internalID: -661522215340893754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6eab168d6242d20800000000000000
+      internalID: 3252767541662770887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d464f1be4ae26af90800000000000000
+      internalID: -6942810489690831283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9a0e35cb9025720800000000000000
+      internalID: 2833337820035197408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78332fe356ea181f0800000000000000
+      internalID: -1044361888702254201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf50a017ffb2bdc70800000000000000
+      internalID: 8996833056715834875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1be04a01feb6bab0800000000000000
+      internalID: -4992593194425193699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe81db8dc00d9bc0800000000000000
+      internalID: -3774860029852545290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a38f17ee2cf8be30800000000000000
+      internalID: 4519639504442590112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efd17a04a7c00230800000000000000
+      internalID: 3603099209260195811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107530f9f8aa6b10800000000000000
+      internalID: 1975577177985740821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e9ab2f07a994b0800000000000000
+      internalID: -5433127791846890435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd271ac39b35da080800000000000000
+      internalID: -9174584810832563493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70883ca0d55238d40800000000000000
+      internalID: 5585349044412319751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2546250fad18b80800000000000000
+      internalID: -8394187504732581194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b57b0c4d2abb160800000000000000
+      internalID: 7042401476973910937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d54a7c574cb509b0800000000000000
+      internalID: -5114474787129113133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b737cdd540c7220800000000000000
+      internalID: 2484865895578696603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8094562c89e2b1ef0800000000000000
+      internalID: -136464130073343736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625f58310e964730800000000000000
+      internalID: 3983044648533709421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8719e5bb3f1d139b0800000000000000
+      internalID: -5102066058083266184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48967836fc6373c30800000000000000
+      internalID: 4338997030350711172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf50a971e4fd5420800000000000000
+      internalID: 2620519807444869038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642fad522bb008440800000000000000
+      internalID: 4935958051365253702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c65e10e4ef8aa3b0800000000000000
+      internalID: -5500425781704239421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb005942e1adab00800000000000000
+      internalID: 841506698652814280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1015e5438ac1289f0800000000000000
+      internalID: -467779902534430463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b6f482b7759eee0800000000000000
+      internalID: -1231356836640232572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22713a71141eb0f60800000000000000
+      internalID: 8001736832639506210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851aff3ea42e52480800000000000000
+      internalID: -8924478275284131496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc4105679c8be40800000000000000
+      internalID: 5672505240660003715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7a7440a75903800800000000000000
+      internalID: 590135902475888553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d126ec0df6f4d4d20800000000000000
+      internalID: 3264352646576628253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365363b6bd82b3270800000000000000
+      internalID: 8231217666811376995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762508b5f2ca4fe30800000000000000
+      internalID: 4536440044067508839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6f350a9c75af870800000000000000
+      internalID: 8717376552218916532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23aa7909c267de3f0800000000000000
+      internalID: -869909219236140494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOG_GUARDIAN_01 Idle Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45891f3c6fd06e480800000000000000
+      internalID: -8870387062559106988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: edc79c552154d3b42a1e46d58291b934
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      BOG_GUARDIAN_01 Idle Front Spritesheet_0: 2008396413025739270
+      BOG_GUARDIAN_01 Idle Front Spritesheet_1: 7572298256893786871
+      BOG_GUARDIAN_01 Idle Front Spritesheet_10: 5237744033787484965
+      BOG_GUARDIAN_01 Idle Front Spritesheet_11: -3495499998910841956
+      BOG_GUARDIAN_01 Idle Front Spritesheet_12: 1381783723132694321
+      BOG_GUARDIAN_01 Idle Front Spritesheet_13: 2338758093146902867
+      BOG_GUARDIAN_01 Idle Front Spritesheet_14: 1247384276845171015
+      BOG_GUARDIAN_01 Idle Front Spritesheet_15: -777376562638941818
+      BOG_GUARDIAN_01 Idle Front Spritesheet_16: -2482662064862162189
+      BOG_GUARDIAN_01 Idle Front Spritesheet_17: -1646629491277049559
+      BOG_GUARDIAN_01 Idle Front Spritesheet_18: -7747218720511254182
+      BOG_GUARDIAN_01 Idle Front Spritesheet_19: -5511784789678124640
+      BOG_GUARDIAN_01 Idle Front Spritesheet_2: 7140698441869397701
+      BOG_GUARDIAN_01 Idle Front Spritesheet_20: 3161397533962464267
+      BOG_GUARDIAN_01 Idle Front Spritesheet_21: 958841954902066055
+      BOG_GUARDIAN_01 Idle Front Spritesheet_22: -5121854712452713389
+      BOG_GUARDIAN_01 Idle Front Spritesheet_23: -661522215340893754
+      BOG_GUARDIAN_01 Idle Front Spritesheet_24: 3252767541662770887
+      BOG_GUARDIAN_01 Idle Front Spritesheet_25: -6942810489690831283
+      BOG_GUARDIAN_01 Idle Front Spritesheet_26: 2833337820035197408
+      BOG_GUARDIAN_01 Idle Front Spritesheet_27: -1044361888702254201
+      BOG_GUARDIAN_01 Idle Front Spritesheet_28: 8996833056715834875
+      BOG_GUARDIAN_01 Idle Front Spritesheet_29: -4992593194425193699
+      BOG_GUARDIAN_01 Idle Front Spritesheet_3: -31506627879350310
+      BOG_GUARDIAN_01 Idle Front Spritesheet_30: -3774860029852545290
+      BOG_GUARDIAN_01 Idle Front Spritesheet_31: 4519639504442590112
+      BOG_GUARDIAN_01 Idle Front Spritesheet_32: 3603099209260195811
+      BOG_GUARDIAN_01 Idle Front Spritesheet_33: 1975577177985740821
+      BOG_GUARDIAN_01 Idle Front Spritesheet_34: -5433127791846890435
+      BOG_GUARDIAN_01 Idle Front Spritesheet_35: -9174584810832563493
+      BOG_GUARDIAN_01 Idle Front Spritesheet_36: 5585349044412319751
+      BOG_GUARDIAN_01 Idle Front Spritesheet_37: -8394187504732581194
+      BOG_GUARDIAN_01 Idle Front Spritesheet_38: 7042401476973910937
+      BOG_GUARDIAN_01 Idle Front Spritesheet_39: -5114474787129113133
+      BOG_GUARDIAN_01 Idle Front Spritesheet_4: 7894397713219386337
+      BOG_GUARDIAN_01 Idle Front Spritesheet_40: 2484865895578696603
+      BOG_GUARDIAN_01 Idle Front Spritesheet_41: -136464130073343736
+      BOG_GUARDIAN_01 Idle Front Spritesheet_42: 3983044648533709421
+      BOG_GUARDIAN_01 Idle Front Spritesheet_43: -5102066058083266184
+      BOG_GUARDIAN_01 Idle Front Spritesheet_44: 4338997030350711172
+      BOG_GUARDIAN_01 Idle Front Spritesheet_45: 2620519807444869038
+      BOG_GUARDIAN_01 Idle Front Spritesheet_46: 4935958051365253702
+      BOG_GUARDIAN_01 Idle Front Spritesheet_47: -5500425781704239421
+      BOG_GUARDIAN_01 Idle Front Spritesheet_48: 841506698652814280
+      BOG_GUARDIAN_01 Idle Front Spritesheet_49: -467779902534430463
+      BOG_GUARDIAN_01 Idle Front Spritesheet_5: 1167097989439341191
+      BOG_GUARDIAN_01 Idle Front Spritesheet_50: -1231356836640232572
+      BOG_GUARDIAN_01 Idle Front Spritesheet_51: 8001736832639506210
+      BOG_GUARDIAN_01 Idle Front Spritesheet_52: -8924478275284131496
+      BOG_GUARDIAN_01 Idle Front Spritesheet_53: 5672505240660003715
+      BOG_GUARDIAN_01 Idle Front Spritesheet_54: 590135902475888553
+      BOG_GUARDIAN_01 Idle Front Spritesheet_55: 3264352646576628253
+      BOG_GUARDIAN_01 Idle Front Spritesheet_56: 8231217666811376995
+      BOG_GUARDIAN_01 Idle Front Spritesheet_57: 4536440044067508839
+      BOG_GUARDIAN_01 Idle Front Spritesheet_58: 8717376552218916532
+      BOG_GUARDIAN_01 Idle Front Spritesheet_59: -869909219236140494
+      BOG_GUARDIAN_01 Idle Front Spritesheet_6: 3867662654757231762
+      BOG_GUARDIAN_01 Idle Front Spritesheet_60: -8870387062559106988
+      BOG_GUARDIAN_01 Idle Front Spritesheet_7: 2261667804846371125
+      BOG_GUARDIAN_01 Idle Front Spritesheet_8: 2370715960709260415
+      BOG_GUARDIAN_01 Idle Front Spritesheet_9: 1623999209931289973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
