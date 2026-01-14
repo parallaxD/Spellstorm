@@ -48,10 +48,11 @@ public class GenerationManager : MonoBehaviour
     public void GenerateNextLocation()
     {
         var totalLocations = System.Enum.GetValues(typeof(LocationType)).Length;
+        var nextLocation = (LocationType)(((int)currentLocation + 1) % totalLocations);
 
-        currentLocation = (LocationType)(((int)currentLocation + 1) % totalLocations);
+        currentLocation = nextLocation;
 
-        if (currentLocation == LocationType.Hub)
+        if (nextLocation == LocationType.Hub)
         {
             HubGeneration();
         }
@@ -77,10 +78,10 @@ public class GenerationManager : MonoBehaviour
         TilesGeneration(level);
         DecorationGenerator(level);
 
-        if (enemySpawnManager != null)
-        {;
-            enemySpawnManager.StartSpawningForLocation(currentLocation, level);
-        }
+        //if (enemySpawnManager != null)
+        //{;
+        //    enemySpawnManager.StartSpawningForLocation(nextLocation, level);
+        //}
 
         hubTilemapObject.SetActive(false);
         basicTilemapObject.SetActive(true);

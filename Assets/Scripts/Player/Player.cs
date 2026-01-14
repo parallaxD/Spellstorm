@@ -64,6 +64,7 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     public void Die()
     {
-        
+        // Показать UI текущего биома
+        // 
     }
 }
