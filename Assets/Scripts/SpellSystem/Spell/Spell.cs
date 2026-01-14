@@ -49,7 +49,7 @@ public class Fire : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt, fireDOTDamage: 10, fireDOTTicks: 3, fireDOTInterval: 1, aoeRadiusAmount: 0.5f, applySlow: true);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt, fireDOTDamage: 10, fireDOTTicks: 3, fireDOTInterval: 1, aoeRadiusAmount: 0.5f);
         Projectile.Launch(direction);
     }
 }
