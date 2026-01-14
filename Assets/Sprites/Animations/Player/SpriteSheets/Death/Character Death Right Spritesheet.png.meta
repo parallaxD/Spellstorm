@@ -388,7 +388,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -402,7 +402,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -423,7 +423,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 16384
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -454,12 +454,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_0
       rect:
         serializedVersion: 2
-        x: 38
-        y: 15
-        width: 47
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -476,12 +476,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_1
       rect:
         serializedVersion: 2
-        x: 166
-        y: 15
-        width: 47
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -498,12 +498,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_2
       rect:
         serializedVersion: 2
-        x: 294
-        y: 15
-        width: 47
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -520,12 +520,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_3
       rect:
         serializedVersion: 2
-        x: 422
-        y: 15
-        width: 47
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -542,12 +542,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_4
       rect:
         serializedVersion: 2
-        x: 548
-        y: 15
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -564,12 +564,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_5
       rect:
         serializedVersion: 2
-        x: 676
-        y: 15
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -586,12 +586,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_6
       rect:
         serializedVersion: 2
-        x: 804
-        y: 15
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -608,12 +608,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_7
       rect:
         serializedVersion: 2
-        x: 932
-        y: 15
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -630,12 +630,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_8
       rect:
         serializedVersion: 2
-        x: 1060
-        y: 15
-        width: 49
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -652,12 +652,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_9
       rect:
         serializedVersion: 2
-        x: 1203
-        y: 15
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -674,12 +674,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_10
       rect:
         serializedVersion: 2
-        x: 1331
-        y: 15
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -696,12 +696,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_11
       rect:
         serializedVersion: 2
-        x: 1459
-        y: 15
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -718,12 +718,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_12
       rect:
         serializedVersion: 2
-        x: 1587
-        y: 15
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -740,12 +740,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_13
       rect:
         serializedVersion: 2
-        x: 1715
-        y: 15
-        width: 35
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -762,12 +762,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_14
       rect:
         serializedVersion: 2
-        x: 1845
-        y: 9
-        width: 36
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -784,12 +784,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_15
       rect:
         serializedVersion: 2
-        x: 1973
-        y: 9
-        width: 36
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -806,12 +806,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_16
       rect:
         serializedVersion: 2
-        x: 2101
-        y: 9
-        width: 36
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -828,12 +828,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_17
       rect:
         serializedVersion: 2
-        x: 2229
-        y: 9
-        width: 36
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -850,12 +850,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_18
       rect:
         serializedVersion: 2
-        x: 2357
-        y: 9
-        width: 36
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -872,12 +872,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_19
       rect:
         serializedVersion: 2
-        x: 2485
-        y: 7
-        width: 35
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -894,12 +894,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_20
       rect:
         serializedVersion: 2
-        x: 2613
-        y: 7
-        width: 35
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -916,12 +916,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_21
       rect:
         serializedVersion: 2
-        x: 2741
-        y: 7
-        width: 35
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -938,12 +938,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_22
       rect:
         serializedVersion: 2
-        x: 2869
-        y: 7
-        width: 35
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -960,12 +960,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_23
       rect:
         serializedVersion: 2
-        x: 2997
-        y: 7
-        width: 35
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -982,12 +982,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_24
       rect:
         serializedVersion: 2
-        x: 3122
-        y: 7
-        width: 37
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1004,12 +1004,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_25
       rect:
         serializedVersion: 2
-        x: 3250
-        y: 7
-        width: 37
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1026,12 +1026,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_26
       rect:
         serializedVersion: 2
-        x: 3378
-        y: 7
-        width: 37
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1048,12 +1048,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_27
       rect:
         serializedVersion: 2
-        x: 3506
-        y: 7
-        width: 37
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1070,12 +1070,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_28
       rect:
         serializedVersion: 2
-        x: 3634
-        y: 7
-        width: 37
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1092,12 +1092,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_29
       rect:
         serializedVersion: 2
-        x: 3758
-        y: 8
-        width: 41
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1114,12 +1114,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_30
       rect:
         serializedVersion: 2
-        x: 3886
-        y: 8
-        width: 41
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1136,12 +1136,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_31
       rect:
         serializedVersion: 2
-        x: 4014
-        y: 8
-        width: 41
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1158,12 +1158,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_32
       rect:
         serializedVersion: 2
-        x: 4142
-        y: 8
-        width: 41
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1180,12 +1180,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_33
       rect:
         serializedVersion: 2
-        x: 4270
-        y: 8
-        width: 41
-        height: 57
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1202,12 +1202,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_34
       rect:
         serializedVersion: 2
-        x: 4396
-        y: 9
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1224,12 +1224,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_35
       rect:
         serializedVersion: 2
-        x: 4524
-        y: 9
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1246,12 +1246,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_36
       rect:
         serializedVersion: 2
-        x: 4652
-        y: 9
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1268,12 +1268,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_37
       rect:
         serializedVersion: 2
-        x: 4780
-        y: 9
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1290,12 +1290,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_38
       rect:
         serializedVersion: 2
-        x: 4908
-        y: 9
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1312,12 +1312,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_39
       rect:
         serializedVersion: 2
-        x: 5036
-        y: 9
-        width: 42
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1334,12 +1334,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_40
       rect:
         serializedVersion: 2
-        x: 5164
-        y: 9
-        width: 42
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1356,12 +1356,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_41
       rect:
         serializedVersion: 2
-        x: 5292
-        y: 9
-        width: 42
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1378,12 +1378,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_42
       rect:
         serializedVersion: 2
-        x: 5420
-        y: 9
-        width: 42
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1400,12 +1400,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_43
       rect:
         serializedVersion: 2
-        x: 5548
-        y: 9
-        width: 42
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1422,12 +1422,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_44
       rect:
         serializedVersion: 2
-        x: 5678
-        y: 9
-        width: 40
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1444,12 +1444,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_45
       rect:
         serializedVersion: 2
-        x: 5806
-        y: 9
-        width: 40
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1466,12 +1466,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_46
       rect:
         serializedVersion: 2
-        x: 5934
-        y: 9
-        width: 40
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1488,12 +1488,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_47
       rect:
         serializedVersion: 2
-        x: 6062
-        y: 9
-        width: 40
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1510,12 +1510,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_48
       rect:
         serializedVersion: 2
-        x: 6190
-        y: 9
-        width: 40
-        height: 55
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1532,12 +1532,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_49
       rect:
         serializedVersion: 2
-        x: 6323
-        y: 9
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1554,12 +1554,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_50
       rect:
         serializedVersion: 2
-        x: 6451
-        y: 9
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1576,12 +1576,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_51
       rect:
         serializedVersion: 2
-        x: 6579
-        y: 9
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1598,12 +1598,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_52
       rect:
         serializedVersion: 2
-        x: 6707
-        y: 9
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1620,12 +1620,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_53
       rect:
         serializedVersion: 2
-        x: 6835
-        y: 9
-        width: 42
-        height: 52
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1642,12 +1642,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_54
       rect:
         serializedVersion: 2
-        x: 6963
+        x: 6912
         y: 0
-        width: 43
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1664,12 +1664,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_55
       rect:
         serializedVersion: 2
-        x: 7091
+        x: 7040
         y: 0
-        width: 43
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1686,12 +1686,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_56
       rect:
         serializedVersion: 2
-        x: 7219
+        x: 7168
         y: 0
-        width: 43
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1708,12 +1708,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_57
       rect:
         serializedVersion: 2
-        x: 7347
+        x: 7296
         y: 0
-        width: 43
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1730,12 +1730,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_58
       rect:
         serializedVersion: 2
-        x: 7475
+        x: 7424
         y: 0
-        width: 43
-        height: 60
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1752,12 +1752,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_59
       rect:
         serializedVersion: 2
-        x: 7602
-        y: 1
-        width: 44
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1774,12 +1774,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_60
       rect:
         serializedVersion: 2
-        x: 7730
-        y: 1
-        width: 44
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1796,12 +1796,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_61
       rect:
         serializedVersion: 2
-        x: 7858
-        y: 1
-        width: 44
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1818,12 +1818,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_62
       rect:
         serializedVersion: 2
-        x: 7986
-        y: 1
-        width: 44
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1840,12 +1840,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_63
       rect:
         serializedVersion: 2
-        x: 8114
-        y: 1
-        width: 44
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1862,12 +1862,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_64
       rect:
         serializedVersion: 2
-        x: 8243
+        x: 8192
         y: 0
-        width: 42
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1884,12 +1884,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_65
       rect:
         serializedVersion: 2
-        x: 8371
+        x: 8320
         y: 0
-        width: 42
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1906,12 +1906,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_66
       rect:
         serializedVersion: 2
-        x: 8499
+        x: 8448
         y: 0
-        width: 42
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1928,12 +1928,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_67
       rect:
         serializedVersion: 2
-        x: 8627
+        x: 8576
         y: 0
-        width: 42
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1950,12 +1950,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_68
       rect:
         serializedVersion: 2
-        x: 8755
+        x: 8704
         y: 0
-        width: 42
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1972,12 +1972,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_69
       rect:
         serializedVersion: 2
-        x: 8883
+        x: 8832
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1994,12 +1994,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_70
       rect:
         serializedVersion: 2
-        x: 9011
+        x: 8960
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2016,12 +2016,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_71
       rect:
         serializedVersion: 2
-        x: 9139
+        x: 9088
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2038,12 +2038,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_72
       rect:
         serializedVersion: 2
-        x: 9267
+        x: 9216
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2060,12 +2060,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_73
       rect:
         serializedVersion: 2
-        x: 9395
+        x: 9344
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2082,12 +2082,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_74
       rect:
         serializedVersion: 2
-        x: 9524
+        x: 9472
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2104,12 +2104,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_75
       rect:
         serializedVersion: 2
-        x: 9652
+        x: 9600
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2126,12 +2126,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_76
       rect:
         serializedVersion: 2
-        x: 9780
+        x: 9728
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2148,12 +2148,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_77
       rect:
         serializedVersion: 2
-        x: 9908
+        x: 9856
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2170,12 +2170,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_78
       rect:
         serializedVersion: 2
-        x: 10036
+        x: 9984
         y: 0
-        width: 43
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2192,12 +2192,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_79
       rect:
         serializedVersion: 2
-        x: 10168
+        x: 10112
         y: 0
-        width: 41
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2214,12 +2214,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_80
       rect:
         serializedVersion: 2
-        x: 10296
+        x: 10240
         y: 0
-        width: 41
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2236,12 +2236,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_81
       rect:
         serializedVersion: 2
-        x: 10424
+        x: 10368
         y: 0
-        width: 41
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2258,12 +2258,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_82
       rect:
         serializedVersion: 2
-        x: 10552
+        x: 10496
         y: 0
-        width: 41
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2280,12 +2280,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_83
       rect:
         serializedVersion: 2
-        x: 10680
+        x: 10624
         y: 0
-        width: 41
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2302,12 +2302,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_84
       rect:
         serializedVersion: 2
-        x: 10810
+        x: 10752
         y: 0
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2324,12 +2324,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_85
       rect:
         serializedVersion: 2
-        x: 10938
+        x: 10880
         y: 0
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2346,12 +2346,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_86
       rect:
         serializedVersion: 2
-        x: 11066
+        x: 11008
         y: 0
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2368,12 +2368,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_87
       rect:
         serializedVersion: 2
-        x: 11194
+        x: 11136
         y: 0
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2390,12 +2390,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_88
       rect:
         serializedVersion: 2
-        x: 11322
+        x: 11264
         y: 0
-        width: 43
-        height: 56
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2412,12 +2412,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_89
       rect:
         serializedVersion: 2
-        x: 11448
+        x: 11392
         y: 0
-        width: 52
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2434,12 +2434,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_90
       rect:
         serializedVersion: 2
-        x: 11576
+        x: 11520
         y: 0
-        width: 52
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2456,12 +2456,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_91
       rect:
         serializedVersion: 2
-        x: 11704
+        x: 11648
         y: 0
-        width: 52
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2478,12 +2478,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_92
       rect:
         serializedVersion: 2
-        x: 11832
+        x: 11776
         y: 0
-        width: 52
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2500,12 +2500,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_93
       rect:
         serializedVersion: 2
-        x: 11960
+        x: 11904
         y: 0
-        width: 52
-        height: 51
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2522,12 +2522,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_94
       rect:
         serializedVersion: 2
-        x: 12086
-        y: 7
-        width: 60
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12032
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2544,12 +2544,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_95
       rect:
         serializedVersion: 2
-        x: 12214
-        y: 7
-        width: 60
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12160
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2566,12 +2566,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_96
       rect:
         serializedVersion: 2
-        x: 12342
-        y: 7
-        width: 60
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12288
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2588,12 +2588,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_97
       rect:
         serializedVersion: 2
-        x: 12470
-        y: 7
-        width: 60
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12416
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2610,12 +2610,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_98
       rect:
         serializedVersion: 2
-        x: 12598
-        y: 7
-        width: 60
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12544
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2632,12 +2632,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_99
       rect:
         serializedVersion: 2
-        x: 12730
-        y: 11
-        width: 62
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12672
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2654,12 +2654,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_100
       rect:
         serializedVersion: 2
-        x: 12858
-        y: 11
-        width: 62
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12800
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2676,12 +2676,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_101
       rect:
         serializedVersion: 2
-        x: 12986
-        y: 11
-        width: 62
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 12928
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2698,12 +2698,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_102
       rect:
         serializedVersion: 2
-        x: 13114
-        y: 11
-        width: 62
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13056
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2720,12 +2720,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_103
       rect:
         serializedVersion: 2
-        x: 13242
-        y: 11
-        width: 62
-        height: 19
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13184
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2742,12 +2742,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_104
       rect:
         serializedVersion: 2
-        x: 13371
-        y: 10
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13312
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2764,12 +2764,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_105
       rect:
         serializedVersion: 2
-        x: 13499
-        y: 10
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13440
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2786,12 +2786,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_106
       rect:
         serializedVersion: 2
-        x: 13627
-        y: 10
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13568
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2808,12 +2808,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_107
       rect:
         serializedVersion: 2
-        x: 13755
-        y: 10
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13696
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2830,12 +2830,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_108
       rect:
         serializedVersion: 2
-        x: 13883
-        y: 10
-        width: 62
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13824
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2852,12 +2852,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_109
       rect:
         serializedVersion: 2
-        x: 14008
-        y: 9
-        width: 64
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 13952
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2874,12 +2874,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_110
       rect:
         serializedVersion: 2
-        x: 14136
-        y: 9
-        width: 64
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14080
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2896,12 +2896,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_111
       rect:
         serializedVersion: 2
-        x: 14264
-        y: 9
-        width: 64
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14208
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2918,12 +2918,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_112
       rect:
         serializedVersion: 2
-        x: 14392
-        y: 9
-        width: 64
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14336
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2940,12 +2940,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_113
       rect:
         serializedVersion: 2
-        x: 14520
-        y: 9
-        width: 64
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14464
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2962,12 +2962,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_114
       rect:
         serializedVersion: 2
-        x: 14649
-        y: 9
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14592
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2984,12 +2984,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_115
       rect:
         serializedVersion: 2
-        x: 14777
-        y: 9
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14720
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3006,12 +3006,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_116
       rect:
         serializedVersion: 2
-        x: 14905
-        y: 9
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14848
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3028,12 +3028,12 @@ TextureImporter:
       name: Character Death Right Spritesheet_117
       rect:
         serializedVersion: 2
-        x: 15033
-        y: 9
-        width: 62
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 14976
+        y: 0
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3050,7 +3050,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b8e9de7e7256d4445bb56758f1055166
     internalID: 0
     vertices: []
     indices: 
@@ -3058,7 +3058,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.18000000715255738},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Character Death Right Spritesheet_0: 3109336325252689497
       Character Death Right Spritesheet_1: 2344736761012759133

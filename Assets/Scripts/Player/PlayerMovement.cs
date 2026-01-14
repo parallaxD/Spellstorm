@@ -4,6 +4,8 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody2D rb;
+    public Animator animator;
+    private SpellSystem spellSystem;
 
     [SerializeField] private float walkSpeed = 1f;
 
@@ -12,11 +14,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float acceleration = 10f; 
     [SerializeField] private float deceleration = 12f;
 
-    public bool isAttacking = false;
-    public bool isSprinting = false;
-
-    public Animator animator;
-    private SpellSystem spellSystem;
+    private bool isAttacking = false;
+    private bool isSprinting = false;
+    private bool isDead = false;
 
     private Vector2 currentPosition;
     private Vector2 lastPosition;
@@ -70,7 +70,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void OnAttack(InputValue value)
     {
-        if (value.isPressed && !isAttacking && spellSystem.isCreated)
+        if (value.isPressed && !isAttacking && spellSystem.isCreated && !isDead)
         {
             var direction = GetMousePosition();
 
@@ -86,12 +86,22 @@ public class PlayerMovement : MonoBehaviour
 
     public void SetAttacking(bool value) => isAttacking = value;
 
+    public void SetIsDead(bool value) => isDead = value;
+
     public Vector2 GetMoveDir() => currentPosition;
 
     public void ResetPosition()
     {
         transform.position = Vector2.zero;
         lastPosition = Vector2.zero;
+    }
+
+    public void DeadAnimation()
+    {
+        if (!isDead)
+        {
+            animator.SetTrigger("Death");
+        }
     }
 
     private Vector2 GetMousePosition()
@@ -114,7 +124,8 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("ClickX", clickPosition.x);
         animator.SetFloat("ClickY", clickPosition.y);
 
-        animator.SetBool("IsMoving", !isAttacking && currentPosition.magnitude > 0.01f);
+        if (isDead) Debug.Log(isDead);
+        animator.SetBool("IsMoving", !isAttacking && !isDead && currentPosition.magnitude > 0.01f);
         animator.SetBool("IsSprinting", isSprinting);
     }
 }

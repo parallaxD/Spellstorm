@@ -381,18 +381,18 @@ public class WindStalker : EnemyBase
     {
         if (animator == null) return;
 
-        animator.SetFloat("MoveX", moveDirection.x);
-        animator.SetFloat("MoveY", moveDirection.y);
+        animator.SetFloat("moveX", moveDirection.x);
+        animator.SetFloat("moveY", moveDirection.y);
 
         if (Mathf.Abs(moveDirection.x) > Mathf.Abs(moveDirection.y))
         {
-            animator.SetFloat("LastMoveX", Mathf.Sign(moveDirection.x));
-            animator.SetFloat("LastMoveY", 0);
+            animator.SetFloat("lastMoveX", Mathf.Sign(moveDirection.x));
+            animator.SetFloat("lastMoveY", 0);
         }
         else
         {
-            animator.SetFloat("LastMoveX", 0);
-            animator.SetFloat("LastMoveY", Mathf.Sign(moveDirection.y));
+            animator.SetFloat("lastMoveX", 0);
+            animator.SetFloat("lastMoveY", Mathf.Sign(moveDirection.y));
         }
     }
 

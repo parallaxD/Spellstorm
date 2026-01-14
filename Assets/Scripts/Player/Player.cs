@@ -6,6 +6,9 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
     [SerializeField] private PlayerMovement _playerMovement;
     [SerializeField] private PlayerHealth _playerHealth;
 
+    [SerializeField] private GenerationManager _generationManager;
+    [SerializeField] private UIManager _uiManager;
+
     public PlayerHealth Health => _playerHealth;
 
     public HealthBar healthBar;
@@ -26,7 +29,7 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
     {
         if (!IsAlive)
         {
-            //Die();
+            Die();
             return;
         }
 
@@ -46,6 +49,18 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
         healthBar.UpdateBar(_playerHealth.HealthPercentage);
     }
 
+    public void Heal(int amount)
+    {
+        _playerHealth.RestoreHealth(amount);
+    }
+
+    public void Die()
+    {
+        _playerMovement.DeadAnimation();
+
+        StartCoroutine(ShowResult());
+    }
+
     private IEnumerator DamageVisualFeedback()
     {
         var spriteRenderer = GetComponent<SpriteRenderer>();
@@ -57,14 +72,11 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
         }
     }
 
-    public void Heal(int amount)
+    private IEnumerator ShowResult()
     {
-        _playerHealth.RestoreHealth(amount);
-    }
+        yield return new WaitForSeconds(2f);
 
-    public void Die()
-    {
-        // Показать UI текущего биома
-        // 
+        _uiManager.ShowResultPanel();
+        _generationManager.HubGeneration();
     }
 }

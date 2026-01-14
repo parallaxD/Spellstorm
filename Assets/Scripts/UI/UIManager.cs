@@ -7,20 +7,27 @@ public class UIManager : MonoBehaviour
     public GameObject gamePanel;
     public GameObject pausePanel;
 
+    public GameObject burningWastelandsPanel;
+    public GameObject floodedTemplesPanel;
+    public GameObject crystalSteppesPanel;
+
     private GameObject[] panels;
     private GameObject lastPanel;
 
     public PauseManager pauseManager;
+    public GenerationManager generationManager;
 
     void Awake()
     {
-
         panels = new GameObject[]
         {
             mainMenuPanel,
             gamePanel,
             settingsPanel,
-            pausePanel
+            pausePanel,
+            burningWastelandsPanel,
+            floodedTemplesPanel,
+            crystalSteppesPanel
         };
 
         ShowMainMenu();
@@ -60,6 +67,25 @@ public class UIManager : MonoBehaviour
     public void CloseSettings()
     {
         ShowPanel(lastPanel);
+    }
+
+    public void ShowResultPanel()
+    {
+        var location = generationManager.CurrentLocation;
+
+        var panel = location switch
+        {
+            LocationType.BurningWastelands => burningWastelandsPanel,
+            LocationType.FloodedTemples => floodedTemplesPanel,
+            LocationType.CrystalSteppes => crystalSteppesPanel,
+            _ => null
+        };
+
+        if (panel != null)
+        {
+            pauseManager.PauseGame();
+            ShowPanel(panel);
+        }
     }
 
     private void ShowPanel(GameObject panel)

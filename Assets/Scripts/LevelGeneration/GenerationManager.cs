@@ -88,8 +88,10 @@ public class GenerationManager : MonoBehaviour
         collidersTilemapObject.SetActive(true);
     }
 
-    private void HubGeneration()
+    public void HubGeneration()
     {
+        currentLocation = LocationType.Hub;
+
         if (enemySpawnManager != null)
         {
             enemySpawnManager.StartSpawningForLocation(LocationType.Hub, null);
@@ -99,6 +101,7 @@ public class GenerationManager : MonoBehaviour
         basicTilemapObject.SetActive(false);
         collidersTilemapObject.SetActive(false);
 
+        player.ResetPosition();
         portal.ResetPosition();
     }
 
