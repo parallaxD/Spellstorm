@@ -7,13 +7,15 @@ public class LevelingSystem : MonoBehaviour
 
     public void UpgradeHealth()
     {
+        Debug.Log("Health Increased");
         var newMaxHealth = playerHealth.MaxHealth * healthIncreaseMultiplier;
         playerHealth.SetMaxHealth((int) newMaxHealth);
     }
 
     public void UpgradeArmor()
     {
-        var newDamageMultiplier = playerHealth.DamageMultiplier - 0.05f;
+        Debug.Log("Armor Increased");
+        var newDamageMultiplier = playerHealth.DamageMultiplier - 0.02f;
         playerHealth.SetDamageMultiplier(newDamageMultiplier);
     }
 }
