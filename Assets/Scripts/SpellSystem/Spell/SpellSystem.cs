@@ -139,7 +139,7 @@ public class SpellSystem : MonoBehaviour
         if (Elements.Count < MAX_ELEMENTS)
         {
             Elements.Add(element);
-            ElementHighlightImages[element].SetActive(true);
+            ElementHighlightImages[element].transform.localScale *= 1.2f;
             Debug.Log($"Добавлен элемент: {element}. Всего: {Elements.Count}/{MAX_ELEMENTS}");
 
             if (Elements.Count == MAX_ELEMENTS)
@@ -208,7 +208,7 @@ public class SpellSystem : MonoBehaviour
         {
             if (elementImage != null)
             {
-                elementImage.SetActive(false);
+                elementImage.transform.localScale = new Vector3(1, 1, 1);
             }
         }
     }

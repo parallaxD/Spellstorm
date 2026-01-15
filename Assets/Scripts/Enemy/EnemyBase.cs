@@ -54,6 +54,7 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
     [SerializeField] protected EnemyZoneData zoneData;
 
     [SerializeField] protected int essenceReward = 10;
+    [SerializeField] protected int shardsReward = 2;
 
 
     protected virtual void Start()
