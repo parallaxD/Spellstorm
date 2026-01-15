@@ -124,7 +124,6 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("ClickX", clickPosition.x);
         animator.SetFloat("ClickY", clickPosition.y);
 
-        if (isDead) Debug.Log(isDead);
         animator.SetBool("IsMoving", !isAttacking && !isDead && currentPosition.magnitude > 0.01f);
         animator.SetBool("IsSprinting", isSprinting);
     }
