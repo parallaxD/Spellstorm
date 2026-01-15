@@ -192,6 +192,7 @@ MonoBehaviour:
     allowedZones: []
     canLeaveZone: 1
   essenceReward: 10
+  shardsReward: 10
   shootIntervalMin: 0.8
   shootIntervalMax: 1.2
   minShots: 1

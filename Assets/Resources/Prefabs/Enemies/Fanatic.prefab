@@ -203,6 +203,7 @@ MonoBehaviour:
     - FireZone
     canLeaveZone: 1
   essenceReward: 10
+  shardsReward: 10
   personalStoppingDistance: 1.2
 --- !u!95 &3742755699793511533
 Animator:

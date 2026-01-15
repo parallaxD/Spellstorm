@@ -5,6 +5,7 @@ using static LevelGenerationConstants;
 public class Portal : MonoBehaviour
 {
     [SerializeField] GenerationManager generationManager;
+    [SerializeField] private DialogueTrigger dialogueTrigger;
 
     private Vector2 startPosition = new Vector2(13.5f, 1f);
 
@@ -20,6 +21,7 @@ public class Portal : MonoBehaviour
         if (collider.gameObject.name == "Player")
         {
             generationManager.GenerateNextLocation();
+            dialogueTrigger.StartNextDialogue();
         }
     }
 

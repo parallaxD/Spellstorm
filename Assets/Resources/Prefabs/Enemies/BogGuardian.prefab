@@ -203,10 +203,11 @@ MonoBehaviour:
     allowedZones: []
     canLeaveZone: 1
   essenceReward: 10
-  earthProjectilePrefab: {fileID: 5906944589546422025, guid: b34e7af82e36af747878a18e31efee57, type: 3}
+  shardsReward: 10
+  earthProjectilePrefab: {fileID: 6204831359863837874, guid: 3e4fbf7a3722c00448daba3d0ace748d, type: 3}
   earthPlatformPrefab: {fileID: 0}
-  earthBarrierPrefab: {fileID: 5906944589546422025, guid: 5d0e4981aaa22b240b13400d81139db8, type: 3}
-  quicksandTrapPrefab: {fileID: 5906944589546422025, guid: b075590e7f777cb4f8005efd818f61f5, type: 3}
+  earthBarrierPrefab: {fileID: 2432923442746465774, guid: c29acdbc8f69ca84681505537495ca23, type: 3}
+  quicksandTrapPrefab: {fileID: 7164252265626097708, guid: ae1c3d78d3fd86c4c9186a33c8eab74e, type: 3}
   mudMinionPrefab: {fileID: 0}
   projectileSpawnPoint: {fileID: 2026599311630727662}
   platformSpawnPoint: {fileID: 0}

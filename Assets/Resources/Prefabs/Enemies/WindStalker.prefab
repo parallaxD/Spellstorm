@@ -20,7 +20,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8895562973185170901
 Transform:
   m_ObjectHideFlags: 0
@@ -226,6 +226,7 @@ MonoBehaviour:
     - 
     canLeaveZone: 1
   essenceReward: 10
+  shardsReward: 10
   windBladeProjectilePrefab: {fileID: 7616273357402116126, guid: da27ddf5daec71f4288a94714fc2b0c8, type: 3}
   projectileSpawnPoint: {fileID: 5104723262867952535}
   rangedAttackRange: 8
