@@ -22,12 +22,12 @@ MonoBehaviour:
   - enemyPrefab: {fileID: 544077117020492391, guid: b558b102e5615b64694a8249db7b013e, type: 3}
     minCount: 1
     maxCount: 2
-    spawnChance: 0.1
+    spawnChance: 0.5
   - enemyPrefab: {fileID: 5746760519656761348, guid: d0d5558781aada941bc2bd467015584a, type: 3}
     minCount: 1
     maxCount: 2
-    spawnChance: 0.2
+    spawnChance: 0.1
   maxTotalEnemies: 5
   spawnCheckRadius: 1.5
   spawnZoneSize: {x: 7, y: 7}
-  spawnZonesCount: 3
+  spawnZonesCount: 1000

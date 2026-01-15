@@ -568,6 +568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PortalHandler
   generationManager: {fileID: 0}
+  dialogueTrigger: {fileID: 0}
 --- !u!1 &330006749829340337
 GameObject:
   m_ObjectHideFlags: 0

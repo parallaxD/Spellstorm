@@ -11,8 +11,8 @@
 
 public enum LocationType
 {
-    Hub,
-    BurningWastelands,
-    FloodedTemples,
-    CrystalSteppes
+    Hub = 0,
+    BurningWastelands = 1,
+    FloodedTemples = 2,
+    CrystalSteppes = 3
 }

@@ -1,0 +1,4121 @@
+fileFormatVersion: 2
+guid: 880fc230f31f5fb40870f9c8f6cf6cce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1794554192794787850
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_0
+  - first:
+      213: -3477705748377818068
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_1
+  - first:
+      213: 8512809336333824238
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_2
+  - first:
+      213: -2529451563028752377
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_3
+  - first:
+      213: 3435675327466075710
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_4
+  - first:
+      213: 4919065036892094252
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_5
+  - first:
+      213: -20998180004873493
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_6
+  - first:
+      213: 6012568436807615432
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_7
+  - first:
+      213: -7130555838016596467
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_8
+  - first:
+      213: -6769830704668748250
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_9
+  - first:
+      213: 2423783574217767889
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_10
+  - first:
+      213: 7120788453768780000
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_11
+  - first:
+      213: -5572357406225204869
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_12
+  - first:
+      213: -8176694941127459770
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_13
+  - first:
+      213: -4503035802236741244
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_14
+  - first:
+      213: 2078539160728443801
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_15
+  - first:
+      213: 6090748327964975934
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_16
+  - first:
+      213: -7169803379637290053
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_17
+  - first:
+      213: 7166986940365011429
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_18
+  - first:
+      213: 1420473784113784470
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_19
+  - first:
+      213: -5387510271696997672
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_20
+  - first:
+      213: 4940937164222825788
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_21
+  - first:
+      213: -3995181815865518512
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_22
+  - first:
+      213: 3552170138789753459
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_23
+  - first:
+      213: 4259067058410642551
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_24
+  - first:
+      213: 6348663777642314826
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_25
+  - first:
+      213: -1547004748787194417
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_26
+  - first:
+      213: 7304571119344387761
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_27
+  - first:
+      213: 5645518666535971559
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_28
+  - first:
+      213: -1500587046187175197
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_29
+  - first:
+      213: 249523849084145596
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_30
+  - first:
+      213: -6855538998160265089
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_31
+  - first:
+      213: -1684832754424756551
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_32
+  - first:
+      213: 1461751568705900073
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_33
+  - first:
+      213: 4851453849156903918
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_34
+  - first:
+      213: 7510358339171361882
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_35
+  - first:
+      213: 6633705118381948953
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_36
+  - first:
+      213: 4845649087729579338
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_37
+  - first:
+      213: 5069976279577175297
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_38
+  - first:
+      213: -2211801830037607457
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_39
+  - first:
+      213: 273500676158127567
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_40
+  - first:
+      213: -6939991686180266103
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_41
+  - first:
+      213: 6986831372181464243
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_42
+  - first:
+      213: 6071461296395777605
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_43
+  - first:
+      213: -2109478575421825214
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_44
+  - first:
+      213: -206806515925555035
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_45
+  - first:
+      213: 8766394183935030147
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_46
+  - first:
+      213: 6852329706891068550
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_47
+  - first:
+      213: 7292757357719526296
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_48
+  - first:
+      213: 921451953648223222
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_49
+  - first:
+      213: -124800036171145955
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_50
+  - first:
+      213: 4967804274123614282
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_51
+  - first:
+      213: 8804267392935373434
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_52
+  - first:
+      213: 1494729346805670332
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_53
+  - first:
+      213: -7764688784746659510
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_54
+  - first:
+      213: 2890480974883976739
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_55
+  - first:
+      213: 1512688316140496971
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_56
+  - first:
+      213: 2384118347498385260
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_57
+  - first:
+      213: 2178317499203954208
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_58
+  - first:
+      213: -424558699696530513
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_59
+  - first:
+      213: -7428244536713547892
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_60
+  - first:
+      213: -2434622220410721673
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_61
+  - first:
+      213: 8431483381941099644
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_62
+  - first:
+      213: 1458526812950511964
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_63
+  - first:
+      213: -521707288306457301
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_64
+  - first:
+      213: 1870874065666620575
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_65
+  - first:
+      213: 5063814398427327028
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_66
+  - first:
+      213: 4777431229238932539
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_67
+  - first:
+      213: -2162068045795738269
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_68
+  - first:
+      213: -6612330959841150947
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_69
+  - first:
+      213: -8372954474187019312
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_70
+  - first:
+      213: 6331317259700648909
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_71
+  - first:
+      213: 5734635711609736280
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_72
+  - first:
+      213: -4779761095621630230
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_73
+  - first:
+      213: 2071830792503441866
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_74
+  - first:
+      213: 6535508304813087136
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_75
+  - first:
+      213: -6439753556063672620
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_76
+  - first:
+      213: 7287865800555568641
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_77
+  - first:
+      213: -7195336636241965540
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_78
+  - first:
+      213: -6807877326634031547
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_79
+  - first:
+      213: -4033393264819431153
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_80
+  - first:
+      213: 5349595010630741275
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_81
+  - first:
+      213: -4661151116575440089
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_82
+  - first:
+      213: 1701324706495537662
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_83
+  - first:
+      213: 7543939300693862709
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_84
+  - first:
+      213: -7561823604085991152
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_85
+  - first:
+      213: -6643632774246029952
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_86
+  - first:
+      213: -8955082594860564729
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_87
+  - first:
+      213: -5931277850541326813
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_88
+  - first:
+      213: 2459692260263969000
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_89
+  - first:
+      213: -6121628738513492656
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_90
+  - first:
+      213: -4520534085782747581
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_91
+  - first:
+      213: -3130461796950582200
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_92
+  - first:
+      213: 92611488982599234
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_93
+  - first:
+      213: 1148036749778029080
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_94
+  - first:
+      213: 4829914991922247480
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_95
+  - first:
+      213: 962198742338424118
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_96
+  - first:
+      213: 8819451159852715939
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_97
+  - first:
+      213: -8626336584436531881
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_98
+  - first:
+      213: 5384406841616640111
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_99
+  - first:
+      213: 4666509491168771812
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_100
+  - first:
+      213: 350893239208408321
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_101
+  - first:
+      213: 8225825158346457902
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_102
+  - first:
+      213: 7561306701986280197
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_103
+  - first:
+      213: 4866084542434807942
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_104
+  - first:
+      213: -8069636317988848278
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_105
+  - first:
+      213: -8416851518385395837
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_106
+  - first:
+      213: 1929540190640408822
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_107
+  - first:
+      213: 5478955271721653965
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_108
+  - first:
+      213: 3083053475514927820
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_109
+  - first:
+      213: 1401472611089334932
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_110
+  - first:
+      213: -4675901474073146100
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_111
+  - first:
+      213: 7379287280524740735
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_112
+  - first:
+      213: -240620921748519108
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_113
+  - first:
+      213: 880218339733216626
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_114
+  - first:
+      213: -1213534314521645660
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_115
+  - first:
+      213: -5258076669373906993
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_116
+  - first:
+      213: 7483418990355224915
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_117
+  - first:
+      213: 3398505315269105156
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_118
+  - first:
+      213: 6555059391314789267
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_119
+  - first:
+      213: 8444654199607530897
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_120
+  - first:
+      213: 56502326656707284
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_121
+  - first:
+      213: 6246653294032569707
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_122
+  - first:
+      213: 8758993293221661706
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_123
+  - first:
+      213: -3203942524189747274
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_124
+  - first:
+      213: -7721036772678658856
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_125
+  - first:
+      213: -1462187927953501570
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_126
+  - first:
+      213: -4448063484170000483
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_127
+  - first:
+      213: -5507897820784080099
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_128
+  - first:
+      213: -5348407042425114029
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_129
+  - first:
+      213: 4737976161921429031
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_130
+  - first:
+      213: 9142249842140659205
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_131
+  - first:
+      213: 6929751624473150256
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_132
+  - first:
+      213: 567815866389917132
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_133
+  - first:
+      213: -6208605113201841495
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_134
+  - first:
+      213: -3400406381655222448
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_135
+  - first:
+      213: -2203878272991920411
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_136
+  - first:
+      213: 602327666715129491
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_137
+  - first:
+      213: 978272438569109801
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_138
+  - first:
+      213: -2702404754866775585
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_139
+  - first:
+      213: 4153816278875380779
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_140
+  - first:
+      213: 2712383443492819270
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_141
+  - first:
+      213: -8874403497582145345
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_142
+  - first:
+      213: -6436654863722306988
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_143
+  - first:
+      213: 882528375609710546
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_144
+  - first:
+      213: -4841436128612326263
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_145
+  - first:
+      213: -5874101639204246649
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_146
+  - first:
+      213: 2603265650661434969
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_147
+  - first:
+      213: 2726592887592946432
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_148
+  - first:
+      213: -8696132839134695441
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_149
+  - first:
+      213: 3179703921497776001
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_150
+  - first:
+      213: 7568253505831626498
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_151
+  - first:
+      213: -4604675473212716080
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_152
+  - first:
+      213: 4160461972046254047
+    second: TEMPLE_WARDEN_01 Death Left Spritesheet_153
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 36
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a8b7c78987e810800000000000000
+      internalID: 1794554192794787850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 36
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c2b9a2c05bcbfc0800000000000000
+      internalID: -3477705748377818068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07ec41df2932670800000000000000
+      internalID: 8512809336333824238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 36
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7085d1d743595ecd0800000000000000
+      internalID: -2529451563028752377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 36
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e367031e188fdaf20800000000000000
+      internalID: 3435675327466075710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 36
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3ff6b697044440800000000000000
+      internalID: 4919065036892094252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 36
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea31eb344665bff0800000000000000
+      internalID: -20998180004873493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 36
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c4a7232fe07350800000000000000
+      internalID: 6012568436807615432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 36
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06deef9e3d2b0d90800000000000000
+      internalID: -7130555838016596467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 35
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626dfaa97dabc02a0800000000000000
+      internalID: -6769830704668748250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 35
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db3da9a15203a120800000000000000
+      internalID: 2423783574217767889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 35
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e857930f5f12d260800000000000000
+      internalID: 7120788453768780000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 35
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79fd6076720ba2b0800000000000000
+      internalID: -5572357406225204869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 35
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3d55e54b868e80800000000000000
+      internalID: -8176694941127459770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 35
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48910d4cbc00281c0800000000000000
+      internalID: -4503035802236741244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 35
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b15f6aa5478dc10800000000000000
+      internalID: 2078539160728443801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 35
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3328a8855fa68450800000000000000
+      internalID: 6090748327964975934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 35
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbf25f30ddbf7c90800000000000000
+      internalID: -7169803379637290053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 35
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9f15266a0467360800000000000000
+      internalID: 7166986940365011429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 35
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6966bd2716986b310800000000000000
+      internalID: 1420473784113784470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 35
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d27bbfb3f7bb35b0800000000000000
+      internalID: -5387510271696997672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 35
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3507033c2cb19440800000000000000
+      internalID: 4940937164222825788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 35
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0565c3c4e434e88c0800000000000000
+      internalID: -3995181815865518512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 35
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3723058cbe7db4130800000000000000
+      internalID: 3552170138789753459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 35
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c52239cee3b1b30800000000000000
+      internalID: 4259067058410642551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 35
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c72c0b11cfa1850800000000000000
+      internalID: 6348663777642314826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 35
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc562ba906fe78ae0800000000000000
+      internalID: -1547004748787194417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 35
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b689155bbc0f5560800000000000000
+      internalID: 7304571119344387761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 35
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa6b3e059e85e40800000000000000
+      internalID: 5645518666535971559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 36
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f57d2808dc2be0800000000000000
+      internalID: -1500587046187175197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 36
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf06a36e9c767300800000000000000
+      internalID: 249523849084145596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 36
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70f1d67a9b3cd0a0800000000000000
+      internalID: -6855538998160265089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4134
+        y: 36
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c19659854e98e0800000000000000
+      internalID: -1684832754424756551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4262
+        y: 36
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ec59a9e4f294410800000000000000
+      internalID: 1461751568705900073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4381
+        y: 34
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3e23b5293d35340800000000000000
+      internalID: 4851453849156903918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 34
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54a33e2e172a3860800000000000000
+      internalID: 7510358339171361882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4637
+        y: 34
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910c8d588a7af0c50800000000000000
+      internalID: 6633705118381948953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 34
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4531540c243f3340800000000000000
+      internalID: 4845649087729579338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 34
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105aadb709c2c5640800000000000000
+      internalID: 5069976279577175297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5020
+        y: 29
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbac0744f91e41e0800000000000000
+      internalID: -2211801830037607457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 29
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdfb387a6babc300800000000000000
+      internalID: 273500676158127567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 29
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f9f01c45230bf90800000000000000
+      internalID: -6939991686180266103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 29
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b46e6c7d1636f060800000000000000
+      internalID: 6986831372181464243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5532
+        y: 29
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546f33f81e9224450800000000000000
+      internalID: 6071461296395777605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5658
+        y: 29
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f5fa28960a9b2e0800000000000000
+      internalID: -2109478575421825214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5786
+        y: 29
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86509c196412df0800000000000000
+      internalID: -206806515925555035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5914
+        y: 29
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3837f7e501d78a970800000000000000
+      internalID: 8766394183935030147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6042
+        y: 29
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684491f209d581f50800000000000000
+      internalID: 6852329706891068550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 29
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b1dfb9d24153560800000000000000
+      internalID: 7292757357719526296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6295
+        y: 28
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3cac67ba7a9cc00800000000000000
+      internalID: 921451953648223222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6423
+        y: 28
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d1010470f944ef0800000000000000
+      internalID: -124800036171145955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 28
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a482ec0baaf21f440800000000000000
+      internalID: 4967804274123614282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6679
+        y: 28
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa77ffb8a0f2a70800000000000000
+      internalID: 8804267392935373434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6807
+        y: 28
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb124b7eb685eb410800000000000000
+      internalID: 1494729346805670332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6935
+        y: 29
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4147b970b84e3490800000000000000
+      internalID: -7764688784746659510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7063
+        y: 29
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326fbf9d12d0d1820800000000000000
+      internalID: 2890480974883976739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7191
+        y: 29
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48207b42062ef410800000000000000
+      internalID: 1512688316140496971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7319
+        y: 29
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fe1256107161120800000000000000
+      internalID: 2384118347498385260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7447
+        y: 29
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026a11c6930fa3e10800000000000000
+      internalID: 2178317499203954208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7565
+        y: 30
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab594eac1aab1af0800000000000000
+      internalID: -424558699696530513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7693
+        y: 30
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fe37c43f299e890800000000000000
+      internalID: -7428244536713547892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7821
+        y: 30
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a652e5dfb763ed0800000000000000
+      internalID: -2434622220410721673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7949
+        y: 30
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c5536c675a20570800000000000000
+      internalID: 8431483381941099644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8077
+        y: 30
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c514c45a86abd3410800000000000000
+      internalID: 1458526812950511964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8209
+        y: 30
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25e2c34cf582c8f0800000000000000
+      internalID: -521707288306457301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8337
+        y: 30
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cbc87ec0ea6f910800000000000000
+      internalID: 1870874065666620575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8465
+        y: 30
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ae4cabd58464640800000000000000
+      internalID: 5063814398427327028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8593
+        y: 30
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34f4ad1468dc4240800000000000000
+      internalID: 4777431229238932539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8721
+        y: 30
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d3f16419acef1e0800000000000000
+      internalID: -2162068045795738269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8836
+        y: 33
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18b95196084c34a0800000000000000
+      internalID: -6612330959841150947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8964
+        y: 33
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dba09d744a4dcb80800000000000000
+      internalID: -8372954474187019312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9092
+        y: 33
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbb1c0c08b5dd750800000000000000
+      internalID: 6331317259700648909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9220
+        y: 33
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c84cadbc4859f40800000000000000
+      internalID: 5734635711609736280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9348
+        y: 33
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6ad389b90eaadb0800000000000000
+      internalID: -4779761095621630230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 34
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac932e5f02f90cc10800000000000000
+      internalID: 2071830792503441866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9599
+        y: 34
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9dff63d2ac2ba50800000000000000
+      internalID: 6535508304813087136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9727
+        y: 34
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d624c1924661a6a0800000000000000
+      internalID: -6439753556063672620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9855
+        y: 34
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e15d43553b32560800000000000000
+      internalID: 7287865800555568641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9983
+        y: 34
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e817da377052c90800000000000000
+      internalID: -7195336636241965540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10111
+        y: 32
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546ea8f14af8581a0800000000000000
+      internalID: -6807877326634031547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10239
+        y: 32
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f091cfa02328608c0800000000000000
+      internalID: -4033393264819431153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10367
+        y: 32
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1de8dc91549d3a40800000000000000
+      internalID: 5349595010630741275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 10495
+        y: 32
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230b1c51c3405fb0800000000000000
+      internalID: -4661151116575440089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 10623
+        y: 32
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1234a7ec15c9710800000000000000
+      internalID: 1701324706495537662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 10751
+        y: 30
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53967f013d471b860800000000000000
+      internalID: 7543939300693862709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 10879
+        y: 30
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0195a401f710f0790800000000000000
+      internalID: -7561823604085991152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 11007
+        y: 30
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0852ce8f0331dc3a0800000000000000
+      internalID: -6643632774246029952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 11135
+        y: 30
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f7d0773d729b380800000000000000
+      internalID: -8955082594860564729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 11263
+        y: 30
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e775e583edfada0800000000000000
+      internalID: -5931277850541326813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 11391
+        y: 30
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0cfc52415922220800000000000000
+      internalID: 2459692260263969000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 11519
+        y: 30
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055a41a981b9b0ba0800000000000000
+      internalID: -6121628738513492656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 11647
+        y: 30
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346cfd52336d341c0800000000000000
+      internalID: -4520534085782747581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 11775
+        y: 30
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c54d1e49d5e84d0800000000000000
+      internalID: -3130461796950582200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 11903
+        y: 30
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2468de698a5094100800000000000000
+      internalID: 92611488982599234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 12031
+        y: 29
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a0d936755aeef00800000000000000
+      internalID: 1148036749778029080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 12159
+        y: 29
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837fbdc581e470340800000000000000
+      internalID: 4829914991922247480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 12287
+        y: 29
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dc86088aa6a5d00800000000000000
+      internalID: 962198742338424118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 12415
+        y: 29
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af8de83a1cf46a70800000000000000
+      internalID: 8819451159852715939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 12543
+        y: 29
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d34bba498194880800000000000000
+      internalID: -8626336584436531881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 12671
+        y: 29
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f682eb0ae7149ba40800000000000000
+      internalID: 5384406841616640111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 12799
+        y: 29
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee7a1278a5c2c040800000000000000
+      internalID: 4666509491168771812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 12927
+        y: 29
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1057a1dba8f9ed400800000000000000
+      internalID: 350893239208408321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 13055
+        y: 29
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2346b33660082270800000000000000
+      internalID: 8225825158346457902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 13183
+        y: 29
+        width: 61
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5033ca942682fe860800000000000000
+      internalID: 7561306701986280197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 13311
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68098d61c1ec78340800000000000000
+      internalID: 4866084542434807942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 13439
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dfea70684e20090800000000000000
+      internalID: -8069636317988848278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 13567
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3876e6f6326513b80800000000000000
+      internalID: -8416851518385395837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 13695
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f806fa849a17ca10800000000000000
+      internalID: 1929540190640408822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 13823
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc619377ac8290c40800000000000000
+      internalID: 5478955271721653965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 13951
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccac99f1dc439ca20800000000000000
+      internalID: 3083053475514927820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 14079
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4924b6a1ae7037310800000000000000
+      internalID: 1401472611089334932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 14207
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d0521226cdb1fb0800000000000000
+      internalID: -4675901474073146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 14335
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f784c3b3fae786660800000000000000
+      internalID: 7379287280524740735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 14463
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3707a9eb8429acf0800000000000000
+      internalID: -240620921748519108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 14591
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d15989ae9273c00800000000000000
+      internalID: 880218339733216626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 14719
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ada03478f8a82fe0800000000000000
+      internalID: -1213534314521645660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 14847
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff230b02f8707b0800000000000000
+      internalID: -5258076669373906993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 14975
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35919814ce17ad760800000000000000
+      internalID: 7483418990355224915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 15103
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40654e3049ae92f20800000000000000
+      internalID: 3398505315269105156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 15231
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39308e449cf38fa50800000000000000
+      internalID: 6555059391314789267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 15359
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1951e9ab040713570800000000000000
+      internalID: 8444654199607530897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_121
+      rect:
+        serializedVersion: 2
+        x: 15487
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2b55119cb8c000800000000000000
+      internalID: 56502326656707284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_122
+      rect:
+        serializedVersion: 2
+        x: 15615
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65c5d1231290b650800000000000000
+      internalID: 6246653294032569707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_123
+      rect:
+        serializedVersion: 2
+        x: 15743
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c81883ef13e8970800000000000000
+      internalID: 8758993293221661706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_124
+      rect:
+        serializedVersion: 2
+        x: 15871
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7d6ecdf3f4983d0800000000000000
+      internalID: -3203942524189747274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_125
+      rect:
+        serializedVersion: 2
+        x: 15999
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d492ca86fd59d490800000000000000
+      internalID: -7721036772678658856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_126
+      rect:
+        serializedVersion: 2
+        x: 16127
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72977793d345bbe0800000000000000
+      internalID: -1462187927953501570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_127
+      rect:
+        serializedVersion: 2
+        x: 16255
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9729a7f3dd4542c0800000000000000
+      internalID: -4448063484170000483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_128
+      rect:
+        serializedVersion: 2
+        x: 16383
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b44053d140093b0800000000000000
+      internalID: -5507897820784080099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_129
+      rect:
+        serializedVersion: 2
+        x: 16511
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352bd0ac124a6c5b0800000000000000
+      internalID: -5348407042425114029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_130
+      rect:
+        serializedVersion: 2
+        x: 16639
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e6895673ca0c140800000000000000
+      internalID: 4737976161921429031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_131
+      rect:
+        serializedVersion: 2
+        x: 16767
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e3aa03bcbcfde70800000000000000
+      internalID: 9142249842140659205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_132
+      rect:
+        serializedVersion: 2
+        x: 16895
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0338866136c6b2060800000000000000
+      internalID: 6929751624473150256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_133
+      rect:
+        serializedVersion: 2
+        x: 17023
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6006a58941e700800000000000000
+      internalID: 567815866389917132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_134
+      rect:
+        serializedVersion: 2
+        x: 17151
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2eec4b8a96d9a0800000000000000
+      internalID: -6208605113201841495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_135
+      rect:
+        serializedVersion: 2
+        x: 17279
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057187979645fc0d0800000000000000
+      internalID: -3400406381655222448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_136
+      rect:
+        serializedVersion: 2
+        x: 17407
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee7d1a23604a61e0800000000000000
+      internalID: -2203878272991920411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_137
+      rect:
+        serializedVersion: 2
+        x: 17535
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396f1f452d5eb5800800000000000000
+      internalID: 602327666715129491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_138
+      rect:
+        serializedVersion: 2
+        x: 17663
+        y: 28
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929877a8995839d00800000000000000
+      internalID: 978272438569109801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_139
+      rect:
+        serializedVersion: 2
+        x: 17791
+        y: 33
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9d6d281312f7ad0800000000000000
+      internalID: -2702404754866775585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_140
+      rect:
+        serializedVersion: 2
+        x: 17806
+        y: 30
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c1a94d5e155a930800000000000000
+      internalID: 4153816278875380779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_141
+      rect:
+        serializedVersion: 2
+        x: 17824
+        y: 30
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6415a0cfe5254a520800000000000000
+      internalID: 2712383443492819270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_142
+      rect:
+        serializedVersion: 2
+        x: 17919
+        y: 33
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0d12d9909c7d480800000000000000
+      internalID: -8874403497582145345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_143
+      rect:
+        serializedVersion: 2
+        x: 17934
+        y: 30
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452aa0a11886ca6a0800000000000000
+      internalID: -6436654863722306988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_144
+      rect:
+        serializedVersion: 2
+        x: 17952
+        y: 30
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d75b6cb1ee5f3c00800000000000000
+      internalID: 882528375609710546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_145
+      rect:
+        serializedVersion: 2
+        x: 18047
+        y: 33
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984e157fd73cfccb0800000000000000
+      internalID: -4841436128612326263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_146
+      rect:
+        serializedVersion: 2
+        x: 18062
+        y: 30
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78be0b47eaffa7ea0800000000000000
+      internalID: -5874101639204246649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_147
+      rect:
+        serializedVersion: 2
+        x: 18080
+        y: 30
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a6ab0158a02420800000000000000
+      internalID: 2603265650661434969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_148
+      rect:
+        serializedVersion: 2
+        x: 18175
+        y: 33
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b851009cdc6d520800000000000000
+      internalID: 2726592887592946432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_149
+      rect:
+        serializedVersion: 2
+        x: 18190
+        y: 30
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef64c3c141215780800000000000000
+      internalID: -8696132839134695441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_150
+      rect:
+        serializedVersion: 2
+        x: 18208
+        y: 30
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f9acbaed3902c20800000000000000
+      internalID: 3179703921497776001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_151
+      rect:
+        serializedVersion: 2
+        x: 18303
+        y: 33
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207e2391776d70960800000000000000
+      internalID: 7568253505831626498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_152
+      rect:
+        serializedVersion: 2
+        x: 18318
+        y: 30
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbc331cd08e810c0800000000000000
+      internalID: -4604675473212716080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Death Left Spritesheet_153
+      rect:
+        serializedVersion: 2
+        x: 18336
+        y: 30
+        width: 647
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf8659de1eecb930800000000000000
+      internalID: 4160461972046254047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TEMPLE_WARDEN_01 Death Left Spritesheet_0: 1794554192794787850
+      TEMPLE_WARDEN_01 Death Left Spritesheet_1: -3477705748377818068
+      TEMPLE_WARDEN_01 Death Left Spritesheet_10: 2423783574217767889
+      TEMPLE_WARDEN_01 Death Left Spritesheet_100: 4666509491168771812
+      TEMPLE_WARDEN_01 Death Left Spritesheet_101: 350893239208408321
+      TEMPLE_WARDEN_01 Death Left Spritesheet_102: 8225825158346457902
+      TEMPLE_WARDEN_01 Death Left Spritesheet_103: 7561306701986280197
+      TEMPLE_WARDEN_01 Death Left Spritesheet_104: 4866084542434807942
+      TEMPLE_WARDEN_01 Death Left Spritesheet_105: -8069636317988848278
+      TEMPLE_WARDEN_01 Death Left Spritesheet_106: -8416851518385395837
+      TEMPLE_WARDEN_01 Death Left Spritesheet_107: 1929540190640408822
+      TEMPLE_WARDEN_01 Death Left Spritesheet_108: 5478955271721653965
+      TEMPLE_WARDEN_01 Death Left Spritesheet_109: 3083053475514927820
+      TEMPLE_WARDEN_01 Death Left Spritesheet_11: 7120788453768780000
+      TEMPLE_WARDEN_01 Death Left Spritesheet_110: 1401472611089334932
+      TEMPLE_WARDEN_01 Death Left Spritesheet_111: -4675901474073146100
+      TEMPLE_WARDEN_01 Death Left Spritesheet_112: 7379287280524740735
+      TEMPLE_WARDEN_01 Death Left Spritesheet_113: -240620921748519108
+      TEMPLE_WARDEN_01 Death Left Spritesheet_114: 880218339733216626
+      TEMPLE_WARDEN_01 Death Left Spritesheet_115: -1213534314521645660
+      TEMPLE_WARDEN_01 Death Left Spritesheet_116: -5258076669373906993
+      TEMPLE_WARDEN_01 Death Left Spritesheet_117: 7483418990355224915
+      TEMPLE_WARDEN_01 Death Left Spritesheet_118: 3398505315269105156
+      TEMPLE_WARDEN_01 Death Left Spritesheet_119: 6555059391314789267
+      TEMPLE_WARDEN_01 Death Left Spritesheet_12: -5572357406225204869
+      TEMPLE_WARDEN_01 Death Left Spritesheet_120: 8444654199607530897
+      TEMPLE_WARDEN_01 Death Left Spritesheet_121: 56502326656707284
+      TEMPLE_WARDEN_01 Death Left Spritesheet_122: 6246653294032569707
+      TEMPLE_WARDEN_01 Death Left Spritesheet_123: 8758993293221661706
+      TEMPLE_WARDEN_01 Death Left Spritesheet_124: -3203942524189747274
+      TEMPLE_WARDEN_01 Death Left Spritesheet_125: -7721036772678658856
+      TEMPLE_WARDEN_01 Death Left Spritesheet_126: -1462187927953501570
+      TEMPLE_WARDEN_01 Death Left Spritesheet_127: -4448063484170000483
+      TEMPLE_WARDEN_01 Death Left Spritesheet_128: -5507897820784080099
+      TEMPLE_WARDEN_01 Death Left Spritesheet_129: -5348407042425114029
+      TEMPLE_WARDEN_01 Death Left Spritesheet_13: -8176694941127459770
+      TEMPLE_WARDEN_01 Death Left Spritesheet_130: 4737976161921429031
+      TEMPLE_WARDEN_01 Death Left Spritesheet_131: 9142249842140659205
+      TEMPLE_WARDEN_01 Death Left Spritesheet_132: 6929751624473150256
+      TEMPLE_WARDEN_01 Death Left Spritesheet_133: 567815866389917132
+      TEMPLE_WARDEN_01 Death Left Spritesheet_134: -6208605113201841495
+      TEMPLE_WARDEN_01 Death Left Spritesheet_135: -3400406381655222448
+      TEMPLE_WARDEN_01 Death Left Spritesheet_136: -2203878272991920411
+      TEMPLE_WARDEN_01 Death Left Spritesheet_137: 602327666715129491
+      TEMPLE_WARDEN_01 Death Left Spritesheet_138: 978272438569109801
+      TEMPLE_WARDEN_01 Death Left Spritesheet_139: -2702404754866775585
+      TEMPLE_WARDEN_01 Death Left Spritesheet_14: -4503035802236741244
+      TEMPLE_WARDEN_01 Death Left Spritesheet_140: 4153816278875380779
+      TEMPLE_WARDEN_01 Death Left Spritesheet_141: 2712383443492819270
+      TEMPLE_WARDEN_01 Death Left Spritesheet_142: -8874403497582145345
+      TEMPLE_WARDEN_01 Death Left Spritesheet_143: -6436654863722306988
+      TEMPLE_WARDEN_01 Death Left Spritesheet_144: 882528375609710546
+      TEMPLE_WARDEN_01 Death Left Spritesheet_145: -4841436128612326263
+      TEMPLE_WARDEN_01 Death Left Spritesheet_146: -5874101639204246649
+      TEMPLE_WARDEN_01 Death Left Spritesheet_147: 2603265650661434969
+      TEMPLE_WARDEN_01 Death Left Spritesheet_148: 2726592887592946432
+      TEMPLE_WARDEN_01 Death Left Spritesheet_149: -8696132839134695441
+      TEMPLE_WARDEN_01 Death Left Spritesheet_15: 2078539160728443801
+      TEMPLE_WARDEN_01 Death Left Spritesheet_150: 3179703921497776001
+      TEMPLE_WARDEN_01 Death Left Spritesheet_151: 7568253505831626498
+      TEMPLE_WARDEN_01 Death Left Spritesheet_152: -4604675473212716080
+      TEMPLE_WARDEN_01 Death Left Spritesheet_153: 4160461972046254047
+      TEMPLE_WARDEN_01 Death Left Spritesheet_16: 6090748327964975934
+      TEMPLE_WARDEN_01 Death Left Spritesheet_17: -7169803379637290053
+      TEMPLE_WARDEN_01 Death Left Spritesheet_18: 7166986940365011429
+      TEMPLE_WARDEN_01 Death Left Spritesheet_19: 1420473784113784470
+      TEMPLE_WARDEN_01 Death Left Spritesheet_2: 8512809336333824238
+      TEMPLE_WARDEN_01 Death Left Spritesheet_20: -5387510271696997672
+      TEMPLE_WARDEN_01 Death Left Spritesheet_21: 4940937164222825788
+      TEMPLE_WARDEN_01 Death Left Spritesheet_22: -3995181815865518512
+      TEMPLE_WARDEN_01 Death Left Spritesheet_23: 3552170138789753459
+      TEMPLE_WARDEN_01 Death Left Spritesheet_24: 4259067058410642551
+      TEMPLE_WARDEN_01 Death Left Spritesheet_25: 6348663777642314826
+      TEMPLE_WARDEN_01 Death Left Spritesheet_26: -1547004748787194417
+      TEMPLE_WARDEN_01 Death Left Spritesheet_27: 7304571119344387761
+      TEMPLE_WARDEN_01 Death Left Spritesheet_28: 5645518666535971559
+      TEMPLE_WARDEN_01 Death Left Spritesheet_29: -1500587046187175197
+      TEMPLE_WARDEN_01 Death Left Spritesheet_3: -2529451563028752377
+      TEMPLE_WARDEN_01 Death Left Spritesheet_30: 249523849084145596
+      TEMPLE_WARDEN_01 Death Left Spritesheet_31: -6855538998160265089
+      TEMPLE_WARDEN_01 Death Left Spritesheet_32: -1684832754424756551
+      TEMPLE_WARDEN_01 Death Left Spritesheet_33: 1461751568705900073
+      TEMPLE_WARDEN_01 Death Left Spritesheet_34: 4851453849156903918
+      TEMPLE_WARDEN_01 Death Left Spritesheet_35: 7510358339171361882
+      TEMPLE_WARDEN_01 Death Left Spritesheet_36: 6633705118381948953
+      TEMPLE_WARDEN_01 Death Left Spritesheet_37: 4845649087729579338
+      TEMPLE_WARDEN_01 Death Left Spritesheet_38: 5069976279577175297
+      TEMPLE_WARDEN_01 Death Left Spritesheet_39: -2211801830037607457
+      TEMPLE_WARDEN_01 Death Left Spritesheet_4: 3435675327466075710
+      TEMPLE_WARDEN_01 Death Left Spritesheet_40: 273500676158127567
+      TEMPLE_WARDEN_01 Death Left Spritesheet_41: -6939991686180266103
+      TEMPLE_WARDEN_01 Death Left Spritesheet_42: 6986831372181464243
+      TEMPLE_WARDEN_01 Death Left Spritesheet_43: 6071461296395777605
+      TEMPLE_WARDEN_01 Death Left Spritesheet_44: -2109478575421825214
+      TEMPLE_WARDEN_01 Death Left Spritesheet_45: -206806515925555035
+      TEMPLE_WARDEN_01 Death Left Spritesheet_46: 8766394183935030147
+      TEMPLE_WARDEN_01 Death Left Spritesheet_47: 6852329706891068550
+      TEMPLE_WARDEN_01 Death Left Spritesheet_48: 7292757357719526296
+      TEMPLE_WARDEN_01 Death Left Spritesheet_49: 921451953648223222
+      TEMPLE_WARDEN_01 Death Left Spritesheet_5: 4919065036892094252
+      TEMPLE_WARDEN_01 Death Left Spritesheet_50: -124800036171145955
+      TEMPLE_WARDEN_01 Death Left Spritesheet_51: 4967804274123614282
+      TEMPLE_WARDEN_01 Death Left Spritesheet_52: 8804267392935373434
+      TEMPLE_WARDEN_01 Death Left Spritesheet_53: 1494729346805670332
+      TEMPLE_WARDEN_01 Death Left Spritesheet_54: -7764688784746659510
+      TEMPLE_WARDEN_01 Death Left Spritesheet_55: 2890480974883976739
+      TEMPLE_WARDEN_01 Death Left Spritesheet_56: 1512688316140496971
+      TEMPLE_WARDEN_01 Death Left Spritesheet_57: 2384118347498385260
+      TEMPLE_WARDEN_01 Death Left Spritesheet_58: 2178317499203954208
+      TEMPLE_WARDEN_01 Death Left Spritesheet_59: -424558699696530513
+      TEMPLE_WARDEN_01 Death Left Spritesheet_6: -20998180004873493
+      TEMPLE_WARDEN_01 Death Left Spritesheet_60: -7428244536713547892
+      TEMPLE_WARDEN_01 Death Left Spritesheet_61: -2434622220410721673
+      TEMPLE_WARDEN_01 Death Left Spritesheet_62: 8431483381941099644
+      TEMPLE_WARDEN_01 Death Left Spritesheet_63: 1458526812950511964
+      TEMPLE_WARDEN_01 Death Left Spritesheet_64: -521707288306457301
+      TEMPLE_WARDEN_01 Death Left Spritesheet_65: 1870874065666620575
+      TEMPLE_WARDEN_01 Death Left Spritesheet_66: 5063814398427327028
+      TEMPLE_WARDEN_01 Death Left Spritesheet_67: 4777431229238932539
+      TEMPLE_WARDEN_01 Death Left Spritesheet_68: -2162068045795738269
+      TEMPLE_WARDEN_01 Death Left Spritesheet_69: -6612330959841150947
+      TEMPLE_WARDEN_01 Death Left Spritesheet_7: 6012568436807615432
+      TEMPLE_WARDEN_01 Death Left Spritesheet_70: -8372954474187019312
+      TEMPLE_WARDEN_01 Death Left Spritesheet_71: 6331317259700648909
+      TEMPLE_WARDEN_01 Death Left Spritesheet_72: 5734635711609736280
+      TEMPLE_WARDEN_01 Death Left Spritesheet_73: -4779761095621630230
+      TEMPLE_WARDEN_01 Death Left Spritesheet_74: 2071830792503441866
+      TEMPLE_WARDEN_01 Death Left Spritesheet_75: 6535508304813087136
+      TEMPLE_WARDEN_01 Death Left Spritesheet_76: -6439753556063672620
+      TEMPLE_WARDEN_01 Death Left Spritesheet_77: 7287865800555568641
+      TEMPLE_WARDEN_01 Death Left Spritesheet_78: -7195336636241965540
+      TEMPLE_WARDEN_01 Death Left Spritesheet_79: -6807877326634031547
+      TEMPLE_WARDEN_01 Death Left Spritesheet_8: -7130555838016596467
+      TEMPLE_WARDEN_01 Death Left Spritesheet_80: -4033393264819431153
+      TEMPLE_WARDEN_01 Death Left Spritesheet_81: 5349595010630741275
+      TEMPLE_WARDEN_01 Death Left Spritesheet_82: -4661151116575440089
+      TEMPLE_WARDEN_01 Death Left Spritesheet_83: 1701324706495537662
+      TEMPLE_WARDEN_01 Death Left Spritesheet_84: 7543939300693862709
+      TEMPLE_WARDEN_01 Death Left Spritesheet_85: -7561823604085991152
+      TEMPLE_WARDEN_01 Death Left Spritesheet_86: -6643632774246029952
+      TEMPLE_WARDEN_01 Death Left Spritesheet_87: -8955082594860564729
+      TEMPLE_WARDEN_01 Death Left Spritesheet_88: -5931277850541326813
+      TEMPLE_WARDEN_01 Death Left Spritesheet_89: 2459692260263969000
+      TEMPLE_WARDEN_01 Death Left Spritesheet_9: -6769830704668748250
+      TEMPLE_WARDEN_01 Death Left Spritesheet_90: -6121628738513492656
+      TEMPLE_WARDEN_01 Death Left Spritesheet_91: -4520534085782747581
+      TEMPLE_WARDEN_01 Death Left Spritesheet_92: -3130461796950582200
+      TEMPLE_WARDEN_01 Death Left Spritesheet_93: 92611488982599234
+      TEMPLE_WARDEN_01 Death Left Spritesheet_94: 1148036749778029080
+      TEMPLE_WARDEN_01 Death Left Spritesheet_95: 4829914991922247480
+      TEMPLE_WARDEN_01 Death Left Spritesheet_96: 962198742338424118
+      TEMPLE_WARDEN_01 Death Left Spritesheet_97: 8819451159852715939
+      TEMPLE_WARDEN_01 Death Left Spritesheet_98: -8626336584436531881
+      TEMPLE_WARDEN_01 Death Left Spritesheet_99: 5384406841616640111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

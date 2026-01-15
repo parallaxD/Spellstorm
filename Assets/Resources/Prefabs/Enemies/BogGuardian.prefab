@@ -185,7 +185,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BogGuardian
   moveSpeed: 3
   smoothTime: 0.3
-  detectionRange: 5
+  detectionRange: 20
   maxSpeed: 1.5
   acceleration: 5
   deceleration: 5
@@ -193,7 +193,7 @@ MonoBehaviour:
   attackDamage: 10
   attackCooldown: 2
   attackDelay: 0.3
-  health: 100
+  health: 200
   animator: {fileID: 0}
   rb: {fileID: 0}
   stopDistance: 0.5

@@ -25,6 +25,10 @@ public class PlayerHealth : MonoBehaviour
         OnHealthChangedWithMax?.Invoke(_currentHealth, _maxHealth);
     }
 
+    public void SetCurrentHealth(int healthToSet)
+    {
+        _currentHealth = healthToSet;
+    }
 
     public void ReduceHealth(int value)
     {
@@ -32,6 +36,7 @@ public class PlayerHealth : MonoBehaviour
 
         int previousHealth = _currentHealth;
         _currentHealth = (int)(Mathf.Max(0, _currentHealth - value) * DamageMultiplier);
+        print(CurrentHealth);
 
         OnHealthChanged?.Invoke(_currentHealth);
         OnHealthReduced?.Invoke(value);
@@ -76,8 +81,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void SetDamageMultiplier(float newDamageMultiplier)
     {
-        DamageMultiplier = newDamageMultiplier;
-        
+        DamageMultiplier = newDamageMultiplier;      
     }
 
     public bool IsAlive()

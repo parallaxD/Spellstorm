@@ -103,4 +103,9 @@ public class UIManager : MonoBehaviour
             panel.SetActive(false);
         }
     }
+
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
 }

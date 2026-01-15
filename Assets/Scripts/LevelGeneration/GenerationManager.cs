@@ -49,8 +49,12 @@ public class GenerationManager : MonoBehaviour
     {
         var totalLocations = System.Enum.GetValues(typeof(LocationType)).Length;
         var nextLocation = (LocationType)(((int)currentLocation + 1) % totalLocations);
-
+        if ((int)nextLocation > 4)
+        {
+            nextLocation = LocationType.Hub;
+        }
         currentLocation = nextLocation;
+
 
         if (nextLocation == LocationType.Hub)
         {

@@ -14,7 +14,11 @@ public class DialogueTrigger : MonoBehaviour
 
     public void StartNextDialogue()
     {
-        print(_currentDialogueIndex);
+        if (_currentDialogueIndex > 3)
+        {
+            _currentDialogueIndex = 1;
+            return;
+        }
         dialogueSystem.StartDialogue(dialogueData[_currentDialogueIndex].lines);
         _currentDialogueIndex += 1;
     }

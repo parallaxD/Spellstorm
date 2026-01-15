@@ -207,7 +207,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::WindStalker
   moveSpeed: 3
   smoothTime: 0.3
-  detectionRange: 5
+  detectionRange: 15
   maxSpeed: 1.5
   acceleration: 5
   deceleration: 5

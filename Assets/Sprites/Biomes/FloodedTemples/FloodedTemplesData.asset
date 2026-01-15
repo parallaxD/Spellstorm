@@ -21,9 +21,13 @@ MonoBehaviour:
   enemySpawnData:
   - enemyPrefab: {fileID: 3632076930707136777, guid: 2ba188ab02fd6d34c8d89fb906aec5bc, type: 3}
     minCount: 1
-    maxCount: 0
+    maxCount: 3
     spawnChance: 1
-  maxTotalEnemies: 3
+  - enemyPrefab: {fileID: 1051803750284839555, guid: 0411a9ba9f627874296c4f3e9ebf421d, type: 3}
+    minCount: 1
+    maxCount: 5
+    spawnChance: 1
+  maxTotalEnemies: 8
   spawnCheckRadius: 1.5
   spawnZoneSize: {x: 20, y: 15}
-  spawnZonesCount: 1
+  spawnZonesCount: 1000

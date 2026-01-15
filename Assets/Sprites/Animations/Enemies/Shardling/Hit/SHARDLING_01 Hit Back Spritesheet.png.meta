@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: a185ceb7467d9bd48a2b5410ecec7094
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3559074902747445283
+    second: SHARDLING_01 Hit Back Spritesheet_0
+  - first:
+      213: 7882016419022476782
+    second: SHARDLING_01 Hit Back Spritesheet_1
+  - first:
+      213: 5650999859606015065
+    second: SHARDLING_01 Hit Back Spritesheet_2
+  - first:
+      213: -294489979538795133
+    second: SHARDLING_01 Hit Back Spritesheet_3
+  - first:
+      213: 989049333225833934
+    second: SHARDLING_01 Hit Back Spritesheet_4
+  - first:
+      213: -6065577639176822554
+    second: SHARDLING_01 Hit Back Spritesheet_5
+  - first:
+      213: 2862364188454742852
+    second: SHARDLING_01 Hit Back Spritesheet_6
+  - first:
+      213: -2918989090433880928
+    second: SHARDLING_01 Hit Back Spritesheet_7
+  - first:
+      213: 6395440068114884568
+    second: SHARDLING_01 Hit Back Spritesheet_8
+  - first:
+      213: 6488908632795470347
+    second: SHARDLING_01 Hit Back Spritesheet_9
+  - first:
+      213: -348278546648659853
+    second: SHARDLING_01 Hit Back Spritesheet_10
+  - first:
+      213: -1660933763968713534
+    second: SHARDLING_01 Hit Back Spritesheet_11
+  - first:
+      213: 7992623745111334686
+    second: SHARDLING_01 Hit Back Spritesheet_12
+  - first:
+      213: 2598911574409631857
+    second: SHARDLING_01 Hit Back Spritesheet_13
+  - first:
+      213: 8089874499573262235
+    second: SHARDLING_01 Hit Back Spritesheet_14
+  - first:
+      213: -1977547328108713936
+    second: SHARDLING_01 Hit Back Spritesheet_15
+  - first:
+      213: -5993819610523285826
+    second: SHARDLING_01 Hit Back Spritesheet_16
+  - first:
+      213: 5082556955473344685
+    second: SHARDLING_01 Hit Back Spritesheet_17
+  - first:
+      213: 8970609138323681999
+    second: SHARDLING_01 Hit Back Spritesheet_18
+  - first:
+      213: -543559823991281914
+    second: SHARDLING_01 Hit Back Spritesheet_19
+  - first:
+      213: 8044811621917638217
+    second: SHARDLING_01 Hit Back Spritesheet_20
+  - first:
+      213: 6647930574339866126
+    second: SHARDLING_01 Hit Back Spritesheet_21
+  - first:
+      213: -1563341987457879551
+    second: SHARDLING_01 Hit Back Spritesheet_22
+  - first:
+      213: 2926566738227251149
+    second: SHARDLING_01 Hit Back Spritesheet_23
+  - first:
+      213: 6689582871784050764
+    second: SHARDLING_01 Hit Back Spritesheet_24
+  - first:
+      213: -5551472409712379076
+    second: SHARDLING_01 Hit Back Spritesheet_25
+  - first:
+      213: 5120517356209688832
+    second: SHARDLING_01 Hit Back Spritesheet_26
+  - first:
+      213: -9124645396857094516
+    second: SHARDLING_01 Hit Back Spritesheet_27
+  - first:
+      213: -1386872389925950915
+    second: SHARDLING_01 Hit Back Spritesheet_28
+  - first:
+      213: 2277799927559612
+    second: SHARDLING_01 Hit Back Spritesheet_29
+  - first:
+      213: -9139222007920883430
+    second: SHARDLING_01 Hit Back Spritesheet_30
+  - first:
+      213: -9111911214116212242
+    second: SHARDLING_01 Hit Back Spritesheet_31
+  - first:
+      213: 8920649726815112293
+    second: SHARDLING_01 Hit Back Spritesheet_32
+  - first:
+      213: -8177060021768468767
+    second: SHARDLING_01 Hit Back Spritesheet_33
+  - first:
+      213: -7568535687956110662
+    second: SHARDLING_01 Hit Back Spritesheet_34
+  - first:
+      213: -4390440805278821371
+    second: SHARDLING_01 Hit Back Spritesheet_35
+  - first:
+      213: 5061546368828058639
+    second: SHARDLING_01 Hit Back Spritesheet_36
+  - first:
+      213: -2403507493800315403
+    second: SHARDLING_01 Hit Back Spritesheet_37
+  - first:
+      213: -678295807361918291
+    second: SHARDLING_01 Hit Back Spritesheet_38
+  - first:
+      213: 5724682789380255511
+    second: SHARDLING_01 Hit Back Spritesheet_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd70bb49b30ab9ec0800000000000000
+      internalID: -3559074902747445283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee591a12c2c826d60800000000000000
+      internalID: 7882016419022476782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c49999e626c6e40800000000000000
+      internalID: 5650999859606015065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3859da38ce2c9ebf0800000000000000
+      internalID: -294489979538795133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5434cd02fc9bd00800000000000000
+      internalID: 989049333225833934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02053264db2dba0800000000000000
+      internalID: -6065577639176822554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44be4ae501929b720800000000000000
+      internalID: 2862364188454742852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aca27143eaad77d0800000000000000
+      internalID: -2918989090433880928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7a9428bda21c850800000000000000
+      internalID: 6395440068114884568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a5db5950c3d0a50800000000000000
+      internalID: 6488908632795470347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3780e10d18aaa2bf0800000000000000
+      internalID: -348278546648659853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc313baa8d23f8e0800000000000000
+      internalID: -1660933763968713534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f96be03f08bee60800000000000000
+      internalID: 7992623745111334686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178565bae40311420800000000000000
+      internalID: 2598911574409631857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b972e80def1054070800000000000000
+      internalID: 8089874499573262235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038ae8dbe275e84e0800000000000000
+      internalID: -1977547328108713936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64df222dca1dca0800000000000000
+      internalID: -5993819610523285826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8fda95f9ed88640800000000000000
+      internalID: 5082556955473344685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2f7a4ab710e7c70800000000000000
+      internalID: 8970609138323681999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60763d05833e478f0800000000000000
+      internalID: -543559823991281914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb5510c89e4af60800000000000000
+      internalID: 8044811621917638217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7cf692a1324c50800000000000000
+      internalID: 6647930574339866126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102be1fceb4ed4ae0800000000000000
+      internalID: -1563341987457879551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7428b51f04d9820800000000000000
+      internalID: 2926566738227251149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40d930dd2c26dc50800000000000000
+      internalID: 6689582871784050764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b36be914535f2b0800000000000000
+      internalID: -5551472409712379076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001d913e76bbf0740800000000000000
+      internalID: 5120517356209688832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8efde22b5fbe5180800000000000000
+      internalID: -9124645396857094516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aaaa9c8e6d0cce0800000000000000
+      internalID: -1386872389925950915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53d8f95a7180000800000000000000
+      internalID: 2277799927559612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1981766106fa2180800000000000000
+      internalID: -9139222007920883430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee174b9170dfb8180800000000000000
+      internalID: -9111911214116212242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c0084b9a38ccb70800000000000000
+      internalID: 8920649726815112293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6417feb3f358e80800000000000000
+      internalID: -8177060021768468767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2628144e827f690800000000000000
+      internalID: -7568535687956110662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504d9f169550213c0800000000000000
+      internalID: -4390440805278821371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c2a20fa993e3640800000000000000
+      internalID: 5061546368828058639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5fa013ba605aed0800000000000000
+      internalID: -2403507493800315403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa5e859e853696f0800000000000000
+      internalID: -678295807361918291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SHARDLING_01 Hit Back Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f6dc09aa8227f40800000000000000
+      internalID: 5724682789380255511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67cbc407f7e2fcc468bcd64c468093f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SHARDLING_01 Hit Back Spritesheet_0: -3559074902747445283
+      SHARDLING_01 Hit Back Spritesheet_1: 7882016419022476782
+      SHARDLING_01 Hit Back Spritesheet_10: -348278546648659853
+      SHARDLING_01 Hit Back Spritesheet_11: -1660933763968713534
+      SHARDLING_01 Hit Back Spritesheet_12: 7992623745111334686
+      SHARDLING_01 Hit Back Spritesheet_13: 2598911574409631857
+      SHARDLING_01 Hit Back Spritesheet_14: 8089874499573262235
+      SHARDLING_01 Hit Back Spritesheet_15: -1977547328108713936
+      SHARDLING_01 Hit Back Spritesheet_16: -5993819610523285826
+      SHARDLING_01 Hit Back Spritesheet_17: 5082556955473344685
+      SHARDLING_01 Hit Back Spritesheet_18: 8970609138323681999
+      SHARDLING_01 Hit Back Spritesheet_19: -543559823991281914
+      SHARDLING_01 Hit Back Spritesheet_2: 5650999859606015065
+      SHARDLING_01 Hit Back Spritesheet_20: 8044811621917638217
+      SHARDLING_01 Hit Back Spritesheet_21: 6647930574339866126
+      SHARDLING_01 Hit Back Spritesheet_22: -1563341987457879551
+      SHARDLING_01 Hit Back Spritesheet_23: 2926566738227251149
+      SHARDLING_01 Hit Back Spritesheet_24: 6689582871784050764
+      SHARDLING_01 Hit Back Spritesheet_25: -5551472409712379076
+      SHARDLING_01 Hit Back Spritesheet_26: 5120517356209688832
+      SHARDLING_01 Hit Back Spritesheet_27: -9124645396857094516
+      SHARDLING_01 Hit Back Spritesheet_28: -1386872389925950915
+      SHARDLING_01 Hit Back Spritesheet_29: 2277799927559612
+      SHARDLING_01 Hit Back Spritesheet_3: -294489979538795133
+      SHARDLING_01 Hit Back Spritesheet_30: -9139222007920883430
+      SHARDLING_01 Hit Back Spritesheet_31: -9111911214116212242
+      SHARDLING_01 Hit Back Spritesheet_32: 8920649726815112293
+      SHARDLING_01 Hit Back Spritesheet_33: -8177060021768468767
+      SHARDLING_01 Hit Back Spritesheet_34: -7568535687956110662
+      SHARDLING_01 Hit Back Spritesheet_35: -4390440805278821371
+      SHARDLING_01 Hit Back Spritesheet_36: 5061546368828058639
+      SHARDLING_01 Hit Back Spritesheet_37: -2403507493800315403
+      SHARDLING_01 Hit Back Spritesheet_38: -678295807361918291
+      SHARDLING_01 Hit Back Spritesheet_39: 5724682789380255511
+      SHARDLING_01 Hit Back Spritesheet_4: 989049333225833934
+      SHARDLING_01 Hit Back Spritesheet_5: -6065577639176822554
+      SHARDLING_01 Hit Back Spritesheet_6: 2862364188454742852
+      SHARDLING_01 Hit Back Spritesheet_7: -2918989090433880928
+      SHARDLING_01 Hit Back Spritesheet_8: 6395440068114884568
+      SHARDLING_01 Hit Back Spritesheet_9: 6488908632795470347
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

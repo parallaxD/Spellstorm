@@ -184,7 +184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::FanaticEnemy
   moveSpeed: 3
   smoothTime: 0.3
-  detectionRange: 5
+  detectionRange: 20
   maxSpeed: 1.5
   acceleration: 5
   deceleration: 5
@@ -192,15 +192,14 @@ MonoBehaviour:
   attackDamage: 10
   attackCooldown: 2
   attackDelay: 0.3
-  health: 100
+  health: 150
   animator: {fileID: 0}
   rb: {fileID: 0}
   stopDistance: 1.3
   resumeMoveDistance: 1.45
   animationVelocityThreshold: 0.05
   zoneData:
-    allowedZones:
-    - FireZone
+    allowedZones: []
     canLeaveZone: 1
   essenceReward: 10
   shardsReward: 10

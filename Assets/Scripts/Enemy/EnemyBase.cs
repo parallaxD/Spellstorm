@@ -240,7 +240,7 @@ public abstract class EnemyBase : MonoBehaviour, IDamagable, IEffectable
     {
         print("EnemySlowed");
         float originalSpeed = moveSpeed;
-        float originalMaxSpeed = maxSpeed; // Сохраняем исходное значение maxSpeed
+        float originalMaxSpeed = maxSpeed;
 
         moveSpeed *= slowFactor;
         maxSpeed *= slowFactor;

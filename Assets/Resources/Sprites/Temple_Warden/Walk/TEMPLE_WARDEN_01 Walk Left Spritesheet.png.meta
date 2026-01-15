@@ -1,0 +1,1029 @@
+fileFormatVersion: 2
+guid: 9b3013ba34aa5284e8f24259c67ede33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4699502748661047791
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_0
+  - first:
+      213: -147616846335225578
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_1
+  - first:
+      213: 7076990725355671192
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_2
+  - first:
+      213: -3871940129396580210
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_3
+  - first:
+      213: -395794649362158940
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_4
+  - first:
+      213: -677826779721034340
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_5
+  - first:
+      213: -7748071211277681353
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_6
+  - first:
+      213: -5711114915202654827
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_7
+  - first:
+      213: 2827989813858585789
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_8
+  - first:
+      213: 714858311895679335
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_9
+  - first:
+      213: 3160339038413196856
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_10
+  - first:
+      213: -7015922346323164170
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_11
+  - first:
+      213: -6227705141136959515
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_12
+  - first:
+      213: -4283382576449649941
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_13
+  - first:
+      213: 1583356018303149891
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_14
+  - first:
+      213: 718202759039318246
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_15
+  - first:
+      213: -3369099686004523967
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_16
+  - first:
+      213: -7520482503918555650
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_17
+  - first:
+      213: 2190105717179241375
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_18
+  - first:
+      213: 2324154390979735219
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_19
+  - first:
+      213: -6896963440926845675
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_20
+  - first:
+      213: 6147213668247671972
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_21
+  - first:
+      213: -3770724149844659288
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_22
+  - first:
+      213: 4872527601545048992
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_23
+  - first:
+      213: 5042426630941994771
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_24
+  - first:
+      213: -3712024323879972518
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_25
+  - first:
+      213: 7739844779847032806
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_26
+  - first:
+      213: -204694139995899071
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_27
+  - first:
+      213: -400838045365325037
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_28
+  - first:
+      213: -7115439123218923222
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_29
+  - first:
+      213: -4118935332433671659
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_30
+  - first:
+      213: -7669341559022536493
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_31
+  - first:
+      213: -1358680185153748890
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_32
+  - first:
+      213: 2777359328518512889
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_33
+  - first:
+      213: -912803251050720379
+    second: TEMPLE_WARDEN_01 Walk Left Spritesheet_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e161d262308ceb0800000000000000
+      internalID: -4699502748661047791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115357a24f83fdf0800000000000000
+      internalID: -147616846335225578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e0f87b195863260800000000000000
+      internalID: 7076990725355671192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80acbb77fa144ac0800000000000000
+      internalID: -3871940129396580210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaa4c80ddad18af0800000000000000
+      internalID: -395794649362158940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951b779220e796f0800000000000000
+      internalID: -677826779721034340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dfc5dc842597490800000000000000
+      internalID: -7748071211277681353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d19ef4e3b0eb0b0800000000000000
+      internalID: -5711114915202654827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc67b90c90f3720800000000000000
+      internalID: 2827989813858585789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7610741e8dfabe900800000000000000
+      internalID: 714858311895679335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e0b6a7c97cbdb20800000000000000
+      internalID: 3160339038413196856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3cea74ccf62ae90800000000000000
+      internalID: -7015922346323164170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e758a08b2fb299a0800000000000000
+      internalID: -6227705141136959515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be20f95bd3e5e84c0800000000000000
+      internalID: -4283382576449649941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347afefd8e539f510800000000000000
+      internalID: 1583356018303149891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e87e39aa9197f900800000000000000
+      internalID: 718202759039318246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cf1d29fad8e31d0800000000000000
+      internalID: -3369099686004523967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde4660201e1a790800000000000000
+      internalID: -7520482503918555650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93550dcb81d46e10800000000000000
+      internalID: 2190105717179241375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bee28dca1e014020800000000000000
+      internalID: 2324154390979735219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51513baca401940a0800000000000000
+      internalID: -6896963440926845675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4145e034a4f4550800000000000000
+      internalID: 6147213668247671972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3b5862d52bbabc0800000000000000
+      internalID: -3770724149844659288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3f060b902be9340800000000000000
+      internalID: 4872527601545048992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f644f0e4c4af540800000000000000
+      internalID: 5042426630941994771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5156896b8d3c7cc0800000000000000
+      internalID: -3712024323879972518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef917fd1d3796b60800000000000000
+      internalID: 7739844779847032806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb0f1a3c7c82df0800000000000000
+      internalID: -204694139995899071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313b985ebefef6af0800000000000000
+      internalID: -400838045365325037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a218e9f01d1e04d90800000000000000
+      internalID: -7115439123218923222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a4c71632a96d6c0800000000000000
+      internalID: -4118935332433671659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d832596c76019590800000000000000
+      internalID: -7669341559022536493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6608c88f19ff42de0800000000000000
+      internalID: -1358680185153748890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0a6fd18992b8620800000000000000
+      internalID: 2777359328518512889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Walk Left Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583dc4787421553f0800000000000000
+      internalID: -912803251050720379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 270bab815b616dd43b178fdd372a5dfc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_0: -4699502748661047791
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_1: -147616846335225578
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_10: 3160339038413196856
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_11: -7015922346323164170
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_12: -6227705141136959515
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_13: -4283382576449649941
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_14: 1583356018303149891
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_15: 718202759039318246
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_16: -3369099686004523967
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_17: -7520482503918555650
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_18: 2190105717179241375
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_19: 2324154390979735219
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_2: 7076990725355671192
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_20: -6896963440926845675
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_21: 6147213668247671972
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_22: -3770724149844659288
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_23: 4872527601545048992
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_24: 5042426630941994771
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_25: -3712024323879972518
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_26: 7739844779847032806
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_27: -204694139995899071
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_28: -400838045365325037
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_29: -7115439123218923222
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_3: -3871940129396580210
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_30: -4118935332433671659
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_31: -7669341559022536493
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_32: -1358680185153748890
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_33: 2777359328518512889
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_34: -912803251050720379
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_4: -395794649362158940
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_5: -677826779721034340
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_6: -7748071211277681353
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_7: -5711114915202654827
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_8: 2827989813858585789
+      TEMPLE_WARDEN_01 Walk Left Spritesheet_9: 714858311895679335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

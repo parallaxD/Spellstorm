@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 29310ac2b8877444aa18de998a151167
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -786517204306557971
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_0
+  - first:
+      213: 7621062039668179647
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_1
+  - first:
+      213: 1751665437196802151
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_2
+  - first:
+      213: -4829905108665639236
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_3
+  - first:
+      213: -8689160893747938893
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_4
+  - first:
+      213: -8417705149411374959
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_5
+  - first:
+      213: 2657845405289745384
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_6
+  - first:
+      213: -2901244936747864720
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_7
+  - first:
+      213: -8669302019624582896
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_8
+  - first:
+      213: -2732408584328435731
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_9
+  - first:
+      213: 439324312771452403
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_10
+  - first:
+      213: -3201465947488776017
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_11
+  - first:
+      213: 6854238116771455783
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_12
+  - first:
+      213: -746536516812007955
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_13
+  - first:
+      213: -9032860165117949899
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_14
+  - first:
+      213: 3389444039247093421
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_15
+  - first:
+      213: 5366799879053536134
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_16
+  - first:
+      213: -4613715216308807705
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_17
+  - first:
+      213: -6717786482038354134
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_18
+  - first:
+      213: 4862262278625630463
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_19
+  - first:
+      213: 4971811452930667181
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_20
+  - first:
+      213: 2647353797052026379
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_21
+  - first:
+      213: -3927504206796054866
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_22
+  - first:
+      213: -74690985960179689
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_23
+  - first:
+      213: 6103322422936878810
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_24
+  - first:
+      213: -793102484025906967
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_25
+  - first:
+      213: -1333461510873723622
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_26
+  - first:
+      213: 5048820376407125156
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_27
+  - first:
+      213: -7163369546655931963
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_28
+  - first:
+      213: 4326780228910956061
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_29
+  - first:
+      213: -1437333588258165193
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_30
+  - first:
+      213: -2114493051784105010
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_31
+  - first:
+      213: 8551984332545214
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_32
+  - first:
+      213: -5837765241096155484
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_33
+  - first:
+      213: 3210787098066250059
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_34
+  - first:
+      213: 4600691655512988242
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_35
+  - first:
+      213: 1792125669756329050
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_36
+  - first:
+      213: 5324034456172164494
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_37
+  - first:
+      213: -1177255116514262204
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_38
+  - first:
+      213: -5131263849571622244
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_39
+  - first:
+      213: -2516082723569509436
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_40
+  - first:
+      213: 884365837740566937
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_41
+  - first:
+      213: -5389539944646945300
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_42
+  - first:
+      213: 2381692239998265580
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_43
+  - first:
+      213: 1371349250160463085
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_44
+  - first:
+      213: 6232358417558009224
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_45
+  - first:
+      213: -8117233340084013449
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_46
+  - first:
+      213: -2560964919012500416
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_47
+  - first:
+      213: 2135843469748657769
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_48
+  - first:
+      213: -3401964969469940906
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_49
+  - first:
+      213: -9153746907067854446
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_50
+  - first:
+      213: -2617089067862501561
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_51
+  - first:
+      213: 6833076033255637205
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_52
+  - first:
+      213: -6674183940301493250
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_53
+  - first:
+      213: -1879434524945198470
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_54
+  - first:
+      213: 2245392517217991724
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_55
+  - first:
+      213: 3809942443967245583
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_56
+  - first:
+      213: -2933712125209718469
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_57
+  - first:
+      213: 5216795362145052035
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_58
+  - first:
+      213: -577984879847459166
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_59
+  - first:
+      213: 6543747652455841786
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_60
+  - first:
+      213: -4420375886055936886
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_61
+  - first:
+      213: 8524866061093244341
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_62
+  - first:
+      213: 5462440433575699109
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_63
+  - first:
+      213: 4166687719528285916
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_64
+  - first:
+      213: -7627682311888356347
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_65
+  - first:
+      213: -3219897784809135436
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_66
+  - first:
+      213: -1942263058083223822
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_67
+  - first:
+      213: -588279839411218642
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_68
+  - first:
+      213: -7682512285759189588
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_69
+  - first:
+      213: -3547353389806106911
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_70
+  - first:
+      213: -7726058977970103149
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_71
+  - first:
+      213: 4141899017696677628
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_72
+  - first:
+      213: -6407947711514289177
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_73
+  - first:
+      213: 3299237898120552918
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_74
+  - first:
+      213: -7012778785987710
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_75
+  - first:
+      213: -5059426927716743533
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_76
+  - first:
+      213: 3610232917385507380
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_77
+  - first:
+      213: -3465648329617936075
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_78
+  - first:
+      213: -1254686001073757883
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_79
+  - first:
+      213: 2854855616441851834
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_80
+  - first:
+      213: -5341150185661730280
+    second: TEMPLE_WARDEN_01 Hit Front Spritesheet_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3039315cab515f0800000000000000
+      internalID: -786517204306557971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2c2a50c8373c960800000000000000
+      internalID: 7621062039668179647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d1753f6a2f4810800000000000000
+      internalID: 1751665437196802151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed323c4eab8fcb0800000000000000
+      internalID: -4829905108665639236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b930fb4436e96780800000000000000
+      internalID: -8689160893747938893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198cb59f3cd4e2b80800000000000000
+      internalID: -8417705149411374959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0332705092e420800000000000000
+      internalID: 2657845405289745384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d2ebaf915bcb7d0800000000000000
+      internalID: -2901244936747864720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01143bdbeb370b780800000000000000
+      internalID: -8669302019624582896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de720e59ed8841ad0800000000000000
+      internalID: -2732408584328435731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd5fe3822bc81600800000000000000
+      internalID: 439324312771452403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa01c6fceab1293d0800000000000000
+      internalID: -3201465947488776017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723ea1c70452f1f50800000000000000
+      internalID: 6854238116771455783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de510974ef4c3a5f0800000000000000
+      internalID: -746536516812007955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5384e58b985d4a280800000000000000
+      internalID: -9032860165117949899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae53694569b90f20800000000000000
+      internalID: 3389444039247093421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b68933e04ba7a40800000000000000
+      internalID: 5366799879053536134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7591d847ac8ffb0800000000000000
+      internalID: -4613715216308807705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2fce2579c0a5c2a0800000000000000
+      internalID: -6717786482038354134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff81342f7c93a7340800000000000000
+      internalID: 4862262278625630463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2b626bc2c6ff440800000000000000
+      internalID: 4971811452930667181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e411c804a4db420800000000000000
+      internalID: 2647353797052026379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae91149bb3be79c0800000000000000
+      internalID: -3927504206796054866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7187be9a1f4a6fef0800000000000000
+      internalID: -74690985960179689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade34d8286b53b450800000000000000
+      internalID: 6103322422936878810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e7292e755ef4f0800000000000000
+      internalID: -793102484025906967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d47b222d79e7de0800000000000000
+      internalID: -1333461510873723622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac208ee163011640800000000000000
+      internalID: 5048820376407125156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1e8b8b959969c90800000000000000
+      internalID: -7163369546655931963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ebb65a1bfcb0c30800000000000000
+      internalID: 4326780228910956061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e622087b09d0ce0800000000000000
+      internalID: -1437333588258165193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec37060c5cfc7a2e0800000000000000
+      internalID: -2114493051784105010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc14440cf16e1000800000000000000
+      internalID: 8551984332545214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4224
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae475a61771cfea0800000000000000
+      internalID: -5837765241096155484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4965adaad10f8c20800000000000000
+      internalID: 3210787098066250059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a94f76fa0f8df30800000000000000
+      internalID: 4600691655512988242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5fa23dc8eed810800000000000000
+      internalID: 1792125669756329050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4736
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85f4144125c2e940800000000000000
+      internalID: 5324034456172164494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443082a75bc89afe0800000000000000
+      internalID: -1177255116514262204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4992
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92ea7527b61ac8b0800000000000000
+      internalID: -5131263849571622244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb542cf714151dd0800000000000000
+      internalID: -2516082723569509436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999640a3b06e54c00800000000000000
+      internalID: 884365837740566937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55a80b9f18435b0800000000000000
+      internalID: -5389539944646945300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8a66939787d0120800000000000000
+      internalID: 2381692239998265580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec00d690e2080310800000000000000
+      internalID: 1371349250160463085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885f577d5f8cd7650800000000000000
+      internalID: 6232358417558009224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776b55db84bc95f80800000000000000
+      internalID: -8117233340084013449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6016
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd50889ff957cd0800000000000000
+      internalID: -2560964919012500416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ed43ec15a04ad10800000000000000
+      internalID: 2135843469748657769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6272
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65beb6872eac9c0d0800000000000000
+      internalID: -3401964969469940906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291d368cfab57f080800000000000000
+      internalID: -9153746907067854446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 6528
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7475f74db5b3eabd0800000000000000
+      internalID: -2617089067862501561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d00075f276f3de50800000000000000
+      internalID: 6833076033255637205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb66b051198063a0800000000000000
+      internalID: -6674183940301493250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72590ad148eae5e0800000000000000
+      internalID: -1879434524945198470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 7040
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c391a099c392f10800000000000000
+      internalID: 2245392517217991724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0de9538772afd430800000000000000
+      internalID: 3809942443967245583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 7296
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b315e979d5c5947d0800000000000000
+      internalID: -2933712125209718469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385af8afdb7c56840800000000000000
+      internalID: 5216795362145052035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7552
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6352760d59af7f0800000000000000
+      internalID: -577984879847459166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3d64d1df00da50800000000000000
+      internalID: 6543747652455841786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 7808
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ceee14d8ba7a2c0800000000000000
+      internalID: -4420375886055936886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd0f3114886e4670800000000000000
+      internalID: 8524866061093244341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 8064
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2a20212ac7ecb40800000000000000
+      internalID: 5462440433575699109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd64774a76c03d930800000000000000
+      internalID: 4166687719528285916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c3d5cb957052690800000000000000
+      internalID: -7627682311888356347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b262634600a053d0800000000000000
+      internalID: -3219897784809135436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 8576
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6e59a0a02bb05e0800000000000000
+      internalID: -1942263058083223822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27de575a9206d7f0800000000000000
+      internalID: -588279839411218642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 8832
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadcfb0a7cb326590800000000000000
+      internalID: -7682512285759189588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 8960
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e644dbf2e445cec0800000000000000
+      internalID: -3547353389806106911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9088
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cdf504b4687c490800000000000000
+      internalID: -7726058977970103149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe895d363bfa7930800000000000000
+      internalID: 4141899017696677628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebd9e3d1856217a0800000000000000
+      internalID: -6407947711514289177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 9472
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d16bf2636f39cd20800000000000000
+      internalID: 3299237898120552918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283a2933ae517eff0800000000000000
+      internalID: -7012778785987710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396c566e30e49c9b0800000000000000
+      internalID: -5059426927716743533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 9856
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4327f25e5bf1a1230800000000000000
+      internalID: 3610232917385507380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 9984
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53172bcb43b87efc0800000000000000
+      internalID: -3465648329617936075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 10112
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e759cab5769ee0800000000000000
+      internalID: -1254686001073757883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf9b07be0c7e9720800000000000000
+      internalID: 2854855616441851834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TEMPLE_WARDEN_01 Hit Front Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 10368
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812fe9b643c60e5b0800000000000000
+      internalID: -5341150185661730280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff3e3b50299165d4f9decd87abcb5f38
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_0: -786517204306557971
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_1: 7621062039668179647
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_10: 439324312771452403
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_11: -3201465947488776017
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_12: 6854238116771455783
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_13: -746536516812007955
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_14: -9032860165117949899
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_15: 3389444039247093421
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_16: 5366799879053536134
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_17: -4613715216308807705
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_18: -6717786482038354134
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_19: 4862262278625630463
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_2: 1751665437196802151
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_20: 4971811452930667181
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_21: 2647353797052026379
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_22: -3927504206796054866
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_23: -74690985960179689
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_24: 6103322422936878810
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_25: -793102484025906967
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_26: -1333461510873723622
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_27: 5048820376407125156
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_28: -7163369546655931963
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_29: 4326780228910956061
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_3: -4829905108665639236
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_30: -1437333588258165193
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_31: -2114493051784105010
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_32: 8551984332545214
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_33: -5837765241096155484
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_34: 3210787098066250059
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_35: 4600691655512988242
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_36: 1792125669756329050
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_37: 5324034456172164494
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_38: -1177255116514262204
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_39: -5131263849571622244
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_4: -8689160893747938893
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_40: -2516082723569509436
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_41: 884365837740566937
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_42: -5389539944646945300
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_43: 2381692239998265580
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_44: 1371349250160463085
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_45: 6232358417558009224
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_46: -8117233340084013449
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_47: -2560964919012500416
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_48: 2135843469748657769
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_49: -3401964969469940906
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_5: -8417705149411374959
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_50: -9153746907067854446
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_51: -2617089067862501561
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_52: 6833076033255637205
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_53: -6674183940301493250
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_54: -1879434524945198470
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_55: 2245392517217991724
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_56: 3809942443967245583
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_57: -2933712125209718469
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_58: 5216795362145052035
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_59: -577984879847459166
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_6: 2657845405289745384
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_60: 6543747652455841786
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_61: -4420375886055936886
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_62: 8524866061093244341
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_63: 5462440433575699109
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_64: 4166687719528285916
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_65: -7627682311888356347
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_66: -3219897784809135436
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_67: -1942263058083223822
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_68: -588279839411218642
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_69: -7682512285759189588
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_7: -2901244936747864720
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_70: -3547353389806106911
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_71: -7726058977970103149
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_72: 4141899017696677628
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_73: -6407947711514289177
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_74: 3299237898120552918
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_75: -7012778785987710
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_76: -5059426927716743533
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_77: 3610232917385507380
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_78: -3465648329617936075
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_79: -1254686001073757883
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_8: -8669302019624582896
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_80: 2854855616441851834
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_81: -5341150185661730280
+      TEMPLE_WARDEN_01 Hit Front Spritesheet_9: -2732408584328435731
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

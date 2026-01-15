@@ -20,6 +20,14 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
         // _playerHealth.OnDeath += HandlePlayerDeath;
     }
 
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.H))
+        {
+            TakeDamage(110);
+        }
+    }
+
     public void ApplySlow(float slowFactor, float duration)
     {
         
@@ -27,13 +35,12 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     public void TakeDamage(int damage)
     {
+        _playerHealth.ReduceHealth(damage);
         if (!IsAlive)
         {
             Die();
             return;
         }
-
-        _playerHealth.ReduceHealth(damage);
 
         StartCoroutine(DamageVisualFeedback());
 
@@ -74,9 +81,14 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     private IEnumerator ShowResult()
     {
+        Debug.Log("YO!");
         yield return new WaitForSeconds(2f);
-
+        Debug.Log("YO!!!");
         _uiManager.ShowResultPanel();
         _generationManager.HubGeneration();
+        Debug.Log("YO!!!!");
+        _playerHealth.SetCurrentHealth(100);
+        Debug.Log(_playerHealth.CurrentHealth);
+        healthBar.UpdateBar(_playerHealth.HealthPercentage);
     }
 }
