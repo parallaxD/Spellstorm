@@ -27,7 +27,7 @@ MonoBehaviour:
     minCount: 1
     maxCount: 2
     spawnChance: 0.1
-  maxTotalEnemies: 5
+  maxTotalEnemies: 3
   spawnCheckRadius: 1.5
   spawnZoneSize: {x: 7, y: 7}
   spawnZonesCount: 1000

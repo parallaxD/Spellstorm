@@ -107,7 +107,7 @@ public abstract class Projectile : MonoBehaviour
         foreach (var collider in hitColliders)
         {
             var damagable = collider.GetComponent<IDamagable>();
-            if (damagable != null && damagable.IsAlive)
+            if (damagable != null && damagable.IsAlive && collider.transform.gameObject.tag != "Player")
                 damagable.TakeDamage(damage);
         }
     }
