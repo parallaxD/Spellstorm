@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f39797a081c20f64499a1ef86083db05, type: 3}
+  m_Name: AbyssOfReflections
+  m_EditorClassIdentifier: Assembly-CSharp::LevelData
+  locationType: 4
+  locationName: AbyssOfReflections
+  floorTileset: {fileID: 11400000, guid: 5824becea8d2d3b49a7770f1be72e480, type: 2}
+  backgroundTileset: {fileID: 11400000, guid: 006d66b2ad9ffb1419866c5255433172, type: 2}
+  decorationTileset: {fileID: 11400000, guid: 90a3ca671d6576c4fb7209cbd476869a, type: 2}
+  decorationSet: {fileID: 11400000, guid: b66f71c07762bf54692df0f2260a20d5, type: 2}
+  enemySpawnData: []
+  maxTotalEnemies: 15
+  spawnCheckRadius: 1.5
+  spawnZoneSize: {x: 5, y: 5}
+  spawnZonesCount: 3

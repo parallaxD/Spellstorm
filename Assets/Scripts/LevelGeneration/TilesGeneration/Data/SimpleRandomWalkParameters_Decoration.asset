@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bafe62c47c3b9f4f88fa2f4479d9d31, type: 3}
   m_Name: SimpleRandomWalkParameters_Decoration
   m_EditorClassIdentifier: Assembly-CSharp::SimpleRandomWalkData
-  iterations: 15
+  iterations: 7
   walkLength: 5
   roomCount: 1
   startRandomlyEachIteration: 0

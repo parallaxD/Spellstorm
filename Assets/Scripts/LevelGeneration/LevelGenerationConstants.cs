@@ -6,7 +6,6 @@
 
     public static float decorationSizeOffset = 3f;
 
-    
 }
 
 public enum LocationType
@@ -14,5 +13,6 @@ public enum LocationType
     Hub = 0,
     BurningWastelands = 1,
     FloodedTemples = 2,
-    CrystalSteppes = 3
+    CrystalSteppes = 3,
+    AbyssOfReflections = 4
 }

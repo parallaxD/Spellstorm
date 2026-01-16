@@ -15,6 +15,7 @@ public class GenerationManager : MonoBehaviour
     [SerializeField] private LevelData BurningWastelandsData;
     [SerializeField] private LevelData FloodedTemplesData;
     [SerializeField] private LevelData CrystalSteppesData;
+    [SerializeField] private LevelData AbyssOfReflections;
 
     [SerializeField] private PlayerMovement player;
     [SerializeField] private Portal portal;
@@ -41,7 +42,8 @@ public class GenerationManager : MonoBehaviour
         {
             BurningWastelandsData,
             FloodedTemplesData,
-            CrystalSteppesData
+            CrystalSteppesData,
+            AbyssOfReflections
         };
     }
 
