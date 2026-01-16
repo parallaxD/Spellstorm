@@ -49,7 +49,13 @@ public class Player : MonoBehaviour, IDamagable, IEffectable
 
     public void TakeDamage(int damage, Vector2 damageDirection)
     {
+
         _playerHealth.ReduceHealth(damage);
+        if (!IsAlive)
+        {
+            Die();
+            return;
+        }
 
         StartCoroutine(DamageVisualFeedback());
 
