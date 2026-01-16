@@ -203,7 +203,7 @@ public class FireFireWater : Spell
 
     protected override void LaunchProjectile(Vector3 direction)
     {
-        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt);
+        var Projectile = SpellProjectile.Create(Constants.PlayerTransform.position, Data.Receipt, fireDOTDamage: 20, fireDOTTicks: 3, fireDOTInterval: 1, aoeRadiusAmount: 0.5f, applySlow: true, slowFactor: 0.5f, slowDuration: 3);
         Projectile.Launch(direction);
     }
 }
